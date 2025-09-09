@@ -1,0 +1,35 @@
+microblock.missing=§7Die folgenden Mikroblöcke sind auf diesem Client nicht installiert: %s
+multipart.missing=§7Die folgenden Multiparts sind auf diesem Client nicht installiert: %s
+
+item.microblock:sawStone.name=§7Steinsäge
+item.microblock:sawIron.name=§7Eisensäge
+item.microblock:sawDiamond.name=§7Diamantsäge
+item.microblock:stoneRod.name=§7Steinstab
+
+mcr_face.1.name=§7%s-Cover
+mcr_face.1.subset=§7Cover
+mcr_face.2.name=§7%s-Platte
+mcr_face.2.subset=§7Platte
+mcr_face.4.name=§7%s-Scheibe
+mcr_face.4.subset=§7Scheibe
+
+mcr_hllw.1.name=§7Hohles %s-Cover
+mcr_hllw.1.subset=§7Hohles Cover
+mcr_hllw.2.name=§7Hohles %s-Platte
+mcr_hllw.2.subset=§7Hohle Platte
+mcr_hllw.4.name=§7Hohle %s-Scheibe
+mcr_hllw.4.subset=§7Hohle Scheibe
+
+mcr_edge.1.name=§7%s-Streifen
+mcr_edge.1.subset=§7Streifen
+mcr_edge.2.name=§7%s-Pfosten
+mcr_edge.2.subset=§7Pfosten
+mcr_edge.4.name=§7%s-Pfeiler
+mcr_edge.4.subset=§7Pfeiler
+
+mcr_cnr.1.name=§7%s-Stückchen
+mcr_cnr.1.subset=§7Stückchen
+mcr_cnr.2.name=§7%s-Ecke
+mcr_cnr.2.subset=§7Ecke
+mcr_cnr.4.name=§7%s-Kerbe
+mcr_cnr.4.subset=§7Kerbe

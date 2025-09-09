@@ -1,0 +1,123 @@
+## Coisas Gerais ##
+
+wp.hud.msg.yes=§7Sim
+wp.hud.msg.no=§7Não
+
+wailaplugins.config.title=§7Configuração do WAILAPlugins
+wailaplugins.config.section.blood_magic=§7Definições do Blood Magic
+wailaplugins.config.section.plugins=§7Definições Globais do Plugin
+
+## Blood Magic ##
+
+wp.hud.msg.currentLP=§7´LP´ atual:
+wp.hud.msg.capacity=§7Capacidade:
+wp.hud.msg.tier=§7Camada:
+wp.hud.msg.progress=§7Progresso:
+
+wp.hud.msg.owner=§7Dono:
+
+wp.config.AWWayofTime.altar=§7Mostrar Altar
+wp.config.AWWayofTime.chemistrySet=§7Mostrar Conjunto de Química
+wp.config.AWWayofTime.masterStone=§7Mostrar ´Master Stone´
+wp.config.AWWayofTime.teleposer=§7Mostrar ´Teleposer´
+
+
+## Flaxbeard's Steam Power ##
+
+wp.hud.msg.pressure=§7Pressão
+wp.hud.msg.open=§7Aberto
+wp.hud.msg.closed=§7Fechado
+
+wp.config.Steamcraft.crucible=§7Mostrar Cadinho
+wp.config.Steamcraft.gauge=§7Mostrar Medidor de Vapor
+wp.config.Steamcraft.tank=§7Mostrar Tanque
+wp.config.Steamcraft.valve=§7Mostrar Válvula
+
+
+## Forestry ##
+
+wp.hud.msg.notAnalyzed=§7Não Analizado
+wp.hud.msg.notOwner=§7O dono não é você
+wp.hud.msg.pollen=§7Nome do pólem: %s
+wp.hud.msg.pollinated=§7Polinizado com: %s
+
+wp.hud.msg.mainbee=§7Atual %s: %s
+wp.hud.msg.secondarybee=§7Criação %s: %s
+wp.hud.msg.breedProgress=§7Progresso da Criação: %s
+
+wp.hud.msg.queen=§7Rainha
+wp.hud.msg.princess=§7Princesa
+wp.hud.msg.drone=§7Zangão
+
+wp.hud.msg.engineHeat=§7Calor: %s
+wp.config.Forestry.apiary=§7Mostrar Apiário
+wp.config.Forestry.heat=§7Mostrar Motor Térmico
+wp.config.Forestry.leaves=§7Mostrar Folhas
+wp.config.Forestry.power=§7Mostrar Energia
+wp.config.Forestry.sapling=§7Mostrar Muda de Árvore
+
+
+## Magical Crops ##
+
+wp.config.magicalcrops.showHover=§7Mostrar Item Pairando
+
+
+## Mekanism ##
+
+wp.config.Mekanism.salination=§7Mostrar Mult Salinização
+wp.config.Mekanism.portableTank=§7Mostrar Fluido do Tanque Portátil
+wp.config.Mekanism.gas=§7Mostrar Gás
+wp.config.Mekanism.factoryType=§7Mostrar o Tipo de Fábrica
+wp.config.Mekanism.energy=§7Mostrar Energia
+
+
+## Railcraft ##
+
+wp.hud.msg.formed=§7Formado: %s
+
+wp.hud.msg.generating=§7Gerando: %d RF/t
+wp.hud.msg.engineTemp=§7Temperatura: %d / %d °C
+
+wp.hud.msg.charge=§7Carga: %s
+wp.hud.msg.needMeter=§7Manter Medidor de Carga
+
+wp.config.Railcraft.charge=§7Mostrar Carga
+wp.config.Railcraft.energy=§7Mostrar Energia RF
+wp.config.Railcraft.engines=§7Mostrar Informações do Motor
+wp.config.Railcraft.heat=§7Mostrar Informações do Calor
+wp.config.Railcraft.locomotives=§7Mostrar Informação das Locomotivas
+wp.config.Railcraft.multiblocks=§7Mostrar Formação Multiblocos
+wp.config.Railcraft.tanks=§7Mostrar Informações da Máquina de Fluidos
+
+
+## RedLogic ##
+
+wp.config.RedLogic.overlay=§7Mostrar Sobreposiçao da Porta Lógica
+wp.config.RedLogic.data=§7Mostrar Dados da Porta Lógica
+wp.config.RedLogic.strength=§7Mostrar a Força do Fio
+
+# 'Invertível'
+wp.hud.msg.flipped=§7Invertido: %s
+
+# Repetidor
+wp.hud.msg.delay=§7Atraso: %d
+
+# Porta Lógica Temporizada
+wp.hud.msg.interval=§7Intervalo: %s
+
+# Tempo
+wp.hud.msg.currentTime=§7Tempo: %s
+
+# Contador
+wp.hud.msg.count=§7Contagem: %d
+wp.hud.msg.countMax=§7Contagem Máx.: %d
+wp.hud.msg.incrAmnt=§7Incremento: %d
+wp.hud.msg.decrAmnt=§7Decremento: %d
+
+# Comparador
+wp.hud.msg.mode=§7Modo: %s
+wp.hud.msg.subtract=§7Subtrair
+wp.hud.msg.compare=§7Comparar
+
+# Fio de Liga Vermelha
+wp.hud.msg.strength=§7Força: %s

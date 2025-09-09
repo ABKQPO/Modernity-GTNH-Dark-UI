@@ -1,0 +1,153 @@
+﻿# Galacticraft Asteroids Language File =§7RUSSIA RUSSIAN
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7Ракета 3-го уровня
+item.itemAstroMiner.name=§7Астрономический шахтёр
+item.heavyNoseCone.name=§7Прочный головной обтекатель
+item.compressedTitanium.name=§7Сжатый титан
+item.ingotTitanium.name=§7Титановый слиток
+item.shardTitanium.name=§7Титановый осколок
+item.shardIron.name=§7Железный осколок
+item.rocketFinsT2.name=§7Прочный ракетный стабилизатор
+item.engineT2.name=§7Прочный ракетный двигатель
+item.reinforcedPlateT3.name=§7Сверхпрочное покрытие
+item.grapple.name=§7Крюк
+item.atmosphericValve.name=§7Атмосферный клапан
+item.thermalCloth.name=§7Теплоустойчивая ткань
+item.beamCore.name=§7Лучевое ядро
+item.orionDrive.name=§7Привод Ориона
+item.tier3.desc=§73-ий уровень
+
+# TOOLS
+item.titanium_pickaxe.name=§7Титановая кирка
+item.titanium_axe.name=§7Титановый топор
+item.titanium_hoe.name=§7Титановая мотыга
+item.titanium_shovel.name=§7Титановая лопата
+item.titanium_sword.name=§7Титановый меч
+
+# ARMOR
+item.thermalHelm.name=§7Теплоустойчивый шлем
+item.thermalChestplate.name=§7Теплоустойчивая кираса
+item.thermalLeggings.name=§7Теплоустойчивые поножи
+item.thermalBoots.name=§7Теплоустойчивые ботинки
+item.titanium_helmet.name=§7Титановый шлем
+item.titanium_chestplate.name=§7Титановая кираса
+item.titanium_leggings.name=§7Титановые поножи
+item.titanium_boots.name=§7Титановые ботинки
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7Канистра для метана
+item.methaneCanister.name=§7Канистра метана
+item.canister.gas.name=§7Газ
+item.canister.LOX.partial.name=§7Канистра жидкого кислорода
+item.canister.LOX.full.name=§7Заполненная канистра жидкого кислорода
+item.canister.LOX.name=§7ЖК
+item.canister.liquidNitrogen.partial.name=§7Канистра жидкого азота
+item.canister.liquidNitrogen.full.name=§7Заполненная канистра жидкого азота
+item.canister.liquidNitrogen.name=§7Жидкость
+item.canister.liquidArgon.partial.name=§7Канистра жидкого аргона
+item.canister.liquidArgon.full.name=§7Заполненная канистра жидкого аргона
+item.canister.liquidArgon.name=§7Жидкость
+item.emptyGasCanister.name=§7Пустая канистра для газа
+
+# FLUIDS AND GASES
+fluid.methane=§7Метан
+fluid.oxygen=§7Кислород
+fluid.nitrogen=§7Азот
+fluid.hydrogen=§7Водород
+fluid.carbondioxide=§7Углекислый газ
+fluid.helium=§7Гелий
+fluid.argon=§7Аргон
+fluid.atmosphericgases=§7Атмосферные газы
+fluid.liquidmethane=§7Жидкий метан
+fluid.liquidoxygen=§7Жидкий кислород
+fluid.liquidnitrogen=§7Жидкий азот
+fluid.liquidargon=§7Жидкий аргон
+fluid.fuel=§7Топливо
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7Астероидный камень
+tile.asteroidsBlock.asteroid1.name=§7Астероидный камень
+tile.asteroidsBlock.asteroid2.name=§7Астероидный камень
+tile.asteroidsBlock.oreIron.name=§7Железная руда
+tile.asteroidsBlock.oreIlmenite.name=§7Ильменитовая руда
+tile.asteroidsBlock.oreAluminum.name=§7Алюминиевая руда
+tile.beamReflector.name=§7Лучевой отражатель энергии
+tile.beamReceiver.name=§7Лучевой приёмник энергии
+tile.telepadShort.name=§7Короткодистанционный телепорт
+tile.walkway.name=§7Дорожка
+tile.walkwayWire.name=§7Дорожка
+tile.walkwayOxygenPipe.name=§7Дорожка
+tile.treasureT3.name=§7Сундук с сокровищами 3-го уровня
+tile.denseIce.name=§7Плотный лёд
+tile.minerBase.name=§7Основание астрономического шахтёра
+
+# GUI
+planet.asteroids=§7Астероиды
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7Это уникальный адрес$телепорта
+gui.telepad.desc.1=§7Адрес другого телепорта.$Сущности будут отправляться туда.
+gui.message.address.name=§7Адрес
+gui.message.destAddress.name=§7Целевой адрес
+gui.message.invalidAddress.name=§7Неверный уникальный адрес
+gui.message.invalidTargetAddress.name=§7Неверный целевой адрес
+gui.message.receivingActive.name=§7Приём начат
+gui.message.telepadTooFar.name=§7Цель слишком далеко! (Макс.: %d)
+gui.message.telepadWrongDim.name=§7Цель в другом измерении!
+gui.message.telepadNotFound.name=§7Телепорт не найден!
+gui.message.sendingActive.name=§7Отправка начата
+gui.message.range.name=§7Дальность: %dm
+gui.message.notEnoughEnergy.name=§7Недостаточно энергии!
+gui.message.targetNoEnergy.name=§7У цели не хватает энергии!
+gui.message.grapple.fail=§7Мне нужно немного ниток, если я хочу кинуть этот крюк!
+gui.message.astroMiner.fail=§7У этой базы уже есть астрошахтёр!
+gui.message.astroMiner1.fail=§7Область стыковки заблокирована:
+gui.message.astroMiner1A.fail=§7Путь астрошахтёра преграждён:
+gui.message.astroMiner2.fail=§7Достигнут лимит астрошахтёров!
+gui.message.astroMiner3.fail=§7Основание астрошахтёра было демонтировано!
+gui.message.astroMiner4.fail=§7У астрошахтёра кончилась энергия и он не может вернуться на базу!
+gui.message.astroMiner5.fail=§7Путь астрошахтёра до базы, кажется, преграждён!
+gui.message.astroMiner6.fail=§7Астрошахтёр закончил добычу и остановился!
+gui.message.astroMiner7.fail=§7Астрошахтёру нечего добывать на космической станции!
+gui.message.astroMiner8.fail=§7Второй астрошахтёр был обнаружен на одной и той же базе, первый остановится.
+gui.button.recall.name=§7Отозвать
+gui.miner.outOfRange=§7Вне зоны действия
+gui.miner.offline=§7Вне сети
+gui.miner.stuck=§7Застрял на:
+gui.miner.docked=§7Состыкован с
+gui.miner.travelling=§7Перемещение
+gui.miner.mining=§7Добыча
+gui.miner.returning=§7Возвращение
+gui.miner.docking=§7Состыковка
+gui.miner.mined=§7Добыто
+
+tile.treasureT3.description=§7Сундуки с сокровищами 3-го уровня сейчас бесполезны.
+tile.walkway.description=§7Дорожки используются в декоративных целях, для соединения блоков, чтобы сохранить тему космоса.
+tile.walkwayAluminumWire.description=§7Дорожки для алюминиевых проводов используются для прокладывания проводов под полностью твёрдой поверхностью.
+tile.walkwayOxygenPipe.description=§7Дорожки для кислородных труб используются для прокладывания труб под полностью твёрдой поверхностью.
+tile.beamReflector.description=§7Лучевые отражатели используются для перенаправления энергетических лучей от источника к месту назначения. ПКМ по отражателю, чтобы менять цели.
+tile.beamReceiver.description=§7Лучевые приёмники присоединяются к входу и выходу энергии механизма, чтобы передавать энергию, используя лучи.
+tile.telepadShort.description=§7Короткодистанционные телепорты используются для перемещения игроков и других живых существ на короткие дистанции, (250 блоков) если они присоединены к другим телепортам.
+tile.minerBase.description=§7Основание астрономического шахтёра - это точка стыковки для астрономического шахтёра. Он большой... попробуйте сделать куб 2 x 2 x 2 из блоков основания.
+
+# SCHEMATICS
+schematic.astroMiner.name=§7Астрономический шахтёр
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=§7Малый астероид
+entity.GalacticraftMars.GrappleHookGC.name=§7Абордажный крюк
+entity.GalacticraftMars.Tier3RocketGC.name=§7Ракета 3-го уровня
+entity.GalacticraftMars.EntryPodAsteroids.name=§7Посадочный модуль
+entity.GalacticraftMars.AstroMiner.name=§7Астрономический шахтёр
+
+# CONTAINERS
+container.shortRangeTelepad.name=§7Короткодистанционный телепорт
+container.entryPod.name=§7Посадочный модуль
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=§7ID измерения: Астероиды
+gc.configgui.idSchematicRocketT3=§7ID схемы: Ракета 3-го уровня
+gc.configgui.disableGalacticraftHelium=§7Отключение регистрации гелия
+gc.configgui.astroMinersMax=§7Макс. кол-во астрошахтёров на игрока

@@ -1,0 +1,9 @@
+tile.CompressedChest.name=§7Baú Comprimido
+tile.InfinityChest.name=§7Baú do Infinito
+tile.ExtremeAutoCrafter.name=§7Mesa de Trabalho do Dire Automática
+
+container.CompressedChest=§7Baú Comprimido
+container.InfinityChest=§7Baú do Infinito
+container.ExtremeAutoCrafter=§7Mesa de Trabalho do Dire Automática
+
+tooltip.fillingRange=§7%1$s de %2$s

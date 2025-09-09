@@ -1,0 +1,8 @@
+commands.realname.usage=§7/realname <ник>
+commands.realname.is=§7Настоящее имя этого человека %s
+commands.realname.isNot=§7У этого человека нет настоящего имени!
+commands.me.usage=§7/me <...>
+commands.nick.usage=§7/nick <ник> ('-', чтобы удалить ник)
+commands.nick.usage.op=§7/nick [цель] <ник> ('-', чтобы удалить ник)
+commands.nick.done=§7Ник изменён на %s
+item.asielib.unknown.name=§7Неизвестная часть

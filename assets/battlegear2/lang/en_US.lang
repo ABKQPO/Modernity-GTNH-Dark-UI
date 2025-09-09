@@ -1,0 +1,171 @@
+tab.battle.title=§7M&B Battlegear 2
+
+config.battlegear.title=§7Mine&Blade Battlegear 2 Configuration
+config.battlegear.category=§7Disabled Custom Item Renderers
+config.battlegear.warn=§7A restart is needed for changes to take effect
+use.gui.buttons=§7Enable buttons for inventory
+use.gui.keys=§7Enable keys for inventory
+render.always.slots=§7Render always the slots
+render.quiver.skeleton=§7Render quiver on skeletons
+render.arrow.bow=§7Render selected arrow on bow
+render.sheathed=§7Default sheathed rendering on player's : %s
+render.hud.forced=§7Force hud rendering
+gui.open.fake=§7Open Screen Customizer
+gui.fake.help1=§7Move screen components by click and drag
+gui.fake.help2=§7Quiver Slots
+gui.fake.help3=§7Shield Stamina Bar
+gui.fake.help4=§7Offhand Slots
+gui.fake.help5=§7Mainhand Slots
+flag.design.save=§7Save
+flag.design.load=§7Load
+flag.design.load.sections=§7Load Section
+
+key.categories.battlegear=§7Battlegear
+key.battleInv=§7Battle Inventory
+key.drawWeapons=§7Draw Weapons
+key.openSigilEditor=§7Open Sigil Editor
+key.special=§7Special
+
+item.battlegear2:bow.greg.name=§7Greg's Bow
+item.battlegear2:bow.iron.name=§7Iron Bow
+item.battlegear2:bow.gold.name=§7Gold Bow
+item.battlegear2:bow.diamond.name=§7Diamond Bow
+
+item.battlegear2:heraldric.name=§7Heraldic Icon
+item.battlegear2:chain.name=§7Chain
+item.battlegear2:quiver.name=§7Quiver
+
+item.battlegear2:mb.arrow.name=§7Arrow
+item.battlegear2:mb.arrow.ender.name=§7Ender Arrow
+item.battlegear2:mb.arrow.holy.name=§7Holy Torch Arrow
+item.battlegear2:mb.arrow.ice.name=§7Ice Packed Arrow
+item.battlegear2:mb.arrow.explosive.name=§7Explosive Arrow
+item.battlegear2:mb.arrow.flame.name=§7Flaming Arrow
+item.battlegear2:mb.arrow.piercing.name=§7Piercing Arrow
+item.battlegear2:mb.arrow.poison.name=§7Poison Arrow
+item.battlegear2:mb.arrow.mystery.name=§7Mystery Arrow
+item.battlegear2:mb.arrow.leech.name=§7Leech Arrow
+
+item.battlegear2:dagger.wood.name=§7Wooden Dagger
+item.battlegear2:dagger.stone.name=§7Stone Dagger
+item.battlegear2:dagger.iron.name=§7Iron Dagger
+item.battlegear2:dagger.diamond.name=§7Diamond Dagger
+item.battlegear2:dagger.gold.name=§7Golden Dagger
+
+item.battlegear2:waraxe.wood.name=§7Wooden Waraxe
+item.battlegear2:waraxe.stone.name=§7Stone Waraxe
+item.battlegear2:waraxe.iron.name=§7Iron Waraxe
+item.battlegear2:waraxe.diamond.name=§7Diamond Waraxe
+item.battlegear2:waraxe.gold.name=§7Golden Waraxe
+
+item.battlegear2:mace.wood.name=§7Wooden Mace
+item.battlegear2:mace.stone.name=§7Stone Mace
+item.battlegear2:mace.iron.name=§7Iron Mace
+item.battlegear2:mace.diamond.name=§7Diamond Mace
+item.battlegear2:mace.gold.name=§7Golden Mace
+
+item.battlegear2:spear.wood.name=§7Wooden Spear
+item.battlegear2:spear.stone.name=§7Stone Spear
+item.battlegear2:spear.iron.name=§7Iron Spear
+item.battlegear2:spear.diamond.name=§7Diamond Spear
+item.battlegear2:spear.gold.name=§7Golden Spear
+
+item.battlegear2:shield.wood.name=§7Wooden Shield
+item.battlegear2:shield.hide.name=§7Hide Shield
+item.battlegear2:shield.iron.name=§7Iron Shield
+item.battlegear2:shield.diamond.name=§7Diamond Shield
+item.battlegear2:shield.gold.name=§7Golden Shield
+
+item.battlegear2:knights_armour.helmet.name=§7Knight's Helmet
+item.battlegear2:knights_armour.plate.name=§7Knight's Plate
+item.battlegear2:knights_armour.legs.name=§7Knight's Leggings
+item.battlegear2:knights_armour.boots.name=§7Knight's Boots
+
+item.battlegear2:cloak.name=§7Cloak
+
+enchantment.bash.weightless=§7Bash Weightless
+enchantment.bash.power=§7Bash Power
+enchantment.bash.damage=§7Bash Damage
+enchantment.shield.usage=§7Shield Efficiency
+enchantment.shield.recover=§7Shield Recovery
+enchantment.bow.loot=§7Bow Luck
+enchantment.bow.charge=§7Bow Drawnback
+
+tile.battlegear2:flagpole.name=§7Flag Pole
+tile.battlegear2:flagpole.oak.name=§7Oak Flag Pole
+tile.battlegear2:flagpole.spruce.name=§7Spruce Flag Pole
+tile.battlegear2:flagpole.birch.name=§7Birch Flag Pole
+tile.battlegear2:flagpole.jungle.name=§7Jungle Flag Pole
+tile.battlegear2:flagpole.iron.name=§7Iron Flag Pole
+tile.battlegear2:flagpole.acacia.name=§7Acacia Flag Pole
+tile.battlegear2:flagpole.big_oak.name=§7Dark Oak Flag Pole
+
+sigil.pattern.title=§7Pattern
+sigil.icon.title=§7Sigil
+sigil.icon_pos.title=§7Sigil Position
+sigil.colour1.title=§7Color 1
+sigil.colour2.title=§7Color 2
+sigil.icon_colour1.title=§7Sigil%nColor 1
+sigil.icon_colour2.title=§7Sigil%nColor 2
+sigil.banner.title=§7Banner
+sigil.helm.title=§7Helmet
+sigil.colour.select=§7Select
+
+gui.sigil.add=§7Add
+gui.sigil.remove=§7Remove
+gui.sigil.crest=§7Crest
+gui.sigil.pattern=§7Background
+
+
+attribute.name.weapon.penetrateArmor=§7Armor Penetration
+attribute.name.weapon.daze=§7Daze
+attribute.name.weapon.extendedReach=§7Reach
+attribute.name.weapon.attackSpeed=§7Attack Speed
+attribute.name.weapon.backstab=§7Backstab
+attribute.name.weapon.mountedBonus=§7Mounted Damage
+attribute.shield.tooltip=§7Equip in offhand to use
+attribute.shield.block.time=§7%s s Block
+attribute.shield.arrow.count=§7%s Arrows
+attribute.shield.arrow.state=§7Display Arrows: %s (Sneak + Right Click while holding to toggle)
+attribute.quiver.arrow.empty=§7Empty
+attribute.quiver.arrow.count=§7Arrows
+
+lore.base.arrow.explosive=§7Packs some explosive power
+lore.base.arrow.holy=§7It helps you face the darkness
+lore.base.arrow.ice=§7Effective against hot creatures like blazes and lava monsters
+lore.base.arrow.ender=§7This Ender Eye seems in pain...
+lore.base.arrow.flame=§7Flint and Steel ? No need
+lore.base.arrow.piercing=§7Uncommon cutting ability
+lore.base.arrow.poison=§7Expensive, heh ?
+lore.base.arrow.mystery=§7Everyone loves a cookie !
+lore.base.arrow.leech=§7Makes you feel weak and sad
+
+lore.advanced.arrow.holy=§7Put a torch where it falls
+lore.advanced.arrow.ice=§7Is effective against creatures immune to fire
+lore.advanced.arrow.explosive=§7Explosion strength depends on arrow critical hit
+lore.advanced.arrow.ender=§7Instant travel or block transportation
+lore.advanced.arrow.flame=§7Set mobs, players and blocks on fire
+lore.advanced.arrow.piercing=§7Shears sheeps with style
+lore.advanced.arrow.poison=§7Deals Wither effect
+lore.advanced.arrow.mystery=§7Sends a peace and love message
+lore.advanced.arrow.leech=§7Has a vampire touch
+
+tooltip.armour.points=§7Armor
+
+commands.weaponwield.usage=§7/weaponwield current <hand> [player] [usage] OR /weaponwield name <hand> <item name> [usage] OR /weaponwield sensitivity <add|remove|get> <ore|type|id|damage|nbt>
+commands.weaponwield.set=§7%1$s successfully set as wieldable weapon
+commands.weaponwield.sensitivity=§7The weapon comparator has following sensitivities: %1$s
+commands.weaponwield.sensitivity.added=§7Sensibility added to the weapon comparator: %1$s
+commands.weaponwield.sensitivity.removed=§7Sensibility removed from the weapon comparator: %1$s
+
+death.attack.battlegearExtra.backstab=§7%1$s was stabbed from behind by %2$s
+death.attack.battlegearExtra.backstab.item=§7%1$s was stabbed from behind by %2$s using %3$s
+death.attack.battlegearExtra.mounted=§7%1$s was pierced by %2$s and his mount
+death.attack.battlegearExtra.mounted.item=§7%1$s was pierced by %2$s and his mount using %3$s
+
+tool.pen=§7Pencil
+tool.rectangle=§7Rectangle
+tool.circle=§7Ellipse
+tool.flood=§7Flood
+tool.text=§7Text
+tool.dropper=§7Dropper

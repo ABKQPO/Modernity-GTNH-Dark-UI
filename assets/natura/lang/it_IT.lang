@@ -1,0 +1,385 @@
+itemGroup.natura.plants=§7Natura
+
+item.natura.spawnegg.name=§7Uovo di
+
+item.wheatBag.name=§7Sacchetto di semi di grano
+item.barleyBag.name=§7Sacchetto di semi d'orzo
+item.potatoBag.name=§7Sacchetto di patate
+item.carrotBag.name=§7Sacchetto di carote
+item.wartBag.name=§7Sacchetto di verruche degli Inferi
+item.cottonBag.name=§7Sacchetto di semi di cotone
+item.boneBag.name=§7Sacchetto di farina d'ossa
+
+item.barley.seed.name=§7Semi d'orzo
+item.barley.plant.name=§7Orzo
+item.barley.flour.name=§7Farina d'orzo
+item.wheat.flour.name=§7Farina di grano
+item.cotton.plant.name=§7Cotone
+item.fletching.ghostwood.name=§7Impennaggio di foglie fantasma
+item.leather.imp.name=§7Pelle di Imp
+item.string.flame.name=§7Cordicella ardente
+item.dye.blue.name=§7Colorante blu
+
+item.cotton.seed.name=§7Semi di cotone
+item.powder.sulfur.name=§7Zolfo
+item.waterdrop.name=§7Succo di cactus
+item.saguaro.fruit.name=§7Frutto di saguaro
+
+item.berry.rasp.name=§7Lamponi
+item.berry.blue.name=§7Mirtilli
+item.berry.black.name=§7More
+item.berry.geo.name=§7Malobacche
+item.berry.medley.name=§7Miscuglio di bacche
+item.berry.blight.name=§7Bacche degradate
+item.berry.dusk.name=§7Bacche del tramonto
+item.berry.sky.name=§7Bacche del cielo
+item.berry.sting.name=§7Bacche appuntite
+
+block.rasp.berryBush.name=§7Cespuglio di lamponi
+block.blue.berryBush.name=§7Cespuglio di mirtilli
+block.black.berryBush.name=§7Cespuglio di more
+block.geo.berryBush.name=§7Cespuglio di malobacche
+
+block.bush.berry.blight.name=§7Cespuglio di bacche degradate
+block.bush.berry.dusk.name=§7Cespuglio di bacche del tramonto
+block.bush.berry.sky.name=§7Cespuglio di bacche del cielo
+block.bush.berry.sting.name=§7Cespuglio di bacche appuntite
+
+block.log.maple.name=§7Legno d'acero
+block.log.silverbell.name=§7Legno di halesia
+block.log.purpleheart.name=§7Legno di amaranto
+block.log.tiger.name=§7Legno tigrato
+block.log.willow.name=§7Legno di salice
+
+block.log.darkwood.name=§7Legno oscuro
+block.log.fusewood.name=§7Legno esplosivo
+
+item.bowl.mushroom.name=§7Zuppa di funghi
+item.bowl.glowshroom.name=§7Zuppa di brillantfunghi
+
+block.leaves.darkwood.name=§7Foglie oscure
+block.leaves.darkwood.flowering.name=§7Foglie oscure
+block.leaves.darkwood.fruit.name=§7Foglie oscure
+block.leaves.fusewood.name=§7Foglie esplosive
+
+item.food.nether.potashapple.name=§7Mela potassa
+
+block.leaves.maple.name=§7Foglie d'acero
+block.leaves.silverbell.name=§7Foglie di halesia
+block.leaves.purpleheart.name=§7Foglie di amaranto
+block.leaves.tiger.name=§7Foglie tigrate
+block.leaves.willow.name=§7Foglie di salice
+
+block.normal.cloud.name=§7Nuvola
+block.dark.cloud.name=§7Nuvola scura
+block.ash.cloud.name=§7Nuvola di cenere
+block.sulfur.cloud.name=§7Nuvola di zolfo
+
+redwoodNDoor.name=§7Porta di sequia
+eucalyptusNDoor.name=§7Porta di eucalipto
+hopseedNDoor.name=§7Porta di hopseed
+sakuraNDoor.name=§7Porta di ciliegio
+ghostNDoor.name=§7Porta di legno fantasma
+bloodNDoor.name=§7Porta di legno insanguinato
+redwoodBarkNDoor.name=§7Porta di corteccia
+
+block.bark.redwood.name=§7Corteccia di sequia
+block.heart.redwood.name=§7Legno di sequia
+block.root.redwood.name=§7Radice di sequia
+
+block.eucalyptus.NPlanks.name=§7Assi di eucalipto
+block.sakura.NPlanks.name=§7Assi di ciliegio
+block.ghost.NPlanks.name=§7Assi di legno fantasma
+block.bush.NPlanks.name=§7Assi di hopseed
+block.blood.NPlanks.name=§7Assi di legno insanguinato
+block.redwood.NPlanks.name=§7Assi di sequia
+block.maple.NPlanks.name=§7Assi d'acero
+block.silverbell.NPlanks.name=§7Assi di halesia
+block.tiger.NPlanks.name=§7Assi di legno tigrato
+block.purpleheart.NPlanks.name=§7Assi di amaranto
+block.willow.NPlanks.name=§7Assi di salice
+block.darkwood.NPlanks.name=§7Assi di legno oscuro
+block.fusewood.NPlanks.name=§7Assi di legno esplosivo
+
+block.sapling.eucalyptus.name=§7Arboscello di eucalipto
+block.sapling.sakura.name=§7Arboscello di ciliegio
+block.sapling.ghost.name=§7Arboscello di albero fantasma
+block.sapling.bush.name=§7Arboscello di hopseed
+block.sapling.redwood.name=§7Arboscello di sequia
+block.sapling.blood.name=§7Arboscello di albero insanguinato
+block.sapling.darkwood.name=§7Arboscello di albero oscuro
+block.sapling.fusewood.name=§7Arboscello di albero esplosivo
+block.sapling.willow.name=§7Arboscello di salice
+block.sapling.tiger.name=§7Arboscello di albero tigrato
+block.sapling.maple.name=§7Arboscello d'acero
+block.sapling.purpleheart.name=§7Arboscello di amaranto
+block.sapling.silverbell.name=§7Arboscello di halesia
+
+block.wood.eucalyptus.slab.name=§7Lastra di eucalipto
+block.wood.sakura.slab.name=§7Lastra di ciliegio
+block.wood.ghost.slab.name=§7Lastra di legno fantasma
+block.wood.bush.slab.name=§7Lastra di hopseed
+block.wood.redwood.slab.name=§7Lastra di sequia
+block.wood.blood.slab.name=§7Lastra di legno insanguinato
+block.wood.darkwood.slab.name=§7Lastra di legno oscuro
+block.wood.fusewood.slab.name=§7Lastra esplosiva
+block.wood.willow.slab.name=§7Lastra di salice
+block.wood.tiger.slab.name=§7Lastra di legno tigrato
+block.wood.maple.slab.name=§7Lastra d'acero
+block.wood.purpleheart.slab.name=§7Lastra di amaranto
+block.wood.silverbell.slab.name=§7Lastra di halesia
+
+tile.door.eucalyptus.name=§7Porta di eucalipto
+tile.door.sakura.name=§7Porta di ciliegio
+tile.door.ghostwood.name=§7Porta di legno fantasma
+tile.door.hopseed.name=§7Porta di hopseed
+tile.door.redwood.name=§7Porta di sequia
+tile.door.bloodwood.name=§7Porta di legno insanguinato
+tile.door.redwoodbark.name=§7Porta di corteccia
+
+tile.pressureplate.eucalyptus.name=§7Pedana a pressione di eucalipto
+tile.pressureplate.sakura.name=§7Pedana a pressione di ciliegio
+tile.pressureplate.ghostwood.name=§7Pedana a pressione di legno fantasma
+tile.pressureplate.hopseed.name=§7Pedana a pressione di hopseed
+tile.pressureplate.redwood.name=§7Pedana a pressione di sequia
+tile.pressureplate.bloodwood.name=§7Pedana a pressione di legno insanguinato
+tile.pressureplate.darkwood.name=§7Pedana a pressione di legno oscuro
+tile.pressureplate.fusewood.name=§7Pedana a pressione di legno esplosivo
+tile.pressureplate.willow.name=§7Pedana a pressione di salice
+tile.pressureplate.tiger.name=§7Pedana a pressione di legno tigrato
+tile.pressureplate.maple.name=§7Pedana a pressione d'acero
+tile.pressureplate.amaranth.name=§7Pedana a pressione di amaranto
+tile.pressureplate.silverbell.name=§7Pedana a pressione di halesia
+
+tile.fenceGate.eucalyptus.name=§7Cancelletto di eucalipto
+tile.fenceGate.sakura.name=§7Cancelletto di ciliegio
+tile.fenceGate.ghostwood.name=§7Cancelletto di legno fantasma
+tile.fenceGate.hopseed.name=§7Cancelletto di hopseed
+tile.fenceGate.redwood.name=§7Cancelletto di sequia
+tile.fenceGate.bloodwood.name=§7Cancelletto di legno insanguinato
+tile.fenceGate.darkwood.name=§7Cancelletto di legno oscuro
+tile.fenceGate.fusewood.name=§7Cancelletto di legno esplosivo
+tile.fenceGate.willow.name=§7Cancelletto di salice
+tile.fenceGate.tiger.name=§7Cancelletto di legno tigrato
+tile.fenceGate.maple.name=§7Cancelletto d'acero
+tile.fenceGate.amaranth.name=§7Cancelletto di amaranto
+tile.fenceGate.silverbell.name=§7Cancelletto di halesia
+
+tile.stair.eucalyptus.name=§7Scalini di eucalipto
+tile.stair.sakura.name=§7Scalini di ciliegio
+tile.stair.ghostwood.name=§7Scalini di legno fantasma
+tile.stair.hopseed.name=§7Scalini di hopseed
+tile.stair.redwood.name=§7Scalini di sequia
+tile.stair.bloodwood.name=§7Scalini di legno insanguinato
+tile.stair.darkwood.name=§7Scalini di legno oscuro
+tile.stair.fusewood.name=§7Scalini di legno esplosivo
+tile.stair.willow.name=§7Scalini di salice
+tile.stair.tiger.name=§7Scalini di legno tigrato
+tile.stair.maple.name=§7Scalini d'acero
+tile.stair.amaranth.name=§7Scalini di amaranto
+tile.stair.silverbell.name=§7Scalini di halesia
+
+tile.button.eucalyptus.name=§7Pulsante di eucalipto
+tile.button.sakura.name=§7Pulsante di ciliegio
+tile.button.ghostwood.name=§7Pulsante di legno fantasma
+tile.button.hopseed.name=§7Pulsante di hopseed
+tile.button.redwood.name=§7Pulsante di sequia
+tile.button.bloodwood.name=§7Pulsante di legno insanguinato
+tile.button.darkwood.name=§7Pulsante di legno oscuro
+tile.button.fusewood.name=§7Pulsante di legno esplosivo
+tile.button.willow.name=§7Pulsante di salice
+tile.button.tiger.name=§7Pulsante di legno tigrato
+tile.button.maple.name=§7Pulsante d'acero
+tile.button.amaranth.name=§7Pulsante di amaranto
+tile.button.silverbell.name=§7Pulsante di halesia
+
+tile.trapdoor.eucalyptus.name=§7Botola di eucalipto
+tile.trapdoor.sakura.name=§7Botola di ciliegio
+tile.trapdoor.ghostwood.name=§7Botola di legno fantasma
+tile.trapdoor.hopseed.name=§7Botola di hopseed
+tile.trapdoor.redwood.name=§7Botola di sequia
+tile.trapdoor.bloodwood.name=§7Botola di legno insanguinato
+tile.trapdoor.darkwood.name=§7Botola di legno oscuro
+tile.trapdoor.fusewood.name=§7Botola di legno esplosivo
+tile.trapdoor.willow.name=§7Botola di salice
+tile.trapdoor.tiger.name=§7Botola di legno tigrato
+tile.trapdoor.maple.name=§7Botola d'acero
+tile.trapdoor.amaranth.name=§7Botola di amaranto
+tile.trapdoor.silverbell.name=§7Botola di halesia
+
+tile.blazerail.name=§7Rotaia di Vampo
+tile.blazerail.powered.name=§7Rotaia di Vampo booster
+tile.blazerail.detector.name=§7Rotaia di Vampo "detector"
+tile.blazerail.activator.name=§7Rotaia di Vampo attivatrice
+
+tile.furnace.netherrack.name=§7Fornace degli Inferi
+tile.nether.obelisk.name=§7Obelisco
+
+tile.glass.soul.name=§7Vetro delle anime
+tile.glass.heat.name=§7Vetro caldo
+
+block.glowshroom.green.name=§7Brillantfungo verde
+block.glowshroom.purple.name=§7Brillantfungo viola
+block.glowshroom.blue.name=§7Brillantfungo blu
+
+tile.nether.hopper.name=§7Tramoggia
+
+block.eucalyptus.NLeaves.name=§7Foglie di eucalipto
+block.leaves.sakura.name=§7Foglie di ciliegio
+block.leaves.ghost.name=§7Foglie di legno fantasma
+block.bush.NLeaves.name=§7Foglie di hopseed
+block.redwood.NLeaves.name=§7Foglie di redwood
+block.leaves.blood.name=§7Foglie insanguinate
+
+block.eucalyptus.log.name=§7Legno di eucalipto
+block.sakura.log.name=§7Legno di ciliegio
+block.ghost.log.name=§7Legno di legno fantasma
+block.hopseed.log.name=§7Legno di hopseed
+
+redwoodBoat.name=§7Barca di redwood
+bloodBoat.name=§7Barca di legno insanguinato
+whiteBoat.name=§7Barca bianca
+eucalyptusBoat.name=§7Barca di eucalipto
+
+item.impmeat.raw.name=§7Costoletta di Imp cruda
+item.impmeat.cooked.name=§7Costoletta di Imp cotta
+
+block.soil.grass.name=§7Erba topiaria
+block.soil.bluegrass.name=§7Erbablu
+block.soil.autumngrass.name=§7Erba autunnale
+block.soil.grass.slab.name=§7Lastra di erba topiaria
+block.soil.bluegrass.slab.name=§7Lastra di erbablu
+block.soil.autumngrass.slab.name=§7Lastra di erba autunnale
+
+tile.bloodwood.name=§7Legno insanguinato
+tile.saguaro.block.name=§7Saguaro cactus
+tile.bluebells.name=§7Campanule
+tile.natura.crops.name=§7Pianta
+tile.greenGlowshroom.name=§7Brillantfungo verde
+tile.blueGlowshroom.name=§7Brillantfungo blu
+tile.purpleGlowshroom.name=§7Brillantfungo viola
+
+tile.TaintedSoil.name=§7Terreno corrotto
+tile.HeatSand.name=§7Sabbia calda
+tile.Thornvines.name=§7Rampicante pungente
+tile.potashApple.name=§7Mela potassa
+item.natura.stick.name=§7Stecca
+
+item.natura.sword.ghostwood.name=§7Spada di legno fantasma
+item.natura.pickaxe.ghostwood.name=§7Piccone di legno fantasma
+item.natura.shovel.ghostwood.name=§7Pala di legno fantasma
+item.natura.axe.ghostwood.name=§7Accetta di legno fantasma
+item.natura.kama.ghostwood.name=§7Kama di legno fantasma
+item.natura.bow.ghostwood.name=§7Arco di legno fantasma
+
+item.natura.sword.bloodwood.name=§7Spada di legno insanguinato
+item.natura.pickaxe.bloodwood.name=§7Piccone di legno insanguinato
+item.natura.shovel.bloodwood.name=§7Pala di legno insanguinato
+item.natura.axe.bloodwood.name=§7Accetta di legno insanguinato
+item.natura.kama.bloodwood.name=§7Kama di legno insanguinato
+item.natura.bow.bloodwood.name=§7Arco di legno insanguinato
+
+item.natura.sword.darkwood.name=§7Spada di legno oscuro
+item.natura.pickaxe.darkwood.name=§7Piccone di legno oscuro
+item.natura.shovel.darkwood.name=§7Pala di legno oscuro
+item.natura.axe.darkwood.name=§7Accetta di legno oscuro
+item.natura.kama.darkwood.name=§7Kama di legno oscuro
+item.natura.bow.darkwood.name=§7Arco di legno oscuro
+
+item.natura.sword.fusewood.name=§7Spada di legno esplosivo
+item.natura.pickaxe.fusewood.name=§7Piccone di legno esplosivo
+item.natura.shovel.fusewood.name=§7Pala di legno esplosivo
+item.natura.axe.fusewood.name=§7Accetta di legno esplosivo
+item.natura.kama.fusewood.name=§7Kama di legno esplosivo
+item.natura.bow.fusewood.name=§7Arco di legno esplosivo
+
+item.natura.sword.netherquartz.name=§7Spada di quarzo
+item.natura.pickaxe.netherquartz.name=§7Piccone di quarzo
+item.natura.shovel.netherquartz.name=§7Pala di quarzo
+item.natura.axe.netherquartz.name=§7Accetta di quarzo
+item.natura.kama.netherquartz.name=§7Kama di quarzo
+
+item.natura.armor.imphelmet.name=§7Berretto di Imp
+item.natura.armor.impjerkin.name=§7Giubba di Imp
+item.natura.armor.impleggings.name=§7Gambiera di Imp
+item.natura.armor.impboots.name=§7Stivali di Imp
+
+item.flintandblaze.name=§7Selce e Vampo
+
+entity.Natura.imp.name=§7Imp
+entity.Natura.HeatscarSpider.name=§7Ragno fiammeggiante
+entity.Natura.BabyHeatscarSpider.name=§7Ragno fiammeggiante baby
+entity.Natura.FlameSpider.name=§7Ragno fiammeggiante
+entity.Natura.FlameSpiderBaby.name=§7Ragno fiammeggiante baby
+entity.Natura.NitroCreeper.name=§7Nitro Creeper
+
+tooltip.nethertree=§7Albero degli Inferi
+tooltip.fusewood.log=§7Personalità esplosiva
+tooltip.glass.soul=§7Spettrale
+tooltip.glass.heat=§7
+
+tooltip.tree1=§7Il legno rosa
+tooltip.tree2=§7Ciliegio fiorito
+tooltip.tree3=§7Palido come un di legno fantasma
+tooltip.tree4=§7L'albero più grande del mondo
+tooltip.tree5=§7Assi ignifugi
+tooltip.tree6=§7Da glitch a parte del gioco
+tooltip.tree7=§7Alquanto dolce
+tooltip.tree8=§7Campanelle d'argento
+tooltip.tree9=§7Cuore del legno
+tooltip.tree10=§7Chicco selvaggio
+tooltip.tree11=§7Il piangente
+tooltip.barley=§7Simile al grano, cresce nel selvaggi
+tooltip.flour1=§7Cuocimi per creare pane
+tooltip.flour2=§7Anche usato per fare torte
+tooltip.cotton=§7L'origine di tutta la lana e cordicelle
+tooltip.sulfur=§72x2 diventa polvere da sparo
+tooltip.fletching=§7Componente per creare frecce
+tooltip.imp=§7Resiste al calore degli Inferi
+tooltip.string=§7Più resistente delle cordicelle
+tooltip.darkwood1=§7Fiori!
+tooltip.darkwood2=§7Ha una mela
+tooltip.saguroplant1=§7Cresce come un albero
+tooltip.saguroplant2=§7Da frutti dopo le tempeste
+tooltip.fireleaves=§7Foglie ignifughe
+tooltip.cloud1=§7Così leggero e soffice!
+tooltip.cloud2=§7Ti salva quando cadi
+tooltip.cloud3=§7Crea tuoni e fulmini
+tooltip.cloud4=§73x3 diventa carbonella
+tooltip.cloud5=§72x2 diventa zolfo
+tooltip.tree12=§7Albero ignifugo
+tooltip.redwood1=§7Brucialo per carbonella
+tooltip.redwood2=§7o fai una porta nascosta!
+tooltip.redwood3=§7Cuore dell'albero
+tooltip.redwood4=§7Radice dell'albero
+tooltip.berrybush1=§7Dolci e rosse
+tooltip.berrybush2=§7Si trova in aree calde
+tooltip.berrybush3=§7Aspri e blu
+tooltip.berrybush4=§7Si trova in aree temperate
+tooltip.berrybush5=§7Dolci e nere
+tooltip.berrybush6=§7Si trova in aree umide
+tooltip.berrybush7=§7Gustose e gialli/arancioni
+tooltip.berrybush8=§7Si trova in aree fredde
+tooltip.shroom=§7Succo neon
+tooltip.netherberrybush1=§7Un po cattive
+tooltip.netherberrybush2=§7Killer curanti
+tooltip.netherberrybush3=§7Notte visibile
+tooltip.netherberrybush4=§7Lenta immersione
+tooltip.netherberrybush5=§7Colpisci come un camion
+tooltip.netherfood=§7Sa un po' di gesso
+tooltip.sapling1=§7Piantali in un area di 7x7
+tooltip.sapling2=§7Ci mette giorni a crescere
+tooltip.sapling3=§7Resistente alla lava
+tooltip.sapling4=§7Brilla sul soffitto
+tooltip.sapling5=§7Produce mele gessose
+tooltip.impmeat1=§7Mangiarlo non è una buona idea
+tooltip.impmeat2=§7É caldo al tocco
+tooltip.berry=§7Saturante!
+tooltip.cactusjuice=§7Rinfrescante!
+tooltip.barkdoor=§7Tunnel segreto
+tooltip.firedoor=§7Porta ignifuga
+tooltip.sagurofruit=§7Usabile come cibo o seme
+tooltip.berrymedley=§7Un'irristibile combinazione di bacche
+tooltip.seedbag=§7Pianta in un area di 3x3
+tooltip.kama=§7Il grande mietitore di foglie
+tooltip.bonebag=§7Cresce le piante in un area di 3x3

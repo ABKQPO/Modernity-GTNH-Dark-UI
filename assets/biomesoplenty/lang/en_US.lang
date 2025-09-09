@@ -1,3 +1,466 @@
+tile.mud.mud.name=§7Mud
+tile.mud.quicksand.name=§7Quicksand
+
+tile.ashStone.name=§7Ash Stone
+tile.hardSand.name=§7Hardened Sand
+tile.hardDirt.name=§7Hardened Dirt
+tile.hardIce.name=§7Hardened Ice
+tile.driedDirt.name=§7Dried Dirt
+tile.cragRock.name=§7Crag Rock
+tile.mudBricks.name=§7Mud Bricks
+tile.biomeBlock.name=§7Biome Essence Ore
+tile.crystal.name=§7Celestial Crystal
+
+tile.rocks.limestone.name=§7Limestone
+tile.rocks.limestonesmooth.name=§7Polished Limestone
+tile.rocks.siltstone.name=§7Siltstone
+tile.rocks.siltstonesmooth.name=§7Polished Siltstone
+tile.rocks.shale.name=§7Shale
+tile.rocks.shalesmooth.name=§7Polished Shale
+
+tile.ash.name=§7Ash Block
+tile.flesh.name=§7Flesh
+
+tile.lilyBop.mediumlily.name=§7Medium Lily Pad
+tile.lilyBop.smalllily.name=§7Small Lily Pad
+tile.lilyBop.tinylily.name=§7Tiny Lily Pad
+
+tile.plants.deadgrass.name=§7Dead Grass
+tile.plants.desertgrass.name=§7Desert Grass
+tile.plants.desertsprouts.name=§7Desert Sprouts
+tile.plants.dunegrass.name=§7Dune Grass
+tile.plants.spectralfern.name=§7Spectral Fern
+tile.plants.thorn.name=§7Thorns
+tile.plants.wildrice.name=§7Wild Rice
+tile.plants.cattail.name=§7Cattail
+tile.plants.cattailtop.name=§7Cattail
+tile.plants.cattailbottom.name=§7Cattail
+tile.plants.rivercane.name=§7River Cane
+tile.plants.cactus.name=§7Tiny Cactus
+tile.plants.witherwart.name=§7Wither Wart
+tile.plants.reed.name=§7Reed
+tile.plants.root.name=§7Root
+tile.plants.wildcarrot.name=§7Wild carrot
+
+tile.flowers.clover.name=§7Clover
+tile.flowers.swampflower.name=§7Swampflower
+tile.flowers.deadbloom.name=§7Deathbloom
+tile.flowers.glowflower.name=§7Glowflower
+tile.flowers.hydrangea.name=§7Blue Hydrangea
+tile.flowers.cosmos.name=§7Orange Cosmos
+tile.flowers.daffodil.name=§7Pink Daffodil
+tile.flowers.wildflower.name=§7Wildflower
+tile.flowers.violet.name=§7Violet
+tile.flowers.anemone.name=§7White Anemone
+tile.flowers.lilyflower.name=§7Waterlily
+tile.flowers.enderlotus.name=§7Enderlotus
+tile.flowers.bromeliad.name=§7Bromeliad
+tile.flowers.eyebulbbottom.name=§7Eyebulb
+tile.flowers.eyebulbtop.name=§7Eyebulb
+tile.flowers.dandelion.name=§7Dandelion Puff
+
+tile.flowers2.hibiscus.name=§7Pink Hibiscus
+tile.flowers2.lilyofthevalley.name=§7Lily of the Valley
+tile.flowers2.burningblossom.name=§7Burning Blossom
+tile.flowers2.lavender.name=§7Lavender
+tile.flowers2.goldenrod.name=§7Goldenrod
+tile.flowers2.bluebells.name=§7Bluebells
+tile.flowers2.minersdelight.name=§7Miner's Delight
+tile.flowers2.icyiris.name=§7Icy Iris
+tile.flowers2.rose.name=§7Rose
+
+tile.fruitBop.apple_block.name=§7Apple
+tile.fruitBop.persimmon_block.name=§7Persimmon
+tile.fruitBop.peach_block.name=§7Peach
+tile.fruitBop.pear_block.name=§7Pear
+tile.fruitBop.pinecone_block.name=§7Pinecone
+
+tile.stoneFormations.stalagmite.name=§7Stalagmite
+tile.stoneFormations.stalactite.name=§7Stalactite
+
+tile.foliage.duckweed.name=§7Duckweed
+tile.foliage.shortgrass.name=§7Short Grass
+tile.foliage.mediumgrass.name=§7Medium Grass
+tile.foliage.flaxbottom.name=§7Flax
+tile.foliage.bush.name=§7Bush
+tile.foliage.sprout.name=§7Sprout
+tile.foliage.flaxtop.name=§7Flax
+tile.foliage.poisonivy.name=§7Poison Ivy
+tile.foliage.berrybush.name=§7Berry Bush
+tile.foliage.shrub.name=§7Shrub
+tile.foliage.wheatgrass.name=§7Wheat Grass
+tile.foliage.dampgrass.name=§7Damp Grass
+tile.foliage.koru.name=§7Koru
+tile.foliage.cloverpatch.name=§7Clover Patch
+tile.foliage.leafpile.name=§7Leaf Pile
+tile.foliage.deadleafpile.name=§7Dead Leaf Pile
+
+tile.petals.bigflowerred.name=§7Giant Red Flower
+tile.petals.bigfloweryellow.name=§7Giant Yellow Flower
+
+tile.mushrooms.toadstool.name=§7Toadstool
+tile.mushrooms.portobello.name=§7Portobello
+tile.mushrooms.bluemilk.name=§7Blue Milk Cap
+tile.mushrooms.glowshroom.name=§7Glowshroom
+tile.mushrooms.flatmushroom.name=§7Flat Mushroom
+tile.mushrooms.shadowshroom.name=§7Shadow Shroom
+
+tile.saplings.appleSapling.name=§7Apple Sapling
+tile.saplings.yellowautumnSapling.name=§7Yellow Autumn Sapling
+tile.saplings.bambooSapling.name=§7Bamboo Sapling
+tile.saplings.magicSapling.name=§7Magic Sapling
+tile.saplings.darkSapling.name=§7Dark Sapling
+tile.saplings.deadSapling.name=§7Dying Sapling
+tile.saplings.firSapling.name=§7Fir Sapling
+tile.saplings.etherealSapling.name=§7Ethereal Sapling
+tile.saplings.orangeautumnSapling.name=§7Orange Autumn Sapling
+tile.saplings.originSapling.name=§7Origin Sapling
+tile.saplings.pinkcherrySapling.name=§7Pink Cherry Sapling
+tile.saplings.mapleSapling.name=§7Maple Sapling
+tile.saplings.whitecherrySapling.name=§7White Cherry Sapling
+tile.saplings.hellbarkSapling.name=§7Hellbark Sapling
+tile.saplings.jacarandaSapling.name=§7Jacaranda Sapling
+tile.saplings.persimmonSapling.name=§7Persimmon Sapling
+
+tile.colorizedSaplings.sacredoakSapling.name=§7Sacred Oak Sapling
+tile.colorizedSaplings.mangroveSapling.name=§7Mangrove Sapling
+tile.colorizedSaplings.palmSapling.name=§7Palm Sapling
+tile.colorizedSaplings.redwoodSapling.name=§7Redwood Sapling
+tile.colorizedSaplings.willowSapling.name=§7Willow Sapling
+tile.colorizedSaplings.pineSapling.name=§7Pine Sapling
+tile.colorizedSaplings.mahoganySapling.name=§7Mahogany Sapling
+tile.colorizedSaplings.floweringSapling.name=§7Flowering Oak Sapling
+
+tile.willow.name=§7Willow
+tile.ivy.name=§7Ivy
+tile.bamboo.name=§7Bamboo
+tile.mudBricksStairs.name=§7Mud Bricks Stairs
+tile.originGrass.name=§7Origin Grass Block
+tile.longGrass.name=§7Long Grass Block
+tile.overgrownNetherrack.name=§7Overgrown Netherrack
+tile.treeMoss.name=§7Tree Moss
+tile.turnip.name=§7Turnip
+tile.flowerVine.name=§7Flowering Vines
+tile.wisteria.name=§7Wisteria
+
+tile.coral1.kelpbottom.name=§7Kelp
+tile.coral1.kelpsingle.name=§7Kelp
+tile.coral1.kelptop.name=§7Kelp
+tile.coral1.pinkcoral.name=§7Pink Coral
+tile.coral1.orangecoral.name=§7Orange Coral
+tile.coral1.bluecoral.name=§7Blue Coral
+tile.coral1.glowcoral.name=§7Glowing Coral
+tile.coral2.algae.name=§7Algae
+
+tile.newBopGrass.silty.name=§7Silty Grass Block
+tile.newBopGrass.sandy.name=§7Sandy Grass Block
+tile.newBopGrass.loamy.name=§7Loamy Grass Block
+tile.newBopDirt.dirt_silty.name=§7Silty Dirt
+tile.newBopDirt.dirt_sandy.name=§7Sandy Dirt
+tile.newBopDirt.dirt_loamy.name=§7Loamy Dirt
+tile.newBopDirt.coarse_dirt_silty.name=§7Coarse Silty Dirt
+tile.newBopDirt.coarse_dirt_sandy.name=§7Coarse Sandy Dirt
+tile.newBopDirt.coarse_dirt_loamy.name=§7Coarse Loamy Dirt
+tile.newBopFarmland.silty.name=§7Silty Farmland
+tile.newBopFarmland.sandy.name=§7Sandy Farmland
+tile.newBopFarmland.loamy.name=§7Loamy Farmland
+
+tile.bopGrass.spectralmoss.name=§7Spectral Moss
+tile.bopGrass.smolderinggrass.name=§7Smoldering Grass Block
+
+tile.gemOre.amethystore.name=§7Ender Amethyst Ore
+tile.gemOre.amethystblock.name=§7Block of Amethyst
+tile.gemOre.rubyore.name=§7Ruby Ore
+tile.gemOre.rubyblock.name=§7Block of Ruby
+tile.gemOre.peridotore.name=§7Peridot Ore
+tile.gemOre.peridotblock.name=§7Block of Peridot
+tile.gemOre.topazore.name=§7Topaz Ore
+tile.gemOre.topazblock.name=§7Block of Topaz
+tile.gemOre.tanzaniteore.name=§7Tanzanite Ore
+tile.gemOre.tanzaniteblock.name=§7Block of Tanzanite
+tile.gemOre.malachiteore.name=§7Malachite Ore
+tile.gemOre.malachiteblock.name=§7Block of Malachite
+tile.gemOre.sapphireore.name=§7Sapphire Ore
+tile.gemOre.sapphireblock.name=§7Block of Sapphire
+tile.gemOre.amberore.name=§7Amber Ore
+tile.gemOre.amberblock.name=§7Block of Amber
+
+tile.moss.name=§7Moss
+
+tile.hive.honeycomb.name=§7Honeycomb Block
+tile.hive.hive.name=§7Hive Block
+tile.hive.honeycombempty.name=§7Empty Honeycomb Block
+tile.hive.honeycombfilled.name=§7Filled Honeycomb Block
+
+tile.honeyBlock.name=§7Honey Block
+
+tile.jellyBlock.strawberry.name=§7Strawberry Jelly Block
+tile.jellyBlock.raspberry.name=§7Raspberry Jelly Block
+tile.jellyBlock.grape.name=§7Grape Jelly Block
+
+tile.bones.bones_small.name=§7Small Bone Segment
+tile.bones.bones_medium.name=§7Medium Bone Segment
+tile.bones.bones_large.name=§7Large Bone Segment
+
+tile.bones.bones_small_side_1.name=§7Small Bone Segment
+tile.bones.bones_small_side_2.name=§7Small Bone Segment
+tile.bones.bones_medium_side_1.name=§7Medium Bone Segment
+tile.bones.bones_medium_side_2.name=§7Medium Bone Segment
+
+tile.grave.name=§7Gravestone
+
+tile.stoneDoubleSlab.mudbrickSlab.name=§7Mud Bricks Slab
+tile.stoneSingleSlab.mudbrickSlab.name=§7Mud Bricks Slab
+
+tile.planks.sacredoakPlank.name=§7Sacred Oak Wood Planks
+tile.planks.cherryPlank.name=§7Cherry Wood Planks
+tile.planks.darkPlank.name=§7Dark Wood Planks
+tile.planks.firPlank.name=§7Fir Wood Planks
+tile.planks.etherealPlank.name=§7Ethereal Wood Planks
+tile.planks.magicPlank.name=§7Magic Wood Planks
+tile.planks.mangrovePlank.name=§7Mangrove Wood Planks
+tile.planks.palmPlank.name=§7Palm Wood Planks
+tile.planks.redwoodPlank.name=§7Redwood Wood Planks
+tile.planks.willowPlank.name=§7Willow Wood Planks
+tile.planks.bambooThatching.name=§7Bamboo Thatching
+tile.planks.pinePlank.name=§7Pine Wood Planks
+tile.planks.hellBarkPlank.name=§7Hellbark Wood Planks
+tile.planks.jacarandaPlank.name=§7Jacaranda Wood Planks
+tile.planks.mahoganyPlank.name=§7Mahogany Wood Planks
+
+tile.logs1.sacredoakWood.name=§7Sacred Oak Wood
+tile.logs1.cherryWood.name=§7Cherry Wood
+tile.logs1.darkWood.name=§7Dark Wood
+tile.logs1.firWood.name=§7Fir Wood
+
+tile.logs2.etherealWood.name=§7Ethereal Wood
+tile.logs2.magicWood.name=§7Magic Wood
+tile.logs2.mangroveWood.name=§7Mangrove Wood
+tile.logs2.palmWood.name=§7Palm Wood
+
+tile.logs3.redwoodWood.name=§7Redwood Wood
+tile.logs3.willowWood.name=§7Willow Wood
+tile.logs3.deadWood.name=§7Dead Wood
+tile.logs3.bigflowerstemWood.name=§7Giant Flower Stem
+
+tile.logs4.pineWood.name=§7Pine Wood
+tile.logs4.hellbarkWood.name=§7Hellbark Wood
+tile.logs4.jacarandaWood.name=§7Jacaranda Wood
+tile.logs4.mahoganyWood.name=§7Mahogany Wood
+
+tile.leaves1.yellowautumn.name=§7Yellow Autumn Leaves
+tile.leaves1.bamboo.name=§7Bamboo Leaves
+tile.leaves1.magic.name=§7Magic Leaves
+tile.leaves1.dark.name=§7Dark Leaves
+
+tile.leaves2.dead.name=§7Dying Leaves
+tile.leaves2.fir.name=§7Fir Leaves
+tile.leaves2.ethereal.name=§7Ethereal Leaves
+tile.leaves2.orangeautumn.name=§7Orange Autumn Leaves
+
+tile.leaves3.origin.name=§7Origin Leaves
+tile.leaves3.pinkcherry.name=§7Pink Cherry Leaves
+tile.leaves3.maple.name=§7Maple Leaves
+tile.leaves3.whitecherry.name=§7White Cherry Leaves
+
+tile.leaves4.hellbark.name=§7Hellbark Leaves
+tile.leaves4.jacaranda.name=§7Jacaranda Leaves
+
+tile.colorizedLeaves1.sacredoak.name=§7Sacred Oak Leaves
+tile.colorizedLeaves1.mangrove.name=§7Mangrove Leaves
+tile.colorizedLeaves1.palm.name=§7Palm Leaves
+tile.colorizedLeaves1.redwood.name=§7Redwood Leaves
+
+tile.colorizedLeaves2.willow.name=§7Willow Leaves
+tile.colorizedLeaves2.pine.name=§7Pine Leaves
+tile.colorizedLeaves2.mahogany.name=§7Mahogany Leaves
+tile.colorizedLeaves2.flowering.name=§7Flowering Oak Leaves
+
+tile.appleLeaves.name=§7Apple Leaves
+tile.persimmonLeaves.name=§7Persimmon Leaves
+
+tile.woodenDoubleSlab1.sacredoakSlab.name=§7Sacred Oak Wood Slab
+tile.woodenDoubleSlab1.cherrySlab.name=§7Cherry Wood Slab
+tile.woodenDoubleSlab1.darkSlab.name=§7Dark Wood Slab
+tile.woodenDoubleSlab1.firSlab.name=§7Fir Wood Slab
+tile.woodenDoubleSlab1.etherealSlab.name=§7Ethereal Wood Slab
+tile.woodenDoubleSlab1.magicSlab.name=§7Magic Wood Slab
+tile.woodenDoubleSlab1.mangroveSlab.name=§7Mangrove Wood Slab
+tile.woodenDoubleSlab1.palmSlab.name=§7Palm Wood Slab
+tile.woodenDoubleSlab2.redwoodSlab.name=§7Redwood Wood Slab
+tile.woodenDoubleSlab2.willowSlab.name=§7Willow Wood Slab
+tile.woodenDoubleSlab2.pineSlab.name=§7Pine Wood Slab
+tile.woodenDoubleSlab2.hell_barkSlab.name=§7Hellbark Wood Slab
+tile.woodenDoubleSlab2.jacarandaSlab.name=§7Jacaranda Wood Slab
+tile.woodenDoubleSlab2.mahoganySlab.name=§7Mahogany Wood Slab
+
+tile.woodenSingleSlab1.sacredoakSlab.name=§7Sacred Oak Wood Slab
+tile.woodenSingleSlab1.cherrySlab.name=§7Cherry Wood Slab
+tile.woodenSingleSlab1.darkSlab.name=§7Dark Wood Slab
+tile.woodenSingleSlab1.firSlab.name=§7Fir Wood Slab
+tile.woodenSingleSlab1.etherealSlab.name=§7Ethereal Wood Slab
+tile.woodenSingleSlab1.magicSlab.name=§7Magic Wood Slab
+tile.woodenSingleSlab1.mangroveSlab.name=§7Mangrove Wood Slab
+tile.woodenSingleSlab1.palmSlab.name=§7Palm Wood Slab
+tile.woodenSingleSlab2.redwoodSlab.name=§7Redwood Wood Slab
+tile.woodenSingleSlab2.willowSlab.name=§7Willow Wood Slab
+tile.woodenSingleSlab2.pineSlab.name=§7Pine Wood Slab
+tile.woodenSingleSlab2.hell_barkSlab.name=§7Hellbark Wood Slab
+tile.woodenSingleSlab2.jacarandaSlab.name=§7Jacaranda Wood Slab
+tile.woodenSingleSlab2.mahoganySlab.name=§7Mahogany Wood Slab
+
+tile.sacredoakStairs.name=§7Sacred Oak Wood Stairs
+tile.cherryStairs.name=§7Cherry Wood Stairs
+tile.darkStairs.name=§7Dark Wood Stairs
+tile.firStairs.name=§7Fir Wood Stairs
+tile.etherealStairs.name=§7Ethereal Wood Stairs
+tile.magicStairs.name=§7Magic Wood Stairs
+tile.mangroveStairs.name=§7Mangrove Wood Stairs
+tile.palmStairs.name=§7Palm Wood Stairs
+tile.redwoodStairs.name=§7Redwood Wood Stairs
+tile.willowStairs.name=§7Willow Wood Stairs
+tile.pineStairs.name=§7Pine Wood Stairs
+tile.hellBarkStairs.name=§7Hellbark Wood Stairs
+tile.jacarandaStairs.name=§7Jacaranda Wood Stairs
+tile.mahoganyStairs.name=§7Mahogany Wood Stairs
+
+item.food.berries.name=§7Berry
+item.food.shroompowder.name=§7Shroom Powder
+item.food.wildcarrots.name=§7Wild Carrots
+item.food.peach.name=§7Peach
+item.food.saladfruit.name=§7Fruit Salad
+item.food.saladveggie.name=§7Veggie Salad
+item.food.saladshroom.name=§7Shroom Salad
+item.food.persimmon.name=§7Persimmon
+item.food.filledhoneycomb.name=§7Filled Honeycomb
+item.food.ambrosia.name=§7Ambrosia
+item.food.turnip.name=§7Turnip
+item.food.pear.name=§7Pear
+item.food.ricebowl.name=§7Bowl of Rice
+
+item.turnipSeeds.name=§7Turnip Seeds
+
+item.dartBlower.name=§7Dart Blower
+item.dart.dart.name=§7Dart
+item.dart.poisondart.name=§7Poison Dart
+
+item.mudball.name=§7Mud Ball
+
+item.misc.mudbrick.name=§7Mud Brick
+item.misc.ash.name=§7Pile of Ashes
+item.misc.fleshchunk.name=§7Chunk of Flesh
+item.misc.emptyhoneycomb.name=§7Empty Honeycomb
+item.misc.crystalshard.name=§7Celestial Crystal Shard
+item.misc.bluedye.name=§7Blue Dye
+item.misc.browndye.name=§7Brown Dye
+item.misc.greendye.name=§7Green Dye
+item.misc.whitedye.name=§7White Dye
+item.misc.blackdye.name=§7Black Dye
+item.misc.ghastlysoul.name=§7Ghastly Soul
+item.misc.pixiedust.name=§7Pixie Dust
+item.misc.ichor.name=§7Ichor
+item.misc.pinecone.name=§7Pinecone
+
+item.jarEmpty.name=§7Empty Jar
+item.jarFilled.jarhoney.name=§7Honey Jar
+item.jarFilled.jarpoison.name=§7Poison Extract Jar
+item.jarFilled.jarpixie.name=§7Pixie Jar
+
+item.gems.amethyst.name=§7Ender Amethyst
+item.gems.ruby.name=§7Ruby
+item.gems.peridot.name=§7Peridot
+item.gems.topaz.name=§7Topaz
+item.gems.tanzanite.name=§7Tanzanite
+item.gems.malachite.name=§7Malachite
+item.gems.sapphire.name=§7Sapphire
+item.gems.amber.name=§7Amber
+
+item.pickaxeMud.name=§7Muddy Pickaxe
+item.axeMud.name=§7Muddy Axe
+item.shovelMud.name=§7Muddy Shovel
+item.swordMud.name=§7Muddy Sword
+item.hoeMud.name=§7Muddy Hoe
+item.helmetMud.name=§7Muddy Helmet
+item.chestplateMud.name=§7Muddy Chestplate
+item.leggingsMud.name=§7Muddy Leggings
+item.bootsMud.name=§7Muddy Boots
+
+item.pickaxeAmethyst.name=§7Amethyst Pickaxe
+item.axeAmethyst.name=§7Amethyst Axe
+item.shovelAmethyst.name=§7Amethyst Shovel
+item.swordAmethyst.name=§7Amethyst Sword
+item.hoeAmethyst.name=§7Amethyst Hoe
+item.helmetAmethyst.name=§7Amethyst Helmet
+item.chestplateAmethyst.name=§7Amethyst Chestplate
+item.leggingsAmethyst.name=§7Amethyst Leggings
+item.bootsAmethyst.name=§7Amethyst Boots
+
+item.scytheWood.name=§7Wooden Scythe
+item.scytheStone.name=§7Stone Scythe
+item.scytheIron.name=§7Iron Scythe
+item.scytheGold.name=§7Golden Scythe
+item.scytheDiamond.name=§7Diamond Scythe
+item.scytheMud.name=§7Mud Scythe
+item.scytheAmethyst.name=§7Amethyst Scythe
+
+item.ancientStaff.ancientstaff.name=§7Ancient Staff
+item.ancientStaff.staffhandle.name=§7Ancient Staff Handle
+item.ancientStaff.staffpole.name=§7Ancient Staff Pole
+item.ancientStaff.stafftopper.name=§7Ancient Staff Topper
+item.ancientStaff.ancientstaffbroken.name=§7Depleted Ancient Staff
+
+item.enderporter.name=§7Enderporter
+
+item.record_wanderer.name=§7Music Disc
+item.record_corruption.name=§7Music Disc
+
+item.record_wanderer.desc=§7Tim Rurkowski - Wanderer
+item.record_corruption.desc=§7???
+
+item.flowerBand.dullflowerband.name=§7Dull Flower Band
+item.flowerBand.plainflowerband.name=§7Plain Flower Band
+item.flowerBand.lushflowerband.name=§7Lush Flower Band
+item.flowerBand.exoticflowerband.name=§7Exotic Flower Band
+
+item.wadingBoots.name=§7Wading Boots
+item.flippers.name=§7Flippers
+
+item.biomeBook.name=§7Book O' Biomes
+item.biomeFinder.name=§7Biome Radar
+item.biomeEssence.name=§7Biome Essence
+
+item.poisonBucket.name=§7Poison Bucket
+item.hell_bloodBucket.name=§7Blood Bucket
+item.honeyBucket.name=§7Honey Bucket
+
+tile.poison.name=§7Poison
+tile.hell_blood.name=§7Blood
+tile.honey.name=§7Honey
+
+fluid.poison=§7Poison
+fluid.hell_blood=§7Blood
+fluid.honey=§7Honey
+
+biomeRadar.target=§7Target:
+biomeRadar.foundBiome=§7Found Biome!
+biomeRadar.scanBiome=§7Right click to scan for biome
+
+enderporter.prevent=§7A mystical energy is preventing you from using this in the current world.
+
+phrase.bop.useBOPATGWorldtype=§7The Biomes O' Plenty world type or ATG world type must be used in order for the new biomes to generate. This message will only display once.
+phrase.bop.useBOPWorldtype=§7The Biomes O' Plenty world type must be used in order for the new biomes to generate. This message will only display once.
+phrase.bop.updateAvaliable=§7You are not using the latest recommended version of Biomes O' Plenty. The latest recommended version is: v%s for Minecraft %s
+
+warning.bopStartup1=§7Biomes O' Plenty uses a custom worldtype for its biomes. It may be enabled by
+warning.bopStartup2=§7clicking the 'World Type' button under 'More World Options' until it displays
+warning.bopStartup3=§7'Biomes O' Plenty'.
+warning.bopStartup4=§7The worldtype can be used on servers by changing the 'level-type' in
+warning.bopStartup5=§7server.properties to 'BIOMESOP' (without quotes)
+warning.bopStartup6=§7This message will only display once.
+
+potion.paralysis=§7Paralysis
+potion.possession=§7Possession
+
 entity.BiomesOPlenty.Glob.name=§7Glob
 entity.BiomesOPlenty.JungleSpider.name=§7Jungle Spider
 entity.BiomesOPlenty.Phantom.name=§7Phantom
@@ -5,3 +468,47 @@ entity.BiomesOPlenty.Rosester.name=§7Rosester
 entity.BiomesOPlenty.Wasp.name=§7Wasp
 entity.BiomesOPlenty.Bird.name=§7Bird
 entity.BiomesOPlenty.Pixie.name=§7Pixie
+
+achievement.bop.achFlower=§7Flower Child
+achievement.bop.achFlower.desc=§7Become one with nature!
+
+achievement.bop.achBerry=§7Berry Picking
+achievement.bop.achBerry.desc=§7The simple things in life...
+achievement.bop.achMoss=§7A Rolling Stone
+achievement.bop.achMoss.desc=§7It gathers none of this.
+achievement.bop.achThorn=§7Rather Thorny
+achievement.bop.achThorn.desc=§7Deadlier than cacti!
+achievement.bop.achCoral=§7Nutritious
+achievement.bop.achCoral.desc=§7How about a big piece of steamed coral?
+
+achievement.bop.achFlowerBand=§7Flower Power
+achievement.bop.achFlowerBand.desc=§7Groovy, man.
+achievement.bop.achDartBlower=§7Full Auto
+achievement.bop.achDartBlower.desc=§7You'll shoot your eye out, kid!
+achievement.bop.achScythe=§7Plant Killer
+achievement.bop.achScythe.desc=§7The grim reaper's day job.
+achievement.bop.achEnderporter=§7Home Sweet Home
+achievement.bop.achEnderporter.desc=§7Use the magical powers of the Enderporter.
+
+achievement.bop.achHoney=§7Bittersweet
+achievement.bop.achHoney.desc=§7The land of blood and honey.
+achievement.bop.achWitherWart=§7Decay
+achievement.bop.achWitherWart.desc=§7A master of disguise.
+achievement.bop.achGrave=§7Gravedigger
+achievement.bop.achGrave.desc=§7The next Dampe.
+achievement.bop.achPhantom=§7Phantom Menace
+achievement.bop.achPhantom.desc=§7Stealer of souls...
+
+achievement.bop.achPromised=§7Movin' On Up!
+achievement.bop.achPromised.desc=§7Welcome to the Promised Land!
+achievement.bop.achCelestial=§7Blue Sky
+achievement.bop.achCelestial.desc=§7I am the one who...blocks...
+achievement.bop.achAmbrosia=§7Drink of the Gods
+achievement.bop.achAmbrosia.desc=§7Stay thirst, my friends.
+
+achievement.bop.achAllBOP=§7Achievements O' Plenty
+achievement.bop.achAllBOP.desc=§7You got all of the Biomes O' Plenty achievements!
+
+itemGroup.tabBiomesOPlenty=§7Biomes O' Plenty
+
+generator.BIOMESOP=§7Biomes O' Plenty

@@ -1,0 +1,39 @@
+//Blocks
+tile.alarm.name=§7Alarm
+tile.rfidreader.name=§7RFID Reader
+tile.cardwriter.name=§7Card Writer
+tile.magreader.name=§7Magnetic Card Reader
+tile.entitydetector.name=§7Entity Detector
+tile.doorController.name=§7Door Controller
+tile.datablock.name=§7Data Block
+tile.switchablehub.name=§7Switchable Hub
+tile.displaypanel.name=§7Display Panel
+tile.kvm.name=§7KVM Switch
+tile.energyTurret.name=§7Energy Turret
+tile.keypadlock.name=§7Keypad
+tile.biometricreader.name=§7Biometric Reader
+//items
+item.rfidCard.name=§7RFID Card
+item.magCard.name=§7Magnetic Strip Card
+item.rfidReaderCard.name=§7RFID Reader Card
+item.secureNetworkCard.name=§7Secure Network Card
+item.securityDoor.name=§7Security Door
+tile.securityDoor.name=§7Security Door
+item.securityDoorPrivate.name=§7Private Security Door
+item.damageUpgrade.name=§7Damage Upgrade
+item.movementUpgrade.name=§7Movement Upgrade
+item.energyUpgrade.name=§7Energy Upgrade
+item.cooldownUpgrade.name=§7Cooldown Upgrade
+itemGroup.OpenSecurity=§7OpenSecurity
+//guis
+gui.string.cardwriter=§7Card Writer
+gui.string.cardslot=§7Card Slot
+gui.string.kvm=§7KVM Switch Control
+gui.string.energyturret=§7Energy Turret
+gui.string.energyturret.damagemod=§7+Damage
+gui.string.energyturret.movementmod=§7+Movement
+gui.string.energyturret.cooldownmod=§7-Cooldown
+gui.string.energyturret.energymod=§7-Energy
+//OpenUpdater
+opensecurity.uptodate=§7OpenSecurity is up to date
+opensecurity.outdated=§7OpenSecurity is out dated

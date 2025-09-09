@@ -1,0 +1,754 @@
+﻿# =§7=====================================
+				BLOCK GUI
+# =§7=====================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Конструктор вагонеток
+gui.SC2:basicAssembleInstruction=§7Чтобы начать сборку вагонетки, добавьте любой корпус вагонетки в слот для корпусов.
+gui.SC2:invalidHullError=§7Был добавлен недопустимый корпус вагонетки в слот для корпусов. Это невозможно, разве только ты сделал нечто необычное.
+gui.SC2:hullCapacity=§7Вместимость корпуса
+gui.SC2:complexityCap=§7Лимит сложности
+gui.SC2:totalCost=§7Итоговая стоимость |
+gui.SC2:totalTime=§7Время сборки
+gui.SC2:readyMessage=§7Готов к сборке вагонетки!
+gui.SC2:assembleProgress=§7Прогресс
+gui.SC2:timeLeft=§7Оставшееся время
+gui.SC2:idleAssemblerMessage=§7В данный момент конструктор неактивен
+gui.SC2:modifyCart=§7Изменить вагонетку
+gui.SC2:assembleCart=§7Собрать вагонетку
+gui.SC2:fuelLevel=§7Уровень топлива
+gui.SC2:noHullError=§7У Вас нет корпуса!
+gui.SC2:invalidHullErrorShort=§7Добавленный корпус вовсе не корпус!
+gui.SC2:busyAssemblerError=§7Конструктор занят
+gui.SC2:departureBayError=§7В депо уже есть вагонетка!
+
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Менеджер
+gui.SC2:currentSetting=§7Текущая настройка
+gui.SC2:changeTransferDirection=§7Изменить направление передачи
+gui.SC2:directionToCart=§7В вагонетку
+gui.SC2:directionFromCart=§7Из вагонетки
+gui.SC2:changeTurnBack=§7Изменить настройку возвращения
+gui.SC2:turnBackDisabled=§7Ни одна из сторон не включена
+gui.SC2:turnBack=§7Развернуться после разгрузки
+gui.SC2:continueForward=§7Следовать пути после разгрузки
+gui.SC2:changeTransferSize=§7Изменить размер погрузки
+gui.SC2:changeSide=§7Изменить сторону
+gui.SC2:currentSide=§7Текущая сторона
+gui.SC2:sideRed=§7Красная
+gui.SC2:sideBlue=§7Синяя
+gui.SC2:sideYellow=§7Жёлтая
+gui.SC2:sideGreen=§7Зелёная
+gui.SC2:sideDisabled=§7Выключено
+
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Груз
+gui.SC2:changeSlotLayout=§7Изменить распределение слотов
+gui.SC2:layoutShared=§7Все слоты доступны любой стороне
+gui.SC2:layoutSide=§7У каждой стороны свои слоты
+gui.SC2:layoutColor=§7У каждого цвета свой слот
+gui.SC2:transferAll=§7Перегрузить как можно больше
+gui.SC2:transferItems=§7Перегрузить максимально [%1] [%2:предмета|предметов]
+gui.SC2:transferStacks=§7Перегрузить максимально [%1] [%2:стака|стаков]
+gui.SC2:transferAllShort=§7МАКС.
+gui.SC2:transferItemsShort=§7шт.
+gui.SC2:transferStacksShort=§7ст.
+gui.SC2:changeTransferCartArea=§7Изменить модуль вагонетки
+gui.SC2:unknownAreaMessage=§7Неизвестный параметр
+gui.SC2:cartAreaAll=§7Все слоты
+gui.SC2:cartAreaEngine=§7Двигатель
+gui.SC2:cartAreaRailer=§7Рельсы
+gui.SC2:cartAreaStorage=§7Хранилище
+gui.SC2:cartAreaTorches=§7Факелы
+gui.SC2:cartAreaExplosives=§7Взрывчатка
+gui.SC2:cartAreaArrows=§7Стрелы
+gui.SC2:cartAreaBridge=§7Строительные материалы
+gui.SC2:cartAreaSeeds=§7Семена
+gui.SC2:cartAreaFertilizer=§7Удобрение
+gui.SC2:cartAreaSaplings=§7Саженцы
+gui.SC2:cartAreaFirework=§7Фейерверк
+gui.SC2:cartAreaBuckets=§7Вёдра (для доения)
+gui.SC2:cartAreaCakes=§7Торты
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Жидкость
+gui.SC2:changeTankLayout=§7Изменить распределение слотов
+gui.SC2:layoutSharedTanks=§7Все резервуары доступны любой стороне
+gui.SC2:layoutSidedTanks=§7У каждой стороны свои резервуары
+gui.SC2:layoutColorTanks=§7У каждого цвета свои резервуары
+gui.SC2:transferAllLiquid=§7Перекачать как можно больше
+gui.SC2:transferBuckets=§7Перекачать максимально [%1]
+gui.SC2:transferAllLiquidShort=§7МАКС.
+gui.SC2:transferBucketShort=§7Вёдер
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Переключатель модулей
+gui.SC2:optionDrill=§7Бур
+gui.SC2:optionShield=§7Щит
+gui.SC2:optionInvisibility=§7Невидимость
+gui.SC2:optionChunk=§7Загрузка чанков
+gui.SC2:optionCageAuto=§7Автоматически ловить в клетку
+gui.SC2:optionCage=§7Ловить в клетку
+gui.SC2:settingDisabled=§7Выключено
+gui.SC2:settingOrange=§7Оранжевое направление
+gui.SC2:settingBlue=§7Синее направление
+gui.SC2:stateActivate=§7Включить
+gui.SC2:stateDeactivate=§7Выключить
+gui.SC2:stateToggle=§7Переключить
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Внешний распределитель
+gui.SC2:distributorNotConnected=§7Не соединён ни с одним менеджером!
+gui.SC2:sideName=§7[%1] сторона
+gui.SC2:dropInstruction=§7Бросьте здесь, чтобы добавить данную опцию
+gui.SC2:removeInstruction=§7ПКМ, чтобы удалить
+gui.SC2:distributorAll=§7Все
+gui.SC2:distributorRed=§7Красный
+gui.SC2:distributorBlue=§7Синий
+gui.SC2:distributorYellow=§7Жёлтый
+gui.SC2:distributorGreen=§7Зелёный
+gui.SC2:distributorTopLeft=§7Верхний левый
+gui.SC2:distributorTopRight=§7Верхний правый
+gui.SC2:distributorBottomLeft=§7Нижний левый
+gui.SC2:distributorBottomRight=§7Нижний правый
+gui.SC2:distributorToCart=§7В вагонетку
+gui.SC2:distributorFromCart=§7Из вагонетки
+gui.SC2:managerTop=§7Верхний менеджер
+gui.SC2:managerBot=§7Нижний менеджер
+gui.SC2:distributorSideOrange=§7Оранжевый
+gui.SC2:distributorSidePurple=§7Фиолетовый
+gui.SC2:distributorSideYellow=§7Жёлтый
+gui.SC2:distributorSideGreen=§7Зелёный
+gui.SC2:distributorSideBlue=§7Синий
+gui.SC2:distributorSideRed=§7Красный
+gui.SC2:sideToolTip=§7Сторона: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7ВЫВОД
+gui.SC2:operatorAnd=§7AND (и)
+gui.SC2:operatorOr=§7OR (или)
+gui.SC2:operatorNot=§7NOT (не)
+gui.SC2:operatorXor=§7XOR (не-или)
+gui.SC2:operatorTopUnit=§7Верхний узел
+gui.SC2:operatorBotUnit=§7Нижний узел
+gui.SC2:operatorNorthUnit=§7Северный узел
+gui.SC2:operatorWestUnit=§7Западный узел
+gui.SC2:operatorSouthUnit=§7Южный узел
+gui.SC2:operatorEastUnit=§7Восточный узел
+gui.SC2:operatorRedstone=§7Красный сигнал
+gui.SC2:operatorRedstoneTop=§7Красный сигнал сверху
+gui.SC2:operatorRedstoneBot=§7Красный сигнал снизу
+gui.SC2:operatorRedstoneNorth=§7Красный сигнал с севера
+gui.SC2:operatorRedstoneWest=§7Красный сигнал с запада
+gui.SC2:operatorRedstoneSouth=§7Красный сигнал с юга
+gui.SC2:operatorRedstoneEast=§7Красный сигнал с востока
+gui.SC2:stateRails=§7Есть рельсы
+gui.SC2:stateTorches=§7Есть факелы
+gui.SC2:stateSaplings=§7Есть саженцы
+gui.SC2:sateSeeds=§7Есть семена
+gui.SC2:stateBridge=§7Есть материал для моста
+gui.SC2:stateProjectiles=§7Есть снаряды
+gui.SC2:stateFertilizing=§7Есть удобрения
+gui.SC2:stateShield=§7Щит включен
+gui.SC2:stateChunk=§7Подгрузчик чанков включен
+gui.SC2:stateInvisibility=§7Ядро невидимости включено
+gui.SC2:stateDrill=§7Бур включен
+gui.SC2:stateCage=§7Автозахват включен
+gui.SC2:stateStorageFull=§7Полное хранилище
+gui.SC2:stateStorageEmpty=§7Пустое хранилище
+gui.SC2:statePassenger=§7Есть пассажир
+gui.SC2:stateAnimal=§7Пассажир: Животное
+gui.SC2:stateTameable=§7Приручаемый пассажир
+gui.SC2:stateBreedable=§7Размножаемый пассажир
+gui.SC2:stateHostile=§7Враждебный пассажир
+gui.SC2:stateCreeper=§7Пассажир: Крипер
+gui.SC2:stateSkeleton=§7Пассажир: Скелет
+gui.SC2:stateSpider=§7Пассажир: Паук
+gui.SC2:stateZombie=§7Пассажир: Зомби
+gui.SC2:stateZombiePigMan=§7Пассажир: Зомби-свиночеловек
+gui.SC2:stateSilverFish=§7Пассажир: Чешуйница
+gui.SC2:stateBlaze=§7Пассажир: Ифрит
+gui.SC2:stateBat=§7Пассажир: Летучая мышь
+gui.SC2:stateWitch=§7Пассажир: Ведьма
+gui.SC2:statePig=§7Пассажир: Свинья
+gui.SC2:stateSheep=§7Пассажир: Овца
+gui.SC2:stateCow=§7Пассажир: Корова
+gui.SC2:stateMooshroom=§7Пассажир: Грибная корова
+gui.SC2:stateChicken=§7Пассажир: Курица
+gui.SC2:stateWolf=§7Пассажир: Волк
+gui.SC2:stateSnowGolem=§7Пассажир: Снеговик
+gui.SC2:stateOcelot=§7Пассажир: Оцелот
+gui.SC2:stateVillager=§7Пассажир: Деревенский житель
+gui.SC2:statePlayer=§7Пассажир: Игрок
+gui.SC2:stateZombieVillager=§7Пассажир: Зомби-житель
+gui.SC2:stateChild=§7Пассажир: Ребенок
+gui.SC2:stateTamed=§7Прирученный пассажир
+gui.SC2:statePowerRed=§7Красный сигнал датчика энергии
+gui.SC2:statePowerBlue=§7Синий сигнал датчика энергии
+gui.SC2:statePowerGreen=§7Зеленый сигнал датчика энергии
+gui.SC2:statePowerYellow=§7Желтый сигнал датчика энергии
+gui.SC2:stateTanksFull=§7Все баки полны
+gui.SC2:stateTanksEmpty=§7Все баки пусты
+gui.SC2:stateTankEmpty=§7Есть полностью пустой бак
+
+
+# =§7=====================================
+				ITEMS
+# =§7=====================================
+
+# Carts
+item.SC2:ModularCart.name=§7Модульная вагонетка
+
+# Modules
+item.SC2:unknownmodule.name=§7Неизвестный модуль SC2
+item.SC2:coal_engine.name=§7Угольный двигатель
+item.SC2:solar_engine.name=§7Солнечный двигатель
+item.SC2:side_chests.name=§7Боковые сундуки
+item.SC2:top_chest.name=§7Верхний сундук
+item.SC2:front_chest.name=§7Передний сундук
+item.SC2:internal_storage.name=§7Внутреннее хранилище
+item.SC2:extracting_chests.name=§7Выезжающие сундуки
+item.SC2:torch_placer.name=§7Установщик факелов
+item.SC2:basic_drill.name=§7Простой бур
+item.SC2:galgadorian_drill.name=§7Галгадорианский бур
+item.SC2:railer.name=§7Путеукладчик
+item.SC2:large_railer.name=§7Большой путеукладчик
+item.SC2:bridge_builder.name=§7Мостостроитель
+item.SC2:track_remover.name=§7Путеразборщик
+item.SC2:basic_farmer.name=§7Простой комбайнер
+item.SC2:basic_wood_cutter.name=§7Простой лесоруб
+item.SC2:hydrator.name=§7Орошатель
+item.SC2:height_controller.name=§7Регулятор высоты
+item.SC2:fertilizer.name=§7Удабриватель
+item.SC2:entity_detector_animal.name=§7Детектор объектов: Животные
+item.SC2:liquid_sensors.name=§7Сенсор жидкостей
+item.SC2:entity_detector_villager.name=§7Детектор объектов: Деревенские жители
+item.SC2:entity_detector_player.name=§7Детектор объектов: Игроки
+item.SC2:seat.name=§7Сиденье
+item.SC2:entity_detector_monster.name=§7Детектор объектов: Монстры
+item.SC2:advanced_control_system.name=§7Улучшенная система управления
+item.SC2:brake_handle.name=§7Ручник
+item.SC2:advanced_shooter.name=§7Улучшенный стрелок
+item.SC2:shooter.name=§7Стрелок
+item.SC2:dynamite_carrier.name=§7Перевозчик динамита
+item.SC2:cleaning_machine.name=§7Очищающая машина
+item.SC2:extreme_melter.name=§7Чрезмерный расплавитель
+item.SC2:divine_shield.name=§7Божественный щит
+item.SC2:melter.name=§7Расплавитель
+item.SC2:standard_hull.name=§7Обычный корпус
+item.SC2:reinforced_hull.name=§7Усиленный корпус
+item.SC2:invisibility_core.name=§7Ядро невидимости
+item.SC2:wooden_hull.name=§7Деревянный корпус
+item.SC2:iron_drill.name=§7Железный бур
+item.SC2:hardened_drill.name=§7Закалённый бур
+item.SC2:note_sequencer.name=§7Нотный секвенсер
+item.SC2:colorizer.name=§7Цветовая панель
+item.SC2:pumpkin_chariot.name=§7Тыквенная колесница
+item.SC2:tiny_coal_engine.name=§7Маленький угольный двигатель
+item.SC2:basic_solar_engine.name=§7Маленький солнечный двигатель
+item.SC2:projectile_potion.name=§7Снаряд: Зелье
+item.SC2:gift_storage.name=§7Хранилище подарков
+item.SC2:chunk_loader.name=§7Подгрузчик чанков
+item.SC2:entity_detector_bat.name=§7Детектор объектов: Летучая мышь
+item.SC2:freezer.name=§7Замораживатель
+item.SC2:projectile_snowball.name=§7Снаряд: Снежок
+item.SC2:projectile_egg.name=§7Снаряд: Яйцо
+item.SC2:projectile_fire_charge.name=§7Снаряд: Огненный шар
+item.SC2:firework_display.name=§7Дисплей фейерверка
+item.SC2:crop_nether_wart.name=§7Семя: Адский нарост
+item.SC2:cage.name=§7Клетка
+item.SC2:compact_solar_engine.name=§7Компактный солнечный двигатель
+item.SC2:internal_tank.name=§7Внутренний бак
+item.SC2:mechanical_pig.name=§7Механическая свинья
+item.SC2:creative_engine.name=§7Творческий двигатель
+item.SC2:incinerator.name=§7Мусоросжигатель
+item.SC2:thermal_engine.name=§7Термальный двигатель
+item.SC2:advanced_thermal_engine.name=§7Улучшенный термальный двигатель
+item.SC2:liquid_cleaner.name=§7Очиститель жидкостей
+item.SC2:side_tanks.name=§7Боковые баки
+item.SC2:top_tank.name=§7Верхний бак
+item.SC2:advanced_tank.name=§7Улучшенный бак
+item.SC2:front_tank.name=§7Передний бак
+item.SC2:creative_hull.name=§7Творческий корпус
+item.SC2:power_observer.name=§7Датчик энергии
+item.SC2:steves_arcade.name=§7Аркада Стива
+item.SC2:hardened_wood_cutter.name=§7Закалённый лесоруб
+item.SC2:creative_tank.name=§7Творческий бак
+item.SC2:open_tank.name=§7Открытый бак
+item.SC2:egg_basket=§7Корзина для яиц
+item.SC2:drill_intelligence.name=§7Интеллигентный бур
+item.SC2:lawn_mower.name=§7Газонокосилка
+item.SC2:galgadorian_farmer.name=§7Галгадорианский комбайнер
+item.SC2:crafter.name=§7Крафтер
+item.SC2:milker.name=§7Доительный аппарат
+item.SC2:galgadorian_hull.name=§7Галгадорианский корпус
+item.SC2:galgadorian_wood_cutter.name=§7Галгадорианский лесоруб
+item.SC2:ore_extractor.name=§7Выкапыватель руд
+item.SC2:enchanter.name=§7Зачарователь
+item.SC2:advanced_smelter.name=§7Расширенная плавильня
+item.SC2:advanced_crafter.name=§7Улучшенный крафтер
+item.SC2:experience_bank.name=§7Банка опыта
+item.SC2:information_provider.name=§7Поставщик информации
+item.SC2:planter_range_extender.name=§7Расширение области сажальщика
+item.SC2:tree_exotic.name=§7Экзотические деревья
+item.SC2:smelter.name=§7Плавильня
+item.SC2:projectile_cake.name=§7Снаряд: Торт
+item.SC2:trick_or_treat_cake_server.name=§7Подносчик тортов Сладость-или-Гадость
+item.SC2:cake_server.name=§7Подносчик тортов
+item.SC2:creative_incinerator.name=§7Творческий мусоросжигатель
+item.SC2:creative_supplies.name=§7Творческий поставщик ресурсов
+
+# Components
+item.SC2:unknowncomponent.name=§7Неизвестный компонент SC2
+item.SC2:wooden_wheels.name=§7Деревянные колёса
+item.SC2:iron_wheels.name=§7Железные колёса
+item.SC2:red_pigment.name=§7Красный пигмент
+item.SC2:green_pigment.name=§7Зелёный пигмент
+item.SC2:blue_pigment.name=§7Синий пигмент
+item.SC2:glass_o'magic.name=§7Магическое стекло
+item.SC2:dynamite.name=§7Динамит
+item.SC2:simple_pcb.name=§7Простая печатная плата
+item.SC2:graphical_interface.name=§7Графический интерфейс
+item.SC2:raw_handle.name=§7Заготовок ручника
+item.SC2:refined_handle.name=§7Закалённый заготовок ручника
+item.SC2:speed_handle.name=§7Регулятор скорости
+item.SC2:wheel.name=§7Руль
+item.SC2:saw_blade.name=§7Лезвие пилы
+item.SC2:advanced_pcb.name=§7Улучшенная печатная плата
+item.SC2:wood_cutting_core.name=§7Ядро модуля лесоруба
+item.SC2:raw_hardener.name=§7Необработанный укрепитель
+item.SC2:refined_hardener.name=§7Закалённый укрепитель
+item.SC2:hardened_mesh.name=§7Укреплённая сетка
+item.SC2:stabilized_metal.name=§7Стабилизированный металл
+item.SC2:reinforced_metal.name=§7Закалённый металл
+item.SC2:reinforced_wheels.name=§7Укрепленные колеса
+item.SC2:pipe.name=§7Труба
+item.SC2:shooting_station.name=§7Основа стрелка
+item.SC2:entity_scanner.name=§7Сканер объектов
+item.SC2:entity_analyzer.name=§7Анализатор объектов
+item.SC2:empty_disk.name=§7Пустой диск
+item.SC2:tri-torch.name=§7Тройка факелов
+item.SC2:chest_pane.name=§7Панель сундука
+item.SC2:large_chest_pane.name=§7Большая панель сундука
+item.SC2:huge_chest_pane.name=§7Огромная панель сундука
+item.SC2:chest_lock.name=§7Сундучный замок
+item.SC2:iron_pane.name=§7Железная панель
+item.SC2:large_iron_pane.name=§7Большая железная панель
+item.SC2:huge_iron_pane.name=§7Огромная железная панель
+item.SC2:dynamic_pane.name=§7Динамическая панель
+item.SC2:large_dynamic_pane.name=§7Большая динамическая панель
+item.SC2:huge_dynamic_pane.name=§7Огромная динамическая панель
+item.SC2:cleaning_fan.name=§7Вентилятор очистителя
+item.SC2:cleaning_core.name=§7Основание очистителя
+item.SC2:cleaning_tube.name=§7Труба очистителя
+item.SC2:fuse.name=§7Фитиль
+item.SC2:solar_panel.name=§7Солнечная батарея
+item.SC2:eye_of_galgador.name=§7Глаз Галгадора
+item.SC2:lump_of_galgador.name=§7Глыба Галгадора
+item.SC2:galgadorian_metal.name=§7Галгадорианский металл
+item.SC2:large_lump_of_galgador.name=§7Большая глыба Галгадора
+item.SC2:enhanced_galgadorian_metal.name=§7Усиленный Галгадорианский металл
+item.SC2:stolen_present.name=§7Украденный подарок
+item.SC2:green_wrapping_paper.name=§7Зеленая подарочная бумага
+item.SC2:red_wrapping_paper.name=§7Красная подарочная бумага
+item.SC2:warm_hat.name=§7Теплая шапка
+item.SC2:red_gift_ribbon.name=§7Красная подарочная лента
+item.SC2:yellow_gift_ribbon.name=§7Желтая подарочная лента
+item.SC2:sock.name=§7Носок
+item.SC2:stuffed_sock.name=§7Наполненный носок
+item.SC2:advanced_solar_panel.name=§7Улучшенная солнечная батарея
+item.SC2:blank_upgrade.name=§7Пустое улучшение
+item.SC2:tank_valve.name=§7Вентиль бака
+item.SC2:tank_pane.name=§7Панель бака
+item.SC2:large_tank_pane.name=§7Большая панель бака
+item.SC2:huge_tank_pane.name=§7Огромная панель бака
+item.SC2:liquid_cleaning_core.name=§7Основание очистителя жидкостей
+item.SC2:liquid_cleaning_tube.name=§7Труба очистителя жидкостей
+item.SC2:explosive_easter_egg.name=§7Взрывчатое пасхальное яйцо
+item.SC2:burning_easter_egg.name=§7Горящее пасхальное яйцо
+item.SC2:glistering_easter_egg.name=§7Сверкающее пасхальное яйцо
+item.SC2:chocolate_easter_egg.name=§7Шоколадное пасхальное яйцо
+item.SC2:painted_easter_egg.name=§7Раскрашенное пасхальное яйцо
+item.SC2:basket.name=§7Короб
+item.SC2:oak_log.name=§7Древесина дуба
+item.SC2:oak_twig.name=§7Дубовые ветки
+item.SC2:spruce_log.name=§7Древесина ели
+item.SC2:spruce_twig.name=§7Еловые ветки
+item.SC2:birch_log.name=§7Древесина березы
+item.SC2:birch_twig.name=§7Березовые ветки
+item.SC2:jungle_log.name=§7Древесина тропического дерева
+item.SC2:jungle_twig.name=§7Ветки тропического дерева
+item.SC2:hardened_saw_blade.name=§7Усиленное лезвие пилы
+item.SC2:galgadorian_saw_blade.name=§7Галгадорианское лезвие пилы
+item.SC2:galgadorian_wheels.name=§7Галгадорианские колеса
+item.SC2:iron_blade.name=§7Железное лезвие
+item.SC2:blade_arm.name=§7Ротор
+
+
+
+# =§7=====================================
+				BLOCKS
+# =§7=====================================
+
+tile.SC2:BlockCargoManager.name=§7Менеджер груза
+tile.SC2:BlockJunction.name=§7Железнодорожный узел
+tile.SC2:BlockAdvDetector.name=§7Улучшенный нажимные рельсы
+tile.SC2:BlockCartAssembler.name=§7Конструктор вагонеток
+tile.SC2:BlockActivator.name=§7Переключатель модулей
+tile.SC2:BlockDistributor.name=§7Внешний распределитель
+tile.SC2:BlockLiquidManager.name=§7Менеджер жидкостей
+
+# Storage
+item.SC2:BlockStorage0.name=§7Блок закаленного металла
+item.SC2:BlockStorage1.name=§7Галгадорианский блок
+item.SC2:BlockStorage2.name=§7Усиленный Галгадорианский блок
+
+# Upgrades
+item.SC2:batteries.name=§7Улучшение: Батареи
+item.SC2:power_crystal.name=§7Улучшение: Энергетический кристалл
+item.SC2:module_knowledge.name=§7Улучшение: Модуль знаний
+item.SC2:industrial_espionage.name=§7Улучшение: Промышленный шпионаж
+item.SC2:experienced_assembler.name=§7Улучшение: Опытный конструктор
+item.SC2:new_era.name=§7Улучшение: Новая эра
+item.SC2:co2_friendly.name=§7Улучшение: Экологически чист
+item.SC2:generic_engine.name=§7Улучшение: Универсальный двигатель
+item.SC2:module_input.name=§7Улучшение: Разъем для модулей
+item.SC2:production_line.name=§7Улучшение: Заводской конвейер
+item.SC2:cart_deployer.name=§7Улучшение: Запуск вагонетки
+item.SC2:cart_modifier.name=§7Улучшение: Модификатор вагонеток
+item.SC2:cart_crane.name=§7Улучшение: Подъемный кран
+item.SC2:redstone_control.name=§7Улучшение: Под красным управлением
+item.SC2:creative_mode.name=§7Улучшение: Творческий режим
+item.SC2:quick_demolisher.name=§7Улучшение: Быстрый демонтаж
+item.SC2:manager_bridge.name=§7Улучшение: Соединение с распределителем
+item.SC2:entropy.name=§7Улучшение: Энтропия
+item.SC2:solar_panel_upgrade.name=§7Улучшение: Солнечная батарея
+item.SC2:thermal_engine_upgrade.name=§7Улучшение: Термальный двигатель
+
+# Detector Units
+item.SC2:BlockDetector0.name=§7Датчик: Менеджер
+item.SC2:BlockDetector1.name=§7Датчик: Узел
+item.SC2:BlockDetector2.name=§7Датчик: Станция
+item.SC2:BlockDetector3.name=§7Датчик: Железнодорожный узел
+item.SC2:BlockDetector4.name=§7Датчик: Красный узел
+
+
+
+# =§7=====================================
+				MODULE MISC
+# =§7=====================================
+
+# Categories
+info.SC2:moduleCategoryHull=§7Корпус
+info.SC2:moduleCategoryEngine=§7Двигатель
+info.SC2:moduleCategoryTool=§7Инструмент
+info.SC2:moduleCategoryStorage=§7Хранилище
+info.SC2:moduleCategoryAddon=§7Расширение
+info.SC2:moduleCategoryAttachment=§7Приспособление
+
+# Groups
+info.SC2:moduleGroupEngine=§7[%1:Двигатель|Двигатели]
+info.SC2:moduleGroupDrill=§7[%1:Бур|Буры]
+info.SC2:moduleGroupFarmer=§7[%1:Комбайнер|Комбайнеры]
+info.SC2:moduleGroupCutter=§7[%1:Лесоруб|Лесорубы]
+info.SC2:moduleGroupTank=§7[%1:Бак|Баки]
+info.SC2:moduleGroupEntity=§7[%1:Детектор объектов|Детекторы объектов]
+info.SC2:moduleGroupShooter=§7[%1:Стрелок|Стрелки]
+info.SC2:moduleGroupTool=§7[%1:Инструмент|Инструменты]
+info.SC2:moduleGroupToolShooter=§7[%1:Инструмент|Инструменты] или [%1:Стрелок|Стрелки]
+
+# Messages
+info.SC2:pigExtraMessage=§7В память победы Vswe's на арене Thunderpig. Спасибо всем, кто пожертвовал во время 2013 Minecraft Marathon
+info.SC2:oceanExtraMessage=§7Место для вполне обычного океана
+info.SC2:alphaExtraMessage=§71 год в альфе
+info.SC2:storageEmpty=§7Пусто
+info.SC2:storageFull=§7Полно
+info.SC2:giftStorageFull=§7Может содержать подарки
+info.SC2:eggStorageFull=§7Полон яиц
+
+# Labels
+info.SC2:modularCost=§7Модульная стоимость
+info.SC2:cartSideTop=§7Верхнее
+info.SC2:cartSideCenter=§7Внутреннее
+info.SC2:cartSideBottom=§7Нижнее
+info.SC2:cartSideBack=§7Заднее
+info.SC2:cartSideLeft=§7Левое
+info.SC2:cartSideRight=§7Правое
+info.SC2:cartSideFront=§7Переднее
+info.SC2:occupiedSides=§7Займет [%1] [%2:место|места]
+info.SC2:sidesAnd=§7и
+info.SC2:noSides=§7Не займет ни одну из сторон
+info.SC2:moduleConflictHowever=§7Однако будет коллизия с
+info.SC2:moduleConflictAlso=§7Также будет коллизия с
+info.SC2:moduleRequirement=§7Необходимо:
+info.SC2:moduleCount1=§7один
+info.SC2:moduleCount2=§7два
+info.SC2:moduleCount3=§7три
+info.SC2:allowDuplicates=§7Дупликаты разрешены
+info.SC2:moduleType=§7Тип
+info.SC2:capacityOverloadError=§7Данная стоимость выше, чем у корпуса места.
+info.SC2:impossibleCombinationError=§7Комбинация типов модулей не верна и не должна быть возможна.
+info.SC2:complexityOverloadError=§7Модуль "[%1]" слишком сложен для этого корпуса.
+info.SC2:missingParentError=§7Для работы [%1] необходим [%2]!
+info.SC2:presentNemesisError=§7[%1] не работает вместе с [%2]
+info.SC2:presentDuplicateError=§7[%1] не может быть добавлен дважды.
+info.SC2:sideClashError=§7[%1] и [%2] приведут к конфликту на [%3]
+info.SC2:toolUnbreakable=§7Неломаемый
+info.SC2:toolDurability=§7Прочность: [%1]%
+info.SC2:modularCapacity=§7Модульная вместимость: [%1]
+info.SC2:complexityCap=§7Предел модульной сложности: [%1]
+info.SC2:maxEngineCount=§7Макс. кол-во двигателей: [%1]
+info.SC2:maxAddonCount=§7Макс. кол-во расширений: [%1]
+
+# =§7=====================================
+				UPGRADES
+# =§7=====================================
+
+info.SC2:effectBlueprint=§7Разрешает использовать схемы конструкции.
+info.SC2:effectCombustionFuel=§7Разрешает обычное топливо.
+info.SC2:effectDeployer=§7Вагонетки выводятся на рельсы после монтажа.
+info.SC2:effectDisassemble=§7Теперь можно изменять готовые вагонетки.
+info.SC2:effectFuelCapacity=§7Объем топлива [%1].
+info.SC2:effectFuelCost=§7Потребление топлива [%1]%.
+info.SC2:effectInputChest=§7Сундук на [%1] слот(ов).
+info.SC2:effectManagerBridge=§7Соединяет конструктора с менеджером.
+info.SC2:effectGenerator=§7Генерирует [%1] [%2:ед.|ед.] энергии в минуту.
+info.SC2:effectRedstone=§7Монтаж можно начать сигналом редстоуна.
+info.SC2:effectSolar=§7Генерирует энергию на солнце.
+info.SC2:effectThermal=§7Работает на лаве из внутреннего бака.
+info.SC2:effectTimeFlat=§7Монтаж модулей [%1] [%1:секунда|секунд].
+info.SC2:effectTimeFlatCart=§7Сборка вагонетки [%1] [%1:секунда|секунд].
+info.SC2:effectTimeFlatRemove=§7Демонтаж модулей [%1] [%1:секунда|секунд].
+info.SC2:effectTransposer=§7Принимает вагонетки на тех. обслуживание
+info.SC2:effectEfficiency=§7Эффективность сборки [%1]%.
+
+
+# =§7=====================================
+				MODULES
+# =§7=====================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=§7Животные
+modules.addons.SC2:detectorBats=§7Летучие мыши
+modules.addons.SC2:detectorMonsters=§7Монстры
+modules.addons.SC2:detectorPlayers=§7Игроки
+modules.addons.SC2:detectorVillagers=§7Деревенские жители
+modules.addons.SC2:planterRangeExtenderTitle=§7Область сажания
+modules.addons.SC2:saplingPlantAmount=§7Количество саженцев
+modules.addons.SC2:controlLeverTitle=§7Рычаг управления #полетом
+modules.addons.SC2:leverStartCart=§7Включить двигатель
+modules.addons.SC2:leverStopCart=§7Остановить вагонетку
+modules.addons.SC2:leverTurnAroundCart=§7Развернуть вагонетку
+modules.addons.SC2:colorizerRgbRed=§7Красный
+modules.addons.SC2:colorizerRgbGreen=§7Зеленый
+modules.addons.SC2:colorizerRgbBlue=§7Синий
+modules.addons.SC2:intelligenceLockedBlock=§7Бур всегда будет разбивать этот блок
+modules.addons.SC2:intelligenceChange=§7Изменить выборку бура
+modules.addons.SC2:intelligenceCurrent=§7Сейчас: [%1->Включено|Выключено]
+modules.addons.SC2:enchanterInstruction=§7Положить зачарованную книгу в левый слот.
+modules.addons.SC2:invisibilityToggle=§7[%1->Включить|Выключить] ядро невидимости
+modules.addons.SC2:informationProviderLabelName=§7Название
+modules.addons.SC2:informationProviderLabelDistance=§7Растояние
+modules.addons.SC2:informationProviderMessageDistance=§7Растояние: [%1]м
+modules.addons.SC2:informationProviderLabelPosition=§7Позиция
+modules.addons.SC2:informationProviderMessagePosition=§7X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=§7Топлива осталось
+modules.addons.SC2:informationProviderMessageFuel=§7Топлива хватит на
+modules.addons.SC2:informationProviderMessageNoConsumption=§7Не расходуется
+modules.addons.SC2:informationProviderLabelStorage=§7Хранилище заполнено
+modules.addons.SC2:informationProviderLabelDurability=§7Прочность
+modules.addons.SC2:informationProviderMessageToolBroken=§7Инструмент сломан
+modules.addons.SC2:informationProviderMessageToolNotBroken=§7Инструмент не поврежден, уберите материал.
+modules.addons.SC2:informationProviderMessageRepair=§7Инструмент чинится
+modules.addons.SC2:informationProviderMessageUnbreakable=§7Инструмент неломаем
+modules.addons.SC2:informationProviderLabels=§7Метки
+modules.addons.SC2:powerThousandSuffix=§7к
+modules.addons.SC2:powerObserverInstruction=§7Нажмите и перетащите в нужную область.
+modules.addons.SC2:powerObserverRemoveInstruction=§7ПКМ, чтобы удалить.
+modules.addons.SC2:powerObserverDropInstruction=§7Перетащите двигатель сюда.
+modules.addons.SC2:powerObserverChangeInstruction=§7Кликните, чтобы изменить лимит энергии
+modules.addons.SC2:powerObserverChangeInstruction10=§7Shift+Клик, чтобы изменить на 10к
+modules.addons.SC2:recipeOutput=§7Изменить место вывода
+modules.addons.SC2:recipeCurrentSelection=§7Сейчас
+modules.addons.SC2:recipeInvalidOutput=§7Неизвестно
+modules.addons.SC2:recipeChangeMode=§7Изменить текущую настройку
+modules.addons.SC2:recipeNoLimit=§7Нет предела
+modules.addons.SC2:recipeLimit=§7Лимитировать имеющиеся предметы
+modules.addons.SC2:recipeDisabled=§7Ничего не производить
+modules.addons.SC2:recipeChangeLimit=§7[%1->Увеличить|Уменьшить] поддерживаемое кол-во предметов.
+modules.addons.SC2:recipeChangeLimit10=§7Shift+Клик - изменить на 10.
+modules.addons.SC2:recipeChangeLimit64=§7Ctrl+Клик - изменить на 64.
+modules.addons.SC2:shieldToggle=§7[%1->Включить|Выключить] щит
+
+# Engines
+modules.engines.SC2:creativePowerLevel=§7Энергия: [%1]
+modules.engines.SC2:coalEngineTitle=§7Угольный двигатель
+modules.engines.SC2:outOfFuel=§7Топлива нет
+modules.engines.SC2:fuelLevel=§7Топливо: [%1]
+modules.engines.SC2:solarEngineTitle=§7Солнечная батарея
+modules.engines.SC2:outOfPower=§7Энергии нет
+modules.engines.SC2:powerLevel=§7Энергия: [%1]
+modules.engines.SC2:thermalEngineTitle=§7Термальный двигатель
+modules.engines.SC2:thermalPowered=§7Работает
+modules.engines.SC2:outOfWater=§7Воды нет
+modules.engines.SC2:outOfLava=§7Лавы нет
+modules.engines.SC2:engineDisabledMessage=§7Выключен
+modules.engines.SC2:enginePriorityMessage=§7[%1->Высокий|Средний|Низкий] приоритет
+
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=§7(Твор. режим) Настройка: [%1][%2->Обычно|Всегда полон|Всегда пуст|Всегда наполовину]
+modules.tanks.SC2:creativeTankChangeMode=§7ПКМ, чтобы изменить
+modules.tanks.SC2:creativeTankResetMode=§7Shift+ПКМ, чтобы вернуться к по умолчанию
+modules.tanks.SC2:tankLocked=§7Зарезервировано для этой жидкости
+modules.tanks.SC2:tankLock=§7Кликните, чтобы зарезервировать
+modules.tanks.SC2:tankUnlock=§7Кликните, чтобы убрать резервацию
+modules.tanks.SC2:tankEmpty=§7Пусто
+modules.tanks.SC2:tankInvalidFluid=§7Неизвестно
+
+# Tools
+modules.tools.SC2:toolDurability=§7Прочность
+modules.tools.SC2:toolBroken=§7Поломано
+modules.tools.SC2:toolRepairing=§7Починка инструмента...
+modules.tools.SC2:toolDecent=§7Заберите ремонтные материалы, инструмент не нуждается в починке.
+modules.tools.SC2:toolRepairInstruction=§7Починить этот инструмент с [%1]
+modules.tools.SC2:toolUnbreakable=§7Этот инструмент не ломается.
+modules.tools.SC2:toolUnbreakableRepairError=§7Заберите ремонтные материалы.
+modules.tools.SC2:drillTitle=§7Бур
+modules.tools.SC2:drillToggle=§7[%1->Включить|Выключить] бур
+modules.tools.SC2:repairDiamonds=§7Алмазы
+modules.tools.SC2:repairIron=§7Железные слитки
+modules.tools.SC2:farmerTitle=§7Комбайнер
+modules.tools.SC2:cutterTitle=§7Лесоруб
+
+# Attachments
+modules.attachments.SC2:fertilizers=§7Удобрения
+modules.attachments.SC2:railerTitle=§7Путеукладчик
+modules.attachments.SC2:controlSystemTitle=§7Ул. сист. управл.
+modules.attachments.SC2:controlSystemDistanceUnits=§7[%1->|k|M|G|T|P]м
+modules.attachments.SC2:controlSystemOdoMeter=§7ОДОМЕТР
+modules.attachments.SC2:controlSystemTripMeter=§7ПОЕЗДКА
+modules.attachments.SC2:cageAutoPickUp=§7[%1->Включить|Выключить] автоподбор
+modules.attachments.SC2:cagePickUp=§7[%1->Взять ближайщее|Отпустить пойманное] существо
+modules.attachments.SC2:cakeServerTitle=§7Подносчик тортов
+modules.attachments.SC2:cakesLabel=§7Торты: [%1] из [%2]
+modules.attachments.SC2:slicesLabel=§7Кусочки: [%1] из [%2]
+modules.attachments.SC2:explosivesTitle=§7Взрывчатка
+modules.attachments.SC2:experienceTitle=§7Опыт
+modules.attachments.SC2:experienceLevel=§7Уровень: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=§7Нажмите для получения 50ед. опыта
+modules.attachments.SC2:experiencePlayerLevel=§7Ваш текущий уровень: [%1]
+modules.attachments.SC2:shooterTitle=§7Стрелок
+modules.attachments.SC2:shooterFrequency=§7#/с
+modules.attachments.SC2:shooterSeconds=§7с
+modules.attachments.SC2:shooterDelay=§7Задержка
+modules.attachments.SC2:notePiano=§7Пианино
+modules.attachments.SC2:noteBassDrum=§7Большой барабан
+modules.attachments.SC2:noteSnareDrum=§7Малый барабан
+modules.attachments.SC2:noteSticks=§7Палочки
+modules.attachments.SC2:noteBassGuitar=§7Бас-гитара
+modules.attachments.SC2:noteCreateTrack=§7Новая мелодия
+modules.attachments.SC2:noteRemoveTrack=§7Убрать нижнюю мелодию
+modules.attachments.SC2:noteActivateInstrument=§7Включить [%1]
+modules.attachments.SC2:noteDeactivateInstrument=§7Удалить инструмент
+modules.attachments.SC2:noteDelay=§7Изменить задерждку. Текущая задержка: [%1]
+modules.attachments.SC2:noteAdd=§7Добавить ноту к мелодии #[%1]
+modules.attachments.SC2:noteRemove=§7Удалить самую правую ноту #[%1]
+modules.attachments.SC2:noteVolume=§7Громкость: [%1->Выкл.|Низкая|Средняя|Высокая]
+modules.attachments.SC2:seatStateMessage=§7[%1->Эта вагонетка занята|Сесть в вагонетку|Покинуть вагонетку]
+modules.attachments.SC2:controlSystemReset=§7Сбросить счетчик
+
+# =§7=====================================
+				Steve's Arcade 
+# =§7=====================================
+# Ghast Invaders
+arcade.SC2:ghastInvaders=§7Ghast Invaders
+arcade.SC2:ghastLives=§7Жизней
+arcade.SC2:highScore=§7Рекорд: [%1]
+arcade.SC2:score=§7Очки: [%1]
+arcade.SC2:instructionShoot=§7Выстрелить
+arcade.SC2:instructionLeft=§7Влево
+arcade.SC2:instructionRight=§7Вправо
+arcade.SC2:instructionRestart=§7Рестарт
+arcade.SC2:creeperSweeper=§7Сапёрокрипер
+arcade.SC2:creeperMapName1=§7Маленький
+arcade.SC2:creeperMapName2=§7Средний
+arcade.SC2:creeperMapName3=§7Большой
+arcade.SC2:creepersLeft=§7Криперов осталось:  [%1]
+arcade.SC2:creeperTime=§7Прошедшее время: [%1]с
+arcade.SC2:instructionChangeMap=§7Изменить размер карты
+arcade.SC2:creeperCurrentMap=§7Текущая карта [%1]
+arcade.SC2:creeperHighScores=§7Таблица рекордов
+arcade.SC2:creeperHighScore=§7[%1]: [%2]с
+arcade.SC2:mobStacker=§7Упаковщик мобов
+arcade.SC2:stackerRemovedLines=§7Рядов убрано: [%1]
+arcade.SC2:stackerRemovedLinesCombo=§7[%1->Один|Два|Три|Четыре] ряд(а) убран(о): [%2]
+arcade.SC2:instructionRotate=§7Повернуть
+arcade.SC2:instructionDrop=§7Бросить
+arcade.SC2:trackOperator=§7Путевой обходчик
+arcade.SC2:operatorSaveError=§7Ошибка при сохранении
+arcade.SC2:operatorSave=§7Сохранить
+arcade.SC2:operatorUserCreatedMaps=§7Пользовательские карты
+arcade.SC2:operatorStories=§7Повествования
+arcade.SC2:operatorHelp=§7Нужна помощь по игре? Перейдите в режим повествования и начните рассказ "Это Начало". Чтобы сделать новую карту, перейдите в редактор карт, там будут дополнительные инструкции. Кликните на нажимных рельсах и затем на железнодорожном узле, чтобы их соединить. Если понадобится еще больше информации, посетите Викистраницу.
+arcade.SC2:instructionTrackShape=§7Изменить форму рельс
+arcade.SC2:instructionRotateTrack=§7Повернуть рельсы
+arcade.SC2:instructionFlipTrack=§7Зеркально отобразить рельсы
+arcade.SC2:instructionDefaultDirection=§7Изменить стандартное направление
+arcade.SC2:instructionTrackType=§7Изменить тип рельс
+arcade.SC2:instructionDeleteTrack=§7Удалить рельсу
+arcade.SC2:instructionCopyTrack=§7Копировать рельсу
+arcade.SC2:instructionMoveSteve=§7Развернуть или переместить Стива
+arcade.SC2:instructionMoveMap=§7Переместить карту
+arcade.SC2:instructionPlaceTrack=§7Построить рельсу
+arcade.SC2:instructionDeselectTrack=§7Отменить выделение рельсы
+arcade.SC2:leftMouseButton=§7ЛКМ
+arcade.SC2:rightMouseButton=§7ПКМ
+arcade.SC2:buttonStart=§7Начать
+arcade.SC2:buttonMenu=§7Меню
+arcade.SC2:buttonStop=§7Остановить
+arcade.SC2:buttonNextLevel=§7След. уровень
+arcade.SC2:buttonStartLevel=§7Начать уровень
+arcade.SC2:buttonSelectStory=§7Выбрать рассказ
+arcade.SC2:buttonSelectStoryOther=§7Выбрать другой рассказ
+arcade.SC2:buttonCreateLevel=§7Новый уровень
+arcade.SC2:buttonEditLevel=§7Редактировать уровень
+arcade.SC2:buttonRefreshList=§7Обновить список
+arcade.SC2:buttonSave=§7Сохранить
+arcade.SC2:buttonSaveAs=§7Сохранить как...
+arcade.SC2:buttonCancel=§7Отмена
+#This one is slightly ugly, will probably be re-named later
+stories.beginning.SC2:mapEditor=§7Редактор карт
+
+# Story - The beginning
+stories.beginning.SC2:title=§7Это Начало
+stories.beginning.SC2:mission=§7Стив на задании, ему надо найти карту, чтобы добраться до следующего уровня.
+stories.beginning.SC2:start=§7Чтобы начать, нажмите на кнопку справа.
+stories.beginning.SC2:stop=§7Если хотите, можете нажать на кнопку "Остановить", чтобы остановить его.
+stories.beginning.SC2:map=§7Стив заполучил карту, нажмите на кнопку, чтобы пройти на следующий уровень.
+stories.beginning.SC2:trackOperator=§7Ваша работа как путевого обходчика: Следить за состоянием путей и устранять неисправности. Прежде чем нажать на кнопку старта, кликните на железнодорожных узлах, чтобы изменить их направление.
+stories.beginning.SC2:goodJob=§7Отличная работа, так держать!
+stories.beginning.SC2:changeJunctions=§7Вы всегда можете нажать кнопку "Остановить", чтобы остановить вагонетку и изменить направление рельс.
+stories.beginning.SC2:blast=§7Стив в восторге от поездок на вагонетке, но всему есть предел. Например, если он постоянно ездит по кругу. Удачи!
+stories.beginning.SC2:steel=§7На дорогах всегда встречаются проблемы, для обходчика они носят имя "стальных рельс", соеденения которых, между прочем, не могут быть изменены. Ну что ж, удачи!
+stories.beginning.SC2:detector=§7Нажмные рельсы могут быть и врагами, и друзьями. Когда Стив проедет по нажимной рельсе, соединения рельс могут измениться, даже стальных рельс. Наведите мышку на нажимную рельсу, чтобы увидеть какие соединения будут изменены.
+stories.beginning.SC2:outOfReach=§7Вне досягаемости...
+stories.beginning.SC2:outOfReach2=§7...но это же не остановит Вас?
+stories.beginning.SC2:longJourney=§7После долгого путешествия Стив наконец-то видит конец его поездки...
+stories.beginning.SC2:end=§7...но не всегда все идет по плану. Пока Вы ждете следующих повествований для игры в них, Вы можете создать свои карты и делиться с ними. Откройте редактор карт через вкладку в меню, чтобы начать.
+stories.beginning.SC2:thanks=§7Спасибо за игру! :)
+stories.beginning.SC2:level1=§7Новый день
+stories.beginning.SC2:level2=§7Путевой обходчик
+stories.beginning.SC2:level3=§7Вырваться из кольца
+stories.beginning.SC2:level4=§7Прочен как сталь
+stories.beginning.SC2:level5=§7Перемещение мира
+stories.beginning.SC2:level6=§7Кодовый замок
+stories.beginning.SC2:level7=§7Совсем чуть-чуть
+stories.beginning.SC2:level8=§7Безумие
+stories.beginning.SC2:level9=§7Торт
+
+

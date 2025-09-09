@@ -2,3 +2,67 @@ tile.ae2stuff.Encoder.name=§7Pattern Encoder
 tile.ae2stuff.Grower.name=§7Crystal Growth Chamber
 tile.ae2stuff.Inscriber.name=§7Advanced Inscriber
 tile.ae2stuff.Wireless.name=§7Wireless Connector
+tile.ae2stuff.WirelessHub.name=§7Wireless Hub
+
+item.ae2stuff.WirelessKit.name=§7Wireless Setup Kit
+item.ae2stuff.AdvWirelessKit.name=§7Advanced Wireless Setup Kit
+item.ae2stuff.Visualiser.name=§7Network Visualisation Tool
+
+ae2stuff.error.not_connected=§7Network not connected
+
+ae2stuff.waila.sleep.true=§7Sleeping
+ae2stuff.waila.sleep.false=§7Working
+ae2stuff.waila.power=§7%s / %s AE
+
+ae2stuff.waila.wireless.connected=§7Connected to %s,%s,%s
+ae2stuff.waila.wireless.notconnected=§7Not Connected
+ae2stuff.waila.wireless.channels=§7Channels: %s
+ae2stuff.waila.wireless.power=§7Power Used: %s AE/t
+ae2stuff.waila.wireless.name=§7Name: %s
+
+ae2stuff.gui.lock.on=§7Locked - Can't be removed with automation
+ae2stuff.gui.lock.off=§7Unlocked - Can be removed with automation
+ae2stuff.gui.lock.note=§7If no process is ongoing and middle slot is empty
+
+ae2stuff.gui.recipes=§7Recipes
+
+ae2stuff.wireless.tool.empty=§7Click Wireless Connector to bind
+ae2stuff.wireless.tool.bound1=§7Bound to %s,%s,%s
+ae2stuff.wireless.tool.bound2=§7Click other Wireless Connector to connect
+ae2stuff.wireless.advtool.queueing=§7§aQueuing Mode
+ae2stuff.wireless.advtool.binding=§7§aBinding Mode
+ae2stuff.wireless.advtool.queueing.activated=§7Queuing mode activated
+ae2stuff.wireless.advtool.binding.activated=§7Binding mode activated
+ae2stuff.wireless.advtool.queued=§7Added connector at %s,%s,%s to queue
+ae2stuff.wireless.advtool.queuederror=§7Connector already in queue
+ae2stuff.wireless.advtool.queueing.empty=§7Click Wireless Connectors to add to binding queue
+ae2stuff.wireless.advtool.binding.empty=§7Switch to Queuing Mode to add connectors to queue
+ae2stuff.wireless.advtool.queueing.notempty=§7Current wireless connectors in queue:
+ae2stuff.wireless.advtool.binding.notempty=§7Current wireless connectors in queue to be bound:
+ae2stuff.wireless.advtool.connector.next=§7Next connector in queue: %s,%s,%s
+ae2stuff.wireless.advtool.extra=§7§oSneak right click to change mode between queuing and binding mode
+ae2stuff.wireless.advtool.noconnectors=§7No connectors found in queue. Try putting the tool into queueing mode and adding some
+ae2stuff.wireless.advtool.pop=§7Removed %s,%s,%s from queue
+ae2stuff.wireless.advtool.hub.queued=§7%s hub slots added to queue
+ae2stuff.wireless.advtool.queueing.clear=§7Queue was cleared
+ae2stuff.wireless.tooltips.advtool.queueing.clear=§7Sneak + %s + R-click to clear queue
+ae2stuff.wireless.tooltips.advtool.hubqols.binding=§7%s + R-click to connect to all free hub slots
+ae2stuff.wireless.tooltips.advtool.hubqols.queueing=§7%s + R-click to add all free hub slots to queue
+ae2stuff.wireless.tool.connected=§7Connected to %s,%s,%s
+ae2stuff.wireless.tool.failed=§7Connection failed
+ae2stuff.wireless.tool.dimension=§7Both connectors must be in the same dimension
+ae2stuff.wireless.tool.noexist=§7Bound connector does not exist
+ae2stuff.wireless.tool.security.player=§7Security violation - you are not allowed to modify this network
+ae2stuff.wireless.tool.targethubfull=§7Target Hub is Full
+
+ae2stuff.visualiser.bound=§7Visualising network at %s,%s,%s
+ae2stuff.visualiser.mode=§7Mode:
+ae2stuff.visualiser.set=§7Mode changed to %s
+ae2stuff.visualiser.mode.full=§7Show Everything
+ae2stuff.visualiser.mode.nodes=§7Show Nodes
+ae2stuff.visualiser.mode.channels=§7Show Channels
+ae2stuff.visualiser.mode.nonum=§7Show Channels and Nodes
+ae2stuff.visualiser.mode.p2p=§7Show P2P Links
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff
+ae2stuff.key.mode=§7Mode Switch

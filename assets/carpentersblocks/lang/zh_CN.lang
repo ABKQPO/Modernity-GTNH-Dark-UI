@@ -1,0 +1,60 @@
+# Carpenter's Blocks Language File =§7简体中文
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7木匠锤
+item.itemCarpentersChisel.name=§7木匠凿
+item.itemCarpentersDoor.name=§7木匠门
+item.itemCarpentersBed.name=§7木匠床
+item.itemCarpentersTile.name=§7木匠瓷砖
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7木匠栅栏
+tile.blockCarpentersBed.name=§7木匠床
+tile.blockCarpentersBlock.name=§7木匠方块
+tile.blockCarpentersButton.name=§7木匠按钮
+tile.blockCarpentersDaylightSensor.name=§7木匠阳光传感器
+tile.blockCarpentersCollapsibleBlock.name=§7木匠折叠方块
+tile.blockCarpentersDoor.name=§7木匠门
+tile.blockCarpentersGarageDoor.name=§7木匠卷闸门
+tile.blockCarpentersGate.name=§7木匠栅栏门
+tile.blockCarpentersHatch.name=§7木匠活板门
+tile.blockCarpentersLadder.name=§7木匠梯子
+tile.blockCarpentersLever.name=§7木匠拉杆
+tile.blockCarpentersPressurePlate.name=§7木匠压力盘
+tile.blockCarpentersSlope.wedge.name=§7木匠楔形斜坡
+tile.blockCarpentersSlope.obliqueInterior.name=§7木匠内倾斜坡
+tile.blockCarpentersSlope.obliqueExterior.name=§7木匠外倾斜坡
+tile.blockCarpentersSlope.prism.name=§7木匠棱形斜坡
+tile.blockCarpentersSlope.prismWedge.name=§7木匠三角坡
+tile.blockCarpentersStairs.name=§7木匠楼梯
+tile.blockCarpentersTorch.name=§7木匠火把
+tile.blockCarpentersSafe.name=§7木匠保险箱
+tile.blockCarpentersFlowerPot.name=§7木匠花盆
+
+# ENTITIES
+entity.CarpentersTile.name=§7木匠瓷砖
+
+# MESSAGES
+message.polarity_pos.name=§7输出相: 标准红石信号输出.
+message.polarity_neg.name=§7输出相: 反相红石信号输出.
+message.activation_iron.name=§7激活条件: 类似铁门需要信号控制.
+message.activation_wood.name=§7激活条件: 类似木门不需要信号控制.
+message.trigger_player.name=§7触发条件: 只能由玩家触发.
+message.trigger_monster.name=§7触发条件: 只能由怪物触发.
+message.trigger_animal.name=§7触发条件: 只能由动物触发.
+message.trigger_all.name=§7触发条件: 任何实体均可触发.
+message.safe_lock.name=§7控制: 保险箱已锁.
+message.safe_unlock.name=§7控制: 保险箱已解锁.
+message.automation_all.name=§7自动: 可以放入取出物品.
+message.automation_disabled.name=§7自动: 禁用.
+message.automation_insert.name=§7自动: 仅能放入物品.
+message.automation_extract.name=§7自动: 仅能取出物品.
+message.block_lock.name=§7控制: 该方块已锁.
+message.sensitivity_sleep.name=§7灵敏性:晚间睡觉临界点切换状态 (日出与日落).
+message.sensitivity_monsters.name=§7灵敏性:怪物生成亮度临界点切换状态 (包括雨天).
+message.sensitivity_dynamic.name=§7灵敏性:输出红石信号强度根据太阳位置变化.
+
+# </file>

@@ -1,0 +1,35 @@
+microblock.missing=§7Microblock modu kurulmamış: %s
+multipart.missing=§7Multipart modu kurulmamış: %s
+
+item.microblock:sawStone.name=§7Taş Testere
+item.microblock:sawIron.name=§7Demir Testere
+item.microblock:sawDiamond.name=§7Elmas Testere
+item.microblock:stoneRod.name=§7Taş Çubuk
+
+mcr_face.1.name=§7%s Kapak
+mcr_face.1.subset=§7Kapak
+mcr_face.2.name=§7%s Panel
+mcr_face.2.subset=§7Panel
+mcr_face.4.name=§7Kalın %s
+mcr_face.4.subset=§7Kalın
+
+mcr_hllw.1.name=§7Ortası Boş %s Kapak
+mcr_hllw.1.subset=§7Ortası Boş Cover
+mcr_hllw.2.name=§7Ortası Boş %s Panel
+mcr_hllw.2.subset=§7Ortası Boş Panel
+mcr_hllw.4.name=§7Ortası Boş Kalın %s
+mcr_hllw.4.subset=§7Ortası Boş Kalın
+
+mcr_edge.1.name=§7%s Şerit
+mcr_edge.1.subset=§7Şerit
+mcr_edge.2.name=§7Kalın Şerit %s
+mcr_edge.2.subset=§7Kalın Şerit
+mcr_edge.4.name=§7%s Sütun
+mcr_edge.4.subset=§7Sütun
+
+mcr_cnr.1.name=§7%s Köşe
+mcr_cnr.1.subset=§7Köşe
+mcr_cnr.2.name=§7Orta Köşe %s
+mcr_cnr.2.subset=§7Orta Köşe
+mcr_cnr.4.name=§7Kalın Köşe %s
+mcr_cnr.4.subset=§7Kalın Köşe

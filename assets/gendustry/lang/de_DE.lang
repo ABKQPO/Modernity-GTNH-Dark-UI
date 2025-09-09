@@ -1,0 +1,245 @@
+# =§7=== BLOCKS ====
+
+tile.gendustry.mutagen_producer.name=§7Mutagen-Erzeuger
+tile.gendustry.mutatron.name=§7Mutatron
+tile.gendustry.mutatron_adv.name=§7Erweitertes Mutatron
+tile.gendustry.apiary.name=§7Industrieller Bienenstock
+tile.gendustry.imprinter.name=§7Gen-Drucker
+tile.gendustry.sampler.name=§7Gen-Abtaster
+tile.gendustry.extractor.name=§7DNA-Extraktor
+tile.gendustry.liquifier.name=§7Proteinverflüssiger
+tile.gendustry.replicator.name=§7Genetischer Replikator
+tile.gendustry.transposer.name=§7Genetischer Wandler
+
+# =§7=== GENERAL ITEMS ====
+
+item.gendustry.MutagenTank.name=§7Mutagen-Tank
+item.gendustry.BeeReceptacle.name=§7Bienenbehälter
+item.gendustry.PowerModule.name=§7Energiemodul
+item.gendustry.GeneticsProcessor.name=§7Genetik-Prozessor
+item.gendustry.EnvProcessor.name=§7Umwelt-Prozessor
+item.gendustry.UpgradeFrame.name=§7Upgrade-Rahmen
+item.gendustry.ClimateModule.name=§7Klimakontrollmodul
+item.gendustry.Labware.name=§7Genlabor-Utensilien
+item.gendustry.GeneSample.name=§7Genprobe
+item.gendustry.GeneTemplate.name=§7Genetische Schablone
+item.gendustry.GeneSampleBlank.name=§7Leere Genprobe
+item.gendustry.Waste.name=§7Genetischer Abfall
+item.gendustry.grafter.name=§7Industrielles Pfropfmesser
+item.gendustry.scoop.name=§7Scooporator MX200 Turbo
+item.gendustry.ImportCover.name=§7Item-Import-Blende
+item.gendustry.EjectCover.name=§7Item-Auswurf-Blende
+
+# =§7=== FLUIDS ====
+
+fluid.gendustry.mutagen=§7Mutagen
+fluid.gendustry.liquiddna=§7Flüssige DNA
+fluid.gendustry.protein=§7Protein
+
+tile.gendustry.mutagen.name=§7Mutagen
+tile.gendustry.liquiddna.name=§7Flüssige DNA
+tile.gendustry.protein.name=§7Protein
+
+# =§7=== FLUID CONTAINERS ====
+
+item.gendustry.mutagen.bucket.name=§7Mutagen-Eimer
+item.gendustry.mutagen.can.name=§7Mutagen-Zelle
+item.gendustry.liquiddna.bucket.name=§7Eimer mit flüssiger DNA
+item.gendustry.liquiddna.can.name=§7Zelle mit flüssiger DNA
+item.gendustry.protein.bucket.name=§7Protein-Eimner
+item.gendustry.protein.can.name=§7Protein-Zelle
+
+
+# =§7=== UPGRADES ====
+
+gendustry.upgrades.prod.name=§7Produktions-Upgrade
+gendustry.upgrades.life.name=§7Lebensdauer-Upgrade
+gendustry.upgrades.flowering.name=§7Blüh-Upgrade
+gendustry.upgrades.territory.name=§7Territorien-Upgrade
+gendustry.upgrades.sealing.name=§7Abdichtungs-Upgrade
+gendustry.upgrades.light.name=§7Licht-Upgrade
+gendustry.upgrades.sky.name=§7Freier-Himmel-Upgrade
+gendustry.upgrades.hell.name=§7Höllen-Upgrade
+gendustry.upgrades.auto.name=§7Automatisierungs-Upgrade
+gendustry.upgrades.humidifier.name=§7Befeuchter-Upgrade
+gendustry.upgrades.dryer.name=§7Trockner-Upgrade
+gendustry.upgrades.heater.name=§7Heizungs-Upgrade
+gendustry.upgrades.sieve.name=§7Sieb-Upgrade
+gendustry.upgrades.cooler.name=§7Kühlungs-Upgrade
+gendustry.upgrades.desert.name=§7Wüstensimulations-Upgrade
+gendustry.upgrades.plains.name=§7Ebenen-Simulations-Upgrade
+gendustry.upgrades.jungle.name=§7Dschungelsimulations-Upgrade
+gendustry.upgrades.stabilizer.name=§7Gen-Stabilisierungs-Upgrade
+
+# =§7=== GUI AND TOOLTIPS ====
+
+gendustry.label.template.crafting=§7Genetische Proben können an jeder Werkbank zu einer Schablone hinzugefügt werden. Mehrere Proben können gleichzeitig hinzugefügt werden.
+
+gendustry.label.charges=§7Benutzungen: %s
+gendustry.label.select=§7Auswahl:
+gendustry.label.status=§7Status: %s
+gendustry.label.control=§7Kontrolle: %s
+
+gendustry.label.breeding=§7Züchten
+gendustry.label.working=§7Arbeiten
+gendustry.label.maxinstall=§7Maximal installierbar:
+gendustry.label.temperature=§7Temperatur: %s
+gendustry.label.humidity=§7Feuchtigkeit: %s
+gendustry.label.energy=§7Benötigte Energie: %s %s/t
+gendustry.label.lifespan=§7Lebensdauer-Modifikator: %s
+gendustry.label.flowering=§7Blüh-Wahrscheinlichkeit: %s
+gendustry.label.production=§7Produktions-Modifikator: %s
+gendustry.label.territory=§7Territorium: %s
+
+gendustry.label.erase=§7Im Ofen kann das Genmaterial zerstört werden
+gendustry.label.recipes=§7Klicken um Rezepte zu sehen
+gendustry.label.consume=§7Verbrauchswahrscheinlichkeit: %s%%
+gendustry.label.mutatron.death=§7Todeswahrscheinlichkeit (gemein): %s%%
+gendustry.label.mutatron.degrade=§7Rückschrittwahrscheinlichkeit (unberührt): %s%%
+
+gendustry.label.mod.automated=§7* Automatisierung
+gendustry.label.mod.hellish=§7* Höllenumwelt-Simulation
+gendustry.label.mod.sealed=§7* Regenschutz
+gendustry.label.mod.selflighted=§7* Interne Beleuchtung
+gendustry.label.mod.sky=§7* Freier-Himmel-Simulation
+gendustry.label.mod.energy=§7* Energieverbrauch
+gendustry.label.mod.lifespan=§7* Lebensdauer
+gendustry.label.mod.flowering=§7* Blühen und Bestäuben
+gendustry.label.mod.geneticDecay=§7* Genetischer Verfall
+gendustry.label.mod.mutation=§7* Mutationswahrscheinlichkeit
+gendustry.label.mod.production=§7* Produktion
+gendustry.label.mod.territory=§7* Territorium
+gendustry.label.mod.sieve=§7* Pollensammlung
+gendustry.label.mod.temperature=§7* Temperatur
+gendustry.label.mod.humidity=§7* Feuchtigkeit
+
+gendustry.error.power=§7Nicht genug Energie
+gendustry.error.disabled=§7Ausgeschaltet durch Einstellung
+
+gendustry.label.sample.rootBees=§7Von einer Biene
+gendustry.label.sample.rootTrees=§7Von einem Setzling
+gendustry.label.sample.rootButterflies=§7Von einem Schmetterling
+
+gendustry.label.template.rootBees=§7Kann mit einer Biene verwendet werden
+gendustry.label.template.rootTrees=§7Kann mit einem Setzling verwendet werden
+gendustry.label.template.rootButterflies=§7Kann mit einem Schmetterling verwendet werden
+gendustry.label.template.blank=§7Genprobe kann hinzugefügt werden
+gendustry.label.template.missing=§7Fehlend
+gendustry.label.template.chromosomes=§7%s/%s Chromosomen
+
+gendustry.rsmode.always=§7Immer AN
+gendustry.rsmode.never=§7Ausgeschaltet
+gendustry.rsmode.rs_on=§7Eingeschaltet bei Redstone
+gendustry.rsmode.rs_off=§7Ausgeschaltet bei Redstone
+
+# =§7=== CHROMOSOMES (should match forestry) ====
+
+gendustry.chromosome.FLOWER_PROVIDER=§7Blumen
+gendustry.chromosome.GIRTH=§7Umfang
+gendustry.chromosome.SPEED=§7Geschwindigkeit
+gendustry.chromosome.YIELD=§7Ertrag
+gendustry.chromosome.HEIGHT=§7Höhe
+gendustry.chromosome.GROWTH=§7Wachstum
+gendustry.chromosome.FLOWERING=§7Blühen
+gendustry.chromosome.METABOLISM=§7Metabolismus
+gendustry.chromosome.LIFESPAN=§7Lebensdauer
+gendustry.chromosome.TERRITORY=§7Territorium
+gendustry.chromosome.FERTILITY=§7Fruchtbarkeit
+gendustry.chromosome.SIZE=§7Größe
+gendustry.chromosome.HUMIDITY=§7Feuchtigkeit
+gendustry.chromosome.SPECIES=§7Spezie
+gendustry.chromosome.FIRE_RESIST=§7Feuerresistent
+gendustry.chromosome.TEMPERATURE_TOLERANCE=§7Temperaturtoleranz
+gendustry.chromosome.HUMIDITY_TOLERANCE=§7Feuchtigkeitstoleranz
+gendustry.chromosome.PLANT=§7Pflanze
+gendustry.chromosome.EFFECT=§7Effekt
+gendustry.chromosome.CAVE_DWELLING=§7Höhlenbewohner
+gendustry.chromosome.MATURATION=§7Reifung
+gendustry.chromosome.NOCTURNAL=§7Nachtaktiv
+gendustry.chromosome.TOLERANT_FLYER=§7Toleranter Flieger
+gendustry.chromosome.FRUITS=§7Früchte
+gendustry.chromosome.SAPPINESS=§7Saftigkeit
+
+gendustry.allele.false=§7Falsch
+gendustry.allele.true=§7Wahr
+
+# =§7=== BC TRIGGERS ====
+
+gendustry.trigger.power0=§7Keine Energie
+gendustry.trigger.power25=§7Energie >= 25%
+gendustry.trigger.power50=§7Energie >= 50%
+gendustry.trigger.power75=§7Energie >= 75%
+gendustry.trigger.power100=§7Energie voll
+gendustry.trigger.working=§7Maschine arbeitet
+
+# =§7=== COMMANDS ====
+gendustry.givetemplate.usage=§7/givetemplate <uid>
+gendustry.givetemplate.success=§7Given genetic template %s to %s
+
+gendustry.givesample.usage=§7/givesample <species> <chromosome> <allele>
+gendustry.givesample.error.root=§7Species root not found: %s
+gendustry.givesample.error.allele=§7Allele not found: %s
+gendustry.givesample.error.chromosome=§7Chromosome not found: %s
+gendustry.givesample.error.invalid=§7Invalid allele for requested chromosome
+gendustry.givesample.success=§7Given sample (Species=%s, Chromosome=%s, Allele=%s) to %s
+
+# =§7=== MUTATION REQUIREMENTS ====
+gendustry.req.temperature=§7Benötigt Temperatur: %s
+gendustry.req.humidity=§7Benötigt Feuchtigkeit: %s
+
+# =§7=== BEE SPECIES ====
+gendustry.bees.species.black=§7Schwarz
+gendustry.bees.species.red=§7Rot
+gendustry.bees.species.green=§7Grün
+gendustry.bees.species.brown=§7Braun
+gendustry.bees.species.blue=§7Blau
+gendustry.bees.species.purple=§7Violett
+gendustry.bees.species.cyan=§7Türkis
+gendustry.bees.species.silver=§7Hellgrau
+gendustry.bees.species.gray=§7Grau
+gendustry.bees.species.pink=§7Pink
+gendustry.bees.species.lime=§7Hellgrün
+gendustry.bees.species.yellow=§7Gelb
+gendustry.bees.species.lightblue=§7Hellblau
+gendustry.bees.species.magenta=§7Magentafarben
+gendustry.bees.species.orange=§7Orangefarben
+gendustry.bees.species.white=§7Weiß
+
+# =§7=== COMBS ====
+
+gendustry.honeycomb.black.name=§7Schwarze Wabe
+gendustry.honeycomb.red.name=§7Rote Wabe
+gendustry.honeycomb.green.name=§7Grüne Wabe
+gendustry.honeycomb.brown.name=§7Braune Wabe
+gendustry.honeycomb.blue.name=§7Blaue Wabe
+gendustry.honeycomb.purple.name=§7Violette Wabe
+gendustry.honeycomb.cyan.name=§7Türkise Wabe
+gendustry.honeycomb.silver.name=§7Hellgraue Wabe
+gendustry.honeycomb.gray.name=§7Graue Wabe
+gendustry.honeycomb.pink.name=§7Pinke Wabe
+gendustry.honeycomb.lime.name=§7Hellgrüne Wabe
+gendustry.honeycomb.yellow.name=§7Gelbe Wabe
+gendustry.honeycomb.lightblue.name=§7Hellblaue Wabe
+gendustry.honeycomb.magenta.name=§7Magentafarbene Wabe
+gendustry.honeycomb.orange.name=§7Orange Wabe
+gendustry.honeycomb.white.name=§7Weiße Wabe
+
+gendustry.honeydrop.black.name=§7Schwarzer Honigtropfen
+gendustry.honeydrop.red.name=§7Roter Honigtropfen
+gendustry.honeydrop.green.name=§7Grüner Honigtropfen
+gendustry.honeydrop.brown.name=§7Brauner Honigtropfen
+gendustry.honeydrop.blue.name=§7Blauer Honigtropfen
+gendustry.honeydrop.purple.name=§7Violetter Honigtropfen
+gendustry.honeydrop.cyan.name=§7Türkiser Honigtropfen
+gendustry.honeydrop.silver.name=§7Hellgrauer Honigtropfen
+gendustry.honeydrop.gray.name=§7Grauer Honigtropfen
+gendustry.honeydrop.pink.name=§7Pinker Honigtropfen
+gendustry.honeydrop.lime.name=§7Hellgrüner Honigtropfen
+gendustry.honeydrop.yellow.name=§7Gelber Honigtropfen
+gendustry.honeydrop.lightblue.name=§7Hellblauer Honigtropfen
+gendustry.honeydrop.magenta.name=§7Magentafarbener Honigtropfen
+gendustry.honeydrop.orange.name=§7Oranger Honigtropfen
+gendustry.honeydrop.white.name=§7Weißer Honigtropfen
+
+#this will be moved to bdlib at some point
+bdlib.label.empty=§7Leer

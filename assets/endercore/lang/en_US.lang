@@ -1,0 +1,27 @@
+endercore.tooltip.oreDictNames=§7Ore Dictionary Names:
+endercore.tooltip.showDetails=§7<Hold Shift>
+endercore.tooltip.durability=§7Durability:
+
+endercore.command.config.result.success=§7Reloading configs for %s was successful
+endercore.command.config.result.fail=§7Reloading configs for %s failed
+endercore.command.config.result.invalid=§7Modid %s is not valid
+
+enchantment.xpboost=§7XP Boost
+endercore.enchantment.xpboost.tooltip=§7Extra XP from mob kills
+
+enchantment.autosmelt=§7Auto-Smelt
+endercore.enchantment.autosmelt.tooltip=§7Automatically smelts whatever is mined
+
+endercore.celebrate=§7Happy New Year!
+
+endercore.resourcepack.readme=§7This is the actual file used for resources in-game.
+endercore.resourcepack.readme2=§7Do not edit this, it will be created/deleted by the mod.
+
+endercore.gui.normal=§7Normal
+endercore.gui.search=§7Search:
+endercore.gui.modlistinfo1=§7OMG everything is different!
+endercore.gui.modlistinfo2=§7New layout provided by:
+
+endercore.error.ttcore.1=§7EnderCore cannot reliably be run alongside ttCore.
+endercore.error.ttcore.2=§7All ttCore features/utils are now included in EnderCore.
+endercore.error.ttcore.3=§7Please remove ttCore from your instance and try launching again.

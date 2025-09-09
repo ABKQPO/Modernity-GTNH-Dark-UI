@@ -1,0 +1,154 @@
+# Galacticraft Asteroids Language File =§7SWEDEN SWEDISH
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7N3-raket
+item.itemAstroMiner.name=§7Astrobrytare
+item.heavyNoseCone.name=§7Förstärkt raketnos
+item.compressedTitanium.name=§7Titanplåt
+item.ingotTitanium.name=§7Titantacka
+item.shardTitanium.name=§7Titanflis
+item.shardIron.name=§7Järnflis
+item.rocketFinsT2.name=§7Förstärkt raketfena
+item.engineT2.name=§7Förstärkt raketmotor
+item.reinforcedPlateT3.name=§7Förstärkt plåt
+item.grapple.name=§7Änterhake
+item.atmosphericValve.name=§7Atmosfärsventil
+item.thermalCloth.name=§7Värmereglerande tyg
+item.beamCore.name=§7Strålnav
+item.orionDrive.name=§7Orionmotor
+item.tier3.desc=§7Nivå 3
+
+# TOOLS
+item.titanium_pickaxe.name=§7Titanhacka
+item.titanium_axe.name=§7Titanyxa
+item.titanium_hoe.name=§7Titanflohacka
+item.titanium_shovel.name=§7Titanspade
+item.titanium_sword.name=§7Titansvärd
+
+# ARMOR
+item.thermalHelm.name=§7Termosunderställshuva
+item.thermalChestplate.name=§7Termosunderställströja
+item.thermalLeggings.name=§7Termosunderställsbyxor
+item.thermalBoots.name=§7Termosunderställstrumpor
+item.titanium_helmet.name=§7Titanhjälm
+item.titanium_chestplate.name=§7Titanharnesk
+item.titanium_leggings.name=§7Titanbyxor
+item.titanium_boots.name=§7Titanstövlar
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7Metangastank
+item.methaneCanister.name=§7Full metangastank
+item.canister.gas.name=§7Mängd                  #short name for Methane Gas contents level
+item.canister.LOX.partial.name=§7Tank (flytande syre)
+item.canister.LOX.full.name=§7Full tank (flytande syre)
+item.canister.LOX.name=§7Mängd                  #short name for Liquid Oxygen contents level
+item.canister.liquidNitrogen.partial.name=§7Tank (flytande kväve)
+item.canister.liquidNitrogen.full.name=§7Full tank (flytande kväve)
+item.canister.liquidNitrogen.name=§7Mängd    #short name for Liquid Nitrogen contents level
+item.canister.liquidArgon.partial.name=§7Tank (flytande argon)
+item.canister.liquidArgon.full.name=§7Full tank (flytande argon)
+item.canister.liquidArgon.name=§7Mängd       #short name for Liquid Argon contents level
+item.emptyGasCanister.name=§7Tom gastank
+
+# FLUIDS AND GASES
+fluid.methane=§7Metangas
+fluid.oxygen=§7Syrgas
+fluid.nitrogen=§7Kvävgas
+fluid.hydrogen=§7Vätgas
+fluid.carbondioxide=§7Koldioxid
+fluid.helium=§7Helium
+fluid.argon=§7Argon
+fluid.atmosphericgases=§7Atmosfärsgaser
+fluid.liquidmethane=§7Flytande metan
+fluid.liquidoxygen=§7Flytande syre
+fluid.liquidnitrogen=§7Flytande kväve
+fluid.liquidargon=§7Flytande argon
+fluid.fuel=§7Bränsle
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7Asteroidmineral
+tile.asteroidsBlock.asteroid1.name=§7Asteroidmineral
+tile.asteroidsBlock.asteroid2.name=§7Asteroidmineral
+tile.asteroidsBlock.oreIron.name=§7Järnmalm
+tile.asteroidsBlock.oreIlmenite.name=§7Ilmenitmalm
+tile.asteroidsBlock.oreAluminum.name=§7Aluminiummalm
+tile.beamReflector.name=§7Energistrålreflektor
+tile.beamReceiver.name=§7Energistrålmotagare
+tile.telepadShort.name=§7Kortdistansteleporterare
+tile.walkway.name=§7Gångbro
+tile.walkwayWire.name=§7Gångbro (elledning)
+tile.walkwayOxygenPipe.name=§7Gångbro (syrgasledning)
+tile.treasureT3.name=§7Asteroidskattkista
+tile.denseIce.name=§7Kompakt is
+tile.minerBase.name=§7Astrobrytarstation
+
+# GUI
+planet.asteroids=§7Huvudbältet
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7Teleporterarens$intällda adress
+gui.telepad.desc.1=§7Ange annan teleporterares adress$för att dirigera objekt dit.
+gui.message.address.name=§7Adress
+gui.message.destAddress.name=§7Måladress
+gui.message.invalidAddress.name=§7Ogiltig adress
+gui.message.invalidTargetAddress.name=§7Ogiltig måladress
+gui.message.receivingActive.name=§7Mottagning aktiv
+gui.message.telepadTooFar.name=§7För avlägset! (Max. %d)
+gui.message.telepadWrongDim.name=§7Otillgänglig dimension!
+gui.message.telepadNotFound.name=§7Teleporterare ej funnen!
+gui.message.sendingActive.name=§7Sändning aktiv
+gui.message.range.name=§7Räckvidd: %dm
+gui.message.notEnoughEnergy.name=§7Strömbrist!
+gui.message.targetNoEnergy.name=§7Målet har brist på ström!
+gui.message.grapple.fail=§7Tråd behövs till änterhaken!
+gui.message.astroMiner.fail=§7Denna station har redan en annan astrobrytare!
+gui.message.astroMiner1.fail=§7Stationens ingång blockeras av:
+gui.message.astroMiner1A.fail=§7The Astro Miner's route is blocked by: ##NEEDS TRANSLATE##
+gui.message.astroMiner2.fail=§7Det skulle bli en astrobrytare för mycket!
+gui.message.astroMiner3.fail=§7Astrobrytarens station har tagits bort!
+gui.message.astroMiner4.fail=§7Astrobrytaren har slut på ström!
+gui.message.astroMiner5.fail=§7Astrobrytarens väg till stationen kan vara blockerad!
+gui.message.astroMiner6.fail=§7Astrobrytaren har slutfört brytning av detta områded och kommer nu sluta!
+gui.message.astroMiner7.fail=§7There's nothing for an Astro Miner to mine on a space station! ##NEEDS TRANSLATE##
+gui.message.astroMiner8.fail=§7A second Astro Miner was detected at the same base, the first will now freeze. ##NEEDS TRANSLATE##
+gui.button.recall.name=§7Recall ##NEEDS TRANSLATE##
+gui.miner.outOfRange=§7Out of range ##NEEDS TRANSLATE##
+gui.miner.offline=§7Offline ##NEEDS TRANSLATE##
+gui.miner.stuck=§7Stuck at: ##NEEDS TRANSLATE##
+gui.miner.docked=§7Docked ##NEEDS TRANSLATE##
+gui.miner.travelling=§7Travelling ##NEEDS TRANSLATE##
+gui.miner.mining=§7Mining ##NEEDS TRANSLATE##
+gui.miner.returning=§7Returning ##NEEDS TRANSLATE##
+gui.miner.docking=§7Docking ##NEEDS TRANSLATE##
+gui.miner.mined=§7Mined ##NEEDS TRANSLATE##
+
+tile.treasureT3.description=§7Asteroidskattkistor har inte riktigt intförts än.
+tile.walkway.description=§7Gångbroar är dekorativa block som anluter till andra intilliggande block.
+tile.walkwayAluminumWire.description=§7Aluminiumledning inbyggd i en gångbro bildar en promenadvänlig yta.
+tile.walkwayOxygenPipe.description=§7Syrgasledning inbyggd i en gångbro bildar en promenadvänlig yta.
+tile.beamReflector.description=§7Strålreflektorn utökar en energistråles räckvidd samt kan avleda den åt valfri riktning. Högerklicka för att ändra.
+tile.beamReceiver.description=§7Strålmotagaren ansluts intill en eldriven maskin för at föra in/ut ström.
+tile.telepadShort.description=§7Kortdistansteleporteraren överför spelare och andra levande varelser (250 Blocks) adresserad till en annan teleporterare.
+tile.minerBase.description=§7Astrobrytarstationen agerar som dockningsstation till astrobrytaren.  I.o.m. sin storlek måste 8 av dessa block läggas i en 2x2x2-kub.
+
+# SCHEMATICS
+schematic.astroMiner.name=§7Astrobrytare
+schematic.ionDrive.name=§7Jonmotor
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=§7Liten asteroid
+entity.GalacticraftMars.GrappleHookGC.name=§7Änterhake
+entity.GalacticraftMars.Tier3RocketGC.name=§7N3-raket
+entity.GalacticraftMars.EntryPodAsteroids.name=§7Inträdeskapsel
+entity.GalacticraftMars.AstroMiner.name=§7Astrobrytare
+
+# CONTAINERS
+container.shortRangeTelepad.name=§7Kortdistansteleporterare
+container.entryPod.name=§7Inträdeskapsel
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=§7Asteroids Dimension ID
+gc.configgui.idSchematicRocketT3=§7Tier 3 Rocket Schematic ID
+gc.configgui.disableGalacticraftHelium=§7Disable Helium gas registration
+gc.configgui.astroMinersMax=§7Maximum number of Astro Miners per player

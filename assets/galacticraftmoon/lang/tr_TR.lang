@@ -1,0 +1,31 @@
+# Galacticraft Moon Language File =§7TURKEY TURKISH
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7Ham Meteorik Demir
+item.compressedMeteoricIron.name=§7Sıkıştırılmış Meteorik Demir
+item.meteoricIronIngot.name=§7Meteorik Demir Külçesi
+
+# FOOD
+item.cheeseCurd.name=§7Lor Peynir
+item.cheeseBlock.name=§7Peynir Bloğu
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7Ay Taşı
+tile.moonBlock.moondirt.name=§7Ay Toprağı
+tile.moonBlock.moongrass.name=§7Ay Çimeni
+tile.moonBlock.tinmoon.name=§7Kalay Cevheri
+tile.moonBlock.coppermoon.name=§7Bakır Cevheri
+tile.moonBlock.cheesestone.name=§7Peynir Cevheri
+tile.moonBlock.bricks.name=§7Ay Zindan Tuğlası
+tile.cheeseBlock.name=§7Peynir Bloğu
+
+# GUI
+gui.choosePlanet.desc.moon=§7Yaşanabilir#Oksijen Bulunmuyor#Yerçekimi: %18
+
+# OTHER
+container.lander.name=§7Lander
+dimension.Moon.name=§7Ay

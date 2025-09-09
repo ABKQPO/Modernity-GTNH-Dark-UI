@@ -1,0 +1,35 @@
+itemGroup.TMechworks=§7TMechworks
+
+tile.signalbus.name=§7Сигнальна шина
+tile.signalterminal.name=§7Сигнальний термінал
+tile.tmechworks.dynamo.name=§7Динамо-машина
+tile.tmechworks.meshFilter.empty.name=§7Порожня фільтрувальна сітка
+tile.tmechworks.meshFilter.wide.name=§7Широка фільтрувальна сітка
+tile.tmechworks.meshFilter.slat.name=§7Прямокутна фільтрувальна сітка
+tile.tmechworks.meshFilter.mesh.name=§7фільтрувальна сітка
+tile.tmechworks.meshFilter.fine.name=§7Тонка фільтрувальна сітка
+
+item.spoolwire.name=§7Моток дроту
+item.lengthwire.name=§7Дріт
+
+block.drawbridge.name=§7Розвідний міст
+block.firestarter.name=§7Запалювач
+block.advdrawbridge.name=§7Просунутий розвідний міст
+block.extdrawbridge.name=§7Подовжений розвідний міст
+
+tooltip.spoolofwire=§7Дротово!
+tooltip.spoolofwire.connecting=§7Підключення (X:%d, Y:%d, Z:%d, Dim:%d)
+tooltip.drawbridge.inventory=§7Інвентар:
+tooltip.drawbridge.amount=§7Кількість:
+tooltip.drawbridge.slot=§7Слот
+tooltip.drawbridge.camoflauge=§7Камуфляж:
+tooltip.drawbridge.direction=§7Напрямок розміщення:
+tooltip.drawbridge.default=§7Зберігає свій інвентар після збору
+tooltip.drawbridge.direction.up=§7Вгору
+tooltip.drawbridge.direction.down=§7Вниз
+tooltip.drawbridge.direction.left=§7Вліво
+tooltip.drawbridge.direction.right=§7Вправо
+
+container.advdrawbridge=§7Просунутий розвідний міст
+container.inv=§7Інвентар
+container.drawbridge=§7Розвідний міст

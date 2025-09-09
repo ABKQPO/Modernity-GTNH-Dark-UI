@@ -1,0 +1,8 @@
+tile.enderchest|0.name=§7Baú do Fim
+tile.enderchest|1.name=§7Tanque do Fim
+item.enderpouch.name=§7Bolsa do Fim
+enderstorage.serverop=§7Operador
+enderstorage.command.usage=§7/enderstorage <frequência>|(<cor> <cor> <cor>) [dono]
+enderstorage.command.no_arguments=§7Número de argumentos inválidos
+enderstorage.command.no_freq=§7Frequência inválida
+enderstorage.command.no_colour=§7Cor inválida: %s

@@ -1,0 +1,73 @@
+#This file is a translation file for KubaTech
+#Re-traslated by dfdvdsf/song682
+
+#NEI
+mobsinfo.mobhandler.normal_drops=§7常规掉落
+mobsinfo.mobhandler.rare_drops=§7稀有掉落
+mobsinfo.mobhandler.additional_drops=§7额外掉落
+mobsinfo.mobhandler.infernal_drops=§7精英掉落
+mobsinfo.mobhandler.infernal_cannot=§7无法生成精英怪
+mobsinfo.mobhandler.infernal_can=§7可以生成精英怪
+mobsinfo.mobhandler.infernal_always=§7总是生成精英怪
+mobsinfo.mobhandler.mod=§7来自于:
+mobsinfo.mobhandler.max_health=§7最大生命值：
+mobsinfo.mobhandler.boss=§7Boss生物
+mobsinfo.mobhandler.cannot_use_vial=§7不能被灵魂瓶捕捉。
+mobsinfo.mobhandler.chance=§7几率： %.2f%%
+mobsinfo.mobhandler.average_reminder=§7§o请注意，这些是掉落物的大概的平均值！
+mobsinfo.mobhandler.lootable=§7掠夺附魔生效时。
+mobsinfo.mobhandler.peaceful_allowed=§7可在和平模式下生成。
+
+
+mobsinfo.mobhandlerinfernal.title=§7精英怪战利品一览表
+mobsinfo.mobhandlerinfernal.format=§7类型:
+mobsinfo.mobhandlerinfernal.format_1=§7战利品名称 - x% (y%)
+mobsinfo.mobhandlerinfernal.format_2=§7x-获得几率
+mobsinfo.mobhandlerinfernal.format_3=§7y-获得几率-当生物被
+mobsinfo.mobhandlerinfernal.format_4=§7总是以精英怪形式生成。
+mobsinfo.mobhandlerinfernal.elite=§7精英掉落 - %.2f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.ultra=§7超级掉落 - %.3f%% (%.2f%%)
+mobsinfo.mobhandlerinfernal.inferno=§7究极掉落 - %.3f%% (%.3f%%)
+mobsinfo.mobhandlerinfernal.tooltip_chance=§7总体有%.4f%%的几率掉落。
+mobsinfo.mobhandlerinfernal.tooltip_chance_always=§7当总为精英怪时，总体有%.4f%%的几率掉落。
+
+#Extras (compatibility)
+mobsinfo.extras.chance=§7几率: %.2f%%
+mobsinfo.extras.base_chance=§7基础几率: %.2f%%
+mobsinfo.extras.variable_chance=§7可变化的几率
+mobsinfo.extras.drops_only_using=§7当被%s干掉时，才会掉落。
+mobsinfo.extras.drops_only_in_dimension=§7只在以下几个维度掉落：%s
+mobsinfo.extras.drops_only_with_weakness=§7当且仅当干掉的生物身上带有虚弱I效果时，才会掉落。
+mobsinfo.extras.drops_only_with_weakness_3=§7当且仅当干掉的生物身上带有虚弱III及以上等级的效果时，才会掉落。
+mobsinfo.extras.drops_only_with_enchant=§7当且仅当生物被附魔有%s的武器干掉时，才会掉落。
+mobsinfo.extras.each_level_of_gives=§7%s每增加一级给%s
+mobsinfo.extras.or_biome=§7或者%.2f%%在%s生物群系
+mobsinfo.extras.or_using=§7抑或当使用%s来干掉%.2f%%
+mobsinfo.extras.minecraft_slime=§7仅在史莱姆是最小的时候掉落
+mobsinfo.extras.minecraft_magma_cube=§7仅在岩浆怪不是最小的时候掉落
+
+mobsinfo.extras.avaritia_skull_sword=§7当且仅当在使用烈焰之啄颅剑干掉它时才只掉落这个头颅
+mobsinfo.extras.draconic_evolution_mob_soul=§7§4基于收割者附魔等级以及武器 |
+mobsinfo.extras.draconic_evolution_mob_soul_1=§7等级 |  无  | I | II | III | IV | V
+mobsinfo.extras.draconic_evolution_mob_soul_2=§7任意/没有 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_3=§7双足飞龙剑/双足飞龙弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_4=§7神龙剑/神龙弓 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.draconic_evolution_mob_soul_5=§7神龙物品的能力 | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%% | %.2f%%
+mobsinfo.extras.powered_creeper=§7当且仅当被苦力怕炸飞时，才会掉落。
+mobsinfo.extras.forbidden_magic_non_player=§7当且仅当被非玩家实体干掉时候，才会掉落。
+mobsinfo.extras.open_blocks_small_chance=§7几率：小
+mobsinfo.extras.tinkers_construct_beheading=§7每一级斩首强化都会增加%.2f%%的几率。
+mobsinfo.extras.tinkers_construct_beheading_1=§7如果你使用劈刀干掉它，它还会额外增加%.2f%%的几率。
+mobsinfo.extras.witchery_vampire_book=§7当且仅当玩家手中有吸血鬼之书时，才会掉落。
+mobsinfo.extras.witchery_warewolf=§7当且仅当被狼人撕碎时。
+
+#Commands
+mobsinfo.commandhandler.invalid=§7§c无效使用 ! 该指令的正确使用是 /%s
+mobsinfo.commandhandler.cant_find=§7§c找不到指令选项 %s
+mobsinfo.commandhandler.generic_help=§7§c你还可以用 "/mobsinfo help" 获取可能的指令
+mobsinfo.commandhandler.usage=§7<选项>
+mobsinfo.command.help.possible_commands=§7可能的指令：
+mobsinfo.command.help.usage=§7- 显示所有可能的指令
+mobsinfo.command.config.invalid_option=§7§c无效选项 ! 可能的选项：reload
+mobsinfo.command.config.success=§7§a配置(Config)重新加载成功 !
+mobsinfo.command.config.usage=§7<选项>

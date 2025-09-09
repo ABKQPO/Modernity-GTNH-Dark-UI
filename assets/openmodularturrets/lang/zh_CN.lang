@@ -1,0 +1,227 @@
+item.bulletThrowable.name=§7投射型子弹
+item.grenadeThrowable.name=§7投射型榴弹
+item.bulletCraftable.name=§7弹药-子弹
+item.grenadeCraftable.name=§7弹药-榴弹
+item.rocketCraftable.name=§7弹药-制导火箭
+item.ferroSlug.name=§7弹药-铁磁弹
+item.blazingClayCraftable.name=§7弹药-燃烧弹
+item.upgFire.name=§7升级组件-射速
+item.upgEff.name=§7升级组件-效率
+item.upgRan.name=§7升级组件-范围
+item.upgAcc.name=§7升级组件-精准
+item.upgScatter.name=§7升级组件-散射
+item.addonReactor.name=§7附件-红石能源芯片
+item.addonDam.name=§7附件-攻击增强
+item.addonSolar.name=§7附件-太阳能芯片
+item.addonPotentia.name=§7附件-能量vis转换
+item.addonSerialPort.name=§7附件-串行端口
+item.addonRecycler.name=§7附件-弹药循环
+item.sensorOne.name=§7传感器(一级)
+item.sensorTwo.name=§7传感器(二级)
+item.sensorThree.name=§7传感器(三级)
+item.sensorFour.name=§7传感器(四级)
+item.sensorFive.name=§7传感器(五级)
+item.chamberTierOne.name=§7弹膛(一级)
+item.chamberTierTwo.name=§7弹膛(二级)
+item.chamberTierThree.name=§7弹膛(三级)
+item.chamberTierFour.name=§7弹膛(四级)
+item.chamberTierFive.name=§7弹膛(五级)
+item.barrelTierOne.name=§7炮管(一级)
+item.barrelTierTwo.name=§7炮管(二级)
+item.barrelTierThree.name=§7炮管(三级)
+item.barrelTierFour.name=§7炮管(四级)
+item.barrelTierFive.name=§7炮管(五级)
+item.ioBus.name=§7IO总线
+tile.baseTierWood.name=§7炮塔基座(一级)
+tile.baseTierOneBlock.name=§7炮塔基座(二级)
+tile.baseTierTwoBlock.name=§7炮塔基座(三级)
+tile.baseTierThreeBlock.name=§7炮塔基座(四级)
+tile.baseTierFourBlock.name=§7炮塔基座(五级)
+
+tile.disposeItemTurret.name=§7低级投射炮塔
+tile.potatoCannonTurret.name=§7土豆加农炮塔
+tile.rocketTurret.name=§7火箭发射炮塔
+tile.teleporterTurret.name=§7传送炮塔
+tile.machineGunTurret.name=§7机关枪炮塔
+tile.incendiaryTurret.name=§7燃烧弹炮塔
+tile.grenadeTurret.name=§7榴弹发射炮塔
+tile.relativisticTurret.name=§7相位力场炮塔
+tile.laserTurret.name=§7激光炮塔
+tile.railGunTurret.name=§7磁轨炮炮塔
+tile.leverBlock.name=§7炮塔基座曲柄
+tile.expanderPowerTierOne.name=§7基座能量扩容(一级)
+tile.expanderPowerTierTwo.name=§7基座能量扩容(二级)
+tile.expanderPowerTierThree.name=§7基座能量扩容(三级)
+tile.expanderPowerTierFour.name=§7基座能量扩容(四级)
+tile.expanderPowerTierFive.name=§7基座能量扩容(五级)
+tile.expanderInvTierOne.name=§7基座存储扩容(一级)
+tile.expanderInvTierTwo.name=§7基座存储扩容(二级)
+tile.expanderInvTierThree.name=§7基座存储扩容(三级)
+tile.expanderInvTierFour.name=§7基座存储扩容(四级)
+tile.expanderInvTierFive.name=§7基座存储扩容(五级)
+
+tile.fenceTierOne.name=§7护栏(一级)
+tile.fenceTierTwo.name=§7护栏(二级)
+tile.fenceTierThree.name=§7护栏(三级)
+tile.fenceTierFour.name=§7护栏(四级)
+tile.fenceTierFive.name=§7护栏(五级)
+
+tile.hardWallTierOne.name=§7坚固墙壁(一级)
+tile.hardWallTierTwo.name=§7坚固墙壁(二级)
+tile.hardWallTierThree.name=§7坚固墙壁(三级)
+tile.hardWallTierFour.name=§7坚固墙壁(四级)
+tile.hardWallTierFive.name=§7坚固墙壁(五级)
+
+#for IGWMod
+tile.turretBase.name=§7炮塔基座
+
+itemGroup.openmodularturrets=§7模块化炮塔
+
+tooltip.tier=§7等级
+tooltip.range=§7范围
+tooltip.accuracy=§7精准度
+tooltip.ammo=§7弹药类型
+tooltip.tierRequired=§7需求基座等级
+tooltip.damage.label=§7伤害输出
+tooltip.damage.stat=§7弹射伤害
+tooltip.aoe=§7溅射半径
+tooltip.firerate=§7每秒射击次数
+tooltip.energy.stat=§7每次射击耗能
+tooltip.info=§7基础信息
+tooltip.health=§7颗心
+
+tooptip.energy.label=§7能量信息
+tooltip.rf.max=§7能量上限
+tooltip.rf.io=§7IO上限
+tooltip.extras.label=§7附加物
+tooltip.extras.addons.0=§7无
+tooltip.extras.addons.1=§71x附件插槽
+tooltip.extras.addons.2=§72x附件插槽
+tooltip.extras.upgrade.0=§7无
+tooltip.extras.upgrade.1=§71x升级组件插槽
+tooltip.extras.upgrade.2=§72x升级组件插槽
+
+tooltip.expander.power1=§7炮塔基座RF扩容
+tooltip.expander.power2=§7提升
+tooltip.expander.power3=§7炮塔基座RF存储上限.
+
+tooltip.expander.inv1=§7炮塔基座存储扩容
+tooltip.expander.inv2=§7为炮塔基座添加9格存储空间.
+tooltip.expander.inv3=§7每格存放物品的堆叠上限为
+
+flavour.expander.power.1=§7Now with flavour!
+flavour.expander.power.2=§7Kinetic expansion.
+flavour.expander.power.3=§7There, their and they're.
+flavour.expander.power.4=§7Can be used as a sinking device.
+flavour.expander.power.5=§7Asymmetrical warfare.
+
+flavour.expander.inv.1=§7A little goes a long way.
+flavour.expander.inv.2=§7Supplies!
+flavour.expander.inv.3=§7Hair, heir and hare.
+flavour.expander.inv.4=§7Can be used as a floatation device.
+flavour.expander.inv.5=§7Very space, much inventory.
+
+flavour.base.0=§7到处都是树木...
+flavour.base.1=§7我会抽干你们的血.
+flavour.base.2=§7早安,长官!
+flavour.base.3=§7开火!开火!!
+flavour.base.4a=§7我想看看这东西
+flavour.base.4b=§7到底能不能通滚...
+
+flavour.turret.0=§7Poor man's sleeping aid.
+flavour.turret.1=§7TRRRAA!! TRRAATRRAA!!
+flavour.turret.2a=§7Another example is the inductive
+flavour.turret.2b=§7form of the horse paradox.
+flavour.turret.3=§7Red mist.
+flavour.turret.4=§7Go ahead, Newton doesn't care.
+flavour.turret.5=§7BFG.
+flavour.turret.6=§7A PVC masterpiece.
+flavour.turret.7=§7Flaming Disjuncture.
+flavour.turret.8=§7Point of reference.
+flavour.turret.9a=§7It's like long strands of spaghetti,
+flavour.turret.9b=§7but in 11 dimensions.
+
+turret.accuracy.low=§7低
+turret.accuracy.medium=§7中
+turret.accuracy.high=§7高
+turret.accuracy.exact=§7精准
+
+turret.ammo.0=§7任何方块/物品
+turret.ammo.1=§7子弹
+turret.ammo.2=§7榴弹
+turret.ammo.3=§7制导火箭
+turret.ammo.4=§7无需
+turret.ammo.5=§7铁磁弹
+turret.ammo.6=§7土豆
+turret.ammo.7=§7燃烧弹
+
+base.tier.1=§7一级炮塔基座
+base.tier.2=§7二级炮塔基座
+base.tier.3=§7三级炮塔基座
+base.tier.4=§7四级炮塔基座
+base.tier.5=§7五级炮塔基座
+
+turret.addon.label=§7炮塔附件
+turret.addon.amp.a.label=§7每次射击增加
+turret.addon.amp.b.label=§7点攻击伤害
+turret.addon.amp.flavour=§7这就是我们的重型炮塔.
+turret.addon.redstone.a=§7产能
+turret.addon.redstone.b=§7RF/红石
+turret.addon.redstone.c=§7红石需放在弹药槽内充当燃料.
+turret.addon.redstone.flavour=§7升华,精炼.
+turret.addon.solar.a=§7在日照下产能
+turret.addon.solar.b=§7RF/t
+turret.addon.solar.flavour=§7伟大的太阳神!
+turret.addon.potentia.a=§7将输入的能量要素转换为RF (
+turret.addon.potentia.b=§7RF/单位).
+turret.addon.potentia.c=§7增加内部Potentia存储空间
+turret.addon.potentia.d=§7在网络中添加秩序要素
+turret.addon.potentia.e=§7提升RF转换率10倍.
+turret.addon.potentia.flavour=§7因为Eskom总是搞错...
+turret.addon.serial.a=§7兼容OpenComputers和ComputerCraft
+turret.addon.serial.b=§7兼容性.
+turret.addon.serial.flavour=§7谁要OOP?
+turret.addon.recycler.1=§7炮塔每次射击有几率不使用弹药,
+turret.addon.recycler.2=§7或者会自行生产弹药.
+turret.addon.recycler.3=§7弹药减免几率:
+turret.addon.recycler.4=§7弹药生成几率:
+turret.addon.recycler.flavour=§7降低,再利用,重现.
+
+turret.upgrade.label=§7炮塔升级组件
+turret.upgrade.stacks=§7可重叠放置4个,效果叠加.
+
+turret.upgrade.range=§7方块攻击范围.
+turret.upgrade.range.flavour=§7能把那个叉子递给我吗?
+
+turret.upgrade.rof=§7炮塔射速.
+turret.upgrade.rof.flavour=§7时间不等人...
+
+turret.upgrade.eff=§7射击消耗能量.
+turret.upgrade.eff.flavour=§7这就是我要的!
+
+turret.upgrade.acc=§7精准度.
+turret.upgrade.acc.flavour.a=§7好眼力,狙击手
+turret.upgrade.acc.flavour.b=§7我会开枪将他们逐个击杀.
+
+turret.upgrade.scatter.a=§7每次设计增加两枚弹药,消耗额外+2
+turret.upgrade.scatter.b=§7弹药使用,降低精准度,并提升RF消耗.
+turret.upgrade.scatter.flavour=§7你只需倾泻更多弹药罢了.
+
+status.ownership=§7这架炮塔不属于你
+status.missingBase=§7炮塔需放置在炮塔基座上.
+status.warning=§7你进入了炮塔攻击范围,谁都保不住你
+
+gui.openmodularturrets:owner=§7拥有者
+gui.openmodularturrets:invert=§7反相
+gui.openmodularturrets:active=§7激活
+gui.openmodularturrets:mode=§7模式
+gui.openmodularturrets:true=§7是
+gui.openmodularturrets:false=§7否
+
+death.attack.disposable=§7那个 %s死的好惨...
+death.attack.bullet=§7%s 尝到了一些美味的铅弹.
+death.attack.blazingclay=§7%s 被烤的鲜嫩多汁.
+death.attack.grenade=§7%s 可能需要被人拼起来了.
+death.attack.rocket=§7%s 看到了用火箭连起来的彩虹.
+death.attack.laser=§7%s 被分解掉了.
+death.attack.ferroslug=§7%s 看到了迷雾中的智慧女神.

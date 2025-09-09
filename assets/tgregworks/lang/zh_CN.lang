@@ -1,0 +1,38 @@
+# Chinese lang file
+itemGroup.tabTGregworks=§7Tinkers' Gregworks
+
+item.tgregworks.shardcast.cast_shard.name=§7碎片铸件
+item.tgregworks.shardcast.name=§7碎片铸件
+
+tgregworks.toolpart.pickaxe_head=§7%%material 镐头
+tgregworks.toolpart.shovel_head=§7%%material 铲头
+tgregworks.toolpart.axe_head=§7%%material 斧刃
+tgregworks.toolpart.tool_binding=§7%%material 绑定结
+tgregworks.toolpart.tough_binding=§7%%material 坚韧绑定结
+tgregworks.toolpart.tool_rod=§7%%material 手柄
+tgregworks.toolpart.tough_tool_rod=§7%%material 坚韧手柄
+tgregworks.toolpart.large_plate=§7%%material 大板
+tgregworks.toolpart.sword_blade=§7%%material 剑刃
+tgregworks.toolpart.wide_guard=§7%%material 宽护手
+tgregworks.toolpart.hand_guard=§7%%material 护手
+tgregworks.toolpart.crossbar=§7%%material 十字柄
+tgregworks.toolpart.knife_blade=§7%%material 刀刃
+tgregworks.toolpart.full_guard=§7%%material 大型护手
+tgregworks.toolpart.pan=§7%%material 盘
+tgregworks.toolpart.sign_head=§7%%material 牌板
+tgregworks.toolpart.chisel_head=§7%%material 凿刃
+tgregworks.toolpart.scythe_head=§7%%material 镰刀刀刃
+tgregworks.toolpart.broad_axe_head=§7%%material 宽斧刃
+tgregworks.toolpart.excavator_head=§7%%material 开掘铲头
+tgregworks.toolpart.large_sword_blade=§7%%material 宽剑刃
+tgregworks.toolpart.hammer_head=§7%%material 锤头
+tgregworks.toolpart.shard=§7%%material 碎片
+tgregworks.toolpart.arrow_head=§7%%material 箭头
+tgregworks.toolpart.shuriken=§7%%material 回旋镖
+tgregworks.toolpart.crossbow_limb=§7%%material 弩臂
+tgregworks.toolpart.crossbow_body=§7%%material 弩身
+tgregworks.toolpart.bow_limb=§7%%material 弓壁
+
+tgregworks.tool.deprecated=§7(不推荐使用)
+
+tgregworks.materials.unknown=§7未知

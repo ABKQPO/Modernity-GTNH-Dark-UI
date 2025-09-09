@@ -1,0 +1,17 @@
+betterachievements.gui.old=§7原版界面
+#配置名
+betterachievements.config.cantUnlockArrowColour=§7无法解锁的成就箭头颜色
+betterachievements.config.canUnlockArrowColour=§7可解锁的成就箭头颜色
+betterachievements.config.completeArrowColour=§7已完成的成就箭头颜色
+betterachievements.config.iconReset=§7游戏内图标修改
+betterachievements.config.listTabIcons=§7标签页图标列表
+betterachievements.config.scrollButtons=§7启用翻页按钮
+betterachievements.config.userColourOverride=§7强制使用用户设置的箭头颜色
+#配置说明
+betterachievements.config.cantUnlockArrowColour.desc=§7无法解锁的成就箭头颜色将会染成右侧设置的颜色，使用#RRGGBB的格式（HEX颜色代码）
+betterachievements.config.canUnlockArrowColour.desc=§7可解锁的成就箭头颜色将会染成右侧设置的颜色，使用#RRGGBB的格式（HEX颜色代码）
+betterachievements.config.completeArrowColour.desc=§7已完成的成就箭头的颜色将会染成右侧设置的颜色，使用#RRGGBB的格式（HEX颜色代码）
+betterachievements.config.iconReset.desc=§7在成就上按鼠标中键即可将这个成就的图标设置成该模组标签的图标
+betterachievements.config.listTabIcons.desc=§7定义标签页图标的列表，这些图标将覆盖原来的图标
+betterachievements.config.scrollButtons.desc=§7如果禁用，则不会出现翻页按钮
+betterachievements.config.userColourOverride.desc=§7如果启用，将会覆盖模组设置的箭头颜色

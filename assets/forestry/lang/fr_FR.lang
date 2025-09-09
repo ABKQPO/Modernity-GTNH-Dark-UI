@@ -1,0 +1,1762 @@
+####################
+# CORE
+####################
+
+death.engine.clockwork.player=§7%1$s a été poignardé par un pauvre ressort. %2$s était l'horloger négligent.
+death.engine.clockwork=§7%1$s a été poignardé par un pauvre ressort.
+
+for.beverage.effect.alcoholic=§7Alcoolique
+for.beverage.effect.antidote=§7Antidote
+
+for.chat.accesslocked=§7est le propriétaire de cette machine et a verrouillé l'accès.
+for.chat.cannotmemorizeagain=§7Vous avez déjà mémorisé cette information.
+for.chat.memorizednote=§7Vous mémorisez la note et disposez d'un bout de papier chiffonné.
+for.chat.memorizednote2=§7Vous vous sentez plus confiants dans votre capacité de multiplier %1$s avec %2$s pour faire %3$s!
+
+for.chat.command.aliases=§7Alias: %s
+for.chat.command.list=§7Sous-commandes disponibles:
+for.chat.command.permlevel=§7Niveau de permission: %s
+for.chat.command.noperms=§7Vous n'avez pas la permission pour utiliser cette commande.
+
+for.chat.command.forestry.help=§7Commandes variées pour Forestry
+for.chat.command.forestry.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.version.desc=§7- %s : Information de version
+for.chat.command.forestry.version.help=§7Affiche la version courante
+for.chat.command.forestry.version.format=§7Format: /%s
+
+for.chat.command.forestry.plugins.desc=§7- %s : Liste des modules de Forestry
+for.chat.command.forestry.plugins.help=§7Liste tous les modules de Forestry. Les verts sont actifs, Les rouges inactifs.
+for.chat.command.forestry.plugins.format=§7Format: /%s
+
+for.chat.command.forestry.plugins.info.desc=§7- %s : Information sur un module spécifique
+for.chat.command.forestry.plugins.info.help=§7Affiche les informations sur un module spécifique
+for.chat.command.forestry.plugins.info.format=§7Format: /%s <nom-module>
+
+
+for.chat.help=§7Tapez '%s' pour l'aide.
+for.chat.plugins.error=§7Pas d'information sur le module %s.
+for.chat.version=§7Forestry %1$s pour Minecraft %2$s.
+
+for.circuit.dampener.1=§7Clapet coupe-feu
+for.circuit.dampener.1.description.1=§7Limite la sortie à 10 RF/t maximum
+for.circuit.dampener.1.description.2=§7Préserve la sortie de carburant
+for.circuit.electric.boost.1=§7Amélioration électrique I
+for.circuit.electric.boost.1.description.1=§7Augmente la sortie de 20 RF/t
+for.circuit.electric.boost.1.description.2=§7Augmente la consommation de 7 EU/t
+for.circuit.electric.boost.2=§7Amélioration électrique II
+for.circuit.electric.boost.2.description.1=§7Augmente la sortie de 40 RF/t
+for.circuit.electric.boost.2.description.2=§7Augmente la consommation de 15 EU/t
+for.circuit.electric.choke.1=§7Obstruction électrique
+for.circuit.electric.choke.1.description.1=§7Réduit la sortie de 10 RF/t
+for.circuit.electric.choke.1.description.2=§7Réduit la consommation de 2 EU/t
+for.circuit.electric.efficiency.1=§7Efficacité électrique
+for.circuit.electric.efficiency.1.description.1=§7Réduit la consommation de 1 EU/t
+for.circuit.machine.speed.boost.1=§7Amélioration vitesse I
+for.circuit.machine.speed.boost.1.description.1=§7Augmente la vitesse de 12,5%
+for.circuit.machine.speed.boost.1.description.2=§7Augmente la consommation de 5%
+for.circuit.machine.speed.boost.2=§7Amélioration vitesse II
+for.circuit.machine.speed.boost.2.description.1=§7Augmente la vitesse de 25%
+for.circuit.machine.speed.boost.2.description.2=§7Augmente la consommation de 10%
+for.circuit.machine.efficiency.1=§7Efficacité de machine
+for.circuit.machine.efficiency.1.description.1=§7Réduit la consommation de 10%
+
+for.circuit.layout.dummy.name=§7Non disponible
+for.circuit.layout.dummy.usage=§7Rien
+
+for.circuit.layout.engine.tin.name=§7Moteur électrique
+for.circuit.layout.engine.tin.usage=§7pour les moteurs électriques
+
+for.circuit.layout.farms.managed.name=§7Ferme gérée
+for.circuit.layout.farms.managed.usage=§7pour les fermes gérées
+
+for.circuit.layout.farms.manual.name=§7Ferme manuelle
+for.circuit.layout.farms.manual.usage=§7pour les fermes manuelles
+
+for.circuit.layout.machine.upgrade.name=§7Amélioration de machine
+for.circuit.layout.machine.upgrade.usage=§7Machines électrifiées
+
+for.flowers.cacti=§7Cactus
+for.flowers.end=§7Fin
+for.flowers.gourd=§7Courges
+for.flowers.jungle=§7Jungle
+for.flowers.mushrooms=§7Champignon
+for.flowers.nether=§7Nether
+for.flowers.vanilla=§7Fleurs
+for.flowers.wheat=§7Blé
+for.flowers.snow=§7Neige
+
+fluid.bioethanol=§7Éthanol
+fluid.biomass=§7Biomasse
+fluid.glass=§7Verre liquide
+fluid.for.honey=§7Miel
+fluid.ice=§7Glace pilée
+fluid.juice=§7Jus de fruits
+fluid.short.mead=§7Petit hydromel
+fluid.milk=§7Lait
+fluid.seedoil=§7Huile de graines
+tile.forestry.fluid.bioethanol.name=§7Éthanol
+tile.forestry.fluid.biomass.name=§7Biomasse
+tile.forestry.fluid.glass.name=§7Verre liquide
+tile.forestry.fluid.for.honey.name=§7Miel
+tile.forestry.fluid.ice.name=§7Glace pilée
+tile.forestry.fluid.juice.name=§7Jus de fruits
+tile.forestry.fluid.milk.name=§7Lait
+tile.forestry.fluid.seedoil.name=§7Huile de graines
+tile.forestry.fluid.short.mead.name=§7Petit hydromel
+
+for.gui.access=§7Accès
+for.gui.active=§7Actif
+for.gui.addressee.player=§7Joueur
+for.gui.addressee.trader=§7Commerce
+
+for.gui.alyzer.authority=§7Authorité
+for.gui.alyzer.classification=§7Classification
+for.gui.alyzer.extinct=§7Éteint
+for.gui.alyzer.nodescription=§7Encyclopedia Minecraftia ne pouvait pas fournir une entrée pour ce spécimen.
+for.gui.alyzer.overview=§7Analytiques disponibles
+
+for.gui.area=§7Région
+for.gui.arid=§7Aride
+for.gui.beach=§7Plage
+
+for.gui.beealyzer.artificial=§7Origine artificielle
+for.gui.beealyzer.behaviour=§7Comportement
+for.gui.beealyzer.generations=§7%s Générations en captivitée
+for.gui.beealyzer.help=§7Fournissez l'abeille et  le miel ou la miellat comme tétine.
+for.gui.beealyzer.mutations=§7Mutations possibles
+for.gui.beealyzer.natural=§7Origine naturelle
+for.gui.beealyzer.produce=§7Production possible
+for.gui.beealyzer.specialty=§7Spécialité possible
+for.gui.beealyzer=§7Analyseur d'abeilles
+
+for.gui.blank=§7Vide
+for.gui.cave=§7Troglodite
+for.gui.climate=§7Climat
+for.gui.cold=§7Froid
+for.gui.crop=§7Cultures
+for.gui.currentBiome=§7Biome courrant
+for.gui.currentOutput=§7Sortie courrante
+for.gui.damp=§7Humide
+for.gui.derelict=§7Abandonnée
+for.gui.desert=§7Désert
+for.gui.didyouknow=§7Saviez-vous
+for.gui.diurnal=§7Diurne
+for.gui.drones=§7Ouvriers
+for.gui.effect=§7Effet
+for.gui.empty=§7Vide
+for.gui.emptysocket=§7Emplacement vide
+for.gui.socket.remove=§7Retirable avec le fer à souder
+for.gui.energy=§7Énergie
+for.gui.environment=§7Environment
+for.gui.evolution=§7Évolution
+for.gui.fecundated=§7Fécondée
+for.gui.fertility=§7Fertilité
+for.gui.fireresist=§7A l'épreuve du feu
+for.gui.flowers=§7Fleurs
+for.gui.flyer=§7Volante
+for.gui.flyer.tooltip=§7Volante
+for.gui.general=§7Général
+forestry.allele.gigantic=§7Gigantesque
+for.gui.heat=§7Température
+for.gui.hellish=§7Infernal
+for.gui.hot=§7Chaud
+for.gui.humidity=§7Humidité
+for.gui.humidtol=§7Tolérance humidité
+for.gui.hybrid=§7Hybride
+for.gui.icy=§7Glacé
+for.gui.imprinter.cheater=§7(Vous trichez !)
+for.gui.imprinter.name=§7IMPLANTEUR de GENOME
+for.gui.inactive=§7Inactive
+for.gui.life=§7Vie
+for.gui.lifespan=§7Longévité
+for.gui.normal=§7Normal
+
+for.gui.escritoire.probe=§7Examine les spécimens
+for.gui.escritoire.instructions=§7Placez un examplaire génétique au centre pour débuter. Placez en plus dans les emplacements de gauche et examinez-les pour aider.
+
+# Write as many notes as you like, just set the count correctly.
+
+for.gui.escritoire.notes.level1.count=§73
+for.gui.escritoire.notes.level1.1=§7J'ai trouvé un spécimen curieux durant mes voyages.
+for.gui.escritoire.notes.level1.2=§7Cet étrange camarade a besoin de plus d'investiguation.
+for.gui.escritoire.notes.level1.3=§7Enchanté, j'ai voulu commencer immédiatement par ma recherche.
+
+for.gui.escritoire.notes.level2.count=§74
+for.gui.escritoire.notes.level2.1=§7J'en ai été stupéfié de sa merveilleuse nature.
+for.gui.escritoire.notes.level2.2=§7Le spécimen s'est affolé alors que je l'inspectai de plus près.
+for.gui.escritoire.notes.level2.3=§7L'étrange construction du dessous m'a rendu curieux.
+for.gui.escritoire.notes.level2.4=§7Ceci sera la conversation de la société quand j'aurai fini d'examiner.
+
+for.gui.escritoire.notes.level3.count=§74
+for.gui.escritoire.notes.level3.1=§7Après quelques avancées, j'ai découvert une nouvelle branche intéressante.
+for.gui.escritoire.notes.level3.2=§7Je me suis arraché les cheveux à cette découverte et ai tout remis en doute.
+for.gui.escritoire.notes.level3.3=§7J'ai pensé que mes yeux m'avaient trompé, mais il était là.
+for.gui.escritoire.notes.level3.4=§7Un point précédemment invisible m'a poussé à mettre en doute la classification du spécimen.
+
+for.gui.escritoire.notes.level4.count=§77
+for.gui.escritoire.notes.level4.1=§7Mes cris perçants de frustration m'obligait d'examiner mon étude avec souci.
+for.gui.escritoire.notes.level4.2=§7Dans une frénésie et sur le point du désespoir, j'ai déchiré toutes mes notes !
+for.gui.escritoire.notes.level4.3=§7Ceci... n'a juste aucun sens !
+for.gui.escritoire.notes.level4.4=§7Cela ne peut pas être. cela ne me l'a pas fait auparavant !
+for.gui.escritoire.notes.level4.5=§7Le marteau de forgeron l'a à peine cabossé, j'ai donc employé la tronçonneuse.
+for.gui.escritoire.notes.level4.6=§7Je jure qu'il me regardait, avec ses perçants et cruels petits yeux.
+for.gui.escritoire.notes.level4.7=§7Est-ce un rire ? L'entends-je rire ? Qui rit ici ?
+
+for.gui.escritoire.notes.success.count=§75
+for.gui.escritoire.notes.success.1=§7EUREKA !
+for.gui.escritoire.notes.success.2=§7Merveilleux ! Mon nom entrera dans l'histoire !
+for.gui.escritoire.notes.success.3=§7Mes collègues seront impressionnés !
+for.gui.escritoire.notes.success.4=§7Je sera l'objet d'envie de tout le monde de la société !
+for.gui.escritoire.notes.success.5=§7Ouiiiii !
+
+for.gui.escritoire.notes.failure.count=§75
+for.gui.escritoire.notes.failure.1=§7Tout est perdu.
+for.gui.escritoire.notes.failure.2=§7J'ai balancé mes notes au feu.
+for.gui.escritoire.notes.failure.3=§7Pourquoi ? J'avais fait de tels progrès avant cela...
+for.gui.escritoire.notes.failure.4=§7Echec. Encore.
+for.gui.escritoire.notes.failure.5=§7Mon dieux...
+
+for.gui.mail.foreveryattached=§7Cordialement
+for.gui.mail.from=§7De
+for.gui.mail.nametrader=§7Nommez ce commerce
+for.gui.mail.nothingtotrade=§7Ce commerce n'a rien à vendre.
+for.gui.mail.notrader=§7Aucun commerce avec ce nom.
+for.gui.mail.pleasesend=§7Merci d'envoyer
+for.gui.mail.to=§7À
+for.gui.mail.receive=§7Recevoir
+for.gui.mail.send=§7Envoyer
+
+for.gui.maxenergy=§7Énergie maximum
+for.gui.maxenergyreceive=§7Entrée maximum
+for.gui.maxspeed=§7Maximum
+for.gui.metabolism=§7Métabolisme
+for.gui.nether=§7Nether
+for.gui.nocturnal=§7Nocturne
+for.gui.noeffect=§7Sans effet
+for.gui.owner=§7Propriétaire
+for.gui.page=§7Page
+
+for.gui.pipe.filter.anything=§7Tout
+for.gui.pipe.filter.bee=§7Toutes abeilles
+for.gui.pipe.filter.cave=§7De cave
+for.gui.pipe.filter.closed=§7Rien
+for.gui.pipe.filter.drone=§7Ouvrières
+for.gui.pipe.filter.flyer=§7Les volantes
+for.gui.pipe.filter.item=§7Éléments
+for.gui.pipe.filter.nocturnal=§7Les noctures
+for.gui.pipe.filter.princess=§7Princesses
+for.gui.pipe.filter.pure_breed=§7Pures races
+for.gui.pipe.filter.pure_cave=§7De cave pures
+for.gui.pipe.filter.pure_flyer=§7Volantes pures
+for.gui.pipe.filter.pure_nocturnal=§7Nocturne pures
+for.gui.pipe.filter.queen=§7Reines
+
+for.gui.plains=§7Plaines
+for.gui.princesses=§7Princesses
+for.gui.produce=§7Produit
+for.gui.queens=§7Reines
+
+for.gui.rule.private=§7Privé
+for.gui.rule.restricted=§7Restreint
+for.gui.rule.shared=§7Partagé
+
+for.gui.solder.north=§7N
+for.gui.solder.south=§7S
+for.gui.solder.east=§7E
+for.gui.solder.west=§7O
+
+forestry.allele.normal=§7Normal
+forestry.allele.average=§7Moyenne
+
+forestry.allele.slowest=§7La plus lente
+forestry.allele.slower=§7Très lente
+forestry.allele.slow=§7Lente
+forestry.allele.fast=§7Rapide
+forestry.allele.faster=§7Très rapide
+forestry.allele.fastest=§7la plus rapide
+
+forestry.allele.smallest=§7La plus petite
+forestry.allele.smaller=§7Très petite
+forestry.allele.small=§7Petite
+forestry.allele.large=§7Grande
+forestry.allele.larger=§7Très grande
+forestry.allele.largest=§7La plus grande
+
+forestry.allele.lowest=§7La plus basse
+forestry.allele.lower=§7Très basse
+forestry.allele.low=§7Basse
+forestry.allele.high=§7Haute
+forestry.allele.higher=§7Très haute
+forestry.allele.highest=§7La plus haute
+
+forestry.allele.tolerance.both1=§7Ecart 1
+forestry.allele.tolerance.both2=§7Ecart 2
+forestry.allele.tolerance.both3=§7Ecart 3
+forestry.allele.tolerance.both4=§7Ecart 4
+forestry.allele.tolerance.both5=§7Ecart 5
+forestry.allele.tolerance.down1=§7Inf. 1
+forestry.allele.tolerance.down2=§7Inf. 2
+forestry.allele.tolerance.down3=§7Inf. 3
+forestry.allele.tolerance.down4=§7Inf. 4
+forestry.allele.tolerance.down5=§7Inf. 5
+forestry.allele.tolerance.none=§7Aucun
+forestry.allele.tolerance.up1=§7Sup. 1
+forestry.allele.tolerance.up2=§7Sup. 2
+forestry.allele.tolerance.up3=§7Sup. 3
+forestry.allele.tolerance.up4=§7Sup. 4
+forestry.allele.tolerance.up5=§7Sup. 5
+
+forestry.allele.lifespan.shortest=§7la plus courte
+forestry.allele.lifespan.shorter=§7Très courte
+forestry.allele.lifespan.short=§7Courte
+forestry.allele.lifespan.shortened=§7Raccoucie
+forestry.allele.lifespan.normal=§7Normale
+forestry.allele.lifespan.elongated=§7Allongée
+forestry.allele.lifespan.long=§7Longue
+forestry.allele.lifespan.longer=§7Très longue
+forestry.allele.lifespan.longest=§7La plus longue
+
+for.gui.size=§7Taille
+for.gui.slots=§7%USED/%SIZE Emplacements
+for.gui.species=§7Espèces
+for.gui.speciescount=§7Espèces
+for.gui.speed=§7Production
+for.gui.pollination=§7Pollinisation
+for.gui.stored=§7Stocké
+for.gui.temperature=§7Température
+for.gui.tolerance=§7Tolérance
+for.gui.temptol=§7Tolérance temp.
+for.gui.tooltip.tmi=§7Tapez Maj pour les détails
+for.gui.triple=§7Triple
+for.gui.unknown=§7Génome inconnu
+for.gui.warm=§7Tempéré
+for.gui.water=§7Eau
+for.gui.worker=§7Ouvrier
+
+for.hints.accesscontrol.desc=§7Un propriétaire peut définir trois niveaux d'accès : Partagé, Restreint, Privé.
+for.hints.accesscontrol.tag=§7Contrôle d'accès
+for.hints.accesspipe.desc=§7Une machine définie en privé interdit toute interaction avec les tubes et tuyaux.
+for.hints.accesspipe.tag=§7Accès privé
+for.hints.accessrules.desc=§7"Partagé" : autorise tout le monde à casser la machine et à interagir avec elle. "Restreint" autorise juste l'interaction.
+for.hints.accessrules.tag=§7Règles d'accès
+for.hints.apiaristsuit.desc=§7La combinaison complete d'apicuteur vous protège de tous les effets négatifs provenant des abeilles.
+for.hints.apiaristsuit.tag=§7Combinaison d'apiculteur !
+for.hints.beebiomes.desc=§7Les abeilles travaillent seulement dans les biomes qui conviennent à leur espèce. Utilisez votre analyseur d'abeille et le localisateur d'habitat pour savoir où.
+for.hints.beebiomes.tag=§7Choisissez votre biome !
+for.hints.beebreeding.desc=§7L'alliance d'ouvrières et de princesses de différentes espèces peuvent vous rapporter des progénitures d'une nouvelle espèce.
+for.hints.beebreeding.tag=§7Élever vos abeilles!
+for.hints.beeflowers.desc=§7Toutes les abeilles ont besoin de fleurs qui leur conviennent. Des fleurs communes pour certaines, et des fleurs très exotiques pour d'autres.
+for.hints.beeflowers.tag=§7Les abeilles ont besoin de fleurs
+for.hints.beejubilance.desc=§7Seules les abeilles contentes vont produire leurs spécialités. Assurez vous que vous les installez dans leur climat préferé.
+for.hints.beejubilance.tag=§7Rendez votre abeille heureuse !
+for.hints.cooldownloss.desc=§7Les moteurs qui passent par un cycle de refroidissement perdent une partie de leur énergie stockée.
+for.hints.cooldownloss.tag=§7Refroidissement signifie perte d'énergie !
+for.hints.crating.desc=§7La tache principale des Charpentiers est de compresser vos surplus de ressources. De nombreux blocs et objets courants peuvent etre emballés dans des cageots.
+for.hints.crating.tag=§7Comprimez le surplus !
+for.hints.energybuffer.desc=§7Les moteurs peuvent stocker une petite quantité d'énergie lorsque celle-ci n'est pas utiliée par les machines.
+for.hints.energybuffer.tag=§7Stockage d'énergie !
+for.hints.energyunit.desc=§7L'unite énergétique des moteurs est exprime en MJ/t ("Minecraft Joule par Tick"). Une seconde représente aprox. 20 Ticks.
+for.hints.energyunit.tag=§7Connaissez-vous le Minecraft Joule ?
+for.hints.enginebronzefuels.desc=§7Les Moteurs à biogaz acceptent quantité de carburants : biomasse, huile végétale, miel, lait et meme de l'eau.
+for.hints.enginebronzefuels.tag=§7Utilisez tous les carburants !
+for.hints.enginebronzeheatloss.desc=§7Même si vous pouvez utiliser de l'eau avec un Moteur à biogaz, elle est peu efficace et consume la lave de faç constante.
+for.hints.enginebronzeheatloss.tag=§7Attention à l'eau !
+for.hints.enginebronzeoutput.desc=§7Les differents carburants fournissent differents niveaux d'énergie pour un Moteur a biogaz. La sortie varie de 1 MJ/t a 5 MJ/t.
+for.hints.enginebronzeoutput.tag=§7Choisissez votre carburant!
+for.hints.enginebronzewaste.desc=§7Contrairement au Moteur à tourbe, le Moteur a biogaz ne gaspille pas la biomasse utilisée par le systeme.
+for.hints.enginebronzewaste.tag=§7Conservation du carburant.
+for.hints.enginecopperfuels.desc=§7Les Moteurs à tourbe peuvent utiliser la tourbe non traitée, mais acceptent aussi la tourbe bitumineuse qui double l'énergie en sortie.
+for.hints.enginecopperfuels.tag=§7Utilisez tous les carburants !
+for.hints.enginecopperwaste.desc=§7La désactivation des moteurs de ce type consomme le carburant deja utilisé, sans produire plus d'énergie.
+for.hints.enginecopperwaste.tag=§7Attention à la perte d'énergie !
+for.hints.enginetinbatteries.desc=§7Vous pouvez utiliser des batteries pour activer vos Moteurs électriques sans utiliser de cables.
+for.hints.enginetinbatteries.tag=§7Chargez ces batteries !
+for.hints.enginetinchoke.desc=§7Insérez un circuit aux Moteurs électriques pour changer la sortie d'énergie de 1MJ/s et reduire leur consommation.
+for.hints.enginetinchoke.tag=§7Régulez l'énergie
+for.hints.flowerjungle.desc=§7Les fleurs de la jungle sont les fougères et les lianes.
+for.hints.flowerjungle.tag=§7Qu'est qu'une fleur de la jungle?
+for.hints.flowernether.desc=§7Les verrues du Tréfonds sont les fleurs du Tréfonds.
+for.hints.flowernether.tag=§7Qu'est qu'une fleur du Tréfonds?
+for.hints.forcedcooldown.desc=§7Les moteurs peuvent surchauffer si l'énergie n'est pas utilisée. Arrivé au point de fusion, ils passent obligatoirement par un cycle de refroissement.
+for.hints.forcedcooldown.tag=§7Evitez la surchauffe !
+for.hints.generatorfuels.desc=§7Les Biogénérateurs acceptent aussi bien la biomasse que le biocarburant. Ils sont plus efficaces avec ce dernier.
+for.hints.generatorfuels.tag=§7Utilisez tous les carburants !
+for.hints.habitatlocatoruse.desc=§7Après quelque temps, le localisatuer d'habitat vous indiquera tout directement le biome approprié le plus proche. Une fois trouvé, l'indicateur tournera.
+for.hints.habitatlocatoruse.tag=§7Localisateur d'habitat 101!
+for.hints.honeyfood.desc=§7Vous pouvez créer plusieurs type de nourriture a base de miel et autres produit des abeilles.
+for.hints.honeyfood.tag=§7Plus de nourriture !
+for.hints.manualpeat.desc=§7La production de tourbe peut être automatisée avec une ferme, mais vous pouvez aussi la récolter manuellement.
+for.hints.manualpeat.tag=§7Collecte manuelle !
+for.hints.moistenerproducts.desc=§7Avec les bons ingrédients, votre Humecteur peut aussi créer de la pierre moussue or des pierres taillées moussues.
+for.hints.moistenerproducts.tag=§7Voulez-vous de la pierre moussue ?
+for.hints.nopowerrequired.desc=§7Ce type de machine ne requiert aucune énergie pour fonctionner.
+for.hints.nopowerrequired.tag=§7Aucune énergie requise
+for.hints.peatharvest.desc=§7La terre humidifée directement adjacente à de l'eau va se transformer en tourbe. Utilisez une pelle pour la récolter.
+for.hints.peatharvest.tag=§7Recueillez la tourbe !
+for.hints.pipette.desc=§7S'il reste un peu de liquide retenu dans le réservoir d'une machine, cliquez dessus avec la pipette pour le vider.
+for.hints.pipette.tag=§7Utilisez la pipette !
+for.hints.postage.desc=§7Les envois de courrier se paye en timbres. La base est de 1n, chaque pièce jointe coûte 1n supplémentaire.
+for.hints.postage.tag=§7Rémunérez le postier !
+for.hints.powerraintank.desc=§7Meme si le Récupérateur d'eau collecte l'eau de pluie sans apport énergétique, la mise en bouteille nécessite la puissance d'un moteur.
+for.hints.powerraintank.tag=§7L'embouteillage requiert de l'énergie!
+for.hints.powerrequired.desc=§7Cette machine nécessite de l'énerge pour fonctionner. Attachez-y un moteur et lancez-le pour démarrer la production.
+for.hints.powerrequired.tag=§7Besoin en énergie !
+for.hints.shortmead.desc=§7Votre fermenteur ne fait pas que créer de la biomasse, vous pouvez ausser utiliser le miellat et le miel liquide pour créer de l'hydromel.
+for.hints.shortmead.tag=§7Une boisson énergisante ?
+for.hints.usesofash.desc=§7La cendre est le produit des Moteurs à tourbe et est utilisée pour créer la tourbe bitumineuse.
+for.hints.usesofash.tag=§7Utilisez la cendre !
+
+for.item.crated.grammar=§7Cageot %s
+for.item.crated.unknown=§7Contenu du cageot inconnu
+
+for.no=§7Non
+
+for.researchNote.chance.highest=§7LA PLUS HAUTE
+for.researchNote.chance.higher=§7TRES HAUTE
+for.researchNote.chance.high=§7HAUTE
+for.researchNote.chance.normal=§7NORMAL
+for.researchNote.chance.low=§7BASSE
+for.researchNote.chance.lowest=§7TRES BASSE
+for.researchNote.error.0=§7Il est impossible de déchiffrer le gribouilli délavé.
+for.researchNote.error.1=§7La note est devenue illisible et sans valeur.
+for.researchNote.discovered.0=§7§aEspèces recherchées !
+for.researchNote.discovered.1=§7§e'%1$s'§7 (%2$s)
+for.researchNote.discovery.0=§7§aMutation découverte !
+for.researchNote.discovery.1=§7§e'%SPEC1'§7 et §e'%SPEC2'§7.
+for.researchNote.discovery.2=§7La chance de succès est §9%s§7.
+for.researchNote.discovery.3=§7La nouvelle espèce est §d'%s'§7.
+
+for.mutation.condition.biome.single=§7Se produit dans un biome %s.
+for.mutation.condition.biome.multiple=§7Se produit dans les biomes tel que : %s
+for.mutation.condition.daytime.day=§7Durant le jour.
+for.mutation.condition.daytime.night=§7Durant la nuit.
+for.mutation.condition.humidity.range=§7Exige une humidité entre %LOW et %HIGH.
+for.mutation.condition.humidity.single=§7Exige une humidité de %s.
+for.mutation.condition.temperature.range=§7Exige une température entre %LOW et %HIGH.
+for.mutation.condition.temperature.single=§7Exige une température de %s.
+for.mutation.condition.resource=§7Exige un(e) %s comme fondation.
+for.mutation.condition.date=§7Se produit entre %START et %END.
+
+for.storage.backpack.mode.locked=§7(FERMÉ)
+for.storage.backpack.mode.receiving=§7(RÉCEPTION)
+for.storage.backpack.mode.resupply=§7(RÉAPPROVISIONNEMENT)
+
+for.trigger.hasMail=§7Courrier arrivé
+for.trigger.hasWork=§7En activité
+for.trigger.lowFuel=§7Carburant
+for.trigger.lowGermlings=§7Germes
+for.trigger.lowInput=§7Entrée
+for.trigger.lowPaper=§7Papier
+for.trigger.lowResources=§7Ressources
+for.trigger.lowStamps=§7Timbres
+for.trigger.mailBuffer=§7Tampon
+for.trigger.missingDrone=§7Ouvrière manquante
+for.trigger.missingQueen=§7Reine ou princesse manquante
+for.trigger.noFrames=§7Pas de cadres
+
+for.yes=§7Oui
+
+item.for.adventurerBag.name=§7Sac à dos de l'aventurier
+item.for.adventurerBagT2.name=§7Sac à dos tissé de l'aventurier
+item.for.ambrosia.name=§7Ambroisie
+item.for.apatite.name=§7Apatite
+
+item.for.apiaristBag.name=§7Sac à dos de l'apiculteur
+item.for.apiaristBoots.name=§7Chaussures de l'apiculteur
+item.for.apiaristChest.name=§7Chemise de l'apiculteur
+item.for.apiaristHelmet.name=§7Chapeau de l'apiculteur
+item.for.apiaristLegs.name=§7Pantalon de l'apiculteur
+
+item.for.ash.name=§7Cendres
+
+item.for.beealyzer.name=§7Analyseur d'abeilles
+item.for.habitatLocator.name=§7Localisateur d'habitat
+
+item.for.cart.beehouse.name=§7Wagonnet avec ruche
+item.for.cart.apiary.name=§7Wagonnet avec ruchet
+
+item.for.beeCombs.cocoa.name=§7Alvéole de cacao
+item.for.beeCombs.darkened.name=§7Alvéole noircie
+item.for.beeCombs.dripping.name=§7Alvéole ruisselante
+item.for.beeCombs.frozen.name=§7Alvéole froide
+item.for.beeCombs.honey.name=§7Alvéole mielleuse
+item.for.beeCombs.irradiated.name=§7Alvéole irradiée
+item.for.beeCombs.mellow.name=§7Alvéole riche
+item.for.beeCombs.mossy.name=§7Alvéole moussue
+item.for.beeCombs.mysterious.name=§7Alvéole mystérieuse
+item.for.beeCombs.omega.name=§7Alvéole Oméga
+item.for.beeCombs.parched.name=§7Alvéole desséchée
+item.for.beeCombs.powdery.name=§7Alvéole poudreuse
+item.for.beeCombs.reddened.name=§7Alvéole rougie
+item.for.beeCombs.silky.name=§7Alvéole soyeuse
+item.for.beeCombs.simmering.name=§7Alvéole frémissante
+item.for.beeCombs.stringy.name=§7Alvéole filandreuse
+item.for.beeCombs.wheaten.name=§7Alvéole engrainée
+
+item.for.beeswax.name=§7Cire d'abeille
+
+item.for.beverage.meadCurative.name=§7Hydromel thérapeutique
+item.for.beverage.meadShort.name=§7Hydromel
+
+item.for.biomeFinder.name=§7Localisateur d'habitat
+item.for.bituminousPeat.name=§7Tourbe bitumineuse
+item.for.brokenBronzePickaxe.name=§7Pioche brisée
+item.for.brokenBronzeShovel.name=§7Pelle brisée
+item.for.bronzePickaxe.name=§7Pioche du survivaliste
+item.for.bronzeShovel.name=§7Pelle du survivaliste
+item.for.builderBag.name=§7Sac à dos du maçon
+item.for.builderBagT2.name=§7Sac à dos tissé du maçon
+
+item.for.bucketEthanol.name=§7Seau d'éthanol
+item.for.bucketBiomass.name=§7Seau de biomasse
+item.for.bucketHoney.name=§7Seau de miel
+item.for.bucketIce.name=§7Seau de glasse pilée
+item.for.bucketJuice.name=§7Seau de jus
+item.for.bucketSeedOil.name=§7Seau d'huile végétale
+item.for.bucketGlass.name=§7Seau de verre
+item.for.bucketShortMead.name=§7Seau de petit hydromel
+
+item.for.canEmpty.name=§7Cannette
+item.for.canEthanol.name=§7Cannette de biocarburant
+item.for.canBiomass.name=§7Cannette de biomasse
+item.for.canFuel.name=§7Cannette de carburant
+item.for.canHoney.name=§7Cannette de miel
+item.for.canIce.name=§7Cannette de glace
+item.for.canJuice.name=§7Cannette de jus
+item.for.canLava.name=§7Cannette de lave
+item.for.canOil.name=§7Cannette de pétrole
+item.for.canSeedOil.name=§7Cannette d'huile végétale
+item.for.carton.name=§7Carton
+
+item.for.circuitboard.basic.name=§7Circuit imprimé de base
+item.for.circuitboard.enhanced.name=§7Circuit imprimé moyen
+item.for.circuitboard.intricate.name=§7Circuit imprimé complexe
+item.for.circuitboard.refined.name=§7Circuit imprimé étendu
+
+item.for.craftingMaterial.dissipationCharge.name=§7Dissipation de charge
+item.for.craftingMaterial.iceShard.name=§7Éclat de glace
+item.for.craftingMaterial.pulsatingDust.name=§7Poussière vibrante
+item.for.craftingMaterial.pulsatingMesh.name=§7Tissu vibrant
+item.for.craftingMaterial.scentedPaneling.name=§7Lambris parfumé
+item.for.craftingMaterial.silkWisp.name=§7Fil de soie
+item.for.craftingMaterial.wovenSilk.name=§7Tissu en soie
+
+item.for.crate.name=§7Cageot
+item.for.decayingWheat.name=§7Blé décomposé
+item.for.diggerBag.name=§7Sac à dos de l'excavateur
+item.for.diggerBagT2.name=§7Sac à dos tissé de l'excavateur
+
+item.for.fertilizerBio.name=§7Compost
+item.for.fertilizerCompound.name=§7Engrais
+item.for.foresterBag.name=§7Sac à dos du forestier
+item.for.foresterBagT2.name=§7Sac à dos tissé du forestier
+
+item.for.frameImpregnated.name=§7Cadre imperméabilisé
+item.for.frameProven.name=§7Cadre protégé
+item.for.frameUntreated.name=§7Cadre non traité
+
+item.for.fruit.cherry.name=§7Cerise
+item.for.fruit.chestnut.name=§7Châtaigne
+item.for.fruit.dates.name=§7Datte
+item.for.fruit.lemon.name=§7Citron
+item.for.fruit.papaya.name=§7Papaye
+item.for.fruit.plum.name=§7Prune
+item.for.fruit.walnut.name=§7Noix
+
+item.for.gearBronze.name=§7Engrenage de bronze
+item.for.gearCopper.name=§7Engrenage de cuivre
+item.for.gearTin.name=§7Engrenage d'étain
+
+item.for.hardenedMachine.name=§7Boitier renforcé
+
+item.for.honeydew.name=§7Miellat
+
+item.for.honeyDrop.charged.name=§7Goutte de miel chargée
+item.for.honeyDrop.honey.name=§7Goutte de miel
+item.for.honeyDrop.omega.name=§7Goutte d'Oméga
+item.for.honeyedSlice.name=§7Pain au miel
+
+item.for.honeyPot.name=§7Pot de miel
+item.for.hunterBag.name=§7Sac à dos du chasseur
+item.for.hunterBagT2.name=§7Sac à dos tissé du chasseur
+
+item.for.impregnatedCasing.name=§7Revêtement imperméabilisé
+item.for.imprinter.name=§7Imprimeur
+item.for.infuser.name=§7Infuseur
+
+item.for.ingotBronze.name=§7Lingot de bronze
+item.for.ingotCopper.name=§7Lingot de cuivre
+item.for.ingotTin.name=§7Lingot d'étain
+
+item.for.iodineCapsule.name=§7Capsule d'iode
+item.for.kitPickaxe.name=§7Kit de pioche
+item.for.kitShovel.name=§7Kit de pelle
+item.for.letters.name=§7Lettre
+
+item.for.minerBag.name=§7Sac à dos du mineur
+item.for.minerBagT2.name=§7Sac à dos tissé du mineur
+
+item.for.mouldyWheat.name=§7Blé moisi
+item.for.mulch.name=§7Paillis
+item.for.naturalistHelmet.name=§7Jumelles
+item.for.oakStick.name=§7Bâton imperméabilisé
+item.for.peat.name=§7Tourbe
+item.for.phosphor.name=§7Phosphore
+item.for.pipette.name=§7Pipette
+
+item.for.pollen.crystalline.name=§7Pollen cristallisé
+item.for.pollen.normal.name=§7Pollen
+
+item.for.propolis.normal.name=§7Propolis
+item.for.propolis.pulsating.name=§7Propolis vibrante
+item.for.propolis.silky.name=§7Propolis soyeuse
+item.for.propolis.sticky.name=§7Propolis adhésive
+
+item.for.refractoryEthanol.name=§7Capsule de biocarburant
+item.for.refractoryBiomass.name=§7Capsule de biomasse
+item.for.refractoryEmpty.name=§7Capsule réusinée
+item.for.refractoryFuel.name=§7Capsule de carburant
+item.for.refractoryHoney.name=§7Capsule de miel
+item.for.refractoryIce.name=§7Capsule de glace
+item.for.refractoryJuice.name=§7Capsule de jus
+item.for.refractoryLava.name=§7Capsule de lave
+item.for.refractoryOil.name=§7Capsule de pétrole
+item.for.refractorySeedOil.name=§7Capsule d'huile végétale
+item.for.refractoryWater.name=§7Capsule d'eau
+item.for.refractoryWax.name=§7Cire réusinée
+
+item.for.researchNote.name=§7Notes de %s
+item.for.royalJelly.name=§7Gelée royale
+item.for.scoop.name=§7Epuisette
+item.for.solderingIron.name=§7Fer à souder
+
+item.for.stamps.1n.name=§7Timbre (1n)
+item.for.stamps.2n.name=§7Timbre (2n)
+item.for.stamps.5n.name=§7Timbre (5n)
+item.for.stamps.10n.name=§7Timbre (10n)
+item.for.stamps.20n.name=§7Timbre (20n)
+item.for.stamps.50n.name=§7Timbre (50n)
+item.for.stamps.100n.name=§7Timbre (100n)
+item.for.stamps.name=§7Timbre
+
+item.for.sturdyMachine.name=§7Boitier robuste
+item.for.tent.name=§7Tente du survivaliste
+
+item.for.thermionicTubes.ex-0.name=§7Tube Electronique (Cuivre)
+item.for.thermionicTubes.ex-1.name=§7Tube Electronique (Étain)
+item.for.thermionicTubes.ex-2.name=§7Tube Electronique (Bronze)
+item.for.thermionicTubes.ex-3.name=§7Tube Electronique (Fer)
+item.for.thermionicTubes.ex-4.name=§7Tube Electronique (Or)
+item.for.thermionicTubes.ex-5.name=§7Tube Electronique (Diamant)
+item.for.thermionicTubes.ex-6.name=§7Tube Electronique (Obsidienne)
+item.for.thermionicTubes.ex-7.name=§7Tube Electronique (Éclatant)
+item.for.thermionicTubes.ex-8.name=§7Tube Electronique (Caoutchouc)
+item.for.thermionicTubes.ex-9.name=§7Tube Electronique (Emeraude)
+item.for.thermionicTubes.ex-10.name=§7Tube Electronique (Apatite)
+item.for.thermionicTubes.ex-11.name=§7Tube Electronique (Lapis)
+item.for.thermionicTubes.ex-12.name=§7Tube Electronique (Ender)
+
+item.for.treealyzer.name=§7Analyseur d'arbre
+
+item.for.waterCan.name=§7Cannette d'eau
+
+item.for.waxCapsule.name=§7Capsule de cire
+item.for.waxCapsuleEthanol.name=§7Capsule d'éthanol
+item.for.waxCapsuleBiomass.name=§7Capsule de biomasse
+item.for.waxCapsuleFuel.name=§7Capsule de carburant
+item.for.waxCapsuleHoney.name=§7Capsule de miel
+item.for.waxCapsuleIce.name=§7Capsule de glace
+item.for.waxCapsuleJuice.name=§7Capsule de jus
+item.for.waxCapsuleOil.name=§7Capsule de pétrole
+item.for.waxCapsuleSeedOil.name=§7Capsule d'huile végétale
+item.for.waxCapsuleWater.name=§7Capsule d'eau
+item.for.waxCast.name=§7Moule en cire
+
+item.for.woodPulp.name=§7Pâte à papier
+item.for.wrench.name=§7Clé à molette
+
+itemGroup.apiculture=§7Apiculture
+itemGroup.arboriculture=§7Arboriculture
+itemGroup.forestry=§7Sylviculture
+itemGroup.lepidopterology=§7Lépidoptérologie
+
+tile.for.core.0.name=§7Analyseur
+tile.for.core.1.name=§7Secrétaire
+
+tile.for.engine.0.name=§7Moteur électrique
+tile.for.engine.1.name=§7Moteur tourbe
+tile.for.engine.2.name=§7Moteur biogaz
+tile.for.engine.3.name=§7Générator Bio
+tile.for.engine.4.name=§7Moteur de précision
+
+tile.for.factory.0.name=§7Embouteilleur
+tile.for.factory.1.name=§7Menuisier
+tile.for.factory.2.name=§7Centrifugeuse
+tile.for.factory.3.name=§7Fermenteur
+tile.for.factory.4.name=§7Humidifieur
+tile.for.factory.5.name=§7Presse
+tile.for.factory.6.name=§7Reposeur
+tile.for.factory.7.name=§7Faiseur de pluie
+tile.for.factory2.0.name=§7Fabricateur thermique
+tile.for.factory2.1.name=§7Réservoir de pluie
+tile.for.factory2.2.name=§7Table de travail
+ 
+tile.for.mail.0.name=§7Boîte aux lettres
+tile.for.mail.1.name=§7Commerce
+tile.for.mail.2.name=§7Collectionneur de timbre
+
+tile.for.resources.0.name=§7Minerai d'apatite
+tile.for.resources.1.name=§7Minerai de cuivre
+tile.for.resources.2.name=§7Minerai d'étain
+
+tile.for.resourceStorage.0.name=§7Bloc d'apatite
+tile.for.resourceStorage.1.name=§7Bloc de cuivre
+tile.for.resourceStorage.2.name=§7Bloc d'étain
+tile.for.resourceStorage.3.name=§7Bloc de bronze
+
+tile.for.soil.0.name=§7Humus
+tile.for.soil.1.name=§7Terre humidifée
+tile.for.soil.2.name=§7Tourbe
+
+tile.for.stained.0.name=§7Verre teinté blanc
+tile.for.stained.1.name=§7Verre teinté orange
+tile.for.stained.2.name=§7Verre teinté magenta
+tile.for.stained.3.name=§7Verre teinté bleu clair
+tile.for.stained.4.name=§7Verre teinté jaune
+tile.for.stained.5.name=§7Verre teinté citron
+tile.for.stained.6.name=§7Verre teinté rose
+tile.for.stained.7.name=§7Verre teinté gris
+tile.for.stained.8.name=§7Verre teinté gris clair
+tile.for.stained.9.name=§7Verre teinté cyan
+tile.for.stained.10.name=§7Verre teinté violet
+tile.for.stained.11.name=§7Verre teinté bleu
+tile.for.stained.12.name=§7Verre teinté marron
+tile.for.stained.13.name=§7Verre teinté vert
+tile.for.stained.14.name=§7Verre teinté rouge
+tile.for.stained.15.name=§7Verre teinté noir
+
+neiintegration.chance=§7Chance : %s
+neiintegration.chance.never=§7Aucune
+neiintegration.chance.lessThan1=§7<1%
+neiintegration.handler.forestry.shaped=§7Sylviculture formée
+neiintegration.handler.forestry.shapeless=§7Sylviculture sans forme
+neiintegration.handler.forestry.fabricator.worth=§7Valeur :
+
+################
+# ERRORS
+################
+
+# BEES
+for.errors.isRaining.desc=§7Pluie
+for.errors.isRaining.help=§7Seules les ouvrières tolérante peuvent voler sous la pluie.
+for.errors.noDrone.desc=§7Pas d'ouvrière
+for.errors.noDrone.help=§7La reproduction exige la présence d'une ouvrière.
+for.errors.noFlower.desc=§7Pas de fleurs
+for.errors.noFlower.help=§7Les membres de la ruche ne trouvent pas les bonnes fleurs . Utilisez l'analyseur d'abeilles pour connaître leur fleur préférée.
+for.errors.noQueen.desc=§7Pas de reine
+for.errors.noQueen.help=§7Fournissez à cette ruche d'une reine ou une princesse et une ouvrière.
+for.errors.noSky.desc=§7Ciel obstrué
+for.errors.noSky.help=§7La ruche exige la lumière du soleil au-dessus.
+for.errors.notDay.desc=§7Pas de jour
+for.errors.notDay.help=§7Les abeilles peuvent seulement travailler durant le jour.
+for.errors.notGloomy.desc=§7Pas assez sombre
+for.errors.notGloomy.help=§7Les abeilles peuvent seulement travailler dans l'obscurité.
+for.errors.notLucid.desc=§7Pas assez lumineux
+for.errors.notLucid.help=§7Les abeilles ont des problèmes de navigation dans le noir.
+for.errors.notNight.desc=§7Pas de nuit
+for.errors.notNight.help=§7Les abeilles peuvent seulement travailler durant la nuit.
+for.errors.tooHot.desc=§7Trop chaud
+for.errors.tooHot.help=§7Les abeilles fondent de chaleur ici et sont incapable de travailler. Utilisez un localisateur d'habitat pour trouver un climat plus frais.
+for.errors.tooCold.desc=§7Trop froid
+for.errors.tooCold.help=§7Les abeilles se serrent les une au autres pour réchapper du froid glacial d'ici. Utilisez un localisateur d'habitat pour trouver un climat plus chaud.
+for.errors.tooHumid.desc=§7Trop humide
+for.errors.tooHumid.help=§7Le climat d'ici a rendu les ailes des abeilles trop humides pour voler. Utilisez un localisateur d'habitat pour trouver un climat plus sec.
+for.errors.tooArid.desc=§7Trop sec
+for.errors.tooArid.help=§7Le climat sec d'ici a desséchée les abeilles et les a rendu incapable de travailler. Utilisez un localisateur d'habitat pour trouver un climat plus humide.
+
+# MACHINES
+for.errors.noPower.desc=§7Pas de puissance
+for.errors.noPower.help=§7Cette machine demande de l'énergie RF pour fonctionner.
+for.errors.noRedstone.desc=§7Exige un signal redstone
+for.errors.noRedstone.help=§7Cette machine a besoin d'un signal redstone pour s'activer.
+for.errors.disabledRedstone.desc=§7Désactivé par redstone
+for.errors.disabledRedstone.help=§7Cette machine a été désactivé par un signal redstone.
+for.errors.noRecipe.desc=§7Pas de recette
+for.errors.noRecipe.help=§7Aucune recette ne correspond aux ressources fournies.
+for.errors.noResource.desc=§7Ressources manquantes
+for.errors.noResource.help=§7Davantage de ressources doivent être fournis pour l'opération.
+for.errors.noResourceInventory.desc=§7L'inventaire demande des ressources
+for.errors.noResourceInventory.help=§7Des ressources doivent être ajoutées à l'inventaire de la machine pour fabriquer cette recette.
+for.errors.noResourceLiquid.desc=§7Ressources liquides manquantes
+for.errors.noResourceLiquid.help=§7Plus de ressources liquides doivent être fournies pour l'opération.
+for.errors.noSpace.desc=§7Inventaire plein
+for.errors.noSpace.help=§7Videz l'inventaire de cette machine.
+for.errors.noSpaceTank.desc=§7Plus d'espace au réservoir
+for.errors.noSpaceTank.help=§7Videz le liquide de ce réservoir.
+for.errors.notDark.desc=§7Pas assez sombre
+for.errors.notDark.help=§7Un niveau de lumière plus faible est exigé pour l'opération.
+
+# RAIN TANK
+for.errors.notRaining.desc=§7Pas de pluie
+for.errors.notRaining.help=§7L'opération est possible seulement s'il pleut.
+for.errors.noRainBiome.desc=§7Aucunes pluies
+for.errors.noRainBiome.help=§7Cet emplacement ne reçoit jamais de pluie.
+for.errors.noSkyRainTank.desc=§7Ciel obstrué
+for.errors.noSkyRainTank.help=§7Nettoyez la zone au-dessus de cet machine afin qu'elle récolte la pluie.
+
+# ALYZERS
+for.errors.noHoney.desc=§7Miel demandé
+for.errors.noHoney.help=§7Ce gadget nécessite des gouttes de miel ou de miellat pour l'opération.
+for.errors.noSpecimen.desc=§7Rien à analyser
+for.errors.noSpecimen.help=§7Fournissez un spécimen à analyser.
+
+# ENGINES
+for.errors.forcedCooldown.desc=§7Refroidissement forcé
+for.errors.forcedCooldown.help=§7Le moteur a surchauffé et il est forcé de refroidir.
+for.errors.noEnergyNet.desc=§7Pas d'électricité
+for.errors.noEnergyNet.help=§7Votre Monde ne possède pas l'électricité. (Installez IndustrialCraft\u00b2.)
+for.errors.noFuel.desc=§7Pas de carburant
+for.errors.noFuel.help=§7Réapprovisionner les réserves en carburant de cette machine.
+for.errors.noHeat.desc=§7Non chauffé
+for.errors.noHeat.help=§7Remplir le réservoir de chauffage.
+
+# TRADE STATION
+for.errors.noStamps.desc=§7Timbres demandés
+for.errors.noStamps.help=§7Le service postal demande plus de timbres pour payer l'affranchissement.
+for.errors.noPaper.desc=§7Papier demandé
+for.errors.noPaper.help=§7Le service postal demande plus de papier pour envoyer des lettres.
+for.errors.noSupplies.desc=§7Besoin de provisions
+for.errors.noSupplies.help=§7Le service postal demande plus de provisions pour envoyer.
+for.errors.noTrade.desc=§7Pas de service actif
+for.errors.noTrade.help=§7Le service postal demande des éléments pour envoyer et recevoir.
+
+# TRADE STATION NAMING
+for.errors.notAlphaNumeric.desc=§7Non alphanumérique
+for.errors.notAlphaNumeric.help=§7La chaîne donnée doit comporter uniquement des nombres et des lettres.
+for.errors.notUnique.desc=§7Pas unique
+for.errors.notUnique.help=§7La chaîne donnée doit être unique dans ce monde. Choisis en une autre.
+
+# LETTERS
+for.errors.noRecipient.desc=§7Pas de destinataire
+for.errors.noRecipient.help=§7Vous devez adresser votre lettre à un destinataire pour l'envoyer.
+for.errors.notPostpaid.desc=§7Timbres demandés
+for.errors.notPostpaid.help=§7Appliquez plus de timbre pour payer le service postal.
+
+# CIRCUIT BOARDS
+for.errors.circuitMismatch.desc=§7Disposition incompatible
+for.errors.circuitMismatch.help=§7Le nombre des tubes électiques ne correspond pas à la taille du circuit imprimé.
+for.errors.noCircuitBoard.desc=§7Circuit manquant
+for.errors.noCircuitBoard.help=§7Insérez un circuit imprimé pour souder dessus les tubes électriques sélectionnés.
+for.errors.noCircuitLayout.desc=§7Dispositions non trouvées
+for.errors.noCircuitLayout.help=§7Pas de dispositions disponible en raison des options de jeu actuelles.
+
+# FARMS
+for.errors.noFarmland.desc=§7Aucune terres agricoles
+for.errors.noFarmland.help=§7Le grès poli, les briques ou les briques de pierre forment une plateforme sur laquelle la ferme se construira.
+for.errors.noFertilizer.desc=§7Pas d'engrais
+for.errors.noFertilizer.help=§7Les fermes exigent de l'engrais pour fonctionner. Le compost est insuffisant.
+for.errors.noLiquid.desc=§7Pas d'eau
+for.errors.noLiquid.help=§7Dépendant de la pluie, de la température et de l'humidité, les fermes demmandent d'être fournies supplied avec des quantités variables d'eau.
+
+# DEPRECATED
+for.errors.invalidBiome.desc=§7Environnement hostile
+for.errors.invalidBiome.help=§7les machines ou les habitants ne peuvent pas travailler dans ce biome.
+for.errors.noDisposal.desc=§7Déchets non jetable
+for.errors.noDisposal.help=§7Espace insuffisant pour jeter des déchets.
+for.errors.unknown.desc=§7Erreur inconnue
+for.errors.unknown.help=§7Félicitations, vous avez trouvé une coquille.
+for.errors.wrongStacksize.desc=§7Trop d'éléments
+for.errors.wrongStacksize.help=§7Seuls les éléments unitaires peuvent être utilisées ici.
+
+####################
+# APICULTURE
+####################
+
+death.bee.aggressive.player=§7%1$s a rencontré un essaim d'abeilles. %2$s lui a volé son costume d'apiculteur.
+death.bee.aggressive=§7%1$s a rencontré un essaim d'abeilles. Cela a dû piquer.
+death.bee.end.player=§7%1$s a été tué par une mauvaise piqûre tout en combattant %2$s.
+death.bee.end=§7%1$s a été tué par une mauvaise piqûre.
+death.bee.radioactive.player=§7%1$s est entré dans Tchernobyl sans son casque. %2$s regardait et rigolait.
+death.bee.radioactive=§7%1$s est entré dans Tchernobyl sans son casque.
+death.bee.heroic.player=§7%1$s a été tué par une abeille héroïque ! %2$s a pour toujours une dette envers vous.
+death.bee.heroic=§7%1$s a été tué par une abeille héroïque !
+
+forestry.allele.effect.aggressive=§7Aggress.
+forestry.allele.effect.beatific=§7Pacifique
+forestry.allele.effect.creeper=§7Creeper
+forestry.allele.effect.drunkard=§7Ivre
+forestry.allele.effect.exploration=§7Exploratrice
+forestry.allele.effect.fertile=§7Fertile
+forestry.allele.effect.glacial=§7Glaciale
+forestry.allele.effect.heroic=§7Héroique
+forestry.allele.effect.ignition=§7Inflammable
+forestry.allele.effect.misanthrope=§7Mortelle
+forestry.allele.effect.miasmic=§7Vénéneuse
+forestry.allele.effect.mycophilic=§7Mycophilique
+forestry.allele.effect.none=§7Aucun
+forestry.allele.effect.radioactive=§7Radioactive
+forestry.allele.effect.reanimation=§7Réanimation
+forestry.allele.effect.repulsion=§7Répulsion
+forestry.allele.effect.resurrection=§7Résurrection
+forestry.allele.effect.snowing=§7Neigeante
+
+for.beemode.easy.desc=§7Un niveau facile augmente drastiquement les chances de mutations et réduit voir annule les chance d'éffet négative.
+for.beemode.hard.desc=§7Réduit un peux les mutations mais augmentre la longévité du règne de 50%.
+for.beemode.hardcore.desc=§7Diminue la fréquence de mutation, augmente la longévité du règne de 500% et réduit la fertilité de 20%.
+for.beemode.insane.desc=§7Abbaisse a 20% la frequence de mutation, augmente la longévité du règne 10 fois e réduit la ferilité de 40%.
+for.beemode.normal.desc=§7Niveau normal recommandé pour un jeu normal.
+
+for.bees.grammar.drone.type=§7Ouvrière
+for.bees.grammar.drone=§7%TYPE %SPECIES
+for.bees.grammar.larvae.type=§7Crisalide
+for.bees.grammar.larvae=§7%TYPE %SPECIES
+for.bees.grammar.princess.type=§7Princesse
+for.bees.grammar.princess=§7%TYPE %SPECIES
+for.bees.grammar.queen.type=§7Reine
+for.bees.grammar.queen=§7%TYPE %SPECIES
+
+for.bees.hybrid=§7Hybride %PRIMARY-%SECONDARY
+
+for.bees.species.austere=§7Austère
+for bees.species.avenging=§7Vengeance
+for.bees.species.boggy=§7Marécageuse
+for.bees.species.common=§7Commune
+for.bees.species.cultivated=§7Cultivée
+for.bees.species.darkened=§7Sombre
+for.bees.species.demonic=§7Démoniaque
+for.bees.species.diligent=§7Diligente
+for.bees.species.edenic=§7Edénique
+for bees.species.ender=§7Néant
+for.bees.species.exotic=§7Exotique
+for.bees.species.fiendish=§7Diabolique
+for.bees.species.forest=§7Forestière
+for.bees.species.frugal=§7Frugale
+for.bees.species.glacial=§7Glaciale
+for.bees.species.hermitic=§7Hermétique
+for.bees.species.heroic=§7Héroïque
+for.bees.species.icy=§7Glacée
+for.bees.species.imperial=§7Imperiale
+for.bees.species.industrious=§7Industrielle
+for.bees.species.leporine=§7Léporine
+for.bees.species.majestic=§7Majestueuse
+for.bees.species.marshy=§7Marécageuse
+for.bees.species.meadows=§7Prairie
+for.bees.species.merry=§7Joyeux
+for.bees.species.miry=§7Bourbeuse
+for.bees.species.modest=§7Modeste
+for.bees.species.monastic=§7Monastique
+for.bees.species.noble=§7Noble
+for.bees.species.omega=§7Oméga
+for.bees.species.phantasmal=§7Phantasmatique
+for.bees.species.reddened=§7Rougeoyante
+for.bees.species.rural=§7Rurale
+for.bees.species.farmerly=§7Eleveuse
+for.bees.species.agrarian=§7Agricole
+for.bees.species.secluded=§7Isolée
+for.bees.species.sinister=§7Sinistre
+for.bees.species.spectral=§7Spectrale
+for.bees.species.steadfast=§7Inébranlable
+for.bees.species.tipsy=§7Pompette
+for.bees.species.tricky=§7Epineuse
+for.bees.species.tropical=§7Tropicale
+for.bees.species.unweary=§7Infatigable
+for.bees.species.valiant=§7Valiante
+for.bees.species.vengeful=§7Vengeuse
+for.bees.species.vindictive=§7Vindicative
+for.bees.species.wintry=§7Hivernale
+
+for.bees.stock.ignoble=§7Stock ignoble
+for.bees.stock.pristine=§7Stock d'origine
+
+for.chat.command.forestry.bee.desc=§7- %s : Commandes d'apiculture
+for.chat.command.forestry.bee.help=§7Commandes relative à l'apiculture.
+for.chat.command.forestry.bee.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.bee.give.desc=§7- %s : Donne des abeilles
+for.chat.command.forestry.bee.give.help=§7Donnes à un joueur des ouvrières, des princesses, des reines, ou des crisalides.
+for.chat.command.forestry.bee.give.format=§7Format: /%s <espèce> <type> [<joueur>]
+for.chat.command.forestry.bee.give.available=§7Type d'abeille valable : %s
+for.chat.command.forestry.bee.give.given=§7%1$s a recu une %2$s %3$s.
+
+for.chat.command.forestry.bee.mode.desc=§7- %s : Commandes de mode d'apiculture
+for.chat.command.forestry.bee.mode.help=§7Commandes relative aux modes d'apiculture.
+for.chat.command.forestry.bee.mode.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.bee.mode.info.desc=§7- %s : Info de mode d'apiculture
+for.chat.command.forestry.bee.mode.info.help=§7Information à propos des modes d'apiculture courants et valables.
+for.chat.command.forestry.bee.mode.info.format=§7Format: /%s <mode>
+
+for.chat.command.forestry.bee.mode.set.desc=§7- %s : Option du mode d'apuculture
+for.chat.command.forestry.bee.mode.set.help=§7Attribue le mode d'apiculture du monde.
+for.chat.command.forestry.bee.mode.set.format=§7Format: /%s [<monde-#>] <mode>
+
+for.chat.command.forestry.bee.save.desc=§7- %s : Sauver les statistiques d'apiculture
+for.chat.command.forestry.bee.save.help=§7Sauve les statistiques d'apiculture dans un fichier.
+for.chat.command.forestry.bee.save.format=§7Format: /%s [<joueur>]
+for.chat.command.forestry.bee.save.stats=§7Statistiques d'apiculture de %s sur %s:
+
+for.chat.command.forestry.mode.info.error=§7Pas de mode nommé '%s' de valable.
+for.chat.command.forestry.mode.info.current=§7Courant: %1$s (#%2$s)
+for.chat.command.forestry.mode.info.available=§7Modes valables: %s
+
+for.chat.command.forestry.mode.set.success=§7Mode mis à %s.
+for.chat.command.forestry.mode.set.error=§7Le mode appelé '%s' est non valide.
+
+for.chat.command.forestry.stats.save.error1=§7Le fichier n'a pas pu être créé. Impossible de sauver les statistiques.
+for.chat.command.forestry.stats.save.error2=§7Ne peut pas écrire au fichier . Impossible de sauver les statistiques.
+for.chat.command.forestry.stats.save.error3=§7L'oprération d'écriture renvoie une exception. Impossible de sauver les statistiques.
+for.chat.command.forestry.stats.save.error4=§7Pas de statistiques trouvées.
+for.chat.command.forestry.stats.save.saved=§7Statistiques sauvées pour le joueur %s
+for.chat.command.forestry.stats.save.key.discovered=§7Découverte
+for.chat.command.forestry.stats.save.key.discovered.symbol=§7X
+for.chat.command.forestry.stats.save.key.blacklisted=§7Bloquée
+for.chat.command.forestry.stats.save.key.blacklisted.symbol=§7BL
+for.chat.command.forestry.stats.save.key.notCounted=§7Ne comptant pas dans le total des espèces
+for.chat.command.forestry.stats.save.key.notCounted.symbol=§7NC
+for.chat.command.forestry.stats.save.mode=§7Mode: %s
+
+for.description.speciesAgrarian=§7"Ne sent pas aussi mauvais que l'alternative. Fait le travail fini, hein ?"|Myrathi, Cannie Beekeeper
+for.description.speciesAustere=§7Dangereux et instable; Les apiculteurs sont invités à rester en conbinaison complete à chaque fois près d'elle |. Apiculture 101
+for.description.speciesAvenging=§7"Les murs de ma maison ont commencé à s'effriter et j'ai entendu le craquement du toit au-dessus de ma tête, mais je ne m'en souciais pas! J'ai senti les coups de mille petits insectes sur mon gant que j'ai attrapé la nouvelle reine "|. Anonymous
+for.description.speciesBoggy=§7"J'ai vu qu'une vache s'est laissé duper par l'une d'entre elles une fois. Des secondes plus tard, il a commencé à germer des champignons partout!... Une photo ? Heu, j'ai pas."|"Sir" Sengir, le fou
+for.description.speciesCommon=§7Considéré comme l'insigne du débutant de participation à l'apiculture |. Apiculture 101
+for.description.speciesCultivated=§7Travail rapide de l'abeille; Pense à rien, mais l'opéra est en dessous | Apiculture 101.
+for.description.speciesDarkened=§7Attiré par la puissance de la matière alchimique, cette espèce était une puissante source d'énergie |. Lexique de l'apiculteur
+for.description.speciesDemonic=§7Née dans les flammes du Nether et descendant de générations d'abeilles du Nether ont causé à cette espèce une transformation en un véritable démon |. Apiculture 101
+for.description.speciesDiligent=§7Partiellement noté comme un tremplin pour la ligne industrieuse des abeilles | Apiculture 101.
+for.description.speciesEdenic=§7"J'ai furieusement griffonné dans mon carnet, dessiné des croquis, des images, je me suis senti infiltré dans ma tête pendant que je regardais les insectes qui fesaient leurs danse étrange. "|. Apiculture 101
+for.description.speciesEnded=§7"J'ai trouvé un de ces insectes dans une ruche apparemment érémitique d'un villageois, il était engourdi." | Apiculture 101
+for.description.speciesExotic=§7"La fièvre me secoua et la combinaison d'apiculture était trempée de sueur froide, mais avec des mains tremblantes, j'ai finalement réussi à prendre une de ces ruche "|. Apiculture 101
+for.description.speciesFarmerly=§7Généralement vu dans les grandes étendues de prairie, la corbeille à pain de nations.|Apiculture 101
+for.description.speciesFiendish=§7Des apiculteurs experimentés du Nether ont signalé de graves attaques de leurs abeilles. La prudence est donc recommandée |. Apiculture 101
+for.description.speciesForest=§7L'un des ravageurs les plus communs dans les forêts; Partiellement docile |. Apiculture 101
+for.description.speciesFrugal=§7Des générations d'abeilles laissées au soleil pour produire cette espèce | Apiculture 101.
+for.description.speciesGlacial=§7"L'hiver approche!"|E. Stark, apiculteur
+for.description.speciesHermitic=§7"Mon cher collègue, j'ai remarqué que les abeilles que vous m'avez envoyés refuse de se laver et se laissent pousser la barbe. Pouvez-vous m'expliquer.?" | Binnie, apiculteur
+for.description.speciesHeroic=§7Des légendes élaborées ont entouré cette espèce. Elle va défendre sa ruche j'usqu'à sa mort contre toutes hostilités |. Grimoire de l'apiculteur
+for.description.speciesIcy=§7Les températures à l'intérieur des ruches habitées par cette espèce diminuera jusqu'à ce que les fragments se forme en glace. | Apiculture 101.
+for.description.speciesImperial=§7Abeille très recherchée; Spécialisée dans la production de la précieuse gelée royale |. Apiculture 101
+for.description.speciesIndustrious=§7Abeille très recherchée; Spécialisée dans la production de pollen exquis |. Apiculture 101
+for.description.speciesLeporine=§7"Je le jure ! C'était minuscule, avait des ailes et j'ai certainement vu des petites oreilles de lapin duveteuses !... Non ! Je ne suis pas ivre !"|"Sir" Sengir, le fou
+for.description.speciesMajestic=§7"Qu'on leur coupe la tête !" |. Reine des coeurs
+for.description.speciesMarshy=§7"Sérieusement ? Champignons ? Sortez d'ici !" | Apiculture 101
+for.description.speciesMeadows=§7Infeste principalement des plaines dans les climats tempérés; Partiellement docile |. Apiculture 101
+for.description.speciesMerry=§7"Ho ho ho !" |. Abeille Joyeuse
+for.description.speciesMiry=§7"Comment les abeilles fécondent-elles avec du pollen les moisissures ?"|Mezz, Jeune apiculteur
+for.description.speciesModest=§7Les climats chauds et arides ont contraint cette espèce à s'adapter à un degré qui ne lui permettra pas de survivre dans des climats plus conviviaux |. Apiculture 101
+for.description.speciesMonastic=§7"Je suis resté austère et lui dit:" Non seulement une princesse, mais aussi tout un tas d'émeraudes pour un maigre ouvrier?? C'est extorsion! "| Apiculture 101
+for.description.speciesNoble=§7"Il n'y a pas plus noble profession dans le monde que de reproduire une autre abeille"|. Binnie, apiculteur
+for.description.speciesOmega=§7"Je suis l'Alpha et l'Oméga, le début et la fin, le premier et le dernier."|Pahimar, apiculteur
+for.description.speciesPhantasmal=§7"Quoi que vous fassiez, ne pas, je le répète, NE PAS laisser tomber le dragon e ..." | "Sir" sengien, Ces derniers mots
+for.description.speciesReddened=§7Nécessitant d'énormes quantités de matière alchimique, ces petits bonshommes pourraient inonder le monde d'énergie |. Lexique de l'apiculteur
+for.description.speciesRural=§7"La pluie en mai promet beaucoup de foin." | M. Ages, Apiculteur rural
+for.description.speciesSecluded=§7"Un croisement avec l'espèce du désert était une erreur. Mes abeilles se retirent de plus en plus du monde extérieur". | Apiculture 101
+for.description.speciesSinister=§7Pas nombreuses sont les espèces d'abeilles qui sont capables de survivre dans le Nether. Et même celle-ci sont sévèrement affectés par leur environnement infernal | Apiculture 101.
+for.description.speciesSpectral=§7"Je ne savais pas s'il était vivant comme il était là dans ma paume de ma main, scintillant et palpitante, suintant une froideur que jamais je n'avais ressenti avant. Puis j'ai entendu le tas d'os derrière moi...". | Apiculture 101
+for.description.speciesSteadfast=§7Considérée comme éteinte jusqu'à ce que certaines ont été re-trouvés par des aventuriers dans un profond donjon |. Grimoire de l'apiculteur
+for.description.speciesTipsy=§7"Danser mes belles danser!!" | Sorcière pompette de l'Est
+for.description.speciesTricky=§7"piquer ou être piqué!"| Abeille épineuse
+for.description.speciesTropical=§7"Mes voyages le long de la rivière et de la jungle m'on permis de rattraper beaucoup de ces spécimen toxiques. Malheureusement j'avais perdu ma seule branche face à un crocodile.". | Apiculture 101
+for.description.speciesUnweary=§7Infatigable. Ensuite, ils meurent |. Apiculture 101
+for.description.speciesValiant=§7Une sous-espèce rare, rarement vu cohabiter dans des ruches banales |. Grimoire de l'apiculteur
+for.description.speciesVengeful=§7"Veni, vidi, vici!"|Apinus Jules César
+for.description.speciesVindictive=§7"Il a mangé mon visage! Il a mangé mon visage!"|K.M.
+for.description.speciesWintry=§7Commune, mais abeille durcie par l'hiver; La culture dans les climats chauds est un défi |. Apiculture 101
+
+for.genus.bees.agrarian=§7Agriculteur
+for.genus.bees.austere=§7Austère
+for.genus.bees.boggy=§7Marécageux
+for.genus.bees.common=§7Commun
+for.genus.bees.end=§7Néant
+for.genus.bees.festive=§7Festif
+for.genus.bees.frozen=§7Congelé
+for.genus.bees.heroic=§7Héroïque
+for.genus.bees.industrious=§7Industriel
+for.genus.bees.infernal=§7Infernal
+for.genus.bees.monastic=§7Monastique
+for.genus.bees.noble=§7Noble
+for.genus.bees.reddened=§7Rougeoyant
+for.genus.bees.tropical=§7Tropical
+for.genus.bees.vengeful=§7Vengeur
+
+item.for.beePrincessGE.name=§7Princesse inconnue
+item.for.beeQueenGE.name=§7Reine inconnue
+
+tile.for.alveary.0.name=§7Ruche
+tile.for.alveary.1.name=§7Entrée de ruche
+tile.for.alveary.2.name=§7Essaim
+tile.for.alveary.3.name=§7Ventilateur pour ruche
+tile.for.alveary.4.name=§7Chauffage pour ruche
+tile.for.alveary.5.name=§7Hydrorégulateur pour ruche
+tile.for.alveary.6.name=§7Stabilisateur pour ruche
+tile.for.alveary.7.name=§7Tamis pour ruche
+
+tile.for.apiculture.0.name=§7Rucher
+tile.for.apicultureChest.0.name=§7Coffre de l'apiculteur
+tile.for.apiculture.2.name=§7Abri pour abeilles
+
+tile.for.beehives.1.name=§7Ruche de forêt
+tile.for.beehives.2.name=§7Ruche de prairie
+tile.for.beehives.3.name=§7Ruche du désert
+tile.for.beehives.4.name=§7Ruche tropicale
+tile.for.beehives.5.name=§7Ruche de l'Ender
+tile.for.beehives.6.name=§7Ruche glaciale
+tile.for.beehives.7.name=§7Ruche marécageuse
+tile.for.beehives.8.name=§7Ruche d'essain
+
+tile.for.candle.dyed.lit.name=§7Bougie teinté allumée
+tile.for.candle.dyed.stump.name=§7Bougie teinté éteinte
+tile.for.candle.lit.name=§7Bougie allumée
+tile.for.candle.stump.name=§7Bougie éteinte
+
+tile.for.stump.0.name=§7Morceau de bougie
+
+####################
+# MULTIBLOCK
+####################
+
+for.multiblock.error.notConnected=§7Le multi-bloc n'est pas connecté à un contrôleur. Ceci pourrait être du à une lenteur ou un bogue. Si le problème persiste, Essayez de casser et de remplacer le bloc.
+for.multiblock.error.invalid.interior=§7%d, %d, %d - (%s) bloc n'est pas valable pour l'utilisation à l'intérieur de la machine.
+for.multiblock.error.invalid.part=§7Les parties @ %d, %d, %d du multi-bloc sont incompatible avec une machine de type %s.
+for.multiblock.error.small=§7Le multi-bloc est trop petit. Cela doit être au moins de %d en X, %d en Y, %d en Z.
+for.multiblock.error.large.x=§7Le multi-bloc est trop grand, Cela peut être au maximum de %d blocs dans la dimension X.
+for.multiblock.error.large.y=§7Le multi-bloc est trop grand, Cela peut être au maximum de %d blocs dans la dimension Y.
+for.multiblock.error.large.z=§7Le multi-bloc est trop grand, Cela peut être au maximum de %d blocs dans la dimension Z.
+for.multiblock.error.small.x=§7Le multi-bloc est trop petit, cela doit être au moins de %d blocs dans la dimension X.
+for.multiblock.error.small.y=§7Le multi-bloc est trop petit, cela doit être au moins de %d blocs dans la dimension Y.
+for.multiblock.error.small.z=§7Le multi-bloc est trop petit, cela doit être au moins de %d blocs dans la dimension Z.
+
+for.multiblock.alveary.error.needSlabs=§7Le ruchet doit avoir des dalles en bois sur son sommet.
+for.multiblock.alveary.error.needSpace=§7Le ruchet a besoin de l'espace autour du sommet pour que les abeilles puissent entrer et sortir.
+for.multiblock.alveary.error.needPlainOnTop=§7Le ruchet doit avoir des blocs de ruchet plaine pour son niveau supérieur.
+for.multiblock.alveary.error.needPlainInterior=§7Le ruchet doit avoir des blocs de ruchet plaine pour son intérieur.
+
+for.multiblock.farm.error.needPlainBand=§7La ferme doit avoir des blocs de ferme plaine pour son troisième niveau.
+for.multiblock.farm.error.needPlainInterior=§7La ferme doit avoir des blocs de ferme plaine pour son intérieur.
+for.multiblock.farm.error.needGearbox=§7La ferme doit avoir une boîte de vitesse pour accepter la puissance et pour fonctionner .
+
+####################
+# ARBORICULTURE
+####################
+
+for.arboriculture.effect.none=§7Aucun
+
+for.chat.command.forestry.tree.desc=§7- %s : Commandes du garde forestier
+for.chat.command.forestry.tree.help=§7Commandes relatives aux arbres.
+for.chat.command.forestry.tree.format=§7Format:/%s <sous-commande>
+
+for.chat.command.forestry.tree.spawnTree.desc=§7- %s : Faire apparaitre un arbre
+for.chat.command.forestry.tree.spawnTree.help=§7Fait apparaitre un arbre près du joueur.
+for.chat.command.forestry.tree.spawnTree.format=§7Format:/%s <nom-espèce> [<nom-joueur>]
+
+for.chat.command.forestry.tree.spawnForest.desc=§7- %s : Faire apparaitre une forêt
+for.chat.command.forestry.tree.spawnForest.help=§7Fait apparaitre une forêt près du joueur.
+for.chat.command.forestry.tree.spawnForest.format=§7Format:/%s <nom-espèce> [<nom-joueur>]
+
+for.chat.command.forestry.tree.mode.desc=§7- %s : Commandes du mode du garde forestier
+for.chat.command.forestry.tree.mode.help=§7Commandes relatives mode de garde forestier.
+for.chat.command.forestry.tree.mode.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.tree.mode.info.desc=§7- %s : Informations du mode du garde forestier
+for.chat.command.forestry.tree.mode.info.help=§7Informations sur les modes du garde forestier courants et disponibles.
+for.chat.command.forestry.tree.mode.info.format=§7Format: /%s <nom-mode>
+
+for.chat.command.forestry.tree.mode.set.desc=§7- %s : Activation du mode du garde forestier
+for.chat.command.forestry.tree.mode.set.help=§7Active un mode du garde forestier pour le monde.
+for.chat.command.forestry.tree.mode.set.format=§7Format: /%s [<monde-#>] <nom-mode>
+
+for.chat.command.forestry.tree.save.desc=§7- %s : Sauver les statistiques du garde forestier
+for.chat.command.forestry.tree.save.help=§7Sauve les statistiques du garde forestier dans un fichier.
+for.chat.command.forestry.tree.save.format=§7Format: /%s [<nom-joueur>]
+
+for.chat.command.forestry.tree.save.stats=§7Statistiques du garde forestier %s sur %s:
+
+for.description.treeBirch=§7Bouleau répandue, qui est en moyenne de plus petite taille.|Codex Lignum
+for.description.treeCherry=§7Petit arbre. Dans sa forme naturelle il portera des cerises qui devront subir une période de maturation.|Codex Lignum
+for.description.treeChestnut=§7De grande taille, arbre à feuilles caduques avec un large tronc. Châtaigniers portant naturellement des fruits qui nécessitent un certain temps pour arriver à maturité.|Codex Lignum
+for.description.treeLime=§7De grande taille, arbre à feuilles caduques. Il a été récemment reclassé comme étant dans la famille des Malvacées.|Codex Lignum
+for.description.treeOak=§7Espèces communes dont la propriétés de la procréation de la pomme font l'objet de beaucoup de chant et de danse.|Codex Lignum
+for.description.treeSipiri=§7Grands arbres toujours en verdure avec du bois précieux. Le bois et l'écorce sont agréablement parfumées. Ne peuvent se développer que dans des climats tropicaux.|Codex Lignum
+for.description.treeWalnut=§7De grande taille, arbre à feuilles caduques avec un large tronc. Noyer d'origine naturelle qui portent des fruits qui nécessitent un certain temps pour arriver à maturité.|Codex Lignum
+for.description.treeWillow=§7Grand arbre à feuilles caduques. Ces saules blancs sont en forte croissance. N'ont été observés à se produire dans les climats humides.|Codex Lignum
+
+for.family.jungle=§7De jungle
+for.family.nuts=§7A coquille
+for.family.pomes=§7A pépins
+for.family.prunes=§7A noyau
+
+for.fruits.apple=§7Pomme
+for.fruits.cherry=§7Cerise
+for.fruits.chestnut=§7Châtaigne
+for.fruits.cocoa=§7Cacao
+for.fruits.dates=§7Datte
+for.fruits.lemon=§7Citron
+for.fruits.none=§7Aucun
+for.fruits.papaya=§7Papaye
+for.fruits.plum=§7Prune
+for.fruits.walnut=§7Noix
+
+for.gui.family=§7Famille
+for.gui.fireproof=§7Ignifugé
+for.gui.fruits=§7Fruits
+for.gui.girth=§7Circonférence
+for.gui.growth=§7Croissance
+for.gui.height=§7Hauteur
+for.gui.maturity=§7Maturité
+for.gui.native=§7Ordures
+for.gui.saplings=§7Jeune pousse
+for.gui.sappiness=§7Résine
+for.gui.supports=§7Supports
+for.gui.tolerated=§7Tolérances
+for.gui.treealyzer.help=§7Ravitailler de jeunes pousses et fournir en miel ou en miellat comme catalyseur.
+for.gui.treealyzer=§7Analyseur d'arbre
+for.gui.yield=§7Produit
+
+for.growth.normal=§7Simple
+for.growth.tropical=§7Tropicale
+
+for.trees.grammar.blossom.type=§7Fleur de
+for.trees.grammar.blossom=§7%TYPE %SPECIES
+for.trees.grammar.germling.type=§7Greffe de
+for.trees.grammar.germling=§7%TYPE %SPECIES
+for.trees.grammar.pollen.type=§7Pollen de
+for.trees.grammar.pollen=§7%TYPE %SPECIES
+for.trees.grammar.sapling.type=§7Pousse de
+for.trees.grammar.sapling=§7%TYPE %SPECIES
+for.trees.grammar.leaves.type=§7Feuilles de
+for.trees.grammar.leaves=§7%TYPE %SPECIES
+
+for.trees.hybrid=§7Hybride %PRIMARY-%SECONDARY
+
+for.trees.species.acacia=§7Acacia
+for.trees.species.appleOak=§7Pommier
+for.trees.species.balsa=§7Balsa
+for.trees.species.blueMahoe=§7Mahoe bleu
+for.trees.species.bullPine=§7Pin jaune
+for.trees.species.coastSequoia=§7Séquoia de côte
+for.trees.species.commonWalnut=§7Noyer commun
+for.trees.species.darkOak=§7Chêne noir
+for.trees.species.datePalm=§7Dattier
+for.trees.species.desertAcacia=§7Acacia du désert
+for.trees.species.giantSequoia=§7Séquoia géant
+for.trees.species.grandidierBaobab=§7Baobab de grandidier
+for.trees.species.hillCherry=§7Cerisier
+for.trees.species.jungle=§7Jungle
+for.trees.species.kapok=§7Kapok
+for.trees.species.lemon=§7Citronier
+for.trees.species.mundaneLarch=§7Mélèze banal
+for.trees.species.myrtleEbony=§7Ébène de myrte
+for.trees.species.papaya=§7Papayer
+for.trees.species.plum=§7Prunier
+for.trees.species.redSpruce=§7Sapin rouge
+for.trees.species.silverBirch=§7Bouleau argenté
+for.trees.species.silverLime=§7Citronier argenté
+for.trees.species.sipiri=§7Sipiri
+for.trees.species.sugarMaple=§7Érable sucré
+for.trees.species.sweetChestnut=§7Châtaignier doux
+for.trees.species.teak=§7Teck
+for.trees.species.wenge=§7Wengé
+for.trees.species.whitePoplar=§7Peuplier blanc
+for.trees.species.whiteWillow=§7Saule blanc
+for.trees.species.yellowMeranti=§7Méranti jaune
+for.trees.species.ipe=§7Ipê
+for.trees.species.padauk=§7Padauk
+for.trees.species.cocobolo=§7Cocobolo
+for.trees.species.zebrawood=§7Zebrano
+
+for.fences.grammar=§7Barrière de %TYPE
+for.log.grammar=§7Bois de %TYPE
+for.planks.grammar=§7Planches de %TYPE
+for.slab.grammar=§7Dalles de %TYPE
+for.stairs.grammar=§7Escaliers de %TYPE
+
+for.trees.woodType.larch=§7Mélèze
+for.trees.woodType.teak=§7Teck
+for.trees.woodType.acacia=§7Acacia
+for.trees.woodType.lime=§7Tilleul
+for.trees.woodType.chestnut=§7Châtaignier
+for.trees.woodType.wenge=§7Wengé
+for.trees.woodType.baobab=§7Baobab
+for.trees.woodType.sequoia=§7Séquoia
+for.trees.woodType.kapok=§7Kapok
+for.trees.woodType.ebony=§7Ébène
+for.trees.woodType.mahogany=§7Acajou
+for.trees.woodType.balsa=§7Balsa
+for.trees.woodType.willow=§7Saule
+for.trees.woodType.walnut=§7Noyer
+for.trees.woodType.greenheart=§7Chlorocardium rodiei
+for.trees.woodType.cherry=§7Cerisier
+for.trees.woodType.mahoe=§7Mahoe
+for.trees.woodType.poplar=§7Peuplier
+for.trees.woodType.palm=§7Palmier
+for.trees.woodType.papaya=§7Papayer
+for.trees.woodType.pine=§7Sapin
+for.trees.woodType.plum=§7Prunier
+for.trees.woodType.maple=§7Érable
+for.trees.woodType.citrus=§7Citrus
+for.trees.woodType.giganteum=§7Séquoia géant
+for.trees.woodType.ipe=§7Ipé
+for.trees.woodType.padauk=§7Padauk
+for.trees.woodType.cocobolo=§7Cocobolo
+for.trees.woodType.zebrawood=§7Zebrano
+
+tile.for.fireproof=§7%s (Ignifugé)
+
+item.for.grafter.name=§7Croisement
+item.for.grafterProven.name=§7Croisement prouvé
+
+tile.for.arboriculture.0.name=§7Coffre d'arboriste
+
+tile.for.saplingGE.0.name=§7Pousse
+tile.for.leaves.0.name=§7Feuilles
+tile.for.pods.0.name=§7Cosses
+
+####################
+# FARMING
+####################
+
+for.circuit.managedArboreal=§7Arborétum
+for.circuit.managedCereal=§7Ferme agricole
+for.circuit.managedInfernal=§7Ferme infernal
+for.circuit.managedPeat=§7Tourbière
+for.circuit.managedShroom=§7Champignonnière
+for.circuit.managedVegetable=§7Ferme de légumes
+for.circuit.managedEnder=§7Ferme du néant
+for.circuit.manualCereal=§7Ferme agricole
+for.circuit.manualCocoa=§7Plantation de cacao
+for.circuit.manualGourd=§7Ferme de courge
+for.circuit.manualOrchard=§7Jardin fruitier
+for.circuit.manualPeat=§7Tourbière
+for.circuit.manualPoales=§7Ferme de roseaux
+for.circuit.manualRubber=§7Plantation de caoutchouc
+for.circuit.manualShroom=§7Champignonnière
+for.circuit.manualSucculent=§7Ferme de plante
+for.circuit.manualVegetable=§7Ferme de légumes
+
+for.gui.farm.title=§7Ferme
+for.gui.hydr.heat=§7Par la chaleur
+for.gui.hydr.humid=§7Par l'humidité
+for.gui.hydr.overall=§7Global
+for.gui.hydr.rainfall=§7Par la précipitations
+for.gui.hydration=§7Hydratation obligatoires
+
+for.hints.circuitboard.desc=§7Utilisez un fer à souder pour transformer votre ferme d'arbres en un autre type de ferme.
+for.hints.circuitboard.tag=§7Programmez vos fermes !
+for.hints.farmgui.desc=§7La terre agricole va dans les emplacements de gauches. Les graines ou les pousses dans l'emplacement supérieur droit du réservoir.
+for.hints.farmgui.tag=§7La terre agricole va à gauche et les graines à droite.
+for.hints.farmland.desc=§7Le grès, les briques ou les pierres taillées créent une platforme où la ferme se construira.
+for.hints.farmland.tag=§7Etalez votre terres agricoles !
+for.hints.fertilizer.desc=§7Toutes les exploitations agricoles ont besoin d'engrais pour travailler. Composte ou paillis ne suffiront pas.
+for.hints.fertilizer.tag=§7Engrais nécessaire !
+for.hints.gearbox.desc=§7Utilisez les boites de vitesses pour rattacher les moteurs ou les lignes électriques à votre ferme.
+for.hints.gearbox.tag=§7Alimenter en énergie !
+for.hints.hatch.desc=§7Les valves équivalent à un tuyau. Utilisez-les pour automatiser le transport.
+for.hints.hatch.tag=§7Fermez les écoutilles !
+for.hints.manualfarms.desc=§7Mise a part les fermes automatique il y a aussi les fermes manuel qui ne maintiendront que la ferme, mais ne plantera pas.
+for.hints.manualfarms.tag=§7Ferme manuelle !
+for.hints.valve.desc=§7Presque toutes les exploitations agricoles ont besoin d'eau. Utiliser des vannes pour l'automatisation.
+for.hints.valve.tag=§7Fournissez de l'eau !
+
+
+for.trigger.lowFertilizer=§7Engrais
+for.trigger.lowLiquid=§7Réservoir d'eau
+for.trigger.lowSoil=§7Terre agricole
+
+tile.for.ffarm.0.name=§7Bloc de ferme
+tile.for.ffarm.2.name=§7Boite de vitesses de ferme
+tile.for.ffarm.3.name=§7Ecoutille de ferme
+tile.for.ffarm.4.name=§7Vanne de ferme
+tile.for.ffarm.5.name=§7Commande de ferme
+
+tile.for.mushroom.0.name=§7Champignon
+tile.for.mushroom.1.name=§7Champignon
+
+####################
+# LEPIDOPTEROLOGY
+####################
+
+for.chat.command.forestry.butterfly.desc=§7- %s : Commandes de lépidoptérologie.
+for.chat.command.forestry.butterfly.help=§7Commandes relatives aux papillons
+for.chat.command.forestry.butterfly.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.butterfly.kill.desc=§7- %s : Tuez tous les papillons
+for.chat.command.forestry.butterfly.kill.help=§7Tue tous les papillons des chunks chargés
+for.chat.command.forestry.butterfly.kill.format=§7Format: /%s [<dimension#>]
+
+for.butterflies.hybrid=§7Hybride : %PRIMARY-%SECONDARY
+
+for.butterflies.species.geometridae.brimstone=§7Mite de soufre
+for.butterflies.species.geometridae.latticedHeath=§7Bruyère treillagée
+for.butterflies.species.nymphalidae.blueDuke=§7Duc bleu
+for.butterflies.species.nymphalidae.blueMorphoM=§7Morpho menelaus bleu
+for.butterflies.species.nymphalidae.blueMorphoP=§7Morpho peleides bleu
+for.butterflies.species.nymphalidae.blueMorphoR=§7Morpho rhetenor bleu
+for.butterflies.species.nymphalidae.blueWing=§7Aile Bleue
+for.butterflies.species.nymphalidae.comma=§7Virgule
+for.butterflies.species.nymphalidae.dianaFritillary=§7Diana fritillaire
+for.butterflies.species.nymphalidae.glasswing=§7Greta oto
+for.butterflies.species.nymphalidae.glassyTiger=§7Parantica aglea
+for.butterflies.species.nymphalidae.leopardLacewing=§7Cethosia cyane
+for.butterflies.species.nymphalidae.malachite=§7Malachite
+for.butterflies.species.nymphalidae.monarch=§7Monarque
+for.butterflies.species.nymphalidae.paintedBeauty=§7Vanesse du chardon
+for.butterflies.species.nymphalidae.postman=§7Melpomène
+for.butterflies.species.nymphalidae.speckledWood=§7Tircis
+for.butterflies.species.nymphalidae.speckledWoodC=§7Tircis canarien
+for.butterflies.species.nymphalidae.speckledWoodM=§7Tircis madérois
+for.butterflies.species.papilionidae.emeraldPeacock=§7Machaon émeraude
+for.butterflies.species.papilionidae.swallowtailB=§7Papillon du céleri
+for.butterflies.species.papilionidae.swallowtailC=§7Voilier des citronniers
+for.butterflies.species.papilionidae.swallowtailS=§7Voilier des épices
+for.butterflies.species.papilionidae.swallowtailT=§7Voilier géant
+for.butterflies.species.papilionidae.swallowtailZ=§7Voilier zébré
+for.butterflies.species.pieridae.brimstone=§7Citron
+for.butterflies.species.pieridae.cabbageWhite=§7Piéride du chou
+for.butterflies.species.pieridae.gozoraAzure=§7Mexicain azuré
+for.butterflies.species.pieridae.orangeTip=§7Anthocharis sara
+for.butterflies.species.pieridae.palaenoSulphur=§7Colias souffré
+for.butterflies.species.pieridae.postillion=§7Colias commun
+for.butterflies.species.pieridae.reseda=§7Marbré vert oriental
+for.butterflies.species.pieridae.springAzure=§7Azuré des nerpruns
+for.butterflies.species.saturniidae.atlas=§7Mite de l'Atlas
+
+for.gui.flutterlyzer=§7Analyseur de papillon
+for.gui.flutterlyzer.help=§7Fournir un papillon et placer du miel ou du miellat pour pacifier.
+for.gui.loot.butterfly=§7Butin papillon possible
+for.gui.loot.caterpillar=§7Butin chenille possible
+
+for.lepidopterology.effect.none=§7Aucun
+
+item.for.butterfly.name=§7Papillon
+item.for.flutterlyzer.name=§7Analyseur de papillon
+item.for.lepidopteristBag.name=§7Sac à dos de lépidoptériste
+item.for.moth.name=§7Papillon de nuit
+tile.for.lepidopterology.0.name=§7Coffre de lépidoptériste
+
+####################
+# MAIL
+####################
+
+for.chat.mail.already_mailed=§7Vous ne pouvez pas renvoyer la lettre.
+
+for.chat.command.forestry.mail.desc=§7- %s : Commandes du système de courrier
+for.chat.command.forestry.mail.help=§7Diverses commandes relatives au système de courrier
+for.chat.command.forestry.mail.format=§7Format: /%s <sous-commande>
+
+for.chat.command.forestry.mail.trades.desc=§7- %s : Liste des station de commerce
+for.chat.command.forestry.mail.trades.help=§7Liste tous les station de commerce et leurs machandises disponibles.
+for.chat.command.forestry.mail.trades.format=§7Format: /%s
+
+for.chat.command.forestry.mail.virtualize.desc=§7- %s : Bascule en mode virtuel une station de commerce spécifié.
+for.chat.command.forestry.mail.virtualize.help=§7Bascule en mode virtuel une station de commerce spécifié. Ce mode ne consomme pas d'éléments.
+for.chat.command.forestry.mail.virtualize.format=§7Format: /%s <station-commerce>
+for.chat.command.forestry.mail.virtualize.no_tradestation=§7Aucune station de commerce du nom de '%s' n'a été trouvé.
+for.chat.command.forestry.mail.virtualize.set=§7Active la virtualisation de '%s' à %s.
+
+for.chat.mail.insufficient_buffer=§7La station de commerce est pleine.
+for.chat.mail.insufficient_offer=§7La station de commerce exige plus.
+for.chat.mail.insufficient_paper=§7La station de commerce à court de papier.
+for.chat.mail.insufficient_stamps=§7La station de commerce à court de timbres.
+for.chat.mail.insufficient_trade_good=§7La station de commerce est à court de fournitures.
+for.chat.mail.mailbox_full=§7La boîte aux lettres du destinataire est pleine.
+for.chat.mail.not_mailable=§7La lettre n'est pas expédiable.
+for.chat.mail.not_postpaid=§7La lettre n'est pas suffisamment affranchie.
+for.chat.mail.no_mailbox=§7Le destinataire n'a pas de boîte aux lettres.
+for.chat.mail.ok=§7L'échange est disponible.
+for.chat.mail.response_not_mailable=§7La station de commerce ne peut pas envoyer la lettre de réponse. Vous avez besoin d'une boîte aux lettres pour la livrer.
+for.chat.mail.wrongstacksize=§7on ne peut écrire q'une lettre à la fois.
+
+for.gui.mail.address.copy=§7Utiliser
+for.gui.mail.catalogue.close=§7Fermer
+for.gui.mail.catalogue.trade=§7Echanger
+for.gui.mail.filter.all=§7Tout
+for.gui.mail.filter.offline=§7Hors ligne
+for.gui.mail.filter.online=§7En ligne
+for.gui.mail.notrades=§7Pas de commerce disponibles.
+for.gui.mail.tradefor=§7pour
+for.gui.mail.willtrade=§7%s désir commercer
+
+item.for.catalogue.name=§7Catalogue
+
+####################
+# PIPES
+####################
+
+item.PipeItemsPropolis.name=§7Tuyau de transport d'apiculteur
+
+####################
+# PLUGINS
+####################
+for.plugin.core.description=§7Coeur des machines pour Forestry. Requis par tous les autres plugins.
+for.plugin.fluids.description=§7Ajoute des fluides, des blocs de fluide, et des réservoirs.
+for.plugin.apiculture.description=§7Ajoute des abeilles, l'apiculture et ses produits. Affecte la génération de monde.
+for.plugin.arboriculture.description=§7Ajoute des espèces d'arbre et leurs produits.
+for.plugin.energy.description=§7Ajoute quelque moteurs RF.
+for.plugin.factory.description=§7Ajoute une large variété de machines pour bâtir, produire et leur production.
+for.plugin.farming.description=§7Ajoute des fermes automatiques et des moissonneuses pour une large variété de produits.
+for.plugin.food.description=§7Ajoute de la nourriture.
+for.plugin.lepidopterology.description=§7Papillons. Brillant.
+for.plugin.mail.description=§7Ajoute un système de courrier et de commerce à Forestry.
+for.plugin.storage.description=§7Ajoute des sacs à dos et des caisses.
+
+for.plugin.buildcraft6.description=§7Plug-in de compatibilité pour BuildCraft 6.
+for.plugin.pipes.description=§7Ajoute le tuyau de transport d'apiculteur si l'apiculture est activée et que BuildCraft 6 est présent.
+for.plugin.ic2.description=§7Plug-in de compatibilité pour IC2. Ajoute des moteurs électrique et des générateur pour la conversion d'énergie.
+for.plugin.natura.description=§7Plug-in de compatibilité pour Natura. Permet la culture des pousses Natura.
+for.plugin.ee2.description=§7Plug-in de compatibilité pour Equivalent Exchange 2. Active la branche d'abeille Omega. Exige que l'Apiculture soit permise.
+for.plugin.ee3.description=§7Plug-in de compatibilité pour Equivalent Exchange 3.
+for.plugin.farmcraftory.description=§7Active la compatibilité avec FarmCraftory. Ajoute des cultures et des légumes à cultiver.
+for.plugin.biomesoplenty.description=§7Plug-in de compatibilité pour Biomes O Plenty. Permet la culture des pousses BoP.
+for.plugin.extrautilities.description=§7Plug-in de compatibilité pour Extra Utilities. Permet la culture des lotus du néant.
+for.plugin.harvestcraft.description=§7Plug-in de compatibilité pour HarvestCraft. Permet la culture des plantes et des arbres HarvestCraft.
+for.plugin.magicalcrops.description=§7Plug-in de compatibilité pour Magical Crops.
+for.plugin.chisel.description=§7Plug-in de compatibilité pour Chisel. Ajoute des blocs générés du monde aux sacs à dos.
+for.plugin.plantmegapack.description=§7Plug-in de compatibilité pour Plant Mega Pack.
+for.plugin.witchery.description=§7Active la compatibilité avec Witchery.
+for.plugin.agricraft.description=§7Active la compatibilité avec AgriCraft.
+for.plugin.enderIO.description=§7Plug-in de compatibilité pour EnderIO.
+for.plugin.immersiveengineering=§7Plug-in de compatibilité pour Immersive Engineering.
+for.plugin.growthcraft.description=§7Plug-in de compatibilité pour GrowthCraft
+for.plugin.erebus.description=§7Plug-in de compatibilité pour Erebus
+
+####################
+# CONFIG FILES
+####################
+
+for.config.performance=§7Performances
+for.config.performance.particleFX=§7Effets de particules
+for.config.performance.particleFX.comment=§7Activez les effets de particules. Notez que Forestry respecte les options graphiques de réduction des particules de Minecraft.
+for.config.performance.backpacks.resupply=§7Réapprovisionnement de sac à dos
+for.config.performance.backpacks.resupply.comment=§7Activez le réapprovisionnement de sac à dos. Vous pouvez vouloir mettre ceci à faux sur des serveurs chargés.
+
+for.config.world.generate=§7Génération du monde
+
+for.config.world.generate.retrogen.normal=§7Rétrogen
+for.config.world.generate.retrogen.normal.comment=§7Créez la génération du monde de Forestry dans les parcelles qui ont été créés avant que le mod n'ait été ajouté.
+for.config.world.generate.retrogen.forced=§7Rétrogen forcée
+for.config.world.generate.retrogen.forced.comment=§7Créez la génération du monde de Forestry dans toutes les parcelles, même s'elles ont été générées là auparavant.
+
+for.config.world.generate.ore.apatite=§7Génèrez l'apatite
+for.config.world.generate.ore.apatite.comment=§7Génèrez les blocs de minerai d'apatite dans le monde.
+for.config.world.generate.ore.copper=§7Génèrez le cuivre
+for.config.world.generate.ore.copper.comment=§7Génèrez les blocs de minerai de cuivre dans le monde.
+for.config.world.generate.ore.tin=§7Génèrez l'étain
+for.config.world.generate.ore.tin.comment=§7Génèrez les blocs de minerai d'étain dans le monde.
+
+for.config.world.generate.beehives.amount=§7Quantité de génération de ruches
+for.config.world.generate.beehives.amount.comment=§7Mettez combien de ruches apparaissent dans le monde.
+for.config.world.generate.beehives.debug=§7Déboguez la génération de ruche
+for.config.world.generate.beehives.debug.comment=§7Forcez Forestry à générer une ruche a tous les emplacements possibles. (Ceci cassera votre monde. Seulement utile aux développeurs)
+
+for.config.world.generate.villagers=§7Génèrez les villageois
+for.config.world.generate.villagers.comment=§7Génèrez les villageois forestry et leurs maisons.
+
+for.config.crafting=§7Fabrication
+for.config.crafting.bronze=§7Fabriquez du bronze
+for.config.crafting.bronze.comment=§7Activez la recette de fabrication du bronze.
+for.config.crafting.stamps.enabled=§7Fabriquez des timbres
+for.config.crafting.stamps.enabled.comment=§7Activez la recette de fabrication des timbres. Désactivez l'utilisation des timbres comme monnaie.
+for.config.crafting.stamps.disabled=§7Désactivez les timbres
+for.config.crafting.stamps.disabled.comment=§7Désactivez la recette de fabrication pour certains timbres.
+
+for.config.tweaks=§7Bidouilles
+
+for.config.tweaks.gui.mail.alert.enabled=§7Alerte de courrier
+for.config.tweaks.gui.mail.alert.enabled.comment=§7Activez la boite d'alerte des nouveaux courriers.
+
+for.config.tweaks.gui.tabs.hints=§7Conseils
+for.config.tweaks.gui.tabs.hints.comment=§7Activez l'onglet des conseils sur l'interface d'une machine ou d'un moteur.
+for.config.tweaks.gui.tabs.speed=§7Vitesse d'onglet
+for.config.tweaks.gui.tabs.speed.comment=§7Mettez la vitesse à laquelle les onglets côté interface s'ouvrent et se ferment.
+for.config.tweaks.gui.tabs.energy=§7Onglet énergie
+for.config.tweaks.gui.tabs.energy.comment=§7Affichez l'onglet de statistique d'énergie pour les consommateurs d'énergie.
+
+for.config.tweaks.gui.tooltip.liquidamount=§7Infobulle de liquide
+for.config.tweaks.gui.tooltip.liquidamount.comment=§7Affichez la quantité de liquide dans les infobulles des réservoirs.
+
+for.config.tweaks.permissions=§7Permissions
+for.config.tweaks.permissions.comment=§7Activez les restriction d'accès aux machines forestry.
+for.config.tweaks.version.check=§7Vérification de version
+for.config.tweaks.version.check.comment=§7Activez la mise à jour et l'alerte de vérification de version.
+
+for.config.tweaks.farms.size=§7Taille de ferme
+for.config.tweaks.farms.size.comment=§7Mettez le multiplicateur de taille de la terre cultivable.
+for.config.tweaks.farms.square=§7Fermes carrées
+for.config.tweaks.farms.square.comment=§7Faites que les fermes utilisent une disposition en carrée plutot qu'en diamant.
+for.config.tweaks.farms.enderlily=§7Support de la ferme des EnderLily
+for.config.tweaks.farms.enderlily.comment=§7Activez le support de la ferme pour ExtraUtilities.
+for.config.tweaks.farms.magicalcrops=§7Support de la ferme à Magical Crops
+for.config.tweaks.farms.magicalcrops.comment=§7Activez le support de la ferme pour Magical Crops.
+
+for.config.genetics=§7Génétiques
+for.config.genetics.clear.invalid.chromosomes=§7Effacer les chromosomes non-valides
+for.config.genetics.clear.invalid.chromosomes.comment=§7Efface les chromosomes qui contiennent des allèles non-valides. Pourrait sauver votre sauvegarde si elle plante après la supression d'un ajout d'abeille.
+for.config.genetics.pollinate.vanilla.trees=§7Pollinise les arbres minecraft
+for.config.genetics.pollinate.vanilla.trees.comment=§7Permet aux abeilles, aux papillons, et au joueur de polliniser les feuilles des arbres Minecraft. Lorsque vous le désactivez, Les arbres Minecraft doivent être analysés avant de pouvoir les polliniser.
+for.config.genetics.research.boost.multiplier=§7Multiplicateur de mutation de recherche
+for.config.genetics.research.boost.multiplier.comment=§7Multiplie les chance d'une mutation quand on l'a découvert dans le secrétaire.
+for.config.genetics.research.boost.max.percent=§7Maximum de mutation de recherche
+for.config.genetics.research.boost.max.percent.comment=§7L'augmentation de pourcentage maximale qui peut être appliquée en faisant des recherches d'une mutation dans le Secrétaire.
+
+for.config.difficulty=§7Difficulté
+for.config.difficulty.game.mode=§7Mode de jeu
+for.config.difficulty.game.mode.comment=§7Mettez votre mode de jeu préféré. Un décalage avec le serveur peut causer des problèmes visuels avec les recettes.
+for.config.difficulty.recreate.definitions=§7Recréer les définitions
+for.config.difficulty.recreate.definitions.comment=§7Force la recréation des définitions du mode de jeu dans les configs, Forestry ou les modes de jeu
+for.config.difficulty.loot.rare=§7Récompenses rares
+for.config.difficulty.loot.rare.comment=§7Rend les récompenses de dunjon généré par forestry rares.
+
+for.config.structures=§7Structures
+for.config.structures.disabled=§7Désactivez les structures
+for.config.structures.disabled.comment=§7Listez les structures spécifiques à désactiver.
+
+for.config.fluids=§7Fluides
+for.config.fluids.enable.format=§7Activez %s fluides.
+for.config.fluid.blocks=§7Blocs de fluides
+for.config.fluid.blocks.enable.format=§7Activez %s blocs de fluide en jeu.
+
+for.config.debug.enabled=§7Mode débogueur
+for.config.debug.enabled.comment=§7Active le mode de dégogueur (seulement utile aux développeurs).
+
+for.config.beekeeping.mode=§7Mode d'apiculture
+for.config.beekeeping.mode.comment=§7Change le mode d'apiculture.
+for.config.beekeeping.second.princess=§7Chance de seconde princesse
+for.config.beekeeping.second.princess.comment=§7pourcentage de chance d'obtenir une seconde princesse, pour les cartes limité/skyblock.
+for.config.beekeeping.flowers.accepted=§7Fleurs acceptées
+for.config.beekeeping.flowers.accepted.comment=§7Les fleurs acceptées permettent aux abeilles de travailler. Le format est 'modid:name:meta', une par ligne. Le format de joker de metadata est 'modid:name'.
+for.config.beekeeping.flowers.plantable=§7Fleurs plantables
+for.config.beekeeping.flowers.plantable.comment=§7Les fleurs plantables sont placées par les abeilles. Toute fleur plantable est automatiquement une fleur acceptée. Le format est 'weight:modid:name:meta', une par ligne. 'weight' est entre 0.0 et 1.0. Le format de joker de metadata est 'weight:modid:name'.
+
+for.config.species.blacklist=§7Liste noire d'espèce
+for.config.species.blacklist.comment=§7Ajoute des espèces à la liste noire en les identifiant pas leur uid, une par ligne.
+
+for.config.butterfly.entities.spawn.limit=§7Limite d'apparition de papillons
+for.config.butterfly.entities.spawn.limit.comment=§7Les papillons stopperons leur apparition naturelle dès que cette limite sera atteinte.
+for.config.butterfly.entities.maximum=§7Maximum de papillons
+for.config.butterfly.entities.maximum.comment=§7Les nouveaux papillons resterons en forme d'élément et ne s'envollerons pas take flight dès que cette limite sera atteinte.
+for.config.butterfly.entities.pollination=§7Pollinisation des papillons
+for.config.butterfly.entities.pollination.comment=§7Autorise les papillons de polliniser les feuilles.
+
+for.config.backpacks.item.stacks.format=§7Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
+for.config.backpacks.ore.dict.format=§7Add ore dictionary names for the %s's backpack here in the format 'oreDictName'.
+
+for.config.gamemode=§7Mode de jeu
+
+for.config.gamemode.energy.demand.modifier.comment=§7Modifie l'énergie exigée pour activer les machines, ainsi que la quantité maxi d'énergie stockée et acceptée.
+for.config.gamemode.farms.fertilizer.value.comment=§7Modifie le temps que reste une pièce d'engrais dans une ferme.
+
+for.config.gamemode.fuel.ethanol.generator.comment=§7Modifie l'énergie fournie par l'éthanol dans un bio-générateur.
+for.config.gamemode.fuel.ethanol.combustion.comment=§7Modifie l'énergie fournie par l'éthanol dans la machine de conbustion Buildcraft.
+for.config.gamemode.fuel.biomass.generator.comment=§7Modifie l'énergie fournie par la biomasse dans un bio-générateur.
+for.config.gamemode.fuel.biomass.biogas.comment=§7Modifie l'énergie fournie par la biomasse dans un moteur à biogaz.
+
+for.config.gamemode.recipe.output.fertilizer.apatite.comment=§7Quantité d'engrais rapporté par la recette utilisant l'apatite.
+for.config.gamemode.recipe.output.fertilizer.ash.comment=§7Quantité d'engrais rapporté par la recette utilisant la cendre.
+for.config.gamemode.recipe.output.compost.wheat.comment=§7Quantité de compost rapporté par la recette utilisant le blé.
+for.config.gamemode.recipe.output.compost.ash.comment=§7Quantité de compost rapporté par la recette utilisant la cendre.
+for.config.gamemode.recipe.output.humus.fertilizer.comment=§7Quantité d'humus rapporté par la recette utilisant l'engrais.
+for.config.gamemode.recipe.output.humus.compost.comment=§7Quantité d'humus rapporté par la recette utilisant le compost.
+for.config.gamemode.recipe.output.bogearth.bucket.comment=§7Quantité de tourbe rapporté par la recette utilisant les seaux.
+for.config.gamemode.recipe.output.bogearth.can.comment=§7Quantité de tourbe rapporté par la recette utilisant les cannettes, cellules ou capsules.
+for.config.gamemode.recipe.output.can.comment=§7Quantité rapporté par la recette pour des cannettes d'étain.
+for.config.gamemode.recipe.output.capsule.comment=§7Quantité rapporté par la recette pour des capsules en cire.
+for.config.gamemode.recipe.output.refractory.comment=§7Quantité rapporté par la recette pour des capsules recyclées.
+
+for.config.gamemode.fermenter.cycles.fertilizer.comment=§7modifies the amount of cycles fertilizer can keep a fermenter going.
+for.config.gamemode.fermenter.cycles.compost.comment=§7modifies the amount of cycles compost can keep a fermenter going.
+for.config.gamemode.fermenter.value.fertilizer.comment=§7modifies the amount of biomass per cycle a fermenter will produce using fertilizer.
+for.config.gamemode.fermenter.value.compost.comment=§7modifies the amount of biomass per cycle a fermenter will produce using compost.
+for.config.gamemode.fermenter.yield.sapling.comment=§7modifies the base amount of biomass a sapling will yield in a fermenter, affected by sappiness trait.
+for.config.gamemode.fermenter.yield.cactus.comment=§7modifies the amount of biomass a piece of cactus will yield in a fermenter.
+for.config.gamemode.fermenter.yield.wheat.comment=§7modifies the amount of biomass a piece of wheat will yield in a fermenter.
+for.config.gamemode.fermenter.yield.cane.comment=§7modifies the amount of biomass a piece of sugar cane will yield in a fermenter.
+for.config.gamemode.fermenter.yield.mushroom.comment=§7modifies the amount of biomass a mushroom will yield in a fermenter.
+
+for.config.gamemode.squeezer.liquid.seed.comment=§7modifies the amount of seed oil squeezed from a single seed. other sources are based off this.
+for.config.gamemode.squeezer.liquid.apple.comment=§7modifies the amount of juice squeezed from a single apple. other sources are based off this.
+for.config.gamemode.squeezer.mulch.apple.comment=§7modifies the chance of mulch per squeezed apple.
+
+for.config.gamemode.energy.engine.clockwork.comment=§7Enable the clockwork engine.
+
+###################################
+# CUSTOM BEE AND TREE SPECIES NAMES
+###################################
+# Syntaxe:
+# for.bees.custom.<type>.<species>=§7Nouveau nom d'abeille personnalisé
+# for.trees.custom.<type>.<species>=§7Nouveau nom d'arbre personnalisé
+# Examples:
+# for.bees.custom.drone.forest=§7Ouvrière des forêts
+# for.trees.custom.pollen.darkOak=§7Nouveau nom du pollen de chêne noir
+# Syntaxe Beealyzer/Treealyzer:
+# for.bees.custom.beealyzer.<type>.<species>=§7Nouvelle espèce d'abeille personnalisé
+# for.trees.custom.treealyzer.<type>.<species>=§7Nouvelle espèce d'arbre personnalisé
+# Examples:
+# for.bees.custom.beealyzer.drone.forest=§7Nouveau nom des ouvrières des forêts utilisé par l'analyseur d'abeille
+# for.trees.custom.treealyzer.pollen.darkOak=§7Nouveau nom du pollen de chêne noir utilisé par l'analyseur d'arbre
+
+###################################
+# CUSTOM ALLELE ADJECTIVES
+###################################
+# Replaces forestry.allele.<adjective>
+#
+# Syntaxe:
+# forestry.allele.<category>.<adjective>=§7New custom adjective
+#
+# catégories et [adjectifs] disponibles :
+# speed: 		[slowest, slower, slow, normal, fast, faster, fastest]
+# maturation: 	[slowest, slower, slow, normal, fast, faster, fastest]
+# flowering:	[slowest, slower, slow, normal, fast, faster, fastest, maximum]
+#
+# size: 		[smallest, smaller, average, large, larger, largest]
+# height: 		[smallest, smaller, average, large, larger, largest, gigantic]
+# territory:	[average, large, larger, largest]
+#
+# saplings: 	[lowest, lower, low, average, high, higher, highest]
+# yield: 		[lowest, lower, low, average, high, higher, highest]
+# sappiness:	[lowest, lower, low, average, high, higher, highest]
+#
+# Examples:
+# forestry.allele.speed.slowest=§7New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+# forestry.allele.flowering.slowest=§7New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+# forestry.allele.yield.low=§7New custom adjective for low yield, replacing forestry.allele.low
+
+###################################
+# CUSTOM TOOLTIPS
+###################################
+# Available custom tooltips:
+# for.tooltip.worker.<speed adjective> pour la vitesse de l'ouvrière.
+#
+# Example:
+# for.tooltip.worker.slowest=§7Ouvrière la plus lente
+
+###################################
+# CUSTOM WOOD NAMES
+###################################
+#
+# Examples:
+# tile.for.stairs.4.name=§7Chestnut Stairs
+# tile.for.planks.8.name=§7Kapok Wood Planks
+# tile.for.slab.5.name=§7Wenge Wood Slab
+# tile.for.log.10.name=§7Mahogany Wood
+# tile.for.fences.0.name=§7Larch Fence
+
+####################
+# NEI Categories
+####################
+
+nei.subsets.Forestry=§7Sylviculture
+nei.subsets.Forestry.Bees=§7Abeille
+nei.subsets.Forestry.Bees.Combs=§7Alvéoles
+nei.subsets.Forestry.Bees.Drones=§7Ouvrières
+nei.subsets.Forestry.Bees.Princesses=§7Princesses
+nei.subsets.Forestry.Bees.Queens=§7Reines
+nei.subsets.Forestry.Blocks=§7Blocs
+nei.subsets.Forestry.Butterflies=§7Papillons
+nei.subsets.Forestry.Butterflies.Butterflies=§7Papillons
+nei.subsets.Forestry.Butterflies.Caterpillars=§7Chenilles
+nei.subsets.Forestry.Butterflies.Serums=§7Sérums
+nei.subsets.Forestry.Items=§7Éléments
+nei.subsets.Forestry.Trees=§7Arbres
+nei.subsets.Forestry.Trees.Pollen=§7Pollen
+nei.subsets.Forestry.Trees.Saplings=§7Pousses

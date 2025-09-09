@@ -1,0 +1,49 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=§7Podrž %s pro statistiky
+tictooltips.hold.key.for.materials=§7Podrž %s pro materiály
+tictooltips.hold.key.for.bow.stats=§7Podrž %s pro statistiky šípu
+tictooltips.hold.key.for.more=§7Podrž %s pro více informací
+
+# material tooltips
+tictooltips.material.shoddiness.modifier=§7[Modifikátor: %s]
+tictooltips.material.arrow.weight=§7Hmotnost šípu:
+tictooltips.material.durability.modifier=§7Modifikátor trvanlivosti:
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=§7Správné materiály:
+
+# tool tooltips
+tictooltips.tool.repair.material=§7Materiál na opravu:
+tictooltips.tool.effective.durability=§7Efektivní trvanlivost:
+# uses: material.cactus.ability/material.stone.ability
+tictooltips.tool.shoddiness.modifier=§7Modifikátor %s:
+# uncomment these if your language needs different syntax for jagged/stonebound 
+tictooltips.tool.jagged.modifier=§7Modifikátor roztřepení:
+tictooltips.tool.stonebound.modifier=§7Modifikátor zkamenění:
+tictooltips.tool.burn.duration=§7Doba hoření:
+tictooltips.tool.bonus.vs.undead=§7Bonus při nemrtvých:
+tictooltips.tool.bonus.vs.spiders=§7Bonus při pavoukách:
+tictooltips.tool.chance.to.behead=§7Šance na useknutí hlavy:
+tictooltips.tool.modifiers=§7Modifikátory:
+tictooltips.tool.knockback=§7Odražení:
+tictooltips.tool.sprint.damage=§7Poškození při běhu:
+tictooltips.tool.crit.damage=§7Bonus kritického poškození:
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=§7%s %s
+tictooltips.tool.stonebound.bonus=§7%s %s
+tictooltips.tool.jagged.loss=§7%s %s
+tictooltips.tool.jagged.bonus=§7%s %s
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=§7%s %s %s
+tictooltips.tool.max.stonebound.bonus=§7%s %s %s
+tictooltips.tool.max.jagged.loss=§7%s %s %s
+tictooltips.tool.max.jagged.bonus=§7%s %s %s
+
+# generic
+tictooltips.minimum=§7Minimální
+tictooltips.maximum=§7Maximální
+tictooltips.unknown.part=§7<Neznámá součást>
+tictooltips.infinite=§7Nekonečno
+
+# things that should be in TiC
+tictooltips.unbreakable=§7Nezničitelné

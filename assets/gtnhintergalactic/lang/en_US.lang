@@ -1,0 +1,441 @@
+# English (US)
+
+
+# NOTE:
+# Providing additional lore translations doesn't require any code changes, they are detected automatically. If you have
+# fewer variations in your lang file than the default lang file (en_US, this file), provide blank translations to avoid
+# the game falling back to the default translations. Adding more variations than provided by default is possible.
+
+
+# Creative Tabs
+itemGroup.GTNH-Intergalactic=§7GTNH-Intergalactic
+
+# Achievements
+achievement.gt.blockmachines.spaceelevator=§7Space Elevator
+achievement.gt.blockmachines.spaceelevator.desc=§7You've reached the next milestone of intergalactic transportation
+achievement.gt.blockmachines.projectmoduleassemblert1=§7Space Elevator Assembler Module MK-I
+achievement.gt.blockmachines.projectmoduleassemblert1.desc=§7Assembling in space? Blasphemy!
+achievement.gt.blockmachines.projectmoduleassemblert2=§7Space Elevator Assembler Module MK-II
+achievement.gt.blockmachines.projectmoduleassemblert2.desc=§7Is it assembling space? Or space assembling it?
+achievement.gt.blockmachines.projectmoduleassemblert3=§7Space Elevator Assembler Module MK-III
+achievement.gt.blockmachines.projectmoduleassemblert3.desc=§7Is it assembling planets yet?
+achievement.gt.blockmachines.projectmoduleminert1=§7Space Elevator Mining Module MK-I
+achievement.gt.blockmachines.projectmoduleminert1.desc=§7A new age of resource gathering has started
+achievement.gt.blockmachines.projectmoduleminert2=§7Space Elevator Mining Module MK-II
+achievement.gt.blockmachines.projectmoduleminert2.desc=§7Deploy the drones!
+achievement.gt.blockmachines.projectmoduleminert3=§7Space Elevator Mining Module MK-III
+achievement.gt.blockmachines.projectmoduleminert3.desc=§7Let's hope the drones don't start a rebellion
+achievement.gt.blockmachines.projectmodulepumpt1=§7Space Elevator Pumping Module MK-I
+achievement.gt.blockmachines.projectmodulepumpt1.desc=§7Let's pump some gas planets
+achievement.gt.blockmachines.projectmodulepumpt2=§7Space Elevator Pumping Module MK-II
+achievement.gt.blockmachines.projectmodulepumpt2.desc=§7S U C C
+achievement.gt.blockmachines.projectmodulepumpt3=§7Space Elevator Pumping Module MK-III
+achievement.gt.blockmachines.projectmodulepumpt3.desc=§7Peak S U C C
+achievement.gt.blockmachines.projectmoduleresearch=§7Space Elevator Research Module
+achievement.gt.blockmachines.projectmoduleresearch.desc=§7To infinity and beyond
+achievement.gt.blockmachines.projectmodulemanager=§7Space Elevator Project Manager
+achievement.gt.blockmachines.projectmodulemanager.desc=§7The start of your empire
+achievement.gt.blockcasings.ig.cable=§7Space Elevator Cable
+achievement.gt.blockcasings.ig.cable.desc=§7Strong enough to hopefully not rip apart
+achievement.gt.blockcasingsSE.0=§7Space Elevator Base Casing
+achievement.gt.blockcasingsSE.0.desc=§7These ain't cheap
+achievement.gt.blockcasingsSE.1=§7Space Elevator Support Structure
+achievement.gt.blockcasingsSE.1.desc=§7Giving strength to your Space Elevator
+achievement.gt.blockcasingsSE.2=§7Space Elevator Internal Structure
+achievement.gt.blockcasingsSE.2.desc=§7They look nice.
+achievement.gt.blockcasingsSEMotor.0=§7Space Elevator Motor MK-I
+achievement.gt.blockcasingsSEMotor.0.desc=§7Ascending into new realms
+achievement.gt.blockcasingsSEMotor.1=§7Space Elevator Motor MK-II
+achievement.gt.blockcasingsSEMotor.1.desc=§7With the speed of 50G!
+achievement.gt.blockcasingsSEMotor.2=§7Space Elevator Motor MK-III
+achievement.gt.blockcasingsSEMotor.2.desc=§7To the moon and back in minutes
+achievement.gt.blockcasingsSEMotor.3=§7Space Elevator Motor MK-IV
+achievement.gt.blockcasingsSEMotor.3.desc=§7With the speed of 100G!
+achievement.gt.blockcasingsSEMotor.4=§7Space Elevator Motor MK-V
+achievement.gt.blockcasingsSEMotor.4.desc=§7As fast as teleportation!
+achievement.item.MiningDroneEV=§7Mining Drone MK-IV
+achievement.item.MiningDroneEV.desc=§7Busy little workers
+achievement.item.MiningDroneIV=§7Mining Drone MK-V
+achievement.item.MiningDroneIV.desc=§7Busier little workers
+achievement.item.MiningDroneLuV=§7Mining Drone MK-VI
+achievement.item.MiningDroneLuV.desc=§7Busiest little workers
+achievement.item.MiningDroneZPM=§7Mining Drone MK-VII
+achievement.item.MiningDroneZPM.desc=§7Conquering new realms
+achievement.item.MiningDroneUV=§7Mining Drone MK-VIII
+achievement.item.MiningDroneUV.desc=§7Devourer of asteroid belts
+achievement.item.MiningDroneUHV=§7Mining Drone MK-IX
+achievement.item.MiningDroneUHV.desc=§7Devourer of planets
+achievement.item.MiningDroneUEV=§7Mining Drone MK-X
+achievement.item.MiningDroneUEV.desc=§7Devourer of star systems
+achievement.item.MiningDroneUIV=§7Mining Drone MK-XI
+achievement.item.MiningDroneUIV.desc=§7Devourer of constellations
+achievement.item.MiningDroneUMV=§7Mining Drone MK-XII
+achievement.item.MiningDroneUMV.desc=§7Devourer of galaxies
+achievement.item.MiningDroneUXV=§7Mining Drone MK-XIII
+achievement.item.MiningDroneUXV.desc=§7Devourer of the known universe
+achievement.item.MiningDroneMAX=§7Mining Drone MK-XIV
+achievement.item.MiningDroneMAX.desc=§7Devourer of everything that has been and ever will be
+achievement.tile.DysonSwarmReceiverCasing=§7Dyson Swarm Energy Receiver Base Casing
+achievement.tile.DysonSwarmReceiverCasing.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmReceiverDish=§7Dyson Swarm Energy Receiver Dish Block
+achievement.tile.DysonSwarmReceiverDish.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmDeploymentUnitCore=§7Dyson Swarm Module Deployment Unit Core
+achievement.tile.DysonSwarmDeploymentUnitCore.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmControlSecondary=§7Dyson Swarm Control Center Secondary Windings
+achievement.tile.DysonSwarmControlSecondary.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmControlToroid=§7Dyson Swarm Control Center Toroid Casing
+achievement.tile.DysonSwarmControlToroid.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmControlCasing=§7Dyson Swarm Control Center Base Casing
+achievement.tile.DysonSwarmControlCasing.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmDeploymentUnitMagnet=§7Dyson Swarm Module Deployment Unit Superconducting Magnet
+achievement.tile.DysonSwarmDeploymentUnitMagnet.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmControlPrimary=§7Dyson Swarm Control Center Primary Windings
+achievement.tile.DysonSwarmControlPrimary.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.DysonSwarmDeploymentUnitCasing=§7Dyson Swarm Module Deployment Unit Base Casing
+achievement.tile.DysonSwarmDeploymentUnitCasing.desc=§7Pickup this item to see the recipe in NEI
+achievement.gt.blockmachines.dysonswarm=§7Dyson Swarm Ground Unit
+achievement.gt.blockmachines.dysonswarm.desc=§7Pickup this item to see the recipe in NEI
+achievement.item.dysonSwarmModule=§7Dyson Swarm Module
+achievement.item.dysonSwarmModule.desc=§7Pickup this item to see the recipe in NEI
+
+
+# Items
+item.SpaceElevatorParts.name=§7Space Elevator Component
+item.nanotubeSpool.name=§7Nanotube Spool
+item.MiningDrone.name=§7Mining Drone
+item.MiningDroneLV.name=§7Mining Drone MK-I
+item.MiningDroneMV.name=§7Mining Drone MK-II
+item.MiningDroneHV.name=§7Mining Drone MK-III
+item.MiningDroneEV.name=§7Mining Drone MK-IV
+item.MiningDroneIV.name=§7Mining Drone MK-V
+item.MiningDroneLuV.name=§7Mining Drone MK-VI
+item.MiningDroneZPM.name=§7Mining Drone MK-VII
+item.MiningDroneUV.name=§7Mining Drone MK-VIII
+item.MiningDroneUHV.name=§7Mining Drone MK-IX
+item.MiningDroneUEV.name=§7Mining Drone MK-X
+item.MiningDroneUIV.name=§7Mining Drone MK-XI
+item.MiningDroneUMV.name=§7Mining Drone MK-XII
+item.MiningDroneUXV.name=§7Mining Drone MK-XIII
+item.MiningDroneMAX.name=§7Mining Drone MK-XIV
+item.DysonSwarmParts.name=§7Dyson Swarm Component
+item.dysonSwarmModule.name=§7Dyson Swarm Module
+item.TaHfCNanofibers.name=§7Tantalum Hafnium Carbide Nanofibers
+item.NtNanofibers.name=§7Neutronium Nanofibers
+item.UHTResistantMesh.name=§7Ultra High Temperature Resistant Mesh
+item.TaHfNanoparticles.name=§7Tantalum Hafnium Carbide Nanoparticles
+item.NtNanoparticles.name=§7Neutronium Nanoparticles
+
+# Blocks
+gt.blockcasingsSE.name=§7Space Elevator Part
+gt.blockcasings.ig.0.name=§7Space Elevator Base Casing
+gt.blockcasings.ig.0.desc0=§7Strong enough to support the Space Elevator
+gt.blockcasings.ig.0.desc1=§7To the moon!
+gt.blockcasings.ig.1.name=§7Space Elevator Support Structure
+gt.blockcasings.ig.1.desc0=§7Prevents the Space Elevator from collapsing
+gt.blockcasings.ig.1.desc1=§7I sure hope they are strong enough
+gt.blockcasings.ig.2.name=§7Space Elevator Internal Structure
+gt.blockcasings.ig.2.desc0=§7Reinforces the structure of your Space Elevator
+gt.blockcasings.ig.2.desc1=§7Looks nice too!
+tile.SpaceElevatorCable.name=§7Space Elevator Cable
+gt.blockcasings.ig.cable.name=§7Space Elevator Cable
+gt.blockcasings.ig.cable.desc0=§7Connects the counter weight with the base structure
+gt.blockcasings.ig.cable.desc1=§7Would be a shame if this would tear
+gt.blockcasingsSEMotor.name=§7Space Elevator Motor
+gt.blockcasings.ig.motor.t1.name=§7Space Elevator Motor MK-I
+gt.blockcasings.ig.motor.t2.name=§7Space Elevator Motor MK-II
+gt.blockcasings.ig.motor.t3.name=§7Space Elevator Motor MK-III
+gt.blockcasings.ig.motor.t4.name=§7Space Elevator Motor MK-IV
+gt.blockcasings.ig.motor.t5.name=§7Space Elevator Motor MK-V
+gt.blockcasings.ig.motor.desc0=§7Unlocks more module slots and higher module tiers
+gt.blockcasings.ig.motor.t1.desc1=§7Keep ascending!
+gt.blockcasings.ig.motor.t2.desc1=§7Faster ascend!
+gt.blockcasings.ig.motor.t3.desc1=§7Zooooom
+gt.blockcasings.ig.motor.t4.desc1=§7I AM SPEED
+gt.blockcasings.ig.motor.t5.desc1=§7Kachow
+gt.blockcasings.ig.motor.desc2=§7Unlocks §a%s §7module slots in the Space Elevator
+tile.DysonSwarmPart.name=§7Dyson Swarm Part
+tile.DysonSwarmReceiverCasing.name=§7Dyson Swarm Energy Receiver Base Casing
+tile.DysonSwarmReceiverDish.name=§7Dyson Swarm Energy Receiver Dish Block
+tile.DysonSwarmDeploymentUnitCasing.name=§7Dyson Swarm Module Deployment Unit Base Casing
+tile.DysonSwarmDeploymentUnitCore.name=§7Dyson Swarm Module Deployment Unit Core
+tile.DysonSwarmDeploymentUnitMagnet.name=§7Dyson Swarm Module Deployment Unit Superconducting Magnet
+tile.DysonSwarmControlCasing.name=§7Dyson Swarm Control Center Base Casing
+tile.DysonSwarmControlPrimary.name=§7Dyson Swarm Control Center Primary Windings
+tile.DysonSwarmControlSecondary.name=§7Dyson Swarm Control Center Secondary Windings
+tile.DysonSwarmControlToroid.name=§7Dyson Swarm Control Center Toroid Casing
+tile.DysonSwarmFloor.name=§7Ultra High Strength Concrete Floor
+tile.GasSiphonCasing.name=§7Planetary Siphon Casing
+
+# GUI
+GT5U.gui.text.no_space_station=§7Not on a space station
+GT5U.gui.text.invalid_depth=§7Invalid depth
+GT5U.gui.text.siphoning=§7§aExtracting from the planet
+GT5U.gui.text.missing_project=§7Missing §b%s §7 at §b%s
+GT5U.gui.text.no_plasma=§7Not enough plasma
+GT5U.gui.text.invalid_overdrive=§7Invalid overdrive settings
+GT5U.gui.text.no_project_selected=§7Not working on any project
+ig.text.project=§7Project
+ig.text.upgrades=§7Upgrades
+ig.text.start=§7Start
+ig.text.started=§7Started construction
+ig.text.projectrequirements=§7Project requirements weren't met. Please choose the correct location
+ig.text.upgraderequirements=§7Upgrade requirements weren't met. Missing an upgrade or project required
+ig.text.noproject=§7Please select a project
+ig.text.finishedproject=§7Please select an upgrade. The project is already finished
+ig.text.nolocation=§7Please select a location
+ig.button.travel=§7Travel
+ig.button.extension=§7Extension
+ig.button.projects=§7Projects
+
+# Planetary Gas Siphon
+gt.blockmachines.multimachine.ig.siphon.name=§7Planetary Gas Siphon
+gt.blockmachines.multimachine.ig.siphon.type=§7Pump, PGS
+gt.blockmachines.multimachine.ig.siphon.desc1=§7Build on an Space Station orbiting a Gas Planet
+gt.blockmachines.multimachine.ig.siphon.desc2=§7Requires a Programmed Circuit set to the depth you want to pump from (1 - 4)
+gt.blockmachines.multimachine.ig.siphon.desc3=§7Requires 64x depth Mining Pipes
+gt.blockmachines.multimachine.ig.siphon.desc4=§7EU/t: d*4^(t+2), t is the Space Station's tier and d the depth
+gt.blockmachines.multimachine.ig.siphon.desc5=§7Can load the chunk it is in (toggle using a Soldering Iron)
+gt.blockmachines.multimachine.ig.siphon.lore0=§7333:Taking Space-Mining to another Level!
+gt.blockmachines.multimachine.ig.siphon.lore1=§7333:It's time to SUCC!
+gt.blockmachines.multimachine.ig.siphon.lore2=§7333:Trading EU -> Fluids
+gt.blockmachines.multimachine.ig.siphon.lore3=§7The name is wrong by definition...
+
+# Dyson Swarm
+gt.blockmachines.multimachine.ig.dyson.name=§7Dyson Swarm Ground Unit
+gt.blockmachines.multimachine.ig.dyson.type=§7Dyson Swarm
+gt.blockmachines.multimachine.ig.dyson.desc1=§7Put Dyson Swarm Modules in the Input Bus(es) to send them to the next star.
+gt.blockmachines.multimachine.ig.dyson.desc2=§7Outputs §a%s*§9§lD§r §7EU/t per module up to §a10,000
+gt.blockmachines.multimachine.ig.dyson.desc3=§7Each hour, §6§lI§r§a * (2 * %s) / (exp(-%s * (§6§lI§r§a - 1)) + exp(%s * §b§lC§r§a)) §7of modules are destroyed.
+gt.blockmachines.multimachine.ig.dyson.desc4=§7§b§lC§r§bomputation/s§r, §6§lI§r§6nitial module amount, §9§lD§r§9imension-dependent factor §7(check quest for values)
+gt.blockmachines.multimachine.ig.dyson.desc5=§7Requires §a%sL/h §7of %s.
+gt.blockmachines.multimachine.ig.dyson.desc6=§7R-Click with a Plunger to extract as many Modules to your inventory as possible.
+gt.blockmachines.multimachine.ig.dyson.desc7=§7Sneaking will dump the rest on the ground.
+gt.blockmachines.multimachine.ig.dyson.lore0=§7Wait, this isn't an army of vacuum cleaners?
+gt.blockmachines.multimachine.ig.dyson.lore1=§7Number 9? Not quite.
+gt.blockmachines.multimachine.ig.dyson.lore2=§7Not the game.
+gt.blockmachines.multimachine.ig.dyson.lore3=§7Basically solar panels.
+gt.blockmachines.multimachine.ig.dyson.lore4=§7Invented by a free man.
+
+# Space Elevator
+gt.blockmachines.multimachine.ig.elevator.name=§7Space Elevator
+gt.blockmachines.multimachine.ig.elevator.desc2=§7Can be equipped with up to §a12 §7Space Elevator Modules
+gt.blockmachines.multimachine.ig.elevator.desc3=§7Motor tier limits module tier and amount of possible modules
+gt.blockmachines.multimachine.ig.elevator.desc4=§7Each module has their own space for IO, except energy
+gt.blockmachines.multimachine.ig.elevator.desc5=§7Energy is supplied to this controller and gets distributed
+gt.blockmachines.multimachine.ig.elevator.desc6=§7Starting from §dMotor MK-III §7the structure can be expanded to fit §a24 §7modules
+gt.blockmachines.multimachine.ig.elevator.desc7=§7Max module amount is §a6§7/§912§7/§d15§7/§618§7/§c24§7 for §aMK-I§7/§9MK-II§7/§dMK-III§7/§6MK-IV§7/§cMK-V§7 motors correspondingly
+gt.blockmachines.multimachine.ig.elevator.desc8=§7Disabling this controller also pauses all modules
+gt.blockmachines.multimachine.ig.elevator.lore0=§710:Elevates to space
+gt.blockmachines.multimachine.ig.elevator.lore1=§710:What's your favorite thing about space? Mine is space.
+gt.blockmachines.multimachine.ig.elevator.lore2=§710:Putting all those VMs out of jobs
+gt.blockmachines.multimachine.ig.elevator.lore3=§7Envisioned by Konstantin Tsiolkovsky
+gt.blockmachines.multimachine.ig.elevator.lore4=§7Did you read "The Fountains of Paradise"?
+gt.blockmachines.multimachine.ig.elevator.lore5=§7Did you read "The Web Between the Worlds"?
+gt.blockmachines.multimachine.ig.elevator.gui.numOfModules=§7Installed modules
+gt.blockmachines.multimachine.ig.elevator.gui.ready=§7Ready for Operation.
+gt.blockmachines.multimachine.ig.elevator.gui.noRecipe=§7No Operation started.
+gt.blockmachines.multimachine.ig.elevator.gui.recipe=§7Operating.
+gt.blockmachines.multimachine.ig.elevator.gui.config=§7Configuration:
+
+# Module Base
+gt.blockmachines.module.name=§7Space Elevator Module
+gt.blockmachines.multimachine.project.ig.desc2=§7Doesn't use an energy hatch, instead receives energy from the Space Elevator
+gt.blockmachines.multimachine.project.ig.motorT1=§7Needs at least §aMotor MK-I§7 to work
+gt.blockmachines.multimachine.project.ig.motorT2=§7Needs at least §9Motor MK-II§7 to work
+gt.blockmachines.multimachine.project.ig.motorT3=§7Needs at least §dMotor MK-III§7 to work
+gt.blockmachines.multimachine.project.ig.motorT4=§7Needs at least §6Motor MK-IV§7 to work
+gt.blockmachines.multimachine.project.ig.motorT5=§7Needs at least §cMotor MK-V§7 to work
+
+# Module Assembler
+gt.blockmachines.multimachine.project.ig.assembler.t1.name=§7Space Assembler Module MK-I
+gt.blockmachines.multimachine.project.ig.assembler.t2.name=§7Space Assembler Module MK-II
+gt.blockmachines.multimachine.project.ig.assembler.t3.name=§7Space Assembler Module MK-III
+gt.blockmachines.multimachine.project.ig.assembler.desc0=§7Module that adds the Space Assembler to the Space Elevator
+gt.blockmachines.multimachine.project.ig.assembler.t1.desc1=§7Why do I need to assemble stuff in space again?
+gt.blockmachines.multimachine.project.ig.assembler.t2.desc1=§7Is this really necessary?
+gt.blockmachines.multimachine.project.ig.assembler.t3.desc1=§7I guess we'll never know.
+gt.blockmachines.multimachine.project.ig.assembler.t1.desc2=§7Runs at UHV with up to §a4 §7parallels
+gt.blockmachines.multimachine.project.ig.assembler.t2.desc2=§7Runs at UIV with up to §a16 §7parallels
+gt.blockmachines.multimachine.project.ig.assembler.t3.desc2=§7Runs at UXV with up to §a64 §7parallels
+gt.blockmachines.multimachine.project.ig.assembler.cfgi.0=§7Max parallels
+
+# Module Miner
+gt.blockmachines.multimachine.project.ig.miner.t1.name=§7Space Mining Module MK-I
+gt.blockmachines.multimachine.project.ig.miner.t2.name=§7Space Mining Module MK-II
+gt.blockmachines.multimachine.project.ig.miner.t3.name=§7Space Mining Module MK-III
+gt.blockmachines.multimachine.project.ig.miner.desc0=§7Module that adds Space Mining Operations to the Space Elevator
+gt.blockmachines.multimachine.project.ig.miner.cfgi.0=§7Distance
+gt.blockmachines.multimachine.project.ig.miner.cfgi.1=§7Max parallels
+gt.blockmachines.multimachine.project.ig.miner.cfgi.2=§7Overdrive
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4=§7Mode
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.1=§7Static
+gt.blockmachines.multimachine.project.ig.miner.cfgi.4.2=§7Cycle
+gt.blockmachines.multimachine.project.ig.miner.cfgi.5=§7Range
+gt.blockmachines.multimachine.project.ig.miner.cfgi.6=§7Step
+gt.blockmachines.multimachine.project.ig.cfgo.0=§7Stored Energy
+gt.blockmachines.multimachine.project.ig.miner.t1.desc1=§7Great treasures beyond your imagination await!
+gt.blockmachines.multimachine.project.ig.miner.t2.desc1=§7Does this violate drone rights?
+gt.blockmachines.multimachine.project.ig.miner.t3.desc1=§7This definitely violates drone rights.
+gt.blockmachines.multimachine.project.ig.miner.desc3=§7Requires a plasma to operate (§e825L Helium §7/ §3550L Bismuth §7/ §9375L Radon §7/ §f250L Technetium §7/ §c150L Plutonium 241§7).
+gt.blockmachines.multimachine.project.ig.miner.desc4=§7Higher tier plasmas increases the chances of mining bigger asteroids, and improves mining operation time.
+gt.blockmachines.multimachine.project.ig.miner.desc5=§7Needs to be fed with computation to work.
+gt.blockmachines.multimachine.project.ig.miner.desc5.1=§7Computation is consumed per parallel
+gt.blockmachines.multimachine.project.ig.miner.desc5.2=§7Mining Drones must be placed in a regular input bus (neither linked nor stocking bus).
+gt.blockmachines.multimachine.project.ig.miner.t1.desc5=§7Runs at UV with up to §a2§7 parallels
+gt.blockmachines.multimachine.project.ig.miner.t2.desc5=§7Runs at UHV with up to §a4§7 parallels
+gt.blockmachines.multimachine.project.ig.miner.t3.desc5=§7Runs at UEV with up to §a8§7 parallels
+gt.blockmachines.multimachine.project.ig.miner.desc6=§7Ores can be black-/whitelisted by putting them in an input bus
+gt.blockmachines.multimachine.project.ig.miner.activedronetiers=§7Active drone tiers
+gt.blockmachines.multimachine.project.ig.miner.asteroidsummaries.0=§7Possible asteroids for current distance and drones
+gt.blockmachines.multimachine.project.ig.miner.asteroidchance=§7operation
+gt.blockmachines.multimachine.project.ig.miner.asteroidtimedensity=§7time
+gt.blockmachines.multimachine.project.ig.miner.asteroidmaxparallels=§7up to
+
+# Module Pump
+gt.blockmachines.multimachine.project.ig.pump.t1.name=§7Space Pumping Module MK-I
+gt.blockmachines.multimachine.project.ig.pump.t2.name=§7Space Pumping Module MK-II
+gt.blockmachines.multimachine.project.ig.pump.t3.name=§7Space Pumping Module MK-III
+gt.blockmachines.multimachine.project.ig.pump.desc0=§7Module that adds Space Pumping Operations to the Space Elevator
+gt.blockmachines.multimachine.project.ig.pump.t1.desc1=§7Sucking up entire gas planets was never easier
+gt.blockmachines.multimachine.project.ig.pump.t2.desc1=§7Literally sucks
+gt.blockmachines.multimachine.project.ig.pump.t3.desc1=§7S U C C
+gt.blockmachines.multimachine.project.ig.pump.desc3=§7Set Planet and Gas Type determine pumped fluid
+gt.blockmachines.multimachine.project.ig.pump.desc4=§7Can be void protected by locking output hatches
+gt.blockmachines.multimachine.project.ig.pump.t1.desc5=§7Runs at UHV with up to §a4 §7parallels
+gt.blockmachines.multimachine.project.ig.pump.t2.desc5=§7Runs at UEV with up to §a4 §7parallels per recipe
+gt.blockmachines.multimachine.project.ig.pump.t3.desc5=§7Runs at UXV with up to §a64 §7parallels per recipe
+gt.blockmachines.multimachine.project.ig.pump.t2.desc6=§7Processes up to §a4 §7different recipes at once
+gt.blockmachines.multimachine.project.ig.pump.cfgi.0=§7Planet Type
+gt.blockmachines.multimachine.project.ig.pump.cfgi.1=§7Gas Type
+gt.blockmachines.multimachine.project.ig.pump.cfgi.2=§7Parallels
+gt.blockmachines.multimachine.project.ig.pump.cfgi.3=§7Batch Size
+
+# Module Manager
+gt.blockmachines.multimachine.project.ig.manager.t1.name=§7Space Project Manager
+gt.blockmachines.multimachine.project.ig.manager.desc0=§7Module that allows you to manage your space projects
+gt.blockmachines.multimachine.project.ig.manager.desc1=§7The start of something big
+
+# Module Research
+gt.blockmachines.multimachine.project.ig.research.t1.name=§7Space Research Module
+gt.blockmachines.multimachine.project.ig.research.desc0=§7Module that allows you to research stellar objects
+gt.blockmachines.multimachine.project.ig.research.desc1=§7Don't look directly into the sun
+
+# RecipeMaps
+gt.recipe.spaceMining=§7Space Mining
+gt.recipe.spaceAssembler=§7Space Assembler
+gt.recipe.spaceResearch=§7Space Research
+
+# NEI
+ig.nei.spaceassembler.project=§7Needs %s
+ig.nei.spaceassembler.projectAt=§7at %s
+ig.nei.spaceassembler.projectAnyLocation=§7any location
+ig.nei.module=§7Needs MK-%s Module
+ig.nei.spacemining.distance=§7Distance:
+ig.nei.spacemining.size=§7Size:
+ig.nei.spacemining.weight=§7Weight:
+ig.nei.elevatorpump.name=§7Space Pumping Module
+ig.nei.elevatorpump.planettype=§7Planet
+ig.nei.elevatorpump.gastype=§7Gas
+ig.nei.elevatorpump.amount=§7Amount
+ig.nei.elevatorpump.see_all=§7See All
+ig.nei.spaceproject.name=§7Space Projects
+ig.nei.spaceproject.stages=§7Stages:
+ig.nei.siphon.name=§7Planetary Gas Siphon
+ig.nei.siphon.planet=§7Planet
+ig.nei.siphon.depth=§7Depth
+
+# Structure and Tooltip
+ig.siphon.structure.ControllerPos=§7Front bottom
+ig.siphon.structure.AnySiphonCasing=§7Any Planetary Siphon Casing
+ig.siphon.structure.PillarMiddle=§71x4x1 pillar in the middle
+ig.siphon.structure.Sides=§7Each pillar's side and 1x3x1 on top
+ig.siphon.structure.Base=§73x1x3 base (hollow)
+ig.siphon.structure.SiphonCasing=§7Planetary Siphon Casing
+ig.siphon.structure.FrameTungstensteel=§7Tungstensteel Frame Box
+ig.siphon.structure.ReboltedRhodiumPalladiumCasing=§7Rebolted Rhodium-Plated Palladium Casing
+ig.elevator.structure.ProjectModule=§7Project Modules
+ig.elevator.structure.Motor=§7Space Elevator Motor
+ig.elevator.structure.FrameNeutronium=§7Neutronium Frame Box
+ig.elevator.structure.Parametrizer=§7Parametrizer
+ig.elevator.structure.OpticalConnector=§7Optical Connector
+ig.elevator.structure.AnyBaseCasingWith1Dot=§7Any Space Elevator Base Casing with 1 dot
+ig.elevator.structure.AnyBaseCasingWith2Dot=§7Any Space Elevator Base Casing with 2 dots
+ig.elevator.structure.AnyBaseCasingWith3Dot=§7Any Space Elevator Base Casing with 3 dots
+ig.structure.contributors=§7Contributors
+ig.structure.programming=§7Programming
+ig.structure.design=§7Design
+ig.structure.specialThanks=§7Special Thanks to
+ig.structure.author=§7Added by
+ig.structure.and=§7and
+
+ig.dyson.structure.dynamo=§7Can use Single- and/or Multi-Amp Dynamo Hatches and/or Laser Source Hatches (1 - 12)
+ig.dyson.structure.optical=§7Optical Reception Connector
+ig.dyson.structure.additionally=§7Additionally needed:
+ig.dyson.structure.deployment.core=§7Module Deployment Unit Core
+ig.dyson.structure.deployment.magnet=§7Module Deployment Unit Superconducting Magnet
+ig.dyson.structure.deployment.base=§7Module Deployment Unit Base Casing
+ig.dyson.structure.receiver.base=§7Energy Receiver Base Casing
+ig.dyson.structure.receiver.dish=§7Energy Receiver Dish Block
+ig.dyson.structure.control.base=§7Control Center Base Casing
+ig.dyson.structure.control.primary=§7Control Center Primary Windings
+ig.dyson.structure.control.secondary=§7Control Center Secondary Windings
+ig.dyson.structure.control.toroid=§7Control Center Toroid Casing
+ig.dyson.structure.base.floor=§7Ultra High Strength Concrete Floor
+ig.dyson.structure.base.coil=§7Awakened Draconium Coil Block
+ig.dyson.structure.base.hermetic=§7Hermetic Casing X
+ig.dyson.structure.base.frameTitanium=§7Titanium Frame Box
+ig.dyson.structure.base.frameHSSS=§7HSS-S Frame Box
+ig.dyson.structure.base.frameUHVBase=§7Superconductor Base UHV Frame Box
+
+# Space Projects
+ig.spaceproject.asteroidoutpost=§7Asteroid Outpost
+ig.spaceproject.asteroidoutpost.description=§7An asteroid outpost used by the drones as a fueling station and command centre
+ig.spaceproject.planetscan=§7Planetary scan
+ig.spaceproject.planetscan.description=§7A probe that will scan the planet it orbits to collect data.
+ig.sp.upgrade.improvedcomputation=§7Improved Computation Upgrade
+ig.sp.upgrade.improvedcomputation.description=§7This upgrade allows the quantum computers on the asteroid outpost to work on a higher frequency and enables a higher protection against cosmic rays
+ig.sp.upgrade.reinforcedstructure=§7Reinforced Structure Upgrade
+ig.sp.upgrade.reinforcedstructure.description=§7This upgrade reinforces the structure to survive hits from any fast moving asteroids and protects the drones from accidents
+
+# Asteroids
+ig.asteroid.coalAsteroid=§7Coal
+ig.asteroid.saltAsteroid=§7Salt
+ig.asteroid.ironAsteroid=§7Iron
+ig.asteroid.copperAsteroid=§7Copper
+ig.asteroid.tinAsteroid=§7Tin
+ig.asteroid.aluminiumAsteroid=§7Aluminium
+ig.asteroid.nickelAsteroid=§7Nickel
+ig.asteroid.chromeAsteroid=§7Chrome
+ig.asteroid.platlineOreAsteroid=§7Platline Ore
+ig.asteroid.gemAsteroid=§7Gem
+ig.asteroid.indiumAsteroid=§7Indium
+ig.asteroid.thaumiumAsteroid=§7Thaumium
+ig.asteroid.basicMagicAsteroid=§7Basic Magic
+ig.asteroid.niobiumAsteroid=§7Niobium
+ig.asteroid.quartzAsteroid=§7Quartz
+ig.asteroid.lutetiumAsteroid=§7Lutetium
+ig.asteroid.siliconAsteroid=§7Silicon
+ig.asteroid.phosphateAsteroid=§7Phosphate
+ig.asteroid.leadAsteroid=§7Lead
+ig.asteroid.adamantiumAsteroid=§7Adamantium
+ig.asteroid.tungstenTitaniumAsteroid=§7Tungsten-Titanium
+ig.asteroid.blueAsteroid=§7Blue
+ig.asteroid.aluminiumLanthlineAsteroid=§7Aluminium-Lanthline
+ig.asteroid.evergladesAsteroid=§7Everglades
+ig.asteroid.draconicAsteroid=§7Draconic
+ig.asteroid.cheeseAsteroid=§7CHEEEEEESE
+ig.asteroid.arditeCobaltAsteroid=§7Ardite-Cobalt
+ig.asteroid.europiumAsteroid=§7Europium
+ig.asteroid.cosmicAsteroid=§7Cosmic
+ig.asteroid.infinityCatalystAsteroid=§7Infinity Catalyst
+ig.asteroid.ichoriumAsteroid=§7Ichorium
+ig.asteroid.clayAsteroid=§7Clay
+ig.asteroid.mysteriousCrystalAsteroid=§7Mysterious Crystal
+ig.asteroid.uraniumPlutoniumAsteroid=§7Uranium-Plutonium
+ig.asteroid.holmiumSamariumAsteroid=§7Holmium-Samarium
+ig.asteroid.platlinePureAsteroid=§7Platline Dust
+ig.asteroid.magnesiumAsteroid=§7Magnesium
+ig.asteroid.lanthanumAsteroid=§7Lanthanum
+ig.asteroid.tengamAsteroid=§7Tengam
+ig.asteroid.naquadahAsteroid=§7Naquadah
+ig.asteroid.draconicCoreRuin=§7Draconic Core

@@ -1,0 +1,29 @@
+# Tooltip strings
+spiceoflife.tooltip.nutritional.value=§7영양가:
+spiceoflife.tooltip.eaten.recently=§7%s는 %d번째 전에 마지막으로 섭취하였습니다.
+spiceoflife.tooltip.eaten.recently.hunger=§7%s가 채워준 허기는 %s 입니다.
+spiceoflife.tooltip.not.eaten.recently=§7최근에 먹은 적 없음
+spiceoflife.tooltip.food.until.enabled.1=§7Diminishing returns start after
+spiceoflife.tooltip.food.until.enabled.2=§7eating any food %d more %s
+spiceoflife.tooltip.times.singular=§7시간
+spiceoflife.tooltip.times.plural=§7횟수
+spiceoflife.tooltip.hunger=§7배고픔
+spiceoflife.tooltip.food.group=§7식품군 :
+spiceoflife.tooltip.to.close.food.container=§7Use while sneaking to close
+spiceoflife.tooltip.to.open.food.container=§7Use while sneaking to open
+spiceoflife.tooltip.can.spill.food=§7Food can spill out while open
+
+# Quantity descriptors
+spiceoflife.quantity.one.time=§7첫번째
+spiceoflife.quantity.two.times=§7두번째
+spiceoflife.quantity.x.times=§7%d 번
+
+# Gui
+spiceoflife.gui.alltime.food.eaten=§7All-time food eaten
+spiceoflife.gui.no.food.history.yet=§7Food history not logged until diminishing returns start
+spiceoflife.gui.no.recent.food.eaten=§7No food eaten recently
+
+# Items
+item.spiceoflife.bookfoodjournal.name=§7음식 잡지
+item.spiceoflife.lunchbox.name=§7Lunch Box
+item.spiceoflife.lunchbag.name=§7Lunch Bag

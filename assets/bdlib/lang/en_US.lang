@@ -1,0 +1,30 @@
+bdlib.multiblock.face.north=§7North
+bdlib.multiblock.face.south=§7South
+bdlib.multiblock.face.east=§7East
+bdlib.multiblock.face.west=§7West
+bdlib.multiblock.face.up=§7Top
+bdlib.multiblock.face.down=§7Bottom
+
+bdlib.multiblock.disabled=§7Disabled
+bdlib.multiblock.incomplete=§7This machine is incomplete, it requires at least:
+bdlib.multiblock.notconnected=§7Not connected to a valid machine
+bdlib.multiblock.toomanyoutputs=§7Too many outputs connected, unable to attach new connection
+bdlib.multiblock.tip.module=§7Can be installed in:
+bdlib.multiblock.tip.controller=§7Possible modules:
+bdlib.multiblock.tip.module.range=§7* %s (%s - %s)
+bdlib.multiblock.tip.module.max=§7* %s (up to %s)
+
+bdlib.rsmode.always=§7Always ON
+bdlib.rsmode.never=§7Disabled
+bdlib.rsmode.rs_on=§7Enable on redstone
+bdlib.rsmode.rs_off=§7Disable on redstone
+
+bdlib.label.empty=§7Empty
+
+bdlib.oredistribution.usage=§7/oredistribution <radius> [<min height>] [<max height>] [--file]
+bdlib.oredistribution.start1=§7Checking ore distribution in (%s,%s,%s) to (%s,%s,%s) dim %s
+bdlib.oredistribution.start2=§7Server may lag for a while
+bdlib.oredistribution.entry=§7%s %s - %s (%s%%)
+bdlib.oredistribution.warn=§7%s Warning: %s has multiple variants generated:
+bdlib.oredistribution.saved=§7Ore distribution dumped to %s
+bdlib.oredistribution.error=§7Failed to save ore distribution dump: %s

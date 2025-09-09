@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7Piccone
+wailaharvestability.toolclass.shovel=§7Pala
+wailaharvestability.toolclass.axe=§7Ascia
+wailaharvestability.toolclass.chisel=§7Scalpello
+wailaharvestability.toolclass.scoop=§7Retino
+wailaharvestability.toolclass.crowbar=§7Piede di porco
+wailaharvestability.toolclass.sword=§7Spada
+
+# tooltips
+wailaharvestability.effectivetool=§7Attrezzo richiesto :
+wailaharvestability.harvestlevel=§7Livello richiesto :
+wailaharvestability.currentlyharvestable=§7Può essere raccolto
+wailaharvestability.harvestable=§7Può essere raccolto
+
+# options
+option.harvestability.harvestlevel=§7Livello richiesto
+option.harvestability.effectivetool=§7Attrezzo richiesto
+option.harvestability.currentlyharvestable=§7Può essere raccolto
+option.harvestability.oresonly=§7Solo minerali
+option.harvestability.harvestlevel.sneakingonly=§7Solo Shift: Livello richiesto
+option.harvestability.effectivetool.sneakingonly=§7Solo Shift: Attrezzo richiesto
+option.harvestability.currentlyharvestable.sneakingonly=§7Solo Shift: Può essere raccolto
+option.harvestability.minimal=§7Modo minimo
+option.harvestability.unharvestableonly=§7Solo quando non raccoglibile
+option.harvestability.toolrequiredonly=§7Solo quando attrezzo richiesto
+option.harvestability.shearability=§7Tagliabile
+option.harvestability.shearability.sneakingonly=§7Solo Shift: E' tagliabile
+option.harvestability.silktouchability=§7Tocco di velluto
+option.harvestability.silktouchability.sneakingonly=§7Solo Shift: Tocco di velluto

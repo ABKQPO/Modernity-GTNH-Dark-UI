@@ -1,0 +1,70 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=§7按住 %s 查看數據
+tictooltips.hold.key.for.materials=§7按住 %s 查看材料
+tictooltips.hold.key.for.bow.stats=§7按住 %s 箭數據
+tictooltips.hold.key.for.more=§7按住 %s 查看更多
+
+# material tooltips
+tictooltips.material.shoddiness.modifier=§7[升級槽: %s]
+tictooltips.material.arrow.weight=§7箭重:
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=§7有效材料:
+
+# tool tooltips
+tictooltips.tool.repair.material=§7修理材料:
+tictooltips.tool.effective.durability=§7有效 %s
+tictooltips.tool.shoddiness.modifier=§7%s 升級槽:
+tictooltips.tool.burn.duration=§7燃燒持續時間:
+tictooltips.tool.bonus.vs.undead=§7%s vs 不死生物:
+tictooltips.tool.bonus.vs.spiders=§7%s vs 蜘蛛:
+tictooltips.tool.chance.to.behead=§7斬首幾率:
+tictooltips.tool.modifiers=§7升級槽:
+
+# generic
+tictooltips.minimum=§7最小
+tictooltips.maximum=§7最大
+tictooltips.unknown.part=§7<未知部分>
+tictooltips.infinite=§7無限
+
+# overrides for gui.partcrafter.mining6
+tictooltips.mining.level.6=§76
+tictooltips.mining.level.6.with.metallurgy=§7金鑽
+
+# all of the following strings are only used with Tinkers Construct versions less than 1.5.3
+# in TiC versions >=§71.5.3, the TiC localization strings are used instead
+tictooltips.base.durability=§7基礎耐久:
+tictooltips.handle.modifier=§7手把升級槽:
+tictooltips.mining.speed=§7挖掘速度:
+tictooltips.mining.level=§7挖掘等級:
+tictooltips.heart=§7顆心
+tictooltips.hearts=§7顆心
+tictooltips.mining.level.1=§7石頭
+tictooltips.mining.level.2=§7鐵
+tictooltips.mining.level.3=§7紅石
+tictooltips.mining.level.4=§7黑曜石
+tictooltips.mining.level.5=§7鈷
+# see overrides above
+tictooltips.mining.level.7=§77
+tictooltips.mining.level.8=§78
+tictooltips.durability=§7耐久:
+tictooltips.attack=§7攻擊:
+tictooltips.bonus=§7額外:
+tictooltips.loss=§7損耗:
+tictooltips.draw.speed=§7拉弓速度:
+tictooltips.arrow.speed=§7箭速:
+tictooltips.weight=§7重量:
+tictooltips.accuracy=§7精準度:
+tictooltips.base.attack=§7基礎攻擊:
+tictooltips.shortbow.attack=§7短工攻擊:
+tictooltips.mining.speeds=§7挖掘速度:
+tictooltips.harvest.levels=§7收穫等級:
+tictooltips.mining.speed=§7挖掘速度:
+tictooltips.mining.level=§7挖掘等級:
+tictooltips.usage.speed=§7使用速度:
+tictooltips.modifiers=§7升級槽
+tictooltips.modifiers.remaining=§7剩餘升級槽:
+tictooltips.unbreakable=§7不破
+tictooltips.reinforced=§7堅固
+tictooltips.jagged=§7鋸齒
+tictooltips.stonebound=§7石縛

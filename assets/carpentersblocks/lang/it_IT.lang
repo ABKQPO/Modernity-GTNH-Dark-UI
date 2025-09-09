@@ -1,0 +1,60 @@
+# Carpenter's Blocks Language File =§7ITALY ITALIAN
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Martello del carpentiere
+item.itemCarpentersChisel.name=§7Scalpello del carpentiere
+item.itemCarpentersDoor.name=§7Porta del carpentiere
+item.itemCarpentersBed.name=§7Letto del carpentiere
+item.itemCarpentersTile.name=§7Facciata del carpentiere
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Staccionata del carpentiere
+tile.blockCarpentersBed.name=§7Letto del carpentiere
+tile.blockCarpentersBlock.name=§7Blocco del carpentiere
+tile.blockCarpentersButton.name=§7Pulsante del carpentiere
+tile.blockCarpentersDaylightSensor.name=§7Sensore di luce diurna del carpentiere
+tile.blockCarpentersCollapsibleBlock.name=§7Blocco pieghevole del carpentiere
+tile.blockCarpentersDoor.name=§7Porta del carpentiere
+tile.blockCarpentersGarageDoor.name=§7Porta del garage del carpentiere
+tile.blockCarpentersGate.name=§7Cancelletto del carpentiere
+tile.blockCarpentersHatch.name=§7Botola del carpentiere
+tile.blockCarpentersLadder.name=§7Scala a pioli del carpentiere
+tile.blockCarpentersLever.name=§7Leva del carpentiere
+tile.blockCarpentersPressurePlate.name=§7Pedana a pressione del carpentiere
+tile.blockCarpentersSlope.wedge.name=§7Cuneo inclinato del carpentiere
+tile.blockCarpentersSlope.obliqueInterior.name=§7Blocco inclinato interiormente del carpentiere
+tile.blockCarpentersSlope.obliqueExterior.name=§7Blocco inclinato esteriormente del carpentiere
+tile.blockCarpentersSlope.prism.name=§7Inclinazione a prisma del carpentiere
+tile.blockCarpentersSlope.prismWedge.name=§7Prisma del carpentiere
+tile.blockCarpentersStairs.name=§7Scalini del carpentiere
+tile.blockCarpentersTorch.name=§7Torcia del carpentiere
+tile.blockCarpentersSafe.name=§7Cassaforte del carpentiere
+tile.blockCarpentersFlowerPot.name=§7Vaso da fiori del carpentiere
+
+# ENTITIES
+entity.CarpentersTile.name=§7Facciata del carpentiere
+
+# MESSAGES
+message.polarity_pos.name=§7POLARITA': Segnale di pietrarossa normale.
+message.polarity_neg.name=§7POLARITA': Segnale di pietrarossa invertita.
+message.activation_iron.name=§7ATTIVAZIONE: Si comporta come una porta di ferro.
+message.activation_wood.name=§7ATTIVAZIONE: Si comporta come una porta di legno.
+message.trigger_player.name=§7INNESCO: Attivabile solo da giocatori.
+message.trigger_monster.name=§7INNESCO: Attivabile solo da mostri.
+message.trigger_animal.name=§7INNESCO: Attivabile solo da animali.
+message.trigger_all.name=§7INNESCO: Attivabile da tutte le entità
+message.safe_lock.name=§7CONTROLLO: Lucchetto chiuso.
+message.safe_unlock.name=§7CONTROLLO: Lucchetto aperto.
+message.automation_all.name=§7AUTOMAZIONE: Oggetti possono essere inseriti e estratti.
+message.automation_disabled.name=§7AUTOMAZIONE: Disattivato.
+message.automation_insert.name=§7AUTOMAZIONE: Oggetti possono essere solo inseriti.
+message.automation_extract.name=§7AUTOMAZIONE: Oggetti possono essere solo estratti.
+message.block_lock.name=§7CONTROLLO: Questo blocco è bloccato.
+message.sensitivity_sleep.name=§7SENSITIVITA': Modifica lo stato quando il giocatore può dormire (alba e tramonto).
+message.sensitivity_monsters.name=§7SENSITIVITA': Modifica lo stato quando i mostri generano (includendo tempeste).
+message.sensitivity_dynamic.name=§7SENSITIVITA: Segnale di pietrarossa cambia in base alla posizione del sole.
+
+# </file>

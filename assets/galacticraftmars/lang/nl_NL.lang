@@ -1,0 +1,193 @@
+# Galacticraft Mars Language File =§7NETHERLANDS DUTCH
+
+# GENERAL ITEMS
+item.rawDesh.name=§7Ongeraffineerde Desh
+item.deshStick.name=§7Desh Stok
+item.ingotDesh.name=§7Desh Staaf
+item.spaceshipTier2.t2Rocket.name=§7Tier 2 Raket
+item.reinforcedPlateT2.name=§7Zware Beplating
+item.tier2.desc=§7Tier 2
+item.slimelingCargo.name=§7Slimeling Inventaris Zak
+item.key.T2.name=§7Tier 2 Kerker Sleutel
+item.compressedDesh.name=§7Samengeperst Desh
+item.spaceshipTier2.cargoRocket.name=§7Vracht Raket
+item.fluidManip.name=§7Vloeistof Manipulator
+item.bucketSludge.name=§7Bacteriele Modder Emmer
+fluid.bacterialsludge=§7Bacteriele Modder
+
+# TOOLS
+item.deshPick.name=§7Desh Houweel
+item.deshPickSlime.name=§7Kleverige Desh Houweel
+item.deshAxe.name=§7Desh Bijl
+item.deshHoe.name=§7Desh Schoffel
+item.deshSpade.name=§7Desh Schep
+item.deshSword.name=§7Desh Zwaard
+
+# ARMOR
+item.deshHelmet.name=§7Desh Helm
+item.deshChestplate.name=§7Desh Kuras
+item.deshLeggings.name=§7Desh Beenstukken
+item.deshBoots.name=§7Desh Laarzen
+
+# BLOCKS
+tile.mars.deshmars.name=§7Desh Erts
+tile.mars.coppermars.name=§7Koper Erts
+tile.mars.tinmars.name=§7Tin Erts
+tile.mars.ironmars.name=§7Ijzererts
+tile.mars.marscobblestone.name=§7Keisteen
+tile.mars.marsstone.name=§7Mars Steen
+tile.mars.marsdirt.name=§7Mars Ondergrond Steen
+tile.mars.marsgrass.name=§7Mars Oppervlakte Steen
+tile.mars.marsdeco.name=§7Blok Van Desh
+tile.mars.marsdungeon.name=§7Kerker Muur
+tile.treasureT2.name=§7Tier 2 Schatkist
+tile.slimelingEgg.redEgg.name=§7Rood Slimeling Ei
+tile.slimelingEgg.blueEgg.name=§7Blauw Slimeling Ei
+tile.slimelingEgg.yellowEgg.name=§7Geel Slimeling Ei
+tile.marsMachine.0.name=§7Terravormer
+tile.marsMachine.1.name=§7Cryogene Kamer
+tile.marsMachine.2.name=§7Lanceer Controleur
+tile.marsMachine.4.name=§7Gas Condensor
+tile.marsMachine.5.name=§7Methaan Synthesizer
+tile.marsMachine.6.name=§7Water Electrolyzer ##NEEDS TRANSLATE##
+tile.hydrogenPipe.name=§7Waterstof Pijp
+tile.sludge.name=§7Bacteriele Modder
+tile.creeperEgg.name=§7Creeper Ei
+tile.cavernVines.name=§7Grot Lianen
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7Mars Keistenen Treden
+tile.wallGC.mars.name=§7Mars Keistenen Muur
+tile.slabGCHalf.marsSlab.name=§7Mars Keistenen Plaat
+tile.marsDungeonBricksStairs.name=§7Mars Kerker Steen Treden
+tile.wallGC.marsBricks.name=§7Mars Kerker Steen
+tile.slabGCHalf.marsBricksSlab.name=§7Mars Kerker Steen Plaat
+
+# GUI
+gui.choosePlanet.desc.mars=§7Bewoonbaar#Geen Zuurstof#Zwaartekracht: 38%
+item.deshPickSlime.description.name=§7Kan slijmeling eieren oogsten
+gui.message.noEnergy.name=§7Niet Genoeg Energie
+gui.message.noWater.name=§7Niet Genoeg Water
+gui.message.noBonemeal.name=§7Niet Genoeg Beendermeel
+gui.message.noSeeds.name=§7Niet Genoeg Zaden
+gui.message.noSaplings.name=§7Niet Genoeg Kiemplantjes
+gui.message.bubbleExp.name=§7Bubbel Uitbreiding
+gui.message.noValidBlocks.name=§7Geen Geldige Blokken in de bubbel
+gui.message.terraforming.name=§7Terravorming
+gui.message.enableTrees.name=§7Enable Bomen
+gui.message.enableGrass.name=§7Enable Gras
+gui.message.trees.name=§7Bomen
+gui.message.grass.name=§7Gras
+gui.message.invalidFreq.name=§7Ongeldige Frequentie
+gui.message.frequency.name=§7Frequentie
+gui.message.destFrequency.name=§7Bestemmings Frequentie
+gui.message.removePad.name=§7Verwijder Platform
+gui.message.launchWhen.name=§7Lanceer Als
+gui.message.cargoUnloaded.name=§7Lading is Gelost
+gui.message.cargoFull.name=§7Lading is Vol
+gui.message.fullyFueled.name=§7Volgetankt
+gui.message.instant.name=§7Onmiddelijk
+gui.message.tenSec.name=§710 Seconden
+gui.message.thirtySec.name=§730 Seconden
+gui.message.oneMin.name=§71 Minuut
+gui.message.redstoneSig.name=§7Redstone Signaal
+gui.message.notSet.name=§7Niet Ingesteld
+gui.message.notEnough.name=§7Niet Genoeg
+gui.message.success.name=§7Succes
+gui.message.zeroWater.name=§7Geen Water!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7Dit is de lanceer controleur's$unieke frequentie
+gui.launchController.desc.1=§7Frequentie om de raket te lanceren naar
+gui.launchController.desc.2=§7Of zou het lanceerplatform$Moeten worden verwijderd tijdens de lancering
+gui.launchController.desc.3=§7Wanneer deze criteria er is,$Zak de raket lanceren
+gui.launchController.desc.4=§7Hide destination frequency$from other players ##NEEDS TRANSLATE##
+gui.terraformer.desc.0=§7Water Tank
+
+gui.gasTank.desc.0=§7Gas Opslag
+gui.gasTankCompressed.desc.0=§7Gas Opslag (Samengeperst)
+gui.liquidTank.desc.0=§7Vloeibare Tank
+gui.status.nogas.name=§7Geen Gas
+gui.status.liquefying.name=§7Vloeibaar Maken
+gui.status.processing.name=§7Synthesizing ##NEEDS TRANSLATE##
+gui.status.needsCarbon.name=§7Heeft Koolstof Nodig
+gui.status.tankfull.name=§7Tank Vol
+gui.status.tanksfull.name=§7Tanks vol
+gui.message.lowEnergy.name=§7Lage Energie
+gui.button.liquefy.name=§7Process ##NEEDS TRANSLATE##
+gui.button.liquefyStop.name=§7Stop
+gui.gasInput.desc.0=§7Probeer een Methaan$Gas bus hier te plaatsen
+gui.gasInput.desc.1=§7(Misschien als alternatief,$een Atmosferische  Sluis)
+gui.hydrogenInput.desc.0=§7Dit Neemt een Waterstof Tank
+gui.hydrogenInput.desc.1=§7Of een Atmosferische  Sluis
+gui.liquidOutput.desc.2=§7Vloeibare Gas Tank
+gui.methaneOutput.desc.2=§7Methaan Tank
+gui.message.withAtmosphere0.name=§7Op een Planeet met genoeg on a planet with plenty of ##NEEDS TRANSLATE##
+gui.message.withAtmosphere1.name=§7in de Atmosfeer
+item.carbonFragments.name=§7Gefragmenteerde Koolstof
+gui.carbonSlot.desc.0=§7Gefragmenteerde Koolstof kan hiernaar toe
+gui.waterBucketSlot.desc=§7Plaats water emmers hier
+
+gui.cargorocket.status.waiting.0=§7Wachten Voor
+gui.cargorocket.status.waiting.1=§7Ontsteking ##NEEDS TRANSLATE##
+gui.cargorocket.status.launched.0=§7Al
+gui.cargorocket.status.launched.1=§7Gelanceerd
+
+gas.carbondioxide.name=§7Koolstof Dioxide
+gas.oxygen.name=§7Zuurstof
+gas.nitrogen.name=§7Stikstof
+
+gui.desc.reinforcedPlateT2.name=§7Tier 2
+dimension.Mars.name=§7Mars
+planet.mars=§7Mars
+
+tile.treasureT2.description=§7Tier 2 Schatkist Zullen Genereren in Mars Kerkers. Je kunt ze openen als je de Eindbaas heb Verslagen.
+tile.cavernVines.description=§7Grotten Lianen zijn Gevaarlijk Voor levende Wezens, je Word Verwikkeld en Omhoog Geslepen.
+tile.slimelingEgg.description=§7Slimeling Eggs, once cracked with a player's bare hands, will soon hatch into a pet. ##NEEDS TRANSLATE##
+tile.cryoChamber.description=§7Cryogenic Chambers will allow a player to sleep during the day, healing a small amount of health, but has a cooldown. ##NEEDS TRANSLATE##
+tile.launchController.description=§7Lanceer Controleurs Worden Gebruikt om het aanpassen van lanceer Gebruik, waaronder de lanceer criteria en de bestemming van Automatische Lanceringen
+tile.terraformer.description=§7Terraformers are used to add some greenery to distant planets, adding grass, trees and water when given the correct materials. ##NEEDS TRANSLATE##
+tile.creeperEgg.description=§7Creeper Eggs will spawn in Mars dungeons, spawning a sneaky predator upon exploding. ##NEEDS TRANSLATE##
+tile.gasLiquefier.description=§7Liquefies gases, either from the atmosphere or from canisters. Liquefied methane makes a good rocket fuel! ##NEEDS TRANSLATE##
+tile.methaneSynthesizer.description=§7With a source of hydrogen and a source of carbon, this manufactures Methane for further processing in a Gas Liquefier. ##NEEDS TRANSLATE##
+tile.electrolyzer.description=§7Transforms water into hydrogen (useful for the Methane Synthesizer) and oxygen. ##NEEDS TRANSLATE##
+tile.hydrogenPipe.description=§7Hydrogen Pipe will transfer hydrogen from one machine's internal gas tank to another. ##NEEDS TRANSLATE##
+
+gui.slimeling.chat.wrongPlayer=§7This isn't my Slimeling! ##NEEDS TRANSLATE##
+gui.cryogenic.chat.cantUse=§7Ik kan dit niet gebruiken voor %d Seconden
+gui.slimeling.name=§7Naam
+gui.slimeling.owner=§7Eigenaar
+gui.slimeling.kills=§7Kills
+gui.slimeling.scale=§7Schaal
+gui.slimeling.button.sit=§7Zit
+gui.slimeling.button.follow=§7Volg
+gui.slimeling.sitting=§7Zitten
+gui.slimeling.following=§7Volgen
+gui.slimeling.damage=§7Aanval Schade
+gui.slimeling.food=§7Favoriete Voedsel
+
+# SCHEMATICS
+schematic.rocketT3.name=§7Tier 3 Raket
+schematic.cargoRocket.name=§7Automatische Vracht Raket
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Vracht Raket
+entity.GalacticraftMars.CreeperBoss.name=§7Geëvolueerde Creeper Baas
+entity.GalacticraftMars.LandingBalloons.name=§7Landing Balonnen
+entity.GalacticraftMars.Slimeling.name=§7Slimeling ##NEEDS TRANSLATE##
+entity.GalacticraftMars.Sludgeling.name=§7Sludgeling ##NEEDS TRANSLATE##
+entity.GalacticraftMars.SpaceshipT2.name=§7Tier 2 Raket
+
+# CONTAINERS
+container.launchcontroller.name=§7Lanceer Controleur
+container.tileTerraformer.name=§7Terraformer
+container.marsLander.name=§7Landing Balonnen
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7Mars Dimensie ID
+gc.configgui.idSchematicRocketT2=§7Tier 2 Raket Schematic ID
+gc.configgui.idSchematicCargoRocket=§7Vracht Raket Schematic ID
+gc.configgui.launchControllerChunkLoad=§7Lanceer Controleur Chunkloading
+gc.configgui.launchControllerAllDims=§7Lanceer Controleur alle Dimensies
+
+gc.configgui.planets.title=§7Galacticraft Planeten Configuratie

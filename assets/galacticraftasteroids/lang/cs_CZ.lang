@@ -1,0 +1,153 @@
+# Galacticraft Asteroids Language File =§7CZECH REPUBLIC CZECH
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7Raketa typ 3
+item.itemAstroMiner.name=§7Těžební souprava
+item.heavyNoseCone.name=§7Vylepšená špička rakety
+item.compressedTitanium.name=§7Válcovaný titan
+item.ingotTitanium.name=§7Titanový ingot
+item.shardTitanium.name=§7Titanový úlomek
+item.shardIron.name=§7Železný úlomek
+item.rocketFinsT2.name=§7Vylepšené křidélko
+item.engineT2.name=§7Vylepšený raketový motor
+item.reinforcedPlateT3.name=§7Zesílený plech
+item.grapple.name=§7Hák
+item.thermalHelm.name=§7Tepelně izolovaná helma
+item.thermalChestplate.name=§7Tepelně izolovaný hrudní chránič
+item.thermalLeggings.name=§7Tepelně izolované kalhoty
+item.thermalBoots.name=§7Tepelně izolované boty
+item.titanium_helmet.name=§7Titanová helma
+item.titanium_chestplate.name=§7Titanový hrudní chránič
+item.titanium_leggings.name=§7Titanové kalhoty
+item.titanium_boots.name=§7Titanové boty
+item.atmosphericValve.name=§7Atmosferický uzávěr
+item.thermalCloth.name=§7Tepelně izolační tkanina
+item.beamCore.name=§7Paprskové jádro
+item.orionDrive.name=§7Iontový motor
+item.methaneCanisterPartial.name=§7Lahev na metan
+item.methaneCanister.name=§7Plná lahev metanu
+item.canister.gas.name=§7Plyn
+item.canister.LOX.partial.name=§7Lahev na kapalný kyslík
+item.canister.LOX.full.name=§7Plná lahev kapalného kyslíku
+item.canister.LOX.name=§7LOX
+item.canister.liquidNitrogen.partial.name=§7Lahev na kapalný dusík
+item.canister.liquidNitrogen.full.name=§7Plná lahev kapalného dusíku
+item.canister.liquidNitrogen.name=§7Kapalina
+item.canister.liquidArgon.partial.name=§7Lahev na kapalný argon
+item.canister.liquidArgon.full.name=§7Plná lahev kapalného argonu
+item.canister.liquidArgon.name=§7LAR#short name for Liquid Argon contents level
+item.emptyGasCanister.name=§7Prázdná tlaková lahev
+item.tier3.desc=§7Typ 3
+item.titanium_pickaxe.name=§7Titanový krumpáč
+item.titanium_axe.name=§7Titanová sekera
+item.titanium_hoe.name=§7Titanová motyka
+item.titanium_shovel.name=§7Titanová lopata
+item.titanium_sword.name=§7Titanový meč
+tile.asteroidsBlock.asteroid0.name=§7Asteroidový kámen
+tile.asteroidsBlock.asteroid1.name=§7Asteroidový kámen
+tile.asteroidsBlock.asteroid2.name=§7Asteroidový kámen
+tile.asteroidsBlock.oreIron.name=§7Železná ruda
+tile.asteroidsBlock.oreIlmenite.name=§7Ilmenitová ruda
+tile.asteroidsBlock.oreAluminum.name=§7Hliníková ruda
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.asteroidsBlock.asteroids1.name=§7Kámen z asteroidu
+tile.beamReflector.name=§7Směrovač paprsku
+tile.beamReceiver.name=§7Zdroj paprsku
+tile.telepadShort.name=§7Telepad krátkého dosahu
+tile.walkway.name=§7Lávka
+tile.walkwayWire.name=§7Lávka
+tile.walkwayOxygenPipe.name=§7Lávka
+tile.treasureT3.name=§7Pokladnice typ 3
+tile.denseIce.name=§7Zhuštěný led
+tile.minerBase.name=§7Základna pro těžební soupravu
+
+#FLUIDS
+fluid.methane=§7Plynný metan
+fluid.oxygen=§7Plynný kyslík
+fluid.nitrogen=§7Plynný dusík
+fluid.hydrogen=§7Plynný vodík
+fluid.carbondioxide=§7Plynný oxid uhličitý
+fluid.helium=§7Plynné helium
+fluid.argon=§7Plynný argon
+fluid.atmosphericgases=§7Atmosferické plyny
+fluid.liquidmethane=§7Kapalný metan
+fluid.liquidoxygen=§7Kapalný kyslík
+fluid.liquidnitrogen=§7Kapalný dusík
+fluid.liquidargon=§7Kapalný Argon
+fluid.fuel=§7Palivo
+
+# GUI
+planet.asteroids=§7Asteroidy
+gui.telepad.desc.0=§7Toto je unikátní adresa$tohoto transportéru
+gui.telepad.desc.1=§7Cílová adresa$Tam budou objekty odeslány.
+container.shortRangeTelepad.name=§7Transportér krátkého dosahu
+container.entryPod.name=§7Přistávací modul
+gc.configgui.dimensionIDAsteroids=§7Číslo dimenze asteroidů
+gc.configgui.idEntitySmallAsteroid=§7Číslo malého asteroidu
+gc.configgui.idEntityGrappleHook=§7Číslo háku
+gc.configgui.idEntityTier3Rocket=§7Číslo rakety typu 3
+gc.configgui.idEntityEntryPod=§7Číslo přistávacího modulu (ast.)
+gc.configgui.idSchematicRocketT3=§7Číslo schématu rakety typu 3
+gc.configgui.disableGalacticraftHelium=§7Vypnout registraci plynného Helia
+gc.configgui.astroMinersMax=§7Maximální počet těžebních souprav na hráče
+gui.message.address.name=§7Adresa
+gui.message.destAddress.name=§7Cílová adresa
+gui.message.invalidAddress.name=§7Neplatná adresa
+gui.message.invalidTargetAddress.name=§7Neplatná cílová adresa
+gui.message.receivingActive.name=§7Na příjmu
+gui.message.telepadTooFar.name=§7Cíl je příliž daleko! (Max %d)
+gui.message.telepadWrongDim.name=§7Cíl není ve stejné oblasti!
+gui.message.telepadNotFound.name=§7Transportér nenalezen!
+gui.message.sendingActive.name=§7Vysílá!
+gui.message.range.name=§7Dosah: %dm
+gui.message.notEnoughEnergy.name=§7Nedostatek energie!
+gui.message.targetNoEnergy.name=§7Cíl nemá dostatek energie!
+gui.message.grapple.fail=§7Pro použití háku je potřeba také lano!
+gui.message.astroMiner.fail=§7Tato základna již obsahuje těžební soupravu!
+gui.message.astroMiner1.fail=§7Přistávací port je obsazen hráčem:
+gui.message.astroMiner1A.fail=§7Cesta těžební soupravy je blokována:
+gui.message.astroMiner2.fail=§7Již jsi postavil příliž mnoho těžebních souprav!
+gui.message.astroMiner3.fail=§7Základna těžební soupravy byla zničena.
+gui.message.astroMiner4.fail=§7Těžební soupravě došla energie, nemůže se tedy dostat zpět na základnu.
+gui.message.astroMiner5.fail=§7Cesta těžební soupravy se zdá být blokována.
+gui.message.astroMiner6.fail=§7Těžební souprava dokončila těžbu v oblasti. Nyní vyčkává další rozkazy.
+gui.message.astroMiner7.fail=§7Na vesmírné stanici není nic, co by mohla těžební souprava těžit!
+gui.message.astroMiner8.fail=§7K základně byla přiřazena další těžební souprava. Původní se nyní zastavý.
+gui.button.recall.name=§7Přivolat
+gui.miner.outOfRange=§7Mimo dosah
+gui.miner.offline=§7Vypnuto
+gui.miner.stuck=§7Uvízla na:
+gui.miner.docked=§7Připojena
+gui.miner.travelling=§7Cestuje
+gui.miner.mining=§7Těží
+gui.miner.returning=§7Vrací se
+gui.miner.docking=§7Připojuje se
+gui.miner.mined=§7Vytěženo
+tile.treasureT3.description=§7Pokladnice typu 3 zatím nejsou využity.
+tile.walkway.description=§7Lávky jsou využity pro dekorace, slouží pro spojování bloků při zachování vzhledu.
+tile.walkwayAluminumWire.description=§7Lávky s hliníkovým vodičem umožňují vedení vodiče pod lávkou a zároveň zachovávají rovný povrch.
+tile.walkwayOxygenPipe.description=§7Lávky s kyslíkovou trubkou umožňují vedení trubky pod lávkou a zároveň zachovávají rovný povrch.
+tile.beamReflector.description=§7Směrovače paprsku slouží ke směrování paprsků za zdroje do cíle. Po kliknutí pravým tlačítkem lze vybírat cíle.
+tile.beamReceiver.description=§7Zdroje paprsku jsou připojeny ke strojům jako přívody nebo vývody pro přenos energie pomocí paprsku.
+tile.telepadShort.description=§7Transportéry krátkého dosahu slouží k přepravě hráčů a dalších živých bytostí na krátké vzdálenosti (250 m) po spárování s dalším transportérem.
+tile.minerBase.description=§7Základna těžební soupravy slouží jako dokovací port pro těžební stanici. Postavte jej jako krychly o straně 2 m.
+schematic.astroMiner.name=§7Těžební souprava
+schematic.ionDrive.name=§7Iontový motor
+
+itemGroup.GalacticraftAsteroids=§7Galacticraft Asteroidy
+
+# Schematics
+
+# Entity
+entity.GalacticraftMars.SmallAsteroidGC.name=§7Malý asteroid
+entity.GalacticraftMars.GrappleHookGC.name=§7Hák
+entity.GalacticraftMars.Tier3RocketGC.name=§7Raketa typ 3
+entity.GalacticraftMars.EntryPodAsteroids.name=§7Přistávací modul
+entity.GalacticraftMars.AstroMiner.name=§7Těžební souprava
+
+# Container

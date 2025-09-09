@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7Picareta
+wailaharvestability.toolclass.shovel=§7Pá
+wailaharvestability.toolclass.axe=§7Machado
+wailaharvestability.toolclass.chisel=§7Cinzel
+wailaharvestability.toolclass.scoop=§7Rede de Insetos
+wailaharvestability.toolclass.crowbar=§7Pé-de-Cabra
+wailaharvestability.toolclass.sword=§7Espada
+
+# tooltips
+wailaharvestability.effectivetool=§7Ferramenta Efetiva :
+wailaharvestability.harvestlevel=§7Nível de Mineração :
+wailaharvestability.currentlyharvestable=§7Atualmente Minerável
+wailaharvestability.harvestable=§7Minerável
+
+# options
+option.harvestability.harvestlevel=§7Nível de Mineração
+option.harvestability.effectivetool=§7Ferramenta efetiva
+option.harvestability.currentlyharvestable=§7Atualmente Minerável
+option.harvestability.oresonly=§7Minérios apenas
+option.harvestability.harvestlevel.sneakingonly=§7Agachar apenas: Nivel de Mineração
+option.harvestability.effectivetool.sneakingonly=§7Agachar apenas: Ferramenta efetiva
+option.harvestability.currentlyharvestable.sneakingonly=§7Agachar apenas: Minerável
+option.harvestability.minimal=§7Modo mínimo
+option.harvestability.unharvestableonly=§7Apenas não mineráveis
+option.harvestability.toolrequiredonly=§7Apenas ferramenta requirida
+option.harvestability.shearability=§7Habilidade de Tesoura
+option.harvestability.shearability.sneakingonly=§7Agachar apenas: Habilidade de Tesoura
+option.harvestability.silktouchability=§7Habilidade do Toque Suave
+option.harvestability.silktouchability.sneakingonly=§7Agachar apenas: Habilidade do Toque Suave

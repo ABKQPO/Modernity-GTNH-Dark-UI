@@ -1,0 +1,193 @@
+﻿# Galacticraft Mars Language File =§7Simplified Chinese
+
+# GENERAL ITEMS
+item.rawDesh.name=§7未精炼戴斯矿
+item.deshStick.name=§7戴斯棍
+item.ingotDesh.name=§7戴斯锭
+item.spaceshipTier2.t2Rocket.name=§72阶火箭
+item.reinforcedPlateT2.name=§7重型装甲板
+item.tier2.desc=§72阶
+item.slimelingCargo.name=§7黏滑物品背包
+item.key.T2.name=§72阶地牢钥匙
+item.compressedDesh.name=§7致密戴斯板
+item.spaceshipTier2.cargoRocket.name=§7货运火箭
+item.fluidManip.name=§7流体操纵器
+item.bucketSludge.name=§7菌泥桶
+fluid.bacterialsludge=§7菌泥
+
+# TOOLS
+item.deshPick.name=§7戴斯镐
+item.deshPickSlime.name=§7粘性戴斯镐
+item.deshAxe.name=§7戴斯斧
+item.deshHoe.name=§7戴斯锄
+item.deshSpade.name=§7戴斯铲
+item.deshSword.name=§7戴斯剑
+
+# ARMOR
+item.deshHelmet.name=§7戴斯头盔
+item.deshChestplate.name=§7戴斯胸甲
+item.deshLeggings.name=§7戴斯护腿
+item.deshBoots.name=§7戴斯靴子
+
+# BLOCKS
+tile.mars.deshmars.name=§7戴斯矿石
+tile.mars.coppermars.name=§7铜矿石
+tile.mars.tinmars.name=§7锡矿石
+tile.mars.ironmars.name=§7铁矿石
+tile.mars.marscobblestone.name=§7火星圆石
+tile.mars.marsstone.name=§7火星石头
+tile.mars.marsdirt.name=§7火星地底岩石
+tile.mars.marsgrass.name=§7火星地表岩石
+tile.mars.marsdeco.name=§7戴斯块
+tile.mars.marsdungeon.name=§7火星地牢砖
+tile.treasureT2.name=§72阶宝箱
+tile.slimelingEgg.redEgg.name=§7红色黏滑怪蛋
+tile.slimelingEgg.blueEgg.name=§7蓝色黏滑怪蛋
+tile.slimelingEgg.yellowEgg.name=§7黄色黏滑怪蛋
+tile.marsMachine.0.name=§7地形改造机
+tile.marsMachine.1.name=§7冬眠舱
+tile.marsMachine.2.name=§7发射控制器
+tile.marsMachine.4.name=§7气体液化器
+tile.marsMachine.5.name=§7甲烷合成器
+tile.marsMachine.6.name=§7水电解器
+tile.hydrogenPipe.name=§7氢气管道
+tile.sludge.name=§7菌泥
+tile.creeperEgg.name=§7爬行者蛋
+tile.cavernVines.name=§7岩穴藤蔓
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7火星圆石楼梯
+tile.wallGC.mars.name=§7火星圆石墙
+tile.slabGCHalf.marsSlab.name=§7火星圆石台阶
+tile.marsDungeonBricksStairs.name=§7火星地牢砖楼梯
+tile.wallGC.marsBricks.name=§7火星地牢砖墙
+tile.slabGCHalf.marsBricksSlab.name=§7火星地牢砖台阶
+
+# GUI
+gui.choosePlanet.desc.mars=§7宜居#无氧气#重力:38%
+item.deshPickSlime.description.name=§7可用于回收爬行者怪蛋
+gui.message.noEnergy.name=§7电力不足
+gui.message.noWater.name=§7水量不足
+gui.message.noBonemeal.name=§7骨粉不足
+gui.message.noSeeds.name=§7种子不足
+gui.message.noSaplings.name=§7树苗不足
+gui.message.bubbleExp.name=§7气泡正在扩大
+gui.message.noValidBlocks.name=§7气泡内无有效方块
+gui.message.terraforming.name=§7正在进行环境改造
+gui.message.enableTrees.name=§7启用植树
+gui.message.enableGrass.name=§7启用种草
+gui.message.trees.name=§7树
+gui.message.grass.name=§7草
+gui.message.invalidFreq.name=§7无效频率
+gui.message.frequency.name=§7频率
+gui.message.destFrequency.name=§7目标频率
+gui.message.removePad.name=§7移除平板
+gui.message.launchWhen.name=§7发射当
+gui.message.cargoUnloaded.name=§7货物未卸载时
+gui.message.cargoFull.name=§7货物已满
+gui.message.fullyFueled.name=§7燃料已装满
+gui.message.instant.name=§7立即
+gui.message.tenSec.name=§710秒
+gui.message.thirtySec.name=§730秒
+gui.message.oneMin.name=§71分钟
+gui.message.redstoneSig.name=§7红石信号
+gui.message.notSet.name=§7未设置
+gui.message.notEnough.name=§7缺少
+gui.message.success.name=§7成功
+gui.message.zeroWater.name=§7缺水!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7这是发射控制器的$唯一频率
+gui.launchController.desc.1=§7火箭发射频率,火箭前往
+gui.launchController.desc.2=§7发射台是否$在发射时移除
+gui.launchController.desc.3=§7当这个条件达到时,$火箭就会发射
+gui.launchController.desc.4=§7隐藏频率$对其他玩家
+gui.terraformer.desc.0=§7水箱
+
+gui.gasTank.desc.0=§7气体贮存
+gui.gasTankCompressed.desc.0=§7气体贮存(压缩)
+gui.liquidTank.desc.0=§7液罐
+gui.status.nogas.name=§7没有气体
+gui.status.liquefying.name=§7液化中
+gui.status.processing.name=§7合成中
+gui.status.needsCarbon.name=§7需要碳
+gui.status.tankfull.name=§7已满
+gui.status.tanksfull.name=§7已满
+gui.message.lowEnergy.name=§7低耗能
+gui.button.liquefy.name=§7进行
+gui.button.liquefyStop.name=§7中止
+gui.gasInput.desc.0=§7尝试把甲烷气体罐放置在这
+gui.gasInput.desc.1=§7(也许有另外的东西,$比如一个气闸)
+gui.hydrogenInput.desc.0=§7这里需要一个氢气储罐
+gui.hydrogenInput.desc.1=§7或者是一个气闸
+gui.liquidOutput.desc.2=§7液化气储罐
+gui.methaneOutput.desc.2=§7沼气池
+gui.message.withAtmosphere0.name=§7一个星球上有很多
+gui.message.withAtmosphere1.name=§7在大气中
+item.carbonFragments.name=§7碳片
+gui.carbonSlot.desc.0=§7碳片放置于此
+gui.waterBucketSlot.desc=§7水桶放置于此
+
+gui.cargorocket.status.waiting.0=§7正在等待
+gui.cargorocket.status.waiting.1=§7点火
+gui.cargorocket.status.launched.0=§7已经
+gui.cargorocket.status.launched.1=§7发射
+
+gas.carbondioxide.name=§7二氧化碳
+gas.oxygen.name=§7氧气
+gas.nitrogen.name=§7氮气
+
+gui.desc.reinforcedPlateT2.name=§72阶
+dimension.Mars.name=§7火星
+planet.mars=§7火星
+
+tile.treasureT2.description=§72阶宝箱会在火星地牢生成.直到打败最终boss后才能解锁.
+tile.cavernVines.description=§7岩穴藤蔓对生物来说很危险,它会卷住它们并拖向空中.
+tile.slimelingEgg.description=§7黏滑怪蛋,一旦被玩家空手打碎,就会立即孵出一只宠物.
+tile.cryoChamber.description=§7冬眠舱使玩家能在白天睡觉,回复少量生命,但有冷却时间.
+tile.launchController.description=§7发射控制器用于设置发射动作,包括发射条件和终点,连接发射平台以自动发射.
+tile.terraformer.description=§7地形改造机用于给偏远的行星增添一些绿色,在提供正确的材料时生成如草,树和水.
+tile.creeperEgg.description=§7爬行者蛋会在火星地牢生成,爆炸后有惊喜.
+tile.gasLiquefier.description=§7液化气,来自大气或容器.液化甲烷是不错的火箭燃料!
+tile.methaneSynthesizer.description=§7提供氢与碳就能制造出甲烷,进一步加工需要在气体液化机进行.
+tile.electrolyzer.description=§7将水转换成氢气(用于甲烷合成器)与氧气.
+tile.hydrogenPipe.description=§7氢气管道可将氢气从一个机器内部的储气罐传送至另外一个储气罐.
+
+gui.slimeling.chat.wrongPlayer=§7这不是我的黏滑怪!
+gui.cryogenic.chat.cantUse=§7我不能使用这个超过%d秒
+gui.slimeling.name=§7名字
+gui.slimeling.owner=§7拥有者
+gui.slimeling.kills=§7杀死
+gui.slimeling.scale=§7比例
+gui.slimeling.button.sit=§7坐
+gui.slimeling.button.follow=§7跟随
+gui.slimeling.sitting=§7正坐着
+gui.slimeling.following=§7正在跟随
+gui.slimeling.damage=§7攻击伤害
+gui.slimeling.food=§7最喜爱的食物
+
+# SCHEMATICS
+schematic.rocketT3.name=§73阶火箭
+schematic.cargoRocket.name=§7自动货运火箭
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7货运火箭
+entity.GalacticraftMars.CreeperBoss.name=§7进化爬行者之王
+entity.GalacticraftMars.LandingBalloons.name=§7着陆气球
+entity.GalacticraftMars.Slimeling.name=§7黏滑怪
+entity.GalacticraftMars.Sludgeling.name=§7泥浆怪
+entity.GalacticraftMars.SpaceshipT2.name=§72阶火箭
+
+# CONTAINERS
+container.launchcontroller.name=§7发射控制器
+container.tileTerraformer.name=§7地形改造机
+container.marsLander.name=§7着陆气球
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7Mars Dimension ID(火星维度ID)
+gc.configgui.idSchematicRocketT2=§7Tier 2 Rocket Schematic ID(2阶火箭设计图ID)
+gc.configgui.idSchematicCargoRocket=§7Cargo Rocket Schematic ID(货运火箭设计图ID)
+gc.configgui.launchControllerChunkLoad=§7Launch Controller Chunkloading(发射台控制器加载区块)
+gc.configgui.launchControllerAllDims=§7Launch Controller All Dimensions(发射台控制器所有维度)
+
+gc.configgui.planets.title=§7Galacticraft Planets Config(星系行星配置文件)

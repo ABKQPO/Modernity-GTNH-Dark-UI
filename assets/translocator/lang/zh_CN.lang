@@ -1,0 +1,11 @@
+#zh_CN
+
+tile.translocator|0.name=§7物品转运器
+tile.translocator|1.name=§7液体转运器
+tile.craftingGrid.name=§7合成格
+item.translocator:diamondNugget.name=§7钻石粒
+
+translocator.regulate=§7调控
+translocator.filter=§7过滤
+
+key.craftingGrid=§7合成格

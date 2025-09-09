@@ -1,0 +1,97 @@
+omniocular.info.NotHolding=§7使用该指令必须手持一件物品.
+omniocular.info.NotPointing=§7使用该指令必须对准一个实体.
+
+hud.msg.common.LiquidAmount=§7流体存量
+hud.msg.common.StorageFluid=§7流体种类
+hud.msg.common.BurnTime=§7燃烧时间
+
+hud.msg.AWWayofTime.Capacity=§7Capacity
+hud.msg.AWWayofTime.Process=§7Process
+hud.msg.AWWayofTime.ProcessSpeed=§7Process Speed
+hud.msg.AWWayofTime.IOSpeed=§7IO Speed
+hud.msg.AWWayofTime.OrbCapacity=§7Orb Capacity
+hud.msg.AWWayofTime.Sacrifice=§7Sacrifice
+hud.msg.AWWayofTime.SelfSacrifice=§7Self-Sacrifice
+hud.msg.AWWayofTime.RitualID=§7Ritual ID
+hud.msg.AWWayofTime.RitualOwner=§7Ritual Owner
+hud.msg.AWWayofTime.Require=§7Require
+
+hud.msg.Botania.Mana=§7Mana
+hud.msg.Botania.output.0=§7Accepting Mana from Items
+hud.msg.Botania.output.1=§7Sparing Mana to Items
+
+hud.msg.BuildCraftCore.MaxEnergyReceive=§7最大可接收能源
+hud.msg.BuildCraftCore.Recipe=§7Recipe
+hud.msg.BuildCraftCore.Pattern=§7Pattern
+
+hud.msg.EnderIO.Experience=§7Experience
+
+hud.msg.factorization.Count=§7Count
+hud.msg.factorization.Fan=§7Fan
+hud.msg.factorization.Charge=§7Charge
+hud.msg.factorization.Digest=§7Digest
+hud.msg.factorization.Process=§7Process
+hud.msg.factorization.Speed=§7Speed
+
+hud.msg.GalacticraftCore.AirStored=§7Air Stored
+hud.msg.GalacticraftCore.GenerateRate=§7Generate Rate
+hud.msg.GalacticraftCore.CookTime=§7Cook Time
+hud.msg.GalacticraftCore.GasAmount=§7Gas Amount
+hud.msg.GalacticraftCore.LiquidAmount=§7Liquid Amount
+hud.msg.GalacticraftCore.TimeUntilLaunch=§7Time Until Launch
+
+hud.msg.vanilla.BurnTime=§7剩余燃烧时间
+hud.msg.vanilla.Seconds=§7Seconds
+
+hud.msg.witchery.Owner=§7主人
+
+hud.msg.Thaumcraft.Instability=§7注魔不稳定度
+hud.msg.Thaumcraft.VisAmount=§7源质总量
+hud.msg.Thaumcraft.BorePick=§7物品
+hud.msg.Thaumcraft.NodeType=§7节点类型
+hud.msg.Thaumcraft.GolemCore=§7傀儡核心
+
+hud.msg.RotaryCraft.Power=§7功率
+hud.msg.RotaryCraft.Torque=§7扭矩
+hud.msg.RotaryCraft.Speed=§7转速
+
+hud.msg.TConstruct.Layer=§7层数
+hud.msg.TConstruct.Capacity=§7容量
+
+hudmsg.IC2.LavaAmount=§7岩浆储量
+hudmsg.IC2.Charging=§7充能
+hudmsg.IC2.Discharging=§7电池
+
+hud.msg.logisticspipes.off=§7禁止
+hud.msg.logisticspipes.on=§7允许
+
+hud.msg.Mystcraft.position=§7生成于
+hud.msg.Mystcraft.flags=§7效果
+hud.msg.Mystcraft.author=§7拥有者
+
+hud.msg.ReactorCraft.chg=§7Charge
+
+hud.msg.progress=§7工作进程
+hud.msg.temperature=§7温度
+hud.msg.storedsteam=§7蒸汽存量
+hud.msg.storedcreosote=§7杂酚油量
+hud.msg.fuel=§7剩余燃料
+hud.msg.switch.on=§7闭合
+hud.msg.switch.off=§7断开
+hud.msg.state=§7运转情况
+hud.msg.state2=§7通断情况
+hud.msg.energy=§7能量
+hud.msg.currentTickTime=§7加工进度
+hud.msg.TR.energyOutput=§7输出电压
+
+hud.msg.immersiveengineering.state.on=§7运转
+hud.msg.immersiveengineering.state.off=§7停止
+
+hud.msg.greg.power=§7功率
+hud.msg.greg.power.unfix=§7功率(设备未修好)
+hud.msg.greg.requiredsteam=§7蒸汽需求
+hud.msg.greg.output=§7正在生产
+hud.msg.greg.output2=§7副产物
+hud.msg.greg.multifurnaceoutput=§7熔炼物(1-6)
+hud.msg.greg.multifurnaceoutput2=§7熔炼物(7-12)
+hud.msg.greg.multifurnaceoutput3=§7熔炼物(13-18)

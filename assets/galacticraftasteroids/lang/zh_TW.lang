@@ -1,0 +1,155 @@
+﻿# Galacticraft Asteroids Language File =§7Traditional Chinese
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7三階火箭
+item.itemAstroMiner.name=§7Astro Miner ##NEEDS TRANSLATE##
+item.heavyNoseCone.name=§7重型前錐體
+item.compressedTitanium.name=§7致密鈦
+item.ingotTitanium.name=§7鈦錠
+item.shardTitanium.name=§7鈦碎片
+item.shardIron.name=§7鐵碎片
+item.rocketFinsT2.name=§7重型火箭鰭
+item.engineT2.name=§7重型火箭引擎
+item.reinforcedPlateT3.name=§7重型防護板
+item.grapple.name=§7吊鉤
+item.atmosphericValve.name=§7氣閘
+item.thermalCloth.name=§7熱力布料
+item.beamCore.name=§7光束核心
+item.orionDrive.name=§7Orion Drive ##NEEDS TRANSLATE##
+item.tier3.desc=§7三階
+
+# TOOLS
+item.titanium_pickaxe.name=§7鈦金十字鎬
+item.titanium_axe.name=§7鈦金斧
+item.titanium_hoe.name=§7鈦金鋤
+item.titanium_shovel.name=§7鈦金鏟
+item.titanium_sword.name=§7鈦金屬劍
+
+# ARMOR
+item.thermalHelm.name=§7熱力充能頭盔
+item.thermalChestplate.name=§7熱力充能胸甲
+item.thermalLeggings.name=§7熱力充能護腿
+item.thermalBoots.name=§7熱力充能護腿
+item.titanium_helmet.name=§7鈦金屬頭盔
+item.titanium_chestplate.name=§7鈦金屬胸甲
+item.titanium_leggings.name=§7鈦金屬護腿
+item.titanium_boots.name=§7鈦金屬靴
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7甲烷氣體罐
+item.methaneCanister.name=§7裝滿的甲烷氣體罐
+item.canister.gas.name=§7氣體
+item.canister.LOX.partial.name=§7罐裝液態氧
+item.canister.LOX.full.name=§7裝滿的罐裝液態氧
+item.canister.LOX.name=§7液態氧
+item.canister.liquidNitrogen.partial.name=§7灌裝液氮
+item.canister.liquidNitrogen.full.name=§7裝滿的灌裝液態氮
+item.canister.liquidNitrogen.name=§7液態氮
+item.canister.liquidArgon.partial.name=§7液態氬罐
+item.canister.liquidArgon.full.name=§7液態氬罐(滿)
+item.canister.liquidArgon.name=§7液體
+item.emptyGasCanister.name=§7空的氣體罐
+
+# Fluids and gases
+fluid.methane=§7甲烷
+fluid.oxygen=§7氧氣
+fluid.nitrogen=§7氮氣
+fluid.hydrogen=§7氫氣
+fluid.carbondioxide=§7二氧化碳
+fluid.helium=§7氦氣
+fluid.argon=§7氬氣
+fluid.atmosphericgases=§7空氣
+fluid.liquidmethane=§7液態甲烷
+fluid.liquidoxygen=§7液態氧
+fluid.liquidnitrogen=§7液態氮
+fluid.liquidargon=§7液態氬
+fluid.fuel=§7燃油
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7行星巖
+tile.asteroidsBlock.asteroid1.name=§7行星巖
+tile.asteroidsBlock.asteroid2.name=§7行星巖
+tile.asteroidsBlock.oreIron.name=§7鐵礦石
+tile.asteroidsBlock.oreIlmenite.name=§7鈦鐵礦石
+tile.asteroidsBlock.oreAluminum.name=§7鋁礦石
+tile.beamReflector.name=§7能量射束反射器
+tile.beamReceiver.name=§7能量射束接收器
+tile.telepadShort.name=§7短距離傳送臺
+tile.walkway.name=§7通道
+tile.walkwayWire.name=§7通道
+tile.walkwayOxygenPipe.name=§7通道
+tile.treasureT3.name=§7三階寶箱
+tile.denseIce.name=§7Dense Ice ##NEEDS TRANSLATE##
+tile.minerBase.name=§7Astro Miner Base ##NEEDS TRANSLATE##
+
+# GUI
+planet.asteroids=§7小行星
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7這是傳送臺的's$唯一坐標
+gui.telepad.desc.1=§7另一個傳送臺的坐標.$實體會被傳送到那里.
+gui.message.address.name=§7坐標
+gui.message.destAddress.name=§7目標坐標
+gui.message.invalidAddress.name=§7無效的唯一坐標
+gui.message.invalidTargetAddress.name=§7無效的目標坐標
+gui.message.receivingActive.name=§7啟動接受
+gui.message.telepadTooFar.name=§7目標太遠! (最遠 %d)
+gui.message.telepadWrongDim.name=§7目標正在錯誤的維度!
+gui.message.telepadNotFound.name=§7未找到目標!
+gui.message.sendingActive.name=§7啟動發送
+gui.message.range.name=§7範圍: %dm
+gui.message.notEnoughEnergy.name=§7能量不足
+gui.message.targetNoEnergy.name=§7目標沒有足夠的能量
+gui.message.grapple.fail=§7I'll need some string if I want to throw that Grapple hook! ##NEEDS TRANSLATE##
+gui.message.astroMiner.fail=§7This base already has an Astro Miner! ##NEEDS TRANSLATE##
+gui.message.astroMiner1.fail=§7The docking area is blocked by: ##NEEDS TRANSLATE##
+gui.message.astroMiner1A.fail=§7The Astro Miner's route is blocked by: ##NEEDS TRANSLATE##
+gui.message.astroMiner2.fail=§7That would be one Astro Miner too many! ##NEEDS TRANSLATE##
+gui.message.astroMiner3.fail=§7The Astro Miner's base was removed! ##NEEDS TRANSLATE##
+gui.message.astroMiner4.fail=§7The Astro Miner ran out of energy and cannot get back to base! ##NEEDS TRANSLATE##
+gui.message.astroMiner5.fail=§7The Astro Miner's route into its base seems to be blocked! ##NEEDS TRANSLATE##
+gui.message.astroMiner6.fail=§7The Astro Miner has finished mining the area, and will now stop! ##NEEDS TRANSLATE##
+gui.message.astroMiner7.fail=§7There's nothing for an Astro Miner to mine on a space station! ##NEEDS TRANSLATE##
+gui.message.astroMiner8.fail=§7A second Astro Miner was detected at the same base, the first will now freeze. ##NEEDS TRANSLATE##
+gui.button.recall.name=§7Recall ##NEEDS TRANSLATE##
+gui.miner.outOfRange=§7Out of range ##NEEDS TRANSLATE##
+gui.miner.offline=§7Offline ##NEEDS TRANSLATE##
+gui.miner.stuck=§7Stuck at: ##NEEDS TRANSLATE##
+gui.miner.docked=§7Docked ##NEEDS TRANSLATE##
+gui.miner.travelling=§7Travelling ##NEEDS TRANSLATE##
+gui.miner.mining=§7Mining ##NEEDS TRANSLATE##
+gui.miner.returning=§7Returning ##NEEDS TRANSLATE##
+gui.miner.docking=§7Docking ##NEEDS TRANSLATE##
+gui.miner.mined=§7Mined ##NEEDS TRANSLATE##
+tile.treasureT3.description=§7Tier 3 Treasure Chests are currently unused. ##NEEDS TRANSLATE##
+tile.walkway.description=§7Walkways are used for decorative purposes, used for connecting blocks while maintaining a space theme. ##NEEDS TRANSLATE##
+tile.walkwayAluminumWire.description=§7Aluminum Wire Walkways are used for running wire underneath a fully solid walkable surface. ##NEEDS TRANSLATE##
+tile.walkwayOxygenPipe.description=§7Oxygen Pipe Walkways are used for running pipes underneath a fully solid walkable surface. ##NEEDS TRANSLATE##
+tile.beamReflector.description=§7Beam Reflectors are used to redirect energy beams from source to destination. Can be right-clicked to cycle through targets. ##NEEDS TRANSLATE##
+tile.beamReceiver.description=§7Beam Receivers are connected to energy machine input and output, to transfer energy using beams. ##NEEDS TRANSLATE##
+tile.telepadShort.description=§7Short Range Telepads are used to transfer players and other living creatures short distances (250 Blocks) when linked to other telepads. ##NEEDS TRANSLATE##
+tile.minerBase.description=§7The Astro Miner Base is the docking point for an Astro Miner.  It's big ... try making a 2 x 2 x 2 cube with these. ##NEEDS TRANSLATE##
+schematic.astroMiner.name=§7Astro Miner ##NEEDS TRANSLATE##
+schematic.ionDrive.name=§7Ion Drive ##NEEDS TRANSLATE##
+
+# Schematics
+
+# Entity
+entity.GalacticraftMars.SmallAsteroidGC.name=§7小行星
+entity.GalacticraftMars.GrappleHookGC.name=§7抓升鉤
+entity.GalacticraftMars.Tier3RocketGC.name=§7三階火箭
+entity.GalacticraftMars.EntryPodAsteroids.name=§7Entry Pod ##NEEDS TRANSLATE##
+entity.GalacticraftMars.AstroMiner.name=§7Astro Miner ##NEEDS TRANSLATE##
+
+# Container
+container.shortRangeTelepad.name=§7短距離傳送臺
+container.entryPod.name=§7Entry Pod ##NEEDS TRANSLATE##
+gc.configgui.dimensionIDAsteroids=§7Asteroids Dimension ID
+gc.configgui.idEntitySmallAsteroid=§7Small Asteroid Entity ID
+gc.configgui.idEntityGrappleHook=§7Grapple Hook Entity ID
+gc.configgui.idEntityTier3Rocket=§7Tier 3 Rocket Entity ID
+gc.configgui.idEntityEntryPod=§7Entry Pod Entity ID
+gc.configgui.idSchematicRocketT3=§7Tier 3 Rocket Schematic ID
+gc.configgui.disableGalacticraftHelium=§7Disable Helium gas registration
+gc.configgui.astroMinersMax=§7Maximum number of Astro Miners per player

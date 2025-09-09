@@ -1,0 +1,69 @@
+bq_standard.task.retrieval=§7检索任务
+bq_standard.task.optional_retrieval=§7可选任务
+bq_standard.task.crafting=§7合成任务
+bq_standard.task.hunt=§7击杀任务
+bq_standard.task.scoreboard=§7记分板任务
+bq_standard.task.location=§7目的地任务
+bq_standard.task.fluid=§7流体任务
+bq_standard.task.meeting=§7会见NPC任务
+bq_standard.task.xp=§7经验任务
+bq_standard.task.block_break=§7破坏方块任务
+bq_standard.task.checkbox=§7复选框任务
+bq_standard.task.advancement=§7推进任务
+bq_standard.task.tame=§7驯养任务
+bq_standard.task.interact_item=§7物品交互任务
+bq_standard.task.interact_entity=§7实体交互任务
+bq_standard.task.trigger=§7标准触发任务
+
+bq_standard.reward.choice=§7选择奖励
+bq_standard.reward.item=§7物品奖励
+bq_standard.reward.scoreboard=§7记分板奖励
+bq_standard.reward.command=§7命令奖励
+bq_standard.reward.xp=§7经验奖励
+bq_standard.reward.recipe=§7解锁合成表奖励
+bq_standard.reward.questcompletion=§7完成任务奖励
+
+bq_standard.title.edit_hunt=§7编辑击杀任务
+bq_standard.title.edit_meeting=§7编辑会见NPC任务
+bq_standard.title.edit_loot_groups=§7编辑战利品组
+bq_standard.title.edit_loot_entries=§7编辑战利品条目
+bq_standard.title.edit_retrieval=§7编辑检索任务
+bq_standard.title.edit_crafting=§7编辑合成任务
+bq_standard.title.edit_scoreboard=§7编辑记分板任务
+bq_standard.title.edit_advancement=§7编辑推进任务
+bq_standard.title.edit_tame=§7编辑驯养任务
+
+bq_standard.btn.select_mob=§7选择生物
+bq_standard.btn.add_remove_drops=§7添加/删除掉落
+bq_standard.btn.edit_items=§7添加/删除物品
+bq_standard.btn.consume=§7消耗: %s
+
+bq_standard.gui.amount=§7数量
+bq_standard.gui.kill=§7击杀 %s
+bq_standard.gui.location=§7目的地: %s
+bq_standard.gui.distance=§7距离: %s
+bq_standard.gui.dimension=§7维度: %s
+bq_standard.gui.biome=§7生物群系: %s
+bq_standard.gui.structure=§7结构: %s
+bq_standard.gui.found=§7发现!
+bq_standard.gui.undiscovered=§7未被发现
+bq_standard.gui.condition=§7条件: %s
+bq_standard.gui.meet=§7与 %s 会见
+bq_standard.gui.weight=§7权重
+bq_standard.gui.experience=§7经验
+bq_standard.gui.tame=§7驯养 %s
+bq_standard.gui.questcompletion=§7任务完成
+
+bq_standard.importer.dummy.name=§7Dummy Importer
+bq_standard.importer.dummy.desc=§7Does nothing but throw UnsupportedOperationException.
+bq_standard.importer.hqm_bag.name=§7HQM奖励袋导入
+bq_standard.importer.hqm_bag.desc=§7导入以json格式导出的HQM奖励袋.
+bq_standard.importer.hqm_quest.name=§7HQM任务导入
+bq_standard.importer.hqm_quest.desc=§7导入以json格式导出的HQM任务. 由于HQM任务在导出后被索引的奇怪特性, 可能会在具有重复名称或条件解锁的任务之间发生错误.
+
+item.bq_standard.loot_chest.name=§7奖励箱
+
+bq_standard.tooltip.fixed_loot=§7奖励设置: %s
+bq_standard.tooltip.fixed_loot_size=§7包含 %s 物品
+bq_standard.tooltip.loot_table=§7奖励列表: %s
+bq_standard.tooltip.loot_chest=§7稀有度: %s

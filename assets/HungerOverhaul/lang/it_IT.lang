@@ -1,0 +1,29 @@
+potion.wellfedPotion=§7Ben nutrito
+potion.newSlowdownPotionHO=§7Rallentato
+
+# tooltip strings
+hungeroverhaul.crop.grows.best.in=§7Le piante crescono meglio  in:
+
+# these should all be in lowercase
+hungeroverhaul.hearty=§7%s abbondante
+hungeroverhaul.wholesome=§7%s salutare
+hungeroverhaul.nourishing=§7%s nutriente
+hungeroverhaul.unfulfilling=§7%s inadempiente
+hungeroverhaul.morsel=§7boccone
+hungeroverhaul.snack=§7spuntino
+hungeroverhaul.lightmeal=§7pasto leggero
+hungeroverhaul.meal=§7pasto
+hungeroverhaul.largemeal=§7pasto grande
+hungeroverhaul.feast=§7banchetto
+
+# if necessary, special cases for the meal descriptors can be handled by
+# defining combined strings like so (remove the #)
+#hungeroverhaul.hearty.largemeal=§7hearty large meal
+
+# health/hunger status text
+hungeroverhaul.dying=§7Morendo
+hungeroverhaul.injured=§7Ferito
+hungeroverhaul.hurt=§7Dolorante
+hungeroverhaul.starving=§7Molto affamato
+hungeroverhaul.hungry=§7Affamato
+hungeroverhaul.peckish=§7Leggermente affamato

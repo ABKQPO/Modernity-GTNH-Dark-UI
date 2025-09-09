@@ -1,0 +1,29 @@
+# Tooltip strings
+spiceoflife.tooltip.nutritional.value=§7Valore nutrizionale:
+spiceoflife.tooltip.eaten.recently=§7Mangiato %s sugli ultimi %d pasti
+spiceoflife.tooltip.eaten.recently.hunger=§7Mangiato %s su %s fame
+spiceoflife.tooltip.not.eaten.recently=§7Non mangiato recentemente
+spiceoflife.tooltip.food.until.enabled.1=§7Diminuzione dell'effetto inizia dopo
+spiceoflife.tooltip.food.until.enabled.2=§7aver mangiato qualunque pasto %d %s
+spiceoflife.tooltip.times.singular=§7volta
+spiceoflife.tooltip.times.plural=§7volte
+spiceoflife.tooltip.hunger=§7fame
+spiceoflife.tooltip.food.group=§7Gruppo alimentare:
+spiceoflife.tooltip.to.close.food.container=§7Click con shift per chiudere
+spiceoflife.tooltip.to.open.food.container=§7Click con shift per aprire
+spiceoflife.tooltip.can.spill.food=§7Cibo può uscire mentre è aperto
+
+# Quantity descriptors
+spiceoflife.quantity.one.time=§7una volta
+spiceoflife.quantity.two.times=§7due volte
+spiceoflife.quantity.x.times=§7%d volte
+
+# Gui
+spiceoflife.gui.alltime.food.eaten=§7Tutti i cibi mangiati
+spiceoflife.gui.no.food.history.yet=§7Storia alimentare non compare finchè la diminuzione inizia
+spiceoflife.gui.no.recent.food.eaten=§7Nessun cibo mangiato recentemente
+
+# Items
+item.spiceoflife.bookfoodjournal.name=§7Diario alimentare
+item.spiceoflife.lunchbox.name=§7Portapranzo
+item.spiceoflife.lunchbag.name=§7Sacchetto con pranzo

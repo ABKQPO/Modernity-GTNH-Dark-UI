@@ -1,0 +1,19 @@
+# Items
+item.ironchestminecarts.minecart_chest_iron.name=§7Вагонетка с железным сундуком
+item.ironchestminecarts.minecart_chest_gold.name=§7Вагонетка с золотым сундуком
+item.ironchestminecarts.minecart_chest_diamond.name=§7Вагонетка с алмазным сундуком
+item.ironchestminecarts.minecart_chest_copper.name=§7Вагонетка с медным сундуком
+item.ironchestminecarts.minecart_chest_steel.name=§7Вагонетка с жестокий сундуком
+item.ironchestminecarts.minecart_chest_crystal.name=§7Вагонетка с кристальным сундуком
+item.ironchestminecarts.minecart_chest_obsidian.name=§7Вагонетка с обсидиановым сундуком
+item.ironchestminecarts.minecart_chest_dirtchest9000.name=§7Вагонетка с DirtChest9000
+
+# Entities
+entity.ironchestminecarts.minecart_chest_iron.name=§7Вагонетка с железным сундуком
+entity.ironchestminecarts.minecart_chest_gold.name=§7Вагонетка с золотым сундуком
+entity.ironchestminecarts.minecart_chest_diamond.name=§7Вагонетка с алмазным сундуком
+entity.ironchestminecarts.minecart_chest_copper.name=§7Вагонетка с медным сундуком
+entity.ironchestminecarts.minecart_chest_steel.name=§7Вагонетка с жестокий сундуком
+entity.ironchestminecarts.minecart_chest_crystal.name=§7Вагонетка с кристальным сундуком
+entity.ironchestminecarts.minecart_chest_obsidian.name=§7Вагонетка с обсидиановым сундуком
+entity.ironchestminecarts.minecart_chest_dirtchest9000.name=§7Вагонетка с DirtChest9000

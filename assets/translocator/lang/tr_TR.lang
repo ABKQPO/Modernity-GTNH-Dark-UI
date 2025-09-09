@@ -1,0 +1,9 @@
+tile.translocator|0.name=§7Item Taşıyıcı
+tile.translocator|1.name=§7Sıvı Taşıyıcı
+tile.craftingGrid.name=§7Üretim Izgarası
+item.translocator:diamondNugget.name=§7Elmas Parçası
+
+translocator.regulate=§7Düzenleme
+translocator.filter=§7Filtre
+
+key.craftingGrid=§7Üretim Izgarası

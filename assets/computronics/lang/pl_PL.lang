@@ -1,0 +1,24 @@
+tile.computronics.ironNoteBlock.name=§7Żelazny blok dźwiękowy
+tile.computronics.tapeDrive.name=§7Magnetofon
+tile.computronics.camera.name=§7Kamera
+tile.computronics.chatBox.name=§7Blok Czatu
+tile.computronics.chatBox.creative.name=§7Kreatywny Blok Czatu
+tile.computronics.sorter.name=§7Sortownik
+tile.computronics.cipher.name=§7Blok Szyfru
+tile.computronics.radar.name=§7Radar
+tile.computronics.eepromReader.name=§7Czytnik EEPROM
+
+tooltip.computronics.chatBox.creative=§7NSA w pudełku!
+tooltip.computronics.tape.length=§7Długość: %s minut
+tooltip.computronics.tape.unnamed=§7Kaseta bez nazwy
+tooltip.computronics.tape.none=§7Brak kasety
+tooltip.computronics.tape.balanced=§7Zbalansowane!
+
+item.computronics.robot_upgrade_camera.name=§7Rozszerzenie: Kamera
+item.computronics.robot_upgrade_chatbox.name=§7Rozszerzenie: Czat
+item.computronics.part_tape_track.name=§7Obudowa kasety
+item.computronics.tape.name=§7Kaseta magnetofonowa
+
+itemGroup.tabComputronics=§7Computronics
+
+chat.computronics.cipher.locked=§7Ten Blok Szyfru jest zablokowany! Nie możesz go otworzyć.

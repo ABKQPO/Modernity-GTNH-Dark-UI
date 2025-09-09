@@ -1,0 +1,92 @@
+item.wood_sliding_door.name=§7Holz-Schiebetür
+item.iron_sliding_door.name=§7Eisen-Schiebetür
+item.jail_door.name=§7Gefängnistür
+item.laboratory_door.name=§7Labortür
+item.factory_door.name=§7Fabriktür
+item.custom_door.name=§7Eigene Tür
+item.shoji_door.name=§7Shoji-Schiebetür
+item.rustyHatch.name=§7Rostige Luke
+item.rustyHandle.name=§7Rostiger Griff
+item.curtain.name=§7Gardine
+item.carriage_door.name=§7Kutschentor
+item.forcefieldItem.name=§7Kraftfeldregler
+
+tile.player_sensor.name=§7Spielersensor
+tile.vanishing_block_wood.name=§7Schwindender Holzrahmen
+tile.vanishing_block_iron.name=§7Schwindender Eisenrahmen
+tile.vanishing_block_gold.name=§7Schwindender Goldrahmen
+tile.vanishing_block_diamond.name=§7Schwindender Diamantrahmen
+tile.block_mixer.name=§7Blockmischer
+tile.mixed_block.name=§7Gemischter Block
+tile.garage_door.name=§7Garagentor
+tile.jail_door.name=§7Gefängnistür
+tile.laboratory_door.name=§7Labortür
+tile.factory_door.name=§7Fabriktür
+tile.door_factory.name=§7Türfabrik
+tile.custom_door.name=§7Eigene Tür
+tile.shoji_door.name=§7Shoji-Schiebetür
+tile.wood_sliding_door.name=§7Holz-Schiebetür
+tile.iron_sliding_door.name=§7Eisen-Schiebetür
+tile.rustyHatch.name=§7Rostige Luke
+tile.curtain.name=§7Gardine
+tile.carriage_door.name=§7Wagentor
+tile.forcefieldDoor.name=§7Forcefield
+tile.rustyLadder.name=§7Rostige Leiter
+ 
+malisisdoors.command.usage=§7Benutze /malisisdoors [config|version] (Konfiguration/Version)
+ 
+config.title=§7MalisisDoors - Konfiguration
+ 
+config.modifyVanillaDoors=§7Aktiviere Vanilla-Verbesserungen
+config.modifyVanillaDoors.comment1=§7Aktiviert Animationen für Türen, Zaungatter und Falltüren.
+config.modifyVanillaDoors.comment2=§7Dies ersetzt die Türen komplett, daher können Konflikte mit anderen Mods auftreten.
+ 
+config.enableMixedBlocks=§7Aktiviere den Blockmischer sowie gemischte Blöcke
+ 
+config.simpleMixedBlockRendering=§7Einfaches Rendern von gemischten Blöcken
+config.simpleMixedBlockRendering.comment1=§7Aktiviert weniger attraktives Rendern gemischter Blöcke.
+config.simpleMixedBlockRendering.comment2=§7Aktiviere diese Option, wenn du Z-Fighting oder andere Rendering-Probleme erlebst.
+ 
+config.enableVanishingBlocks=§7Aktiviere Schwindende Rahmen
+ 
+config.enableVanishingGlitch=§7Aktiviere Wackeln von Schwindenden Rahmen
+config.enableVanishingGlitch.comment=§7Rahmen werden kurzzeitig instabil und fallen aus unserer Dimension.
+ 
+config.vanishingGlitchChance=§7Häufigkeit des Wackelns von verschw. Rahmen
+config.vanishingGlitchChance.comment=§7Wie oft werden die Rahmen instabil.
+ 
+door_movement.rotating_door=§7Aufschwingend
+door_movement.sliding_door=§7Auflgeitend
+door_movement.sliding_up_door=§7Aufgleitend (hoch)
+door_movement.sliding_split_door=§7Aufgleitend (hoch und runter)
+door_movement.rotating_split_door=§7Aufklappend
+door_movement.vault_door=§7Tresor
+door_movement.sliding_4ways=§7Aufgleitend (4 Richtungen)
+door_movement.rotating_4ways=§7Aufklappend (4 Richtungen)
+door_movement.rotate_around=§7
+door_movement.rotate_slide=§7Aufklappen und -gleiten
+door_movement.rotate_place=§7Aufklappen und Ersetzen
+door_movement.vanishing_door=§7Schwindend
+ 
+gui.door_factory.tab_properties=§7Eigenschaften
+gui.door_factory.tab_materials=§7Materialien
+gui.door_factory.door_movement=§7Bewegung
+gui.door_factory.door_open_time=§7Öffnungszeit
+gui.door_factory.door_require_redstone=§7Benötigt Redstone
+gui.door_factory.door_double_door=§7Doppeltür
+gui.door_factory.door_sound=§7Geräusch
+gui.door_factory.door_sound.silent_door=§7Lautlos
+gui.door_factory.door_sound.vanilla_door=§7Vanilla-Tür
+gui.door_factory.door_sound.glass_door=§7Glasstür
+gui.door_factory.door_sound.jail_door=§7Gefängnistür
+gui.door_factory.door_sound.pneumatic_door=§7Pneumatiktür
+gui.door_factory.door_sound.shoji_door=§7Shoji-Schiebetür
+gui.door_factory.door_sound.carriage_door=§7Wagentor
+ 
+gui.door_factory.frame_type=§7Rahmenart
+gui.door_factory.top_material=§7Material oben
+gui.door_factory.bottom_material=§7Material unten
+gui.door_factory.create_door=§7Tür bauen
+
+gui.block_mixer.simple_rendering=§7Einfaches zeichnen rendern
+gui.block_mixer.simple_rendering_tooltip=§7Blöcke benötigen ein Chunk-Update um den Effekt zu sehen.

@@ -1,0 +1,991 @@
+﻿
+itemGroup.tabHarvestCraft=§7Misc. do HarvestCraft
+itemGroup.tabHarvestCraft2=§7Plantas do HarvestCraft
+itemGroup.tabHarvestCraft3=§7Comida do HarvestCraft
+
+# Tooltips
+tooltip.harvestcraft.item.queenbeeItem=§7Apiária: Favo de Mel, Favo de Cera, Larvas\nGrade de Crafting: Geléia Real com 0 Durabilidade
+
+# Blocks
+tile.cuttingboard.name=§7Tábua de Cortar
+tile.pot.name=§7Panela
+
+tile.beehive.name=§7Colmeia
+tile.apiary.name=§7Apiária
+tile.presser.name=§7Pressionador
+tile.grinder.name=§7Moedor
+
+sink_0.name=§7Barril de Água
+sink_1.name=§7Bacia de Pedra
+sink_2.name=§7Jarro de Argila
+sink_3.name=§7Poço de Tijolos
+
+tile.salt.name=§7Minério de Sal
+
+tile.market.name=§7Mercado
+
+tile.oven.name=§7Forno
+
+tile.berrygarden.name=§7Jardim de Bagas
+tile.desertgarden.name=§7Jardim de Deserto
+tile.gourdgarden.name=§7Jardim de Cabaças
+tile.grassgarden.name=§7Jardim de Grama
+tile.groundgarden.name=§7Jardim de Chão
+tile.herbgarden.name=§7Jardim de Ervas
+tile.leafygarden.name=§7Jardim Folhoso
+tile.mushroomgarden.name=§7Jardim de Cogumelos
+tile.stalkgarden.name=§7Jardim de Caules
+tile.textilegarden.name=§7Jardim Têxtil
+tile.tropicalgarden.name=§7Jardim Tropical
+tile.watergarden.name=§7Jardim de Água
+
+tile.pamAlmond.name=§7Amêndoa
+tile.pamApple.name=§7Maçã
+tile.pamApricot.name=§7Damasco
+tile.pamAvocado.name=§7Abacate
+tile.pamBanana.name=§7Banana
+tile.pamCashew.name=§7Caju
+tile.pamCherry.name=§7Cereja
+tile.pamChestnut.name=§7Castanha
+tile.pamCinnamon.name=§7Canela
+tile.pamCoconut.name=§7Coco
+tile.pamDate.name=§7Tâmara
+tile.pamDragonfruit.name=§7Pitaia
+tile.pamDurian.name=§7Durião
+tile.pamFig.name=§7Figo
+tile.pamGrapefruit.name=§7Toranja
+tile.pamLemon.name=§7Limão-siciliano
+tile.pamLime.name=§7Limão
+tile.pamMaple.name=§7Bordo
+tile.pamMango.name=§7Manga
+tile.pamNutmeg.name=§7Noz-moscada
+tile.pamOlive.name=§7Azeitona
+tile.pamOrange.name=§7Laranja
+tile.pamPapaya.name=§7Mamão
+tile.pamPaperbark.name=§7Árvore-do-chá
+tile.pamPeach.name=§7Pêssego
+tile.pamPear.name=§7Pêra
+tile.pamPecan.name=§7Noz-pecã
+tile.pamPeppercorn.name=§7Pimenta-do-reino
+tile.pamPersimmon.name=§7Caqui
+tile.pamPistachio.name=§7Pistache
+tile.pamPlum.name=§7Ameixa
+tile.pamPomegranate.name=§7Romã
+tile.pamStarfruit.name=§7Carambola
+tile.pamVanillabean.name=§7Fava de Baunilha
+tile.pamWalnut.name=§7Noz
+
+tile.pamalmondSapling.name=§7Muda de Amêndoa
+tile.pamappleSapling.name=§7Muda de Maçã
+tile.pamapricotSapling.name=§7Muda de Damasco
+tile.pamavocadoSapling.name=§7Muda de Abacate
+tile.pambananaSapling.name=§7Muda de Banana
+tile.pamcashewSapling.name=§7Muda de Caju
+tile.pamcherrySapling.name=§7Muda de Cereja
+tile.pamchestnutSapling.name=§7Muda de Castanha
+tile.pamcinnamonSapling.name=§7Muda de Canela
+tile.pamcoconutSapling.name=§7Muda de Coco
+tile.pamdateSapling.name=§7Muda de Tâmara
+tile.pamdragonfruitSapling.name=§7Muda de Pitaia
+tile.pamdurianSapling.name=§7Muda de Durião
+tile.pamfigSapling.name=§7Muda de Figo
+tile.pamgrapefruitSapling.name=§7Muda de Toranja
+tile.pamlemonSapling.name=§7Muda de Limão-siciliano
+tile.pamlimeSapling.name=§7Muda de Limão
+tile.pammapleSapling.name=§7Muda de Bordo
+tile.pammangoSapling.name=§7Muda de Manga
+tile.pamnutmegSapling.name=§7Muda de Noz-moscada
+tile.pamoliveSapling.name=§7Muda de Azeitona
+tile.pamorangeSapling.name=§7Muda de Laranja
+tile.pampapayaSapling.name=§7Muda de Mamão
+tile.pampaperbarkSapling.name=§7Muda de Árvore-do-chá
+tile.pampeachSapling.name=§7Muda de Pêssego
+tile.pampearSapling.name=§7Muda de Pêra
+tile.pampecanSapling.name=§7Muda de Noz-pecã
+tile.pampeppercornSapling.name=§7Muda de Pimenta-do-reino
+tile.pampersimmonSapling.name=§7Muda de Caqui
+tile.pampistachioSapling.name=§7Muda de Pistache
+tile.pamplumSapling.name=§7Muda de Ameixa
+tile.pampomegranateSapling.name=§7Muda de Romã
+tile.pamstarfruitSapling.name=§7Muda de Carambola
+tile.pamvanillabeanSapling.name=§7Muda de Baunilha
+tile.pamwalnutSapling.name=§7Muda de Noz
+
+tile.pamblackberryCrop.name=§7Pé de Amora
+tile.pamblueberryCrop.name=§7Pé de Mirtilo
+tile.pamcandleberryCrop.name=§7Candleberry Crop ####
+tile.pamraspberryCrop.name=§7Pé de Framboesa
+tile.pamstrawberryCrop.name=§7Pé de Morango
+tile.pamcactusfruitCrop.name=§7Pé de Tuna
+tile.pamasparagusCrop.name=§7Pé de Aspargo
+tile.pambarleyCrop.name=§7Pé de Cevada
+tile.pamoatsCrop.name=§7Pé de Aveia
+tile.pamryeCrop.name=§7Pé de Centeio
+tile.pamcornCrop.name=§7Pé de Milho
+tile.pambambooshootCrop.name=§7Pé de Bambu
+tile.pamcantaloupeCrop.name=§7Pé de Melão
+tile.pamcucumberCrop.name=§7Pé de Pepino
+tile.pamwintersquashCrop.name=§7Pé de Moranga
+tile.pamzucchiniCrop.name=§7Pé de Abobrinha
+tile.pambeetCrop.name=§7Pé de Beterrada
+tile.pamonionCrop.name=§7Pé de Cebola
+tile.pamparsnipCrop.name=§7Pé de Chirívia
+tile.pampeanutCrop.name=§7Pé de Amendoim
+tile.pamradishCrop.name=§7Pé de Rabanete
+tile.pamrutabagaCrop.name=§7Pé de Couve-nabo
+tile.pamsweetpotatoCrop.name=§7Pé de Batata Doce
+tile.pamturnipCrop.name=§7Pé de Nabo
+tile.pamrhubarbCrop.name=§7Pé de Ruibarbo
+tile.pamceleryCrop.name=§7Pé de Aipo
+tile.pamgarlicCrop.name=§7Pé de Gengibre
+tile.pamgingerCrop.name=§7Pé de Gengibre
+tile.pamspiceleafCrop.name=§7Pé de Louro
+tile.pamtealeafCrop.name=§7Pé de Folha de Chá
+tile.pamcoffeebeanCrop.name=§7Pé de Café
+tile.pammustardseedsCrop.name=§7Pé de Mostarda
+tile.pambroccoliCrop.name=§7Pé de Brócolis
+tile.pamcauliflowerCrop.name=§7Pé de Couve-flor
+tile.pamleekCrop.name=§7Pé de Alho-poró
+tile.pamlettuceCrop.name=§7Pé de Alface
+tile.pamscallionCrop.name=§7Pé de Cebolinha
+tile.pamartichokeCrop.name=§7Pé de Alcachofra
+tile.pambrusselsproutCrop.name=§7Pé de Couve de Bruxelas
+tile.pamcabbageCrop.name=§7Pé de Repolho
+tile.pamspinachCrop.name=§7Pé de Espinafre
+tile.pamwhitemushroomCrop.name=§7Pé de Cogumelo Branco
+tile.pambeanCrop.name=§7Pé de Feijão
+tile.pamsoybeanCrop.name=§7Pé de Soja
+tile.pambellpepperCrop.name=§7Pé de Pimentão
+tile.pamchilipepperCrop.name=§7Pé de Pimenta Chili
+tile.pameggplantCrop.name=§7Pé de Berinjela
+tile.pamokraCrop.name=§7Pé de Quiabo
+tile.pampeasCrop.name=§7Pé de Ervilha
+tile.pamtomatoCrop.name=§7Pé de Tomate
+tile.pamcottonCrop.name=§7Pé de Algodão
+tile.pampineappleCrop.name=§7Pé de Abacaxi
+tile.pamgrapeCrop.name=§7Pé de Uva
+tile.pamkiwiCrop.name=§7Pé de Kiwi
+tile.pamcranberryCrop.name=§7Pé de Oxicoco
+tile.pamriceCrop.name=§7Pé de Arroz
+tile.pamseaweedCrop.name=§7Pé de Alga Marinha
+
+tile.pamcandleDeco1.name=§7Vela Branca
+tile.pamcandleDeco2.name=§7Vela Laranja
+tile.pamcandleDeco3.name=§7Vela Magenta
+tile.pamcandleDeco4.name=§7Vela Azul Claro
+tile.pamcandleDeco5.name=§7Vela Amarela
+tile.pamcandleDeco6.name=§7Vela Lima
+tile.pamcandleDeco7.name=§7Vela Rosa
+tile.pamcandleDeco8.name=§7Vela Cinza Escuro
+tile.pamcandleDeco9.name=§7Vela Cinza Claro
+tile.pamcandleDeco10.name=§7Vela Ciano
+tile.pamcandleDeco11.name=§7Vela Roxa
+tile.pamcandleDeco12.name=§7Vela Azul
+tile.pamcandleDeco13.name=§7Vela Marrom
+tile.pamcandleDeco14.name=§7Vela Verde
+tile.pamcandleDeco15.name=§7Vela Vermelha
+tile.pamcandleDeco16.name=§7Vela Preta
+
+tile.pamcarrotCake.name=§7Bolo de Cenoura
+tile.pamcheeseCake.name=§7Cheesecake
+tile.pamcherrycheeseCake.name=§7Cheesecake de Cereja
+tile.pampineappleupsidedownCake.name=§7Bolo de Abacaxi de Cabeça para Baixo
+tile.pamchocolatesprinkleCake.name=§7Bolo com Granulado de Chocolate
+tile.pamredvelvetCake.name=§7Bolo Veludo Vermelhho
+tile.pamlamingtonCake.name=§7Lamington
+tile.pampavlovaCake.name=§7Pavlova
+tile.pamholidayCake.name=§7Bolo de Fim de Ano
+
+# Items
+item.cottonItem.name=§7Algodão
+item.wovencottonItem.name=§7Malha de Algodão
+item.cottonseedItem.name=§7Semente de Algodão
+
+item.candleberryItem.name=§7Tungue
+item.candleberryseedItem.name=§7Semente de Tungue
+item.waxItem.name=§7Cera de Tungue
+
+item.hardenedleatherhelmItem.name=§7Capacete de Couro Endurecido
+item.hardenedleatherchestItem.name=§7Peitoral de Couro Endurecido
+item.hardenedleatherleggingsItem.name=§7Perneiras de Couro Endurecido
+item.hardenedleatherbootsItem.name=§7Botas de Couro Endurecido
+item.hardenedleatherItem.name=§7Couro Endurecido
+
+item.queenbeeItem.name=§7Abelha Rainha
+item.waxcombItem.name=§7Favo de Cera
+item.honeycombItem.name=§7Favo de Mel
+item.honeyItem.name=§7Mel
+item.beeswaxItem.name=§7Cera de Abelha
+item.royaljellyItem.name=§7Geléia Real
+item.grubItem.name=§7Larva de Abelha
+
+item.potItem.name=§7Panela
+item.skilletItem.name=§7Frigideira
+item.saucepanItem.name=§7Caçarola
+item.bakewareItem.name=§7Assadeira
+item.cuttingboardItem.name=§7Tábua de Cortar
+item.mortarandpestleItem.name=§7Pilão
+item.mixingbowlItem.name=§7Tigela de Mistura
+item.juicerItem.name=§7Espremedor
+
+item.asparagusItem.name=§7Aspargo
+item.asparagusseedItem.name=§7Semente de Aspargo
+item.grilledasparagusItem.name=§7Aspargo Grelhado
+item.barleyItem.name=§7Cevada
+item.barleyseedItem.name=§7Semente de Cevada
+item.beanItem.name=§7Feijões
+item.beanseedItem.name=§7Semente de Feijão
+item.beetItem.name=§7Beterraba
+item.beetseedItem.name=§7Semente de Beterraba
+item.broccoliItem.name=§7Brócoli
+item.broccoliseedItem.name=§7Semente de Brócoli
+item.cauliflowerItem.name=§7Couve-flor
+item.cauliflowerseedItem.name=§7Semente de Couve-flor
+item.celeryItem.name=§7Aipo
+item.celeryseedItem.name=§7Semente de Aipo
+item.cranberryItem.name=§7Oxicoco
+item.cranberryseedItem.name=§7Semente de Oxicoco
+item.garlicItem.name=§7Alho
+item.garlicseedItem.name=§7Semente de Alho
+item.gingerItem.name=§7Gengibre
+item.gingerseedItem.name=§7Gengibre
+item.leekItem.name=§7Alho-poró
+item.leekseedItem.name=§7Semente de Alho-poró
+item.lettuceItem.name=§7Alface
+item.lettuceseedItem.name=§7Semente de Alface
+item.oatsItem.name=§7Aveia
+item.oatsseedItem.name=§7Semente de Aveia
+item.onionItem.name=§7Cebola
+item.onionseedItem.name=§7Semente de Cebola
+item.parsnipItem.name=§7Chirívia
+item.parsnipseedItem.name=§7Semente de Chirívia
+item.peanutItem.name=§7Amendoim
+item.peanutseedItem.name=§7Semente de Amendoim
+item.pineappleItem.name=§7Abacaxi
+item.pineappleseedItem.name=§7Semente de Abacaxi
+item.radishItem.name=§7Rabanete
+item.radishseedItem.name=§7Semente de Rabanete
+item.riceItem.name=§7Arroz
+item.riceseedItem.name=§7Semente de Arroz
+item.ricecakeItem.name=§7Bolo de Arroz
+item.rutabagaItem.name=§7Couve-nabo
+item.rutabagaseedItem.name=§7Semente de Couve-nabo
+item.ryeItem.name=§7Centeio
+item.ryeseedItem.name=§7Semente de Centeio
+item.scallionItem.name=§7Cebolinha
+item.scallionseedItem.name=§7Semente de Cebolinha
+item.soybeanItem.name=§7Soja
+item.soybeanseedItem.name=§7Semente de Soja
+item.spiceleafItem.name=§7Louro
+item.spiceleafseedItem.name=§7Semente de Louro
+item.sunflowerseedsItem.name=§7Sementes de Girassol
+item.sunflowerseedItem.name=§7Semente de Girassol
+item.sweetpotatoItem.name=§7Batata Doce
+item.sweetpotatoseedItem.name=§7Semente de Batata Doce
+item.bakedsweetpotatoItem.name=§7Batata Doce Assada
+item.tealeafItem.name=§7Folha de Chá
+item.teaseedItem.name=§7Semente de Chá
+item.teaItem.name=§7Xícara de Chá
+item.turnipItem.name=§7Nabo
+item.turnipseedItem.name=§7Semente de Nabo
+item.whitemushroomItem.name=§7Cogumelo Branco
+item.whitemushroomseedItem.name=§7Esporo de Cogumelo Branco
+        
+item.artichokeItem.name=§7Alcachofra
+item.artichokeseedItem.name=§7Semente de Alcachofra
+item.bellpepperItem.name=§7Pimentão
+item.bellpepperseedItem.name=§7Semente de Pimentão
+item.blackberryItem.name=§7Amora
+item.blackberryseedItem.name=§7Semente de Amora
+item.blueberryItem.name=§7Mirtilo
+item.blueberryseedItem.name=§7Semente de Mirtilo
+item.brusselsproutItem.name=§7Couve de Bruxelas
+item.brusselsproutseedItem.name=§7Semente de Couve de Bruxelas
+item.cabbageItem.name=§7Repolho
+item.cabbageseedItem.name=§7Semente de Repolho
+item.cactusfruitItem.name=§7Tuna
+item.cactusfruitseedItem.name=§7Semente de Tuna
+item.candleberryItem.name=§7Tungue
+item.candleberryseedItem.name=§7Semente de Tungue
+item.waxItem.name=§7Cera
+item.cantaloupeItem.name=§7Melão
+item.cantaloupeseedItem.name=§7Semente de Melão
+item.chilipepperItem.name=§7Pimenta Chili
+item.chilipepperseedItem.name=§7Semente de Pimenta Chili
+item.coffeebeanItem.name=§7Grãos de Café
+item.coffeeseedItem.name=§7Semente de Café
+item.coffeeItem.name=§7Xícara de Café
+item.cornItem.name=§7Milho
+item.cornseedItem.name=§7Semente de Milho
+item.popcornItem.name=§7Pipoca
+item.cottonItem.name=§7Algodão
+item.cottonseedItem.name=§7Semente de Algodão
+item.wovencottonItem.name=§7Malha de Algodão
+item.cucumberItem.name=§7Pepino
+item.cucumberseedItem.name=§7Semente de Pepino
+item.eggplantItem.name=§7Berinjela
+item.eggplantseedItem.name=§7Semente de Berinjela
+item.grilledeggplantItem.name=§7Semente de Berinjela
+item.grapeItem.name=§7Uva
+item.grapeseedItem.name=§7Semente de Uva
+item.raisinsItem.name=§7Uvas Passas
+item.kiwiItem.name=§7Kiwi
+item.kiwiseedItem.name=§7Semente de Kiwi
+item.mustardseedsItem.name=§7Sementes de Mostarda
+item.mustardseedItem.name=§7Semente de Mostarda
+item.okraItem.name=§7Quiabo
+item.okraseedItem.name=§7Semente de Quiabo
+item.peasItem.name=§7Ervilhas
+item.peasseedItem.name=§7Semente de Ervilha
+item.raspberryItem.name=§7Framboesa
+item.raspberryseedItem.name=§7Semente de Framboesa
+item.rhubarbItem.name=§7Ruibarbo
+item.rhubarbseedItem.name=§7Semente de Ruibarbo
+item.seaweedItem.name=§7Alga Marinha
+item.seaweedseedItem.name=§7Semente de Alga Marinha
+item.strawberryItem.name=§7Morango
+item.strawberryseedItem.name=§7Semente de Morango
+item.tomatoItem.name=§7Tomate
+item.tomatoseedItem.name=§7Semente de Tomate
+item.wintersquashItem.name=§7Moranga
+item.wintersquashseedItem.name=§7Semente de Moranga
+item.zucchiniItem.name=§7Abobrinha
+item.zucchiniseedItem.name=§7Semente de Abobrinha
+item.bambooshootItem.name=§7Broto de Bambu
+item.bambooshootseedItem.name=§7Semente de Bambu
+item.spinachItem.name=§7Espinafre
+item.spinachseedItem.name=§7Semente de Espinafre
+        
+item.almondItem.name=§7Amêndoa
+item.apricotItem.name=§7Damasco
+item.avocadoItem.name=§7Abacate
+item.bananaItem.name=§7Banana
+item.cashewItem.name=§7Caju
+item.cherryItem.name=§7Cereja
+item.chestnutItem.name=§7Castanha
+item.cinnamonItem.name=§7Canela
+item.coconutItem.name=§7Coco
+item.dateItem.name=§7Tâmara
+item.dragonfruitItem.name=§7Pitaia
+item.durianItem.name=§7Durião
+item.figItem.name=§7Figo
+item.grapefruitItem.name=§7Toranja
+item.lemonItem.name=§7Limão-siciliano
+item.limeItem.name=§7Limão
+item.maplesyrupItem.name=§7Xarope de Bordo
+item.mangoItem.name=§7Manga
+item.nutmegItem.name=§7Noz-moscada
+item.oliveItem.name=§7Azeitona
+item.orangeItem.name=§7Laranja
+item.papayaItem.name=§7Mamão
+item.peachItem.name=§7Pêssego
+item.pearItem.name=§7Pêra
+item.pecanItem.name=§7Noz-pecã
+item.peppercornItem.name=§7Pimenta-do-reino
+item.persimmonItem.name=§7Caqui
+item.pistachioItem.name=§7Pistache
+item.plumItem.name=§7Ameixa
+item.pomegranateItem.name=§7Romã
+item.starfruitItem.name=§7Carambola
+item.vanillabeanItem.name=§7Fava de Baunilha
+item.walnutItem.name=§7Noz
+
+item.grilledasparagusItem.name=§7Aspargo Grelhado
+item.ricecakeItem.name=§7Bolo de Arroz
+item.bakedsweetpotatoItem.name=§7Batata Doce Assada
+item.teaItem.name=§7Xícara de Chá
+item.coffeeItem.name=§7Xícara de Café
+item.grilledeggplantItem.name=§7Berinjela Grelhada
+item.toastedcoconutItem.name=§7Coco Torrado
+item.vanillaItem.name=§7Baunilha
+        
+item.saltItem.name=§7Sal
+item.flourItem.name=§7Farinha
+item.doughItem.name=§7Massa
+item.toastItem.name=§7Torrada
+item.pastaItem.name=§7Macarrão
+item.heavycreamItem.name=§7Creme de Leite
+item.butterItem.name=§7Manteiga
+item.cheeseItem.name=§7Queijo
+item.icecreamItem.name=§7Sorvete
+item.grilledcheeseItem.name=§7Queijo Grelhado
+item.applesauceItem.name=§7Molho de Maçã
+item.applejuiceItem.name=§7Suco de Maçã
+item.applepieItem.name=§7Torta de Maçã
+item.caramelappleItem.name=§7Maçã do Amor
+item.pumpkinbreadItem.name=§7Pão de Abóbora
+item.roastedpumpkinseedsItem.name=§7Sementes de Abóbora Torradas
+item.pumpkinsoupItem.name=§7Sopa de Abóbora
+item.melonjuiceItem.name=§7Suco de Melancia
+item.melonsmoothieItem.name=§7Batida de Melancia
+item.carrotjuiceItem.name=§7Suco de Cenoura
+item.carrotcakeItem.name=§7Bolo de Cenoura
+item.carrotsoupItem.name=§7Sopa de Cenouras
+item.glazedcarrotsItem.name=§7Cenouras Carameladas
+item.butteredpotatoItem.name=§7Batata Amanteigada
+item.loadedbakedpotatoItem.name=§7Batata Assada Carregada
+item.mashedpotatoesItem.name=§7Batatas Amassadas
+item.potatosaladItem.name=§7Salada de Batata
+item.potatosoupItem.name=§7Sopa de Batata
+item.friesItem.name=§7Batata Frita
+item.grilledmushroomItem.name=§7Cogumelo Grelhado
+item.stuffedmushroomItem.name=§7Cogumelo Recheado
+item.chickensandwichItem.name=§7Sanduíche de Frango
+item.chickennoodlesoupItem.name=§7Sopa de Macarrão de Frango
+item.chickenpotpieItem.name=§7Torta de Frango de Panela
+item.breadedporkchopItem.name=§7Carne de Porco à Milanesa
+item.hotdogItem.name=§7Cachorro Quente
+item.bakedhamItem.name=§7Presunto Assado
+item.hamburgerItem.name=§7Hambúrguer
+item.cheeseburgerItem.name=§7Cheesebúrguer
+item.baconcheeseburgerItem.name=§7Cheesebacon
+item.potroastItem.name=§7Carne de Panela
+item.fishsandwichItem.name=§7Sanduíche de Peixe
+item.fishsticksItem.name=§7Palitos de Peixe
+item.fishandchipsItem.name=§7Peixe com Batatas
+item.mayoItem.name=§7Maionese
+item.friedeggItem.name=§7Ovo Frito
+item.scrambledeggItem.name=§7Ovo Mexido
+item.boiledeggItem.name=§7Ovo Cozido
+item.eggsaladItem.name=§7Salada de Ovo
+item.caramelItem.name=§7Caramelo
+item.taffyItem.name=§7Puxa-puxa
+item.spidereyesoupItem.name=§7Sopa de Olho de Aranha
+item.zombiejerkyItem.name=§7Charque de Zumbi
+item.cocoapowderItem.name=§7Chocolate em Pó
+item.chocolatebarItem.name=§7Barra de Chocolate
+item.hotchocolateItem.name=§7Chocolate Quente
+item.chocolateicecreamItem.name=§7Sorvete de Chocolate
+item.vegetablesoupItem.name=§7Sopa de Vegetais
+item.stockItem.name=§7Caldo
+item.fruitsaladItem.name=§7Salada de Frutas
+        
+item.spagettiItem.name=§7Espaguete
+item.spagettiandmeatballsItem.name=§7Espaguete com Almôndegas
+item.tomatosoupItem.name=§7Sopa de Tomate
+item.ketchupItem.name=§7Ketchup
+item.chickenparmasanItem.name=§7Frango ao Parmesão
+item.pizzaItem.name=§7Pizza
+        
+item.springsaladItem.name=§7Salada Primavera
+item.porklettucewrapItem.name=§7Enrolado de Alface com Carne de Porco
+item.fishlettucewrapItem.name=§7Enrolado de Alface com Peixe
+item.bltItem.name=§7BAT
+item.leafychickensandwichItem.name=§7Sanduíche Folhoso de Frango
+item.leafyfishsandwichItem.name=§7Sanduíche Folhoso de Peixe
+item.deluxecheeseburgerItem.name=§7Cheeseburguer Deluxe
+item.delightedmealItem.name=§7Refeição Deleitosa
+        
+item.onionsoupItem.name=§7Sopa de Cebola
+item.potatocakesItem.name=§7Bolinhos de Batata
+item.hashItem.name=§7Picadinho
+item.braisedonionsItem.name=§7Cebolas Refogadas
+item.heartybreakfastItem.name=§7Café da Manhã Amistoso
+
+item.cornonthecobItem.name=§7Milho na Espiga
+item.cornmealItem.name=§7Fubá
+item.cornbreadItem.name=§7Pão de Milho
+item.tortillaItem.name=§7Tortilla
+item.nachoesItem.name=§7Nachos
+item.tacoItem.name=§7Taco
+item.fishtacoItem.name=§7Taco de Peixe
+item.creamedcornItem.name=§7Creme de Milho
+        
+item.strawberrysmoothieItem.name=§7Batida de Morango
+item.strawberrypieItem.name=§7Torta de Morango
+item.strawberrysaladItem.name=§7Salada de Morango
+item.strawberryjuiceItem.name=§7Suco de Morango
+item.chocolatestrawberryItem.name=§7Morango no Chocolate
+        
+item.peanutbutterItem.name=§7Manteiga de Amendoim
+item.trailmixItem.name=§7Mistura para Trilha
+item.pbandjItem.name=§7MA&G
+item.peanutbuttercookiesItem.name=§7Biscoitos de Manteiga de Amendoim
+        
+item.grapejuiceItem.name=§7Suco de Uva
+item.vinegarItem.name=§7Vinagre
+item.grapejellyItem.name=§7Geléia de Uva
+item.grapesaladItem.name=§7Salada de Uva
+item.raisincookiesItem.name=§7Biscoitos com Uva Passa
+        
+item.picklesItem.name=§7Pickles
+item.cucumbersaladItem.name=§7Salada de Pepino
+item.cucumbersoupItem.name=§7Sopa de Pepino
+item.vegetarianlettucewrapItem.name=§7Enroladinho de Alface Vegetariano
+item.marinatedcucumbersItem.name=§7Pepinos Marinados
+
+item.ricesoupItem.name=§7Sopa de Arroz
+item.friedriceItem.name=§7Arroz Frito
+item.mushroomrisottoItem.name=§7Risoto de Cogumelos
+item.curryItem.name=§7Arroz com Curry
+item.rainbowcurryItem.name=§7Curry Arco-Íris
+        
+item.refriedbeansItem.name=§7Feijão Refritos
+item.bakedbeansItem.name=§7Feijão Assado
+item.beansandriceItem.name=§7Feijão com Arroz
+item.chiliItem.name=§7Chili
+item.beanburritoItem.name=§7Burrito com Feijão
+        
+item.stuffedpepperItem.name=§7Pimenta Recheada
+item.veggiestirfryItem.name=§7Fritada Chinesa Vegana
+item.grilledskewersItem.name=§7Espeto Grelhado
+item.supremepizzaItem.name=§7Pizza Suprema
+item.omeletItem.name=§7Omelete
+        
+item.hotwingsItem.name=§7Asinhas Picantes
+item.chilipoppersItem.name=§7Salgadinho de Pimenta
+item.extremechiliItem.name=§7Chili Extrema
+item.chilichocolateItem.name=§7Chili no Chocolate
+        
+item.lemonaideItem.name=§7Limonada
+item.lemonbarItem.name=§7Barra de Limão
+item.fishdinnerItem.name=§7Prato de Peixe
+item.lemonsmoothieItem.name=§7Batida de Limão
+item.lemonmeringueItem.name=§7Merengue de Limão
+item.candiedlemonItem.name=§7Limão Caramelizado
+item.lemonchickenItem.name=§7Frango ao Limão
+        
+item.blueberrysmoothieItem.name=§7Batida de Mirtilo
+item.blueberrypieItem.name=§7Torta de Mirtilo
+item.blueberrymuffinItem.name=§7Muffin de Mirtilo
+item.blueberryjuiceItem.name=§7Suco de Mirtilo
+item.pancakesItem.name=§7Panquecas
+item.blueberrypancakesItem.name=§7Panquecas de Mirtilo
+        
+item.cherryjuiceItem.name=§7Suco de Cereja
+item.cherrypieItem.name=§7Torta de Cereja
+item.chocolatecherryItem.name=§7Cereja no Chocolate
+item.cherrysmoothieItem.name=§7Batida de Chocolate
+item.cheesecakeItem.name=§7Cheesecake
+item.cherrycheesecakeItem.name=§7Cheesecake de Cereja
+        
+item.stuffedeggplantItem.name=§7Berinjela Recheada
+item.eggplantparmItem.name=§7Berinjela à Parmegiana
+        
+item.raspberryicedteaItem.name=§7Chá Gelado de Framboesa
+item.chaiteaItem.name=§7Chai
+        
+item.espressoItem.name=§7Expresso
+item.coffeeconlecheItem.name=§7Café com Leite
+item.mochaicecreamItem.name=§7Sorvete de Mocha
+        
+item.pickledbeetsItem.name=§7Beterrabas em Conserva
+item.beetsaladItem.name=§7Salada de Beterraba
+item.beetsoupItem.name=§7Sopa de Beterraba
+item.bakedbeetsItem.name=§7Beterrabas Assadas
+        
+item.broccolimacItem.name=§7Macarrão com Queijo e Brócolis
+item.broccolindipItem.name=§7Brócolis e Molho
+item.creamedbroccolisoupItem.name=§7Sopa de Creme de Brócolis
+        
+item.sweetpotatopieItem.name=§7Torta de Batata Doce
+item.candiedsweetpotatoesItem.name=§7Batatas Doces Caramelizadas
+item.mashedsweetpotatoesItem.name=§7Batatas Doces Amassadas
+        
+item.steamedpeasItem.name=§7Ervilhas ao Vapor
+item.splitpeasoupItem.name=§7Sopa de Ervilhas Divididas
+        
+item.pineappleupsidedowncakeItem.name=§7Bolo de Abacaxi de Cabeça para Baixo
+item.pineapplehamItem.name=§7Presunto com Abacaxi
+item.pineappleyogurtItem.name=§7Iogurte de Abacaxi
+        
+item.turnipsoupItem.name=§7Sopa de Nabo
+item.roastedrootveggiemedleyItem.name=§7Mistura Assada de Raízes
+item.bakedturnipsItem.name=§7Nabos Assados
+        
+item.gingerbreadItem.name=§7Pão de Gengibre
+item.gingersnapsItem.name=§7Biscoitos de Gengibre
+item.candiedgingerItem.name=§7Gengibre Caramelizado
+        
+item.mustardItem.name=§7Mostarda
+item.softpretzelandmustardItem.name=§7Pretzel Macio com Mostarda
+item.spicymustardporkItem.name=§7Carne de Porco com Mostarda Picante
+item.spicygreensItem.name=§7Verduras Picantes
+        
+item.garlicbreadItem.name=§7Pão de Alho
+item.garlicmashedpotatoesItem.name=§7Batata Amassada com Alho
+item.garlicchickenItem.name=§7Frango ao Alho
+        
+item.summerradishsaladItem.name=§7Salada de Rabanetes de Verão
+item.summersquashwithradishItem.name=§7Abóbora com Rabanete
+        
+item.celeryandpeanutbutterItem.name=§7Aipo com Manteiga de Amendoim
+item.chickencelerycasseroleItem.name=§7Cassarola de Frango com Aipo
+item.peasandceleryItem.name=§7Ervilhas e Aipo
+item.celerysoupItem.name=§7Sopa de Aipo
+        
+item.zucchinibreadItem.name=§7Pão de Abobrinha
+item.zucchinifriesItem.name=§7Abobrinha Frita
+item.zestyzucchiniItem.name=§7Abobrinha Agradável
+item.zucchinibakeItem.name=§7Assado de Abobrinha
+        
+item.asparagusquicheItem.name=§7Quiche de Aspargo
+item.asparagussoupItem.name=§7Sopa de Aspargo
+        
+item.walnutraisinbreadItem.name=§7Pão de Noz com Passas
+item.candiedwalnutsItem.name=§7Nozes Caramelizadas
+item.brownieItem.name=§7Brownie
+        
+item.papayajuiceItem.name=§7Suco de Mamão
+item.papayasmoothieItem.name=§7Batida de Mamão
+item.papayayogurtItem.name=§7Iogurte de Mamão
+        
+item.starfruitjuiceItem.name=§7Suco de Carambola
+item.starfruitsmoothieItem.name=§7Batida de Carambola
+item.starfruityogurtItem.name=§7Iogurte de Carambola
+        
+item.guacamoleItem.name=§7Guacamole
+item.creamofavocadosoupItem.name=§7Sopa de Creme de Abacate
+item.avocadoburritoItem.name=§7Burrito com Abacate
+        
+item.poachedpearItem.name=§7Pêra Pochê
+item.fruitcrumbleItem.name=§7Crocante de Frutas
+item.pearyogurtItem.name=§7Iogurte de Pêra
+item.plumyogurtItem.name=§7Iogurte de Ameixa
+        
+item.bananasplitItem.name=§7Banana Split
+item.banananutbreadItem.name=§7Pão de Nozes e Banana
+item.bananasmoothieItem.name=§7Batida de Banana
+item.bananayogurtItem.name=§7Iogurte de Banana
+        
+item.coconutmilkItem.name=§7Leite de Coco
+item.chickencurryItem.name=§7Frango com Curry
+item.coconutshrimpItem.name=§7Camarão ao Coco
+item.coconutyogurtItem.name=§7Iogurte de Coco
+        
+item.orangejuiceItem.name=§7Suco de Laranja
+item.orangechickenItem.name=§7Frango à Laranja
+item.orangesmoothieItem.name=§7Batida de Laranja
+item.orangeyogurtItem.name=§7Iogurte de Laranja
+        
+item.peachjuiceItem.name=§7Suco de Pêssego
+item.peachcobblerItem.name=§7Torta de Pêssego
+item.peachsmoothieItem.name=§7Batida de Pêssego
+item.peachyogurtItem.name=§7Iogurte de Pêssego
+        
+item.limejuiceItem.name=§7Suco de Limão
+item.keylimepieItem.name=§7Torta de Limão
+item.limesmoothieItem.name=§7Batida de Limão
+item.limeyogurtItem.name=§7Iogurte de Limão
+        
+item.mangojuiceItem.name=§7Suco de Manga
+item.mangosmoothieItem.name=§7Batida de Manga
+item.mangoyogurtItem.name=§7Iogurte de Manga
+        
+item.pomegranatejuiceItem.name=§7Suco de Romã
+item.pomegranatesmoothieItem.name=§7Batida de Romã
+item.pomegranateyogurtItem.name=§7Iogurte de Romã
+        
+item.vanillayogurtItem.name=§7Iogurte de Baunilha
+        
+item.cinnamonrollItem.name=§7Rocambole de Canela
+item.frenchtoastItem.name=§7Rabanada
+        
+item.marshmellowsItem.name=§7Marshmellows
+item.donutItem.name=§7Rosquinha
+item.chocolatedonutItem.name=§7Rosquinha de Chocolate
+item.powdereddonutItem.name=§7Rosquinha com Açúcar
+item.jellydonutItem.name=§7Rosquinha com Geléia
+item.frosteddonutItem.name=§7Rosquinha com Glacê
+        
+item.cactussoupItem.name=§7Sopa de Cactus
+item.wafflesItem.name=§7Waffles
+item.seedsoupItem.name=§7Sopa de Sementes
+item.softpretzelItem.name=§7Pretzel Macio
+item.jellybeansItem.name=§7Jujubas
+item.biscuitItem.name=§7Bolacha
+        
+item.creamcookieItem.name=§7Biscoito de Creme
+item.jaffaItem.name=§7Jaffa
+item.friedchickenItem.name=§7Frango Frito
+item.chocolatesprinklecakeItem.name=§7Bolo com Granulado de Chocolate
+item.redvelvetcakeItem.name=§7Bolo de Veludo Vermelho
+item.footlongItem.name=§7Sandubão
+        
+item.blueberryyogurtItem.name=§7Iogurte de Mirtilo
+item.lemonyogurtItem.name=§7Iogurte de Limão-siciliano
+item.cherryyogurtItem.name=§7Iogurte de Cereja
+item.strawberryyogurtItem.name=§7Iogurte de Morango
+item.grapeyogurtItem.name=§7Iogurte de Uva
+item.chocolateyogurtItem.name=§7Iogurte de Chocolate
+        
+item.blackberryjuiceItem.name=§7Suco de Amora
+item.blackberrycobblerItem.name=§7Torta de Amora
+item.blackberrysmoothieItem.name=§7Batida de Amora
+item.blackberryyogurtItem.name=§7Iogurte de Amora
+item.chocolatemilkItem.name=§7Leite Achocolatado
+item.pumpkinyogurtItem.name=§7Iogurte de Abóbora
+        
+item.raspberryjuiceItem.name=§7Suco de Framboesa
+item.raspberrypieItem.name=§7Torta de Framboesa
+item.raspberrysmoothieItem.name=§7Batida de Framboesa
+item.raspberryyogurtItem.name=§7Iogurte de Framboesa
+item.cinnamonsugardonutItem.name=§7Rosquinha com Açúcar e Canela
+item.melonyogurtItem.name=§7Iogurte de Melancia
+        
+item.kiwijuiceItem.name=§7Suco de Kiwi
+item.kiwismoothieItem.name=§7Batida de Kiwi
+item.kiwiyogurtItem.name=§7Iogurte de Kiwi
+item.plainyogurtItem.name=§7Iogurte
+item.appleyogurtItem.name=§7Iogurte de Maçã
+        
+item.saltedsunflowerseedsItem.name=§7Sementes de Girassol Salgadas
+item.sunflowerwheatrollsItem.name=§7Rocambole de Trigo com Sementes de Girassol
+item.sunflowerbroccolisaladItem.name=§7Salada de Brócoli com Sementes de Girassol
+        
+item.cranberryjuiceItem.name=§7Suco de Oxicoco
+item.cranberrysauceItem.name=§7Molho de Oxicoco
+item.cranberrybarItem.name=§7Barra de Oxicoco
+        
+item.peppermintItem.name=§7Hortelã-pimenta
+        
+item.cactusfruitjuiceItem.name=§7Suco de Tuna
+        
+item.blackpepperItem.name=§7Pimenta-do-reino
+item.groundcinnamonItem.name=§7Canela Moída
+item.groundnutmegItem.name=§7Noz-moscada Moída
+item.oliveoilItem.name=§7Óleo de Cozinha
+        
+item.baklavaItem.name=§7Baklava
+item.gummybearsItem.name=§7Ursinhos de Goma
+item.baconmushroomburgerItem.name=§7Hambúrguer de Bacon e Cogumelo
+item.fruitpunchItem.name=§7Ponche de Fruta
+item.meatystewItem.name=§7Caldo Carnoso
+item.mixedsaladItem.name=§7Salada Mista
+item.pinacoladaItem.name=§7Piña Colada
+item.saladdressingItem.name=§7Molho de Salada
+item.shepardspieItem.name=§7Shepard's Pie
+item.eggnogItem.name=§7Gemada
+item.custardItem.name=§7Creme Pasteleiro
+item.sushiItem.name=§7Sushi
+item.gardensoupItem.name=§7Sopa de Jardim
+        
+item.freshwaterItem.name=§7Água Fresca
+item.freshmilkItem.name=§7Leite Fresco
+        
+item.muttonrawItem.name=§7Carne de Ovelha Crua
+item.muttoncookedItem.name=§7Carne de Ovelha Assada
+item.calamarirawItem.name=§7Calamari Cru
+item.calamaricookedItem.name=§7Calamari Cozido
+        
+item.applejellyItem.name=§7Geléia de Maçã
+item.applejellysandwichItem.name=§7Sanduíche de Geléia de Maçã
+item.blackberryjellyItem.name=§7Geléia de Amora
+item.blackberryjellysandwichItem.name=§7Sanduíche de Geléia de Amora
+item.blueberryjellyItem.name=§7Geléia de Mirtilo
+item.blueberryjellysandwichItem.name=§7Sanduíche de Geléia de Mirtilo
+item.cherryjellyItem.name=§7Geléia de Cereja
+item.cherryjellysandwichItem.name=§7Sanduíche de Geléia de Cereja
+item.cranberryjellyItem.name=§7Geléia de Oxicoco
+item.cranberryjellysandwichItem.name=§7Sanduíche de Geléia de Oxicoco
+item.kiwijellyItem.name=§7Geléia de Kiwi
+item.kiwijellysandwichItem.name=§7Sanduíche de Geléia de Kiwi
+item.lemonjellyItem.name=§7Geléia de Limão-siciliano
+item.lemonjellysandwichItem.name=§7Sanduíche de Geléia de Limão-siciliano
+item.limejellyItem.name=§7Geléia de Limão
+item.limejellysandwichItem.name=§7Sanduíche de Geléia de Limão
+item.mangojellyItem.name=§7Geléia de Manga
+item.mangojellysandwichItem.name=§7Sanduíche de Geléia de Manga
+item.orangejellyItem.name=§7Geléia de Laranja
+item.orangejellysandwichItem.name=§7Sanduíche de Geléia de Laranja
+item.papayajellyItem.name=§7Geléia de Mamão
+item.papayajellysandwichItem.name=§7Sanduíche de Geléia de Mamão
+item.peachjellyItem.name=§7Geléia de Pêssego
+item.peachjellysandwichItem.name=§7Sanduíche de Geléia de Pêssego
+item.pomegranatejellyItem.name=§7Geléia de Romã
+item.pomegranatejellysandwichItem.name=§7Sanduíche de Geléia de Romã
+item.raspberryjellyItem.name=§7Geléia de Framboesa
+item.raspberryjellysandwichItem.name=§7Sanduíche de Geléia de Framboesa
+item.starfruitjellyItem.name=§7Geléia de Carambola
+item.starfruitjellysandwichItem.name=§7Sanduíche de Geléia de Carambola
+item.strawberryjellyItem.name=§7Geléia de Morango
+item.strawberryjellysandwichItem.name=§7Sanduíche de Geléia de Morango
+item.watermelonjellyItem.name=§7Geléia de Melancia
+item.watermelonjellysandwichItem.name=§7Sanduíche de Geléia de Melancia
+        
+item.bubblywaterItem.name=§7Água Gaseificada
+item.cherrysodaItem.name=§7Refri de Cereja
+item.colasodaItem.name=§7Refri de Cola
+item.gingersodaItem.name=§7Ginger Ale
+item.grapesodaItem.name=§7Refri de Uva
+item.lemonlimesodaItem.name=§7Refri de Limão
+item.orangesodaItem.name=§7Refri de Laranja
+item.rootbeersodaItem.name=§7Cerveja-de-raiz
+item.strawberrysodaItem.name=§7Strawberry Soda
+        
+item.caramelicecreamItem.name=§7Sorvete de Caramelo
+item.mintchocolatechipicemcreamItem.name=§7Sorvete de Menta com Chocolate
+item.strawberryicecreamItem.name=§7Sorvete de Morango
+item.vanillaicecreamItem.name=§7Sorvete de Baunilha
+        
+item.ediblerootItem.name=§7Raiz Comestível
+        
+item.gingerchickenItem.name=§7Frango ao Gengibre
+        
+item.oldworldveggiesoupItem.name=§7Sopa de Vegetais do Velho Mundo
+item.spicebunItem.name=§7Pão Temperado
+item.gingeredrhubarbtartItem.name=§7Torta de Ruibarbo ao Gengibre
+item.lambbarleysoupItem.name=§7Sopa de Cevada com Carneiro
+item.honeylemonlambItem.name=§7Carneiro ao Limão e Mel
+item.pumpkinoatsconesItem.name=§7Scones de Aveia de Abóbora
+item.beefjerkyItem.name=§7Charque
+item.plumjuiceItem.name=§7Suco de Ameixa
+item.pearjuiceItem.name=§7Suco de Pêra
+item.ovenroastedcauliflowerItem.name=§7Couve-flor Assada no Forno
+item.leekbaconsoupItem.name=§7Sopa de Alho-poró com Bacon
+item.herbbutterparsnipsItem.name=§7Chirívia Amanteigada com Ervas
+item.scallionbakedpotatoItem.name=§7Batata Assada com Cebolinha
+item.soymilkItem.name=§7Leite de Soja
+item.firmtofuItem.name=§7Tofu Firme
+item.silkentofuItem.name=§7Tofu Sedoso
+
+item.bamboosteamedriceItem.name=§7Arroz ao Vapor com Bambu
+item.roastedchestnutItem.name=§7Castanha Torrada
+item.sweetpotatosouffleItem.name=§7Suflê de Batata Doce
+item.cashewchickenItem.name=§7Frango ao Caju
+item.apricotjuiceItem.name=§7Suco de Damasco
+item.apricotyogurtItem.name=§7Iogurte de Damasco
+item.apricotglazedporkItem.name=§7Carne de Porco Caramelada com Damasco
+item.apricotjellyItem.name=§7Geléia de Damasco
+item.apricotjellysandwichItem.name=§7Sanduíche de Geléia de Damasco
+item.apricotsmoothieItem.name=§7Batida de Damasco
+item.figbarItem.name=§7Barra de Figo
+item.figjellyItem.name=§7Geléia de Figo
+item.figjellysandwichItem.name=§7Sanduíche de Geléia de Figo
+item.figsmoothieItem.name=§7Batida de Figo
+item.figyogurtItem.name=§7Iogurte de Figo
+item.figjuiceItem.name=§7Suco de Figo
+item.grapefruitjuiceItem.name=§7Suco de Toranja
+item.grapefruitjellyItem.name=§7Geléia de Toranja
+item.grapefruitjellysandwichItem.name=§7Sanduíche de Geléia de Toranja
+item.grapefruitsmoothieItem.name=§7Batida de Toranja
+item.grapefruityogurtItem.name=§7Iogurte de Toranja
+item.grapefruitsodaItem.name=§7Refri de Toranja
+item.citrussaladItem.name=§7Salada Cítrica
+item.pecanpieItem.name=§7Torta de Noz-pecã
+item.pralinesItem.name=§7Pralinês
+item.persimmonjuiceItem.name=§7Suco de Caqui
+item.persimmonyogurtItem.name=§7Iogurte de Caqui
+item.persimmonsmoothieItem.name=§7Batida de Caqui
+item.persimmonjellyItem.name=§7Geléia de Caqui
+item.persimmonjellysandwichItem.name=§7Sanduíche de Geléia de Caqui
+item.pistachiobakedsalmonItem.name=§7Salmão Assado com Pistache
+item.baconwrappeddatesItem.name=§7Tâmaras Enroladas no Bacon
+item.datenutbreadItem.name=§7Pão de Tâmara
+item.maplesyruppancakesItem.name=§7Panquecas com Xarope de Bordo
+item.maplesyrupwafflesItem.name=§7Waffles com Xarope de Bordo
+item.maplesausageItem.name=§7Linguiça com Bordo
+item.mapleoatmealItem.name=§7Mingau de Aveia de Bordo
+item.peachesandcreamoatmealItem.name=§7Mingau de Aveia de Pêssego e Creme
+item.cinnamonappleoatmealItem.name=§7Mingau de Aveia de Maçã e Canela
+item.maplecandiedbaconItem.name=§7Bacon Adoçado com Boldo
+item.toastsandwichItem.name=§7Sanduíche de Torrada
+item.potatoandcheesepirogiItem.name=§7Pierogi de Batata e Queijo
+item.zeppoleItem.name=§7Zeppole
+item.sausageinbreadItem.name=§7Linguiça com Pão
+item.chocolatecaramelfudgeItem.name=§7Fudge de Chocolate com Caramelo
+item.lavendershortbreadItem.name=§7Bolinho de Lavanda
+item.beefwellingtonItem.name=§7Bife Wellington
+item.epicbaconItem.name=§7Bacon Épico
+item.manjuuItem.name=§7Manjuu
+
+item.chickengumboItem.name=§7Quiabo com Frango
+item.generaltsochickenItem.name=§7Frango do General Tso
+item.californiarollItem.name=§7Sushi Califórnia
+item.futomakiItem.name=§7Futo Maki
+item.beansontoastItem.name=§7Feijão na Torrada
+item.vegemiteItem.name=§7Vegemite
+item.honeycombchocolatebarItem.name=§7Barra de Chocolate com Favo de Mel
+item.cherrycoconutchocolatebarItem.name=§7Barra de Chocolate com Cereja e Coco
+item.fairybreadItem.name=§7Pão das Fadas
+item.lamingtonItem.name=§7Lamington
+item.timtamItem.name=§7Tim Tam
+item.meatpieItem.name=§7Torta de Carne
+item.chikorollItem.name=§7Chiko Roll
+item.damperItem.name=§7Damper
+item.beetburgerItem.name=§7Hambúrguer de Beterraba
+item.pavlovaItem.name=§7Pavlova
+item.gherkinItem.name=§7Gherkin
+item.mcpamItem.name=§7McPam
+
+item.ceasarsaladItem.name=§7Salada Caesar
+item.chaoscookieItem.name=§7Biscoito do Caos
+item.chocolatebaconItem.name=§7Bacon no Chocolate
+item.lambkebabItem.name=§7Kebab de Cordeiro
+item.nutellaItem.name=§7Nutella
+item.snickersbarItem.name=§7Barra de Snickers
+item.spinachpieItem.name=§7Torta de Espinafre
+item.steamedspinachItem.name=§7Espinafre ao Vapor
+item.vegemiteontoastItem.name=§7Vegemite na Torrada
+    
+item.anchovyrawItem.name=§7Anchova Crua
+item.bassrawItem.name=§7Robalo Cru
+item.carprawItem.name=§7Carpa Crua
+item.catfishrawItem.name=§7Peixe-gato Cru
+item.charrrawItem.name=§7Truta do Ártico Crua
+item.clamrawItem.name=§7Molusco Cru
+item.crabrawItem.name=§7Caranguejo Cru
+item.crayfishrawItem.name=§7Lagostim Cru
+item.eelrawItem.name=§7Enguia Crua
+item.frograwItem.name=§7Sapo Cru
+item.grouperrawItem.name=§7Garoupa Crua
+item.herringrawItem.name=§7Arenque Cru
+item.jellyfishrawItem.name=§7Água-viva Crua
+item.mudfishrawItem.name=§7Amia Crua
+item.octopusrawItem.name=§7Polvo Cru
+item.perchrawItem.name=§7Poleiro Cru
+item.scalloprawItem.name=§7Vieira Crua
+item.shrimprawItem.name=§7Camarão Cru
+item.snailrawItem.name=§7Caracol Cru
+item.snapperrawItem.name=§7Pargo Cru
+item.tilapiarawItem.name=§7Tilápia Crua
+item.troutrawItem.name=§7Truta Crua
+item.tunarawItem.name=§7Atum Cru
+item.turtlerawItem.name=§7Tartaruga Crua
+item.walleyerawItem.name=§7Badejo Cru
+
+item.holidaycakeItem.name=§7Bolo de Fim de Ano
+
+item.clamcookedItem.name=§7Molusco Cozido
+item.crabcookedItem.name=§7Caranguejo Cozido
+item.crayfishcookedItem.name=§7Lagostim Cozido
+item.frogcookedItem.name=§7Pernas de Sapo Cozidas
+item.octopuscookedItem.name=§7Polvo Cozido
+item.scallopcookedItem.name=§7Vieira Cozida
+item.shrimpcookedItem.name=§7Camarão Cozido
+item.snailcookedItem.name=§7Caracol Cozido
+item.turtlecookedItem.name=§7Tartaruga Cozida
+    
+item.appleciderItem.name=§7Cidra de Maçã
+item.bangersandmashItem.name=§7"Bangers and Mash"
+item.batteredsausageItem.name=§7Linguiça com Polme
+item.batterItem.name=§7Polme
+item.chorizoItem.name=§7Chouriço
+item.coleslawItem.name=§7Chucrute
+item.energydrinkItem.name=§7Energético
+item.friedonionsItem.name=§7Cebola Frita
+item.meatfeastpizzaItem.name=§7Pizza de Banquete de Carne
+item.mincepieItem.name=§7Torta de Mince
+item.onionhamburgerItem.name=§7Hambúrguer com Cebola
+item.pepperoniItem.name=§7Calabresa
+item.pickledonionsItem.name=§7Cebolas em Conserva
+item.porksausageItem.name=§7Linguiça de Porco
+item.raspberrytrifleItem.name=§7Trifle de Framboesa
+
+item.mincedmeatrawItem.beef.name=§7Carne Moída de Vaca
+item.mincedmeatrawItem.pork.name=§7Carne Moída de Porco
+item.mincedmeatrawItem.chicken.name=§7Carne Moída de Frango
+item.mincedmeatrawItem.fish.name=§7Carne Moída de Peixe
+item.mincedmeatrawItem.mutton.name=§7Carne Moída de Carneiro
+item.mincedmeatrawItem.rabbit.name=§7Carne Moída de Coelho
+item.mincedmeatrawItem.turkey.name=§7Carne Moída de Peru
+item.mincedmeatrawItem.venison.name=§7Carne Moída de Veado
+
+item.mincedmeatcookedItem.beef.name=§7Carne Moída de Vaca Cozida
+item.mincedmeatcookedItem.pork.name=§7Carne Moída de Porco Cozida
+item.mincedmeatcookedItem.chicken.name=§7Carne Moída de Frango Cozida
+item.mincedmeatcookedItem.fish.name=§7Carne Moída de Peixe Cozida
+item.mincedmeatcookedItem.mutton.name=§7Carne Moída de Carneiro Cozida
+item.mincedmeatcookedItem.rabbit.name=§7Carne Moída de Coelho Cozida
+item.mincedmeatcookedItem.turkey.name=§7Carne Moída de Peru Cozida
+item.mincedmeatcookedItem.venison.name=§7Carne Moída de Veado Cozida

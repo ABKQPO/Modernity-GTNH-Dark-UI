@@ -1,0 +1,38 @@
+potion.wellfedPotion=§7Bem alimentado
+potion.newSlowdownPotionHO=§7Desacelerado
+
+# tooltip strings
+hungeroverhaul.crop.grows.best.in=§7Cresce melhor em:
+
+# these should all be in lowercase
+hungeroverhaul.hearty=§7%s caloroso
+hungeroverhaul.wholesome=§7%s saudável
+hungeroverhaul.nourishing=§7%s nutritivo
+hungeroverhaul.unfulfilling=§7%s insatisfatório
+hungeroverhaul.morsel=§7bocado
+hungeroverhaul.snack=§7lanche
+hungeroverhaul.lightmeal=§7e leve refeição
+hungeroverhaul.meal=§7refeição
+hungeroverhaul.largemeal=§7e grande refeição
+hungeroverhaul.feast=§7banquete
+
+# if necessary, special cases for the meal descriptors can be handled by
+# defining combined strings like so (remove the #)
+
+hungeroverhaul.hearty.largemeal=§7refeição grande e calorosa
+hungeroverhaul.hearty.meal=§7refeição calorosa
+hungeroverhaul.hearty.lightmeal=§7refeição leve e calorosa
+hungeroverhaul.nourishing.largemeal=§7refeição grande e nutritiva
+hungeroverhaul.nourishing.meal=§7refeição nutritiva
+hungeroverhaul.nourishing.lightmeal=§7refeição leve e nutritiva
+hungeroverhaul.unfulfilling.largemeal=§7refeição grande e insatisfatória
+hungeroverhaul.unfulfilling.meal=§7refeição insatisfatória
+hungeroverhaul.unfulfilling.lightmeal=§7refeição leve e insatisfatória
+
+# health/hunger status text
+hungeroverhaul.dying=§7Morrendo
+hungeroverhaul.injured=§7Ferido
+hungeroverhaul.hurt=§7Machucado
+hungeroverhaul.starving=§7Faminto
+hungeroverhaul.hungry=§7Com fome
+hungeroverhaul.peckish=§7Estômago vazio

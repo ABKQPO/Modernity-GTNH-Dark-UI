@@ -1,0 +1,158 @@
+﻿# Galacticraft Asteroids Language File =§7KOREA KOREAN
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§73티어 로켓
+item.itemAstroMiner.name=§7천체 광업기계
+item.heavyNoseCone.name=§7중형 머리원뿔
+item.compressedTitanium.name=§7압축된 티타늄
+item.ingotTitanium.name=§7티타늄 주괴
+item.shardTitanium.name=§7티타늄 조각
+item.shardIron.name=§7철 조각
+item.rocketFinsT2.name=§7중형 로켓 날개
+item.engineT2.name=§7중형 로켓 엔진
+item.reinforcedPlateT3.name=§7강화 플레이트
+item.grapple.name=§7그래플
+item.atmosphericValve.name=§7대기 밸브
+item.thermalCloth.name=§7열보호 직물
+item.beamCore.name=§7광선 핵
+item.orionDrive.name=§7오리온 드라이브
+item.tier3.desc=§73티어
+
+# TOOLS
+item.titanium_pickaxe.name=§7티타늄 곡괭이
+item.titanium_axe.name=§7티타늄 도끼
+item.titanium_hoe.name=§7티타늄 괭이
+item.titanium_shovel.name=§7티타늄 삽
+item.titanium_sword.name=§7티타늄 검
+
+# ARMOR
+item.thermalHelm.name=§7열 흡수 헬멧
+item.thermalChestplate.name=§7열 흡수 상의
+item.thermalLeggings.name=§7열 흡수 하의
+item.thermalBoots.name=§7열 흡수 부츠
+item.titanium_helmet.name=§7티타늄 헬멧
+item.titanium_chestplate.name=§7티타늄 상의
+item.titanium_leggings.name=§7티타늄 하의
+item.titanium_boots.name=§7티타늄 부츠
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7메탄 가스통
+item.methaneCanister.name=§7충전된 메탄 가스통
+item.canister.gas.name=§7가스                  #short name for Methane Gas contents level
+item.canister.LOX.partial.name=§7액체 산소통
+item.canister.LOX.full.name=§7충전된 액체 산소통
+item.canister.LOX.name=§7액체 산소                  #short name for Liquid Oxygen contents level
+item.canister.liquidNitrogen.partial.name=§7액체 질소통
+item.canister.liquidNitrogen.full.name=§7충전된 액체 질소통
+item.canister.liquidNitrogen.name=§7액체 질소    #short name for Liquid Nitrogen contents level
+item.canister.liquidArgon.partial.name=§7액체 아르곤 통
+item.canister.liquidArgon.full.name=§7충전된 액체 아르곤 통
+item.canister.liquidArgon.name=§7액체 아르곤       #short name for Liquid Argon contents level
+item.emptyGasCanister.name=§7빈 가스통
+
+# FLUIDS AND GASES
+fluid.methane=§7메탄 가스
+fluid.oxygen=§7기체 산소
+fluid.nitrogen=§7기체 질소
+fluid.hydrogen=§7수소 가스
+fluid.carbondioxide=§7기체 이산화탄소
+fluid.helium=§7헬륨 가스
+fluid.argon=§7아르곤 가스
+fluid.atmosphericgases=§7대기 가스
+fluid.liquidmethane=§7액체 메탄
+fluid.liquidoxygen=§7액체 산소
+fluid.liquidnitrogen=§7액체 질소
+fluid.liquidargon=§7액체 아르곤
+fluid.fuel=§7연료
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7소행성 암석
+tile.asteroidsBlock.asteroid1.name=§7소행성 암석
+tile.asteroidsBlock.asteroid2.name=§7소행성 암석
+tile.asteroidsBlock.oreIron.name=§7철 광석
+tile.asteroidsBlock.oreIlmenite.name=§7티탄철광석
+tile.asteroidsBlock.oreAluminum.name=§7알루미늄 광석
+tile.beamReflector.name=§7에너지빔 반사장치
+tile.beamReceiver.name=§7에너지빔 수신기
+tile.telepadShort.name=§7단거리 텔레포터
+tile.walkway.name=§7통로
+tile.walkwayWire.name=§7통로
+tile.walkwayOxygenPipe.name=§7통로
+tile.treasureT3.name=§73티어 보물상자
+tile.denseIce.name=§7두꺼운 얼음
+tile.minerBase.name=§7천체 광업기계 근거지
+
+# GUI
+planet.asteroids=§7소행성대
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7텔레포터 고유번호
+gui.telepad.desc.1=§7타겟 텔레포터 고유번호
+gui.message.address.name=§7고유번호
+gui.message.destAddress.name=§7타겟 고유번호
+gui.message.invalidAddress.name=§7유효하지 않은 고유번호
+gui.message.invalidTargetAddress.name=§7유효하지 않은 타겟 고유번호
+gui.message.receivingActive.name=§7수신 활성
+gui.message.telepadTooFar.name=§7타겟 너무 멀음! (최대 %d)
+gui.message.telepadWrongDim.name=§7타겟이 다른 세계에 있음!
+gui.message.telepadNotFound.name=§7텔레포터 존재하지 않음!
+gui.message.sendingActive.name=§7송신
+gui.message.range.name=§7거리: %d미터
+gui.message.notEnoughEnergy.name=§7에너지 부족!
+gui.message.targetNoEnergy.name=§7타겟 에너지 부족!
+gui.message.grapple.fail=§7그래플을 작동시키려면 줄이 필요합니다!
+gui.message.astroMiner.fail=§7이 근거지에는 이미 천체 광업기계가 있습니다!
+gui.message.astroMiner1.fail=§7도킹 영역이 막혔습니다:
+gui.message.astroMiner1A.fail=§7천체 광업기계의 경로가 막혔습니다. 막힌 블럭:
+gui.message.astroMiner2.fail=§7그것은 하나의 천체 광업기계에게 너무 많을 것입니다!
+gui.message.astroMiner3.fail=§7천체 광업기계의 근거지가 파괴되었습니다!
+gui.message.astroMiner4.fail=§7천체 광업기계의 에너지가 부족합니다 근거지로 돌아갈 수 없습니다!
+gui.message.astroMiner5.fail=§7천체 광업기계의 근거지 경로가 막혔습니다!
+gui.message.astroMiner6.fail=§7천체 광업기계는 그 지역 채굴을 끝냈습니다, 작동이 중지됩니다!
+gui.message.astroMiner7.fail=§7우주정거장에서는 천체 광업기계가 아무것도 할 수 없습니다!
+gui.message.astroMiner8.fail=§7두 번째 천체 광업기계가 같은 근거지에서 발견될때, 첫 번째는 동결됩니다!
+gui.button.recall.name=§7복귀
+gui.miner.outOfRange=§7범위를 벗어남
+gui.miner.offline=§7오프라인
+gui.miner.stuck=§7막힘:
+gui.miner.docked=§7도킹됨
+gui.miner.travelling=§7이동 중
+gui.miner.mining=§7채굴 중
+gui.miner.returning=§7돌아오는 중
+gui.miner.docking=§7도킹 중
+gui.miner.mined=§7채굴됨
+
+tile.treasureT3.description=§73티어 보물상자는 현재 사용할 수 없습니다.
+tile.walkway.description=§7통로는 우주 테마 장식용 블록입니다.
+tile.walkwayAluminumWire.description=§7알루미늄 전선 통로는 전선 기능을 하는 동시에 위로 걷는 통로를 제공하는 다중 기능성 블록입니다.
+tile.walkwayOxygenPipe.description=§7산소 파이프 통로는 전선 기능을 하는 동시에 위로 걷는 통로를 제공하는 다중 기능성 블록입니다.
+tile.beamReflector.description=§7에너지빔 반사장치는 에너지 광선(빔)의 방향을 바꾸어 목적지에 도달할 수 있게 해주는 기기입니다. 오른쪽 클릭을 통해 목표 타켓을 변경할 수 있습니다.
+tile.beamReceiver.description=§7에너지빔 수신기는 기계의 전력/에너지 입출력을 도와 에너지를 송수신 할 수 있게 해주는 기기입니다.
+tile.telepadShort.description=§7단거리 텔레포터는 플레이어와 다른 생명체의 빠른 단거리 이동을 도와주는 기기입니다 (250 블럭). 최소한 두개의 기기가 서로 연결되어야 합니다.
+tile.minerBase.description=§7천체 광업기계 근거지는 천체 광업기계를 위한 도킹 지점입니다. 그것은 큽니다 ... 2 x 2 x 2 크기의 큐브를 만들어야합니다.
+schematic.astroMiner.name=§7천체 광업기계
+schematic.ionDrive.name=§7이온 드라이브
+
+# SCHEMATICS
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=§7작은 소행성
+entity.GalacticraftMars.GrappleHookGC.name=§7그래플
+entity.GalacticraftMars.Tier3RocketGC.name=§73티어 로켓
+entity.GalacticraftMars.EntryPodAsteroids.name=§7진입 캡슐
+entity.GalacticraftMars.AstroMiner.name=§7천체 광업기계
+
+# CONTAINERS
+container.shortRangeTelepad.name=§7단거리 텔레포터
+container.entryPod.name=§7진입 캡슐
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=§7소행성대 세계 ID
+gc.configgui.idEntitySmallAsteroid=§7작은 소행성 엔티티 ID
+gc.configgui.idEntityGrappleHook=§7그래플 엔티티 ID
+gc.configgui.idEntityTier3Rocket=§73티어 로켓 엔티티 ID
+gc.configgui.idEntityEntryPod=§7진입 캡슐 엔티티 ID
+gc.configgui.idSchematicRocketT3=§73티어 로켓 설계도 ID
+gc.configgui.disableGalacticraftHelium=§7Disable Helium gas registration
+gc.configgui.astroMinersMax=§7Maximum number of Astro Miners per player

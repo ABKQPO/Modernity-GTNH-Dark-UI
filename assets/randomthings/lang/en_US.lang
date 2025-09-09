@@ -1,0 +1,181 @@
+tile.playerinterface.name=§7Player Interface
+tile.creativePlayerInterface.name=§7Creative Player Interface
+tile.fluidDisplay.name=§7Fluid Display
+tile.advancedFluidDisplay.name=§7Advanced Fluid Display
+tile.fertilizedDirt.name=§7Fertilized Dirt
+tile.itemCollector.name=§7Item Collector
+tile.advancedItemCollector.name=§7Advanced Item Collector
+tile.onlineDetector.name=§7Online Detector
+tile.moonSensor.name=§7Moon Phase Sensor
+tile.notificationInterface.name=§7Notification Interface
+tile.wirelessLever.name=§7Wireless Lever
+tile.lapisLamp.name=§7Lapis Lamp
+tile.dyeingMachine.name=§7Dyeing Machine
+tile.imbuingStation.name=§7Imbuing Station
+tile.spectreGlass.name=§7Spectre Glass
+tile.energyDistributor.name=§7Energy Distributor
+tile.enderEnergyDistributor.name=§7Ender Energy Distributor
+tile.bloodMoonSensor.name=§7Bloodmoon Sensor
+
+tile.spectreBlock.name=§7Spectre Block
+tile.spectreBlock.black.name=§7Black Spectre Block
+tile.spectreBlock.red.name=§7Red Spectre Block
+tile.spectreBlock.green.name=§7Green Spectre Block
+tile.spectreBlock.brown.name=§7Brown Spectre Block
+tile.spectreBlock.blue.name=§7Blue Spectre Block
+tile.spectreBlock.purple.name=§7Purple Spectre Block
+tile.spectreBlock.cyan.name=§7Cyan Spectre Block
+tile.spectreBlock.silver.name=§7Light Gray Spectre Block
+tile.spectreBlock.gray.name=§7Gray Spectre Block
+tile.spectreBlock.pink.name=§7Pink Spectre Block
+tile.spectreBlock.lime.name=§7Lime Spectre Block
+tile.spectreBlock.yellow.name=§7Yellow Spectre Block
+tile.spectreBlock.lightBlue.name=§7Light Blue Spectre Block
+tile.spectreBlock.magenta.name=§7Magenta Spectre Block
+tile.spectreBlock.orange.name=§7Orange Spectre Block
+tile.spectreBlock.white.name=§7White Spectre Block
+
+itemGroup.Random Things=§7Random Things
+item.filter.name=§7Filter
+item.filterBlock.name=§7Block Filter
+item.filterItem.name=§7Item Filter
+item.filterEntity.name=§7Entity Filter
+item.filterPosition.name=§7Position Filter
+item.biomeSolution.name=§7Solution
+item.biomeCapsule.name=§7Biome Capsule
+item.biomePainter.name=§7Biome Painter
+item.whitestone.name=§7White Stone
+item.whitestoneUncharged.name=§7White Stone [Uncharged]
+item.whitestoneCharged.name=§7White Stone [Charged]
+item.voidStone.name=§7Void Stone
+item.dropFilter.name=§7Drop Filter
+item.dropFilterVoiding.name=§7Voiding Drop Filter
+item.enderLetter.name=§7Ender Letter
+item.spectreKey.name=§7Spectre Key
+item.opSpectreKey.name=§7Op Spectre Key
+item.soundRecorder.name=§7Sound Recorder
+item.spectreSword.name=§7Spectre Sword
+item.spectreHelmet.name=§7Spectre Helmet
+item.spectreChestplate.name=§7Spectre Chestplate
+item.spectreLeggings.name=§7Spectre Leggings
+item.spectreBoots.name=§7Spectre Boots
+item.spiritBinder.name=§7Spirit Binder
+item.magneticForce.name=§7Magnetic Force
+item.gintoEmpty.name=§7Empty Ginto
+item.gintoFilled.name=§7Filled Ginto
+item.creativeSword.name=§7Creative Sword
+item.creativeGrower.name=§7Creative Grower
+item.creativeChestGenerator.name=§7Creative Chest Generator
+item.ingredient.name=§7Ingredient
+item.playerCore.name=§7Player Core
+item.obsidianStick.name=§7Obsidian Stick
+item.enderFragment.name=§7Ender Fragment
+item.ectoplasm.name=§7Ectoplasm
+item.spectreIron.name=§7Spectre Iron
+item.transformationCore.name=§7Transformation Core
+item.enderDiamond.name=§7Ender Diamond
+item.energizedWater.name=§7Energized Water
+item.bloodStone.name=§7Bloodstone
+item.error.name=§7Invalid Item
+
+item.imbue.name=§7Flask
+item.imbue.poison.name=§7Flask of Poison
+item.imbue.experience.name=§7Flask of Experience
+item.imbue.fire.name=§7Flask of Fire
+item.imbue.wither.name=§7Flask of Withering
+item.imbue.weakness.name=§7Flask of Weakness
+item.imbue.spectre.name=§7Flask of Spectre
+
+imbue.poison=§7Poison Imbue
+imbue.experience=§7Experience Imbue
+imbue.fire=§7Fire Imbue
+imbue.wither=§7Wither Imbue
+imbue.weakness=§7Weakness Imbue
+imbue.spectre=§7Spectre Imbue
+
+entity.RandomThings.spirit.name=§7Spirit
+entity.bloodmoonCircle.name=§7Bloodmoon Circle
+
+text.tooltip.item.dropFilter.generic=§7Takes Item Filter
+text.tooltip.item.dropFilter=§7Prevents pick up of filtered items
+text.tooltip.item.dropFilterVoiding=§7Voids filtered items on pick up
+
+text.miscellaneous.press=§7Press %s for more information
+text.miscellaneous.shift=§7shift
+text.miscellaneous.block=§7Block
+text.miscellaneous.metadata=§7Metadata
+text.miscellaneous.oreDictionary=§7Ore-Dictionary
+text.miscellaneous.listType=§7List-Type
+text.miscellaneous.entityid=§7Entity ID
+text.miscellaneous.entityName=§7Entity Name
+text.miscellaneous.connectedTo=§7Connected to
+text.miscellaneous.invalidArguments=§7Invalid arguments
+text.miscellaneous.setBonus=§7Set-Bonus:
+text.miscellaneous.opOnly=§7Operators only
+text.miscellaneous.creativeOnly=§7Creative only
+text.miscellaneous.category=§7Category: %s
+text.miscellaneous.shiftCategory=§7Shift click to change category
+text.miscellaneous.save=§7Save
+text.miscellaneous.charges=§7Charges: %d
+
+text.miscellaneous.whiteList=§7Whitelist
+text.miscellaneous.blackList=§7Blacklist
+
+text.miscellaneous.yes=§7Yes
+text.miscellaneous.no=§7No
+
+text.onlineDetector.detectingNobody=§7Detecting Nobody
+text.onlineDetector.detecting=§7"Detecting %s"
+
+text.miscellaneous.ignoreOreDict=§7Ignore ore dictionary
+text.miscellaneous.useOreDict=§7Use ore dictionary
+
+text.miscellaneous.ignoreMetadata=§7Ignore metadata
+text.miscellaneous.useMetadata=§7Use metadata
+
+text.miscellaneous.noTarget=§7No target selected (Shift click on a block)
+text.miscellaneous.target.x=§7Target-X: %d
+text.miscellaneous.target.y=§7Target-Y: %d
+text.miscellaneous.target.z=§7Target-Z: %d
+
+text.miscellaneous.position.x=§7Pos-X: %d
+text.miscellaneous.position.y=§7Pos-Y: %d
+text.miscellaneous.position.z=§7Pos-Z: %d
+text.miscellaneous.dimension=§7Dimension: %d
+
+text.spectre.soulSolid=§7Soul Solid
+
+text.dyed=§7Dyed %s
+text.color.black=§7Black
+text.color.red=§7Red
+text.color.green=§7Green
+text.color.brown=§7Brown
+text.color.blue=§7Blue
+text.color.purple=§7Purple
+text.color.cyan=§7Cyan
+text.color.silver=§7Light Gray
+text.color.gray=§7Gray
+text.color.pink=§7Pink
+text.color.lime=§7Lime
+text.color.yellow=§7Yellow
+text.color.lightBlue=§7Light Blue
+text.color.magenta=§7Magenta
+text.color.orange=§7Orange
+text.color.white=§7White
+
+text.error.nbt=§7Couldn't use NBT Mod File, things like letters or magnetic force events won't survive restarts.
+
+text.magneticForce.notOnline=§7Not online
+text.magneticForce.invalidUsername=§7Invalid Username
+text.magneticForce.noRights=§7No right
+text.magneticForce.notYourself=§7Not to yourself
+
+text.enderLetter.noReceiver=§7No Receiver set
+text.enderLetter.receiver=§7Receiver: %s
+text.enderLetter.sender=§7Sender: %s
+text.enderLetter.invalidreceiver=§7You have specified an invalid receiver
+text.enderLetter.empty=§7You can't send an empty letter
+
+text.bloodmoon.command=§7There will be a Bloodmoon next night
+text.bloodmoon.notify=§7The Blood Moon is rising...
+text.bloodmoon.nosleep=§7You don't feel tired right now

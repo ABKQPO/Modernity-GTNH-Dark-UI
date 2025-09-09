@@ -1,0 +1,166 @@
+item.kekztech_error_item.name=§7KekzTech Error Coin
+
+# -------- Multiblock Tooltip Builder Keywords
+# -------- Context can be found in the class util.MultiBlockTooltipBuilder
+mbdesc.beginStructureBlock.Dimensions=§7Dimensions
+mbdesc.beginStructureBlock.Structure=§7Structure
+mbdesc.addController.Controller=§7Controller
+mbdesc.addCasing.atleast=§7(at least)
+mbdesc.addEnergyHatch.EnergyHatch=§7Energy Hatch
+mbdesc.addDynamoHatch.DynamoHatch=§7Dynamo Hatch
+mbdesc.addMaintenanceHatch.MaintenanceHatch=§7Maintenance Hatch
+mbdesc.addIOHatches.IOHatches=§7I/O Hatches
+mbdesc.addInputBus.InputBus=§7Input Bus/ses
+mbdesc.addInputHatch.InputHatch=§7Input Hatch/es
+mbdesc.addOutputBus.OutputBus=§7Output Bus/ses
+mbdesc.addOutputHatch.OutputHatch=§7Output Hatch/es
+mbdesc.signAndFinalize.Hold=§7Hold
+mbdesc.signAndFinalize.todisplay=§7to display structure guidelines
+mbdesc.signAndFinalize.createdby=§7Created by
+
+# -------- Fuel Cell: Structure Blocks
+tile.kekztech_gdcceramicelectrolyteunit_block.name=§7GDC Ceramic Electrolyte Unit
+tile.kekztech_yszceramicelectrolyteunit_block.name=§7YSZ Ceramic Electrolyte Unit
+
+# -------- Fuel Cell: Crafting Components
+item.kekztech_crafting_item.name=§7Crafting Component
+item.kekztech_crafting_item.9.name=§7YSZ Ceramic Dust
+item.kekztech_crafting_item.10.name=§7GDC Ceramic Dust
+item.kekztech_crafting_item.11.name=§7Yttria Dust
+item.kekztech_crafting_item.12.name=§7Zirconia Dust
+item.kekztech_crafting_item.13.name=§7Ceria Dust
+item.kekztech_crafting_item.14.name=§7YSZ Ceramic Plate
+item.kekztech_crafting_item.15.name=§7GDC Ceramic Plate
+
+# -------- TFFT: Structure Blocks
+tile.kekztech_tfftstoragefield_block.name=§7T.F.F.T Casing/Storage Field Block
+tile.kekztech_tfftstoragefield_block.0.name=§7T.F.F.T Casing
+tile.kekztech_tfftstoragefield_block.1.name=§7T.F.F.T Storage Field Block (Tier I)
+tile.kekztech_tfftstoragefield_block.2.name=§7T.F.F.T Storage Field Block (Tier II)
+tile.kekztech_tfftstoragefield_block.3.name=§7T.F.F.T Storage Field Block (Tier III)
+tile.kekztech_tfftstoragefield_block.4.name=§7T.F.F.T Storage Field Block (Tier IV)
+tile.kekztech_tfftstoragefield_block.5.name=§7T.F.F.T Storage Field Block (Tier V)
+tile.kekztech_tfftstoragefield_block.6.name=§7T.F.F.T Storage Field Block (Tier VI)
+tile.kekztech_tfftstoragefield_block.7.name=§7T.F.F.T Storage Field Block (Tier VII)
+tile.kekztech_tfftstoragefield_block.8.name=§7T.F.F.T Storage Field Block (Tier VIII)
+tile.kekztech_tfftstoragefield_block.9.name=§7T.F.F.T Storage Field Block (Tier IX)
+tile.kekztech_tfftstoragefield_block.10.name=§7T.F.F.T Storage Field Block (Tier X)
+tile.kekztech_tfftstoragefield_block.desc=§7This is not a fluid tank
+tile.kekztech_tfftstoragefield_block.hint.1=§7Hint 1 Dot: T.F.F.T Casing
+tile.kekztech_tfftstoragefield_block.hint.2=§7Hint 2 Dot: T.F.F.T Casing, Maintenance Hatch, T.F.F.T Multi I/O Hatch, Input/Output Hatch, Energy Hatch
+tile.kekztech_tfftstoragefield_block.hint.3=§7Hint 3 Dot: EV+ Tier Glass, T.F.F.T Multi I/O Hatch, Input/Output Hatch
+tile.kekztech_tfftstoragefield_block.hint.4=§7Hint 4 Dot: EV+ Tier Glass
+
+# -------- Lapotronic Super Capacitor: Structure Blocks
+tile.kekztech_lapotronicenergyunit_block.name=§7Lapotronic Casing/Capacitor
+tile.kekztech_lapotronicenergyunit_block.0.name=§7Lapotronic Super Capacitor Casing
+tile.kekztech_lapotronicenergyunit_block.1.name=§7Lapotronic Capacitor (IV)
+tile.kekztech_lapotronicenergyunit_block.2.name=§7Lapotronic Capacitor (LuV)
+tile.kekztech_lapotronicenergyunit_block.3.name=§7Lapotronic Capacitor (ZPM)
+tile.kekztech_lapotronicenergyunit_block.4.name=§7Lapotronic Capacitor (UV)
+tile.kekztech_lapotronicenergyunit_block.5.name=§7Ultimate Capacitor (UHV)
+tile.kekztech_lapotronicenergyunit_block.6.name=§7Empty Capacitor (-)
+tile.kekztech_lapotronicenergyunit_block.7.name=§7Lapotron Capacitor (EV)
+tile.kekztech_lapotronicenergyunit_block.8.name=§7Extremely Ultimate Capacitor (UEV)
+tile.kekztech_lapotronicenergyunit_block.9.name=§7Insanely Ultimate Capacitor (UIV)
+tile.kekztech_lapotronicenergyunit_block.10.name=§7Mega Ultimate Capacitor (UMV)
+tile.kekztech_lapotronicenergyunit_block.desc=§7Part of the Lapotronic Super Capacitor
+
+# -------- Thaumium Reinforced Jar: Block
+tile.kekztech_thaumiumreinforcedjar_block.name=§7Thaumium Reinforced Jar
+tile.kekztech_thaumiumreinforcedjar_block.0.name=§7Thaumium Reinforced Jar
+tile.kekztech_thaumiumreinforcedjar_block.3.name=§7Thaumium Reinforced Void Jar
+
+# -------- Thaumium Reinforced Jar: Research
+# This is the name of the research
+tc.research_name.THAUMIUMREINFORCEDJAR=§7Thaumium Reinforced Jars
+# This is the subtext for the research note
+tc.research_text.THAUMIUMREINFORCEDJAR=§7Slightly better jars
+# Lore text for the research pages
+kekztech.research_page.THAUMIUMREINFORCEDJAR.0=§7You have heard your fellow Thaumaturges talk about the benefits of digitized Essentia Storage.<BR><BR>Storing enough Essentia for your advanced infusions has indeed been an issue for you too. However those jars are simply too pleasing to look at to even consider the idea of replacing them with some compact technological construct.<BR><BR>Thanks to this new discovery, you have managed to quadruple the capacity of your jars by improving them with a thick Thaumium lining. This should buy you some more time to come up with a better solution.
+kekztech.research_page.THAUMIUMREINFORCEDJAR.1=§7Compressing this much Essentia in such a tiny space causes some volatility. Picking up reinforced jars is probably a bad idea...<BR><BR>You imagine that you could get even more out of your jars if only you had some kind of material harder than even diamond or any of the other magical metal you have seen so far.
+
+# -------- Ichor Jar: Block
+tile.kekztech_ichorjar_block.name=§7Ichor Jar
+tile.kekztech_ichorjar_block.0.name=§7Ichor Jar
+tile.kekztech_ichorjar_block.3.name=§7Ichor Void Jar
+
+# -------- Ichor Jar: Research
+tc.research_name.ICHORJAR=§7Ichor Jars
+tc.research_text.ICHORJAR=§7Much better jars
+kekztech.research_page.ICHORJAR.0=§7This is it!<BR><BR>By infusing a jar with just a single piece of Ichor you have created something to rival digitized Essentia storage without sacrificing any of the beauty of Warded Jars.<BR><BR>Ichor Jars can hold an astounding 4096 Essentia and fit nicely into your recently aquired set of Ichor based achievements.<BR><BR>You definitely don't want to disturb these jars. Luckily Ichor is resilient enough to make accidentially destroying one unlikely.
+
+# -------- Cosmetic Blocks
+tile.kekztech_largehextile_block.name=§7Large Hex Tile
+
+# -------- Achievements
+achievement.tile.kekztech_lapotronicenergyunit_block.2.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.2=§7Lapotronic Capacitor (LuV)
+achievement.tile.kekztech_lapotronicenergyunit_block.3.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.3=§7Lapotronic Capacitor (ZPM)
+achievement.tile.kekztech_lapotronicenergyunit_block.4.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.4=§7Lapotronic Capacitor (UV)
+achievement.tile.kekztech_lapotronicenergyunit_block.5.desc=§7Pickup this item to see the recipe in NEI
+achievement.tile.kekztech_lapotronicenergyunit_block.5=§7Ultimate Capacitor (UHV)
+achievement.tile.kekztech_lapotronicenergyunit_block.8.desc=§7Beyond the ranks of Gods
+achievement.tile.kekztech_lapotronicenergyunit_block.8=§7Extremely Ultimate Capacitor (UEV)
+achievement.tile.kekztech_lapotronicenergyunit_block.9.desc=§7Insanity ensues!
+achievement.tile.kekztech_lapotronicenergyunit_block.9=§7Insanely Ultimate Capacitor (UIV)
+achievement.tile.kekztech_lapotronicenergyunit_block.10.desc=§7How far can we go?
+achievement.tile.kekztech_lapotronicenergyunit_block.10=§7Mega Ultimate Capacitor (UMV)
+
+
+# -------- GUI
+gui.kekztech_lapotronicenergyunit.wireless=§7Wireless mode
+gui.kekztech_lapotronicenergyunit.wireless_rebalance=§7Rebalance Wireless (One Time Use)
+gui.kekztech_lapotronicenergyunit.warning.header=§7Warning!
+gui.kekztech_lapotronicenergyunit.warning.text=§7Make sure to carefully read and understand the tooltip before activating wireless mode, it can potentially brick your base. This warning won't appear again.
+
+kekztech.gui.lapotronic_super_capacitor.text.stored=§7Stored: %s EU
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_in=§7Avg EU IN: %s last 5s
+kekztech.gui.lapotronic_super_capacitor.text.avg_eu_out=§7Avg EU OUT: %s last 5s
+
+# -------- Tooltips
+tooltip.kekztech.crafting_component=§7Crafting component for KekzTech things
+tooltip.kekztech.lapotronic_energy_unit.capacity=§7Capacity: §c%s§7 EU
+tooltip.kekztech.lapotronic_energy_unit.wire_less_transfer=§7Supports up to §c%s§7 EU/t of wireless transfer per %s§7 capacitor.
+tooltip.kekztech.lapotronic_energy_unit.capacity.none=§7Capacity: None
+tooltip.kekztech.tfft.capacity=§7Capacity: §9%s§7 L
+tooltip.kekztech.tfft.capacity.per_fluid=§7Per Fluid Capacity: §9%s§7 L
+tooltip.kekztech.tfft.power_draw=§7Power Draw: §9%d§7 EU/t
+tooltip.kekztech.wrong=§7REMINDER: KekzTech recipes are only tested to work in GTNH!\nPlaceholder item in case something went wrong\nIf this item shows up in GTNH, you may report it to:\nhttps://github.com/kekzdealer/KekzTech
+
+# -------- InfoData
+kekztech.infodata.operational_data=§7Operational Data:
+kekztech.infodata.multi.maintenance_status=§7Maintenance Status: %s
+kekztech.infodata.multi.maintenance_status.ok=§7Working perfectly
+kekztech.infodata.multi.maintenance_status.bad=§7Has Problems
+kekztech.infodata.lapotronic_super_capacitor.eu_stored=§7EU Stored: %s EU
+kekztech.infodata.lapotronic_super_capacitor.used_capacity=§7Used Capacity: %s
+kekztech.infodata.lapotronic_super_capacitor.total_capacity=§7Total Capacity: %s EU
+kekztech.infodata.lapotronic_super_capacitor.passive_loss=§7Passive Loss: %s EU/t
+kekztech.infodata.lapotronic_super_capacitor.eu_in=§7EU IN: %s EU/t
+kekztech.infodata.lapotronic_super_capacitor.eu_out=§7EU OUT: %s EU/t
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.sec=§7Avg EU IN: %s (last %d seconds)
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.sec=§7Avg EU OUT: %s (last %d seconds)
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.min5=§7Avg EU IN: %s (last 5 minutes)
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.min5=§7Avg EU OUT: %s (last 5 minutes)
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_in.hour1=§7Avg EU IN: %s (last 1 hour)
+kekztech.infodata.lapotronic_super_capacitor.avg_eu_out.hour1=§7Avg EU OUT: %s (last 1 hour)
+kekztech.infodata.lapotronic_super_capacitor.time_to.full=§7Time to Full: %s
+kekztech.infodata.lapotronic_super_capacitor.time_to.sth=§7Time to Something: Infinity years
+kekztech.infodata.lapotronic_super_capacitor.time_to.empty=§7Time to Empty: %s
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode=§7Wireless mode: %s
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.enabled=§7enabled
+kekztech.infodata.lapotronic_super_capacitor.wireless_mode.disabled=§7disabled
+kekztech.infodata.lapotronic_super_capacitor.capacitors=§7%s Capacitors detected: %d
+kekztech.infodata.lapotronic_super_capacitor.wireless_eu=§7Total wireless EU: %s EU
+kekztech.infodata.tank.tfft.stored_fluids=§7Stored Fluids:
+kekztech.infodata.tank.tfft.stored_fluids.null=§7NULL
+kekztech.infodata.tank.tfft.used=§7Used Capacity: %sL
+kekztech.infodata.tank.tfft.total=§7Total Capacity: %sL
+kekztech.infodata.tank.tfft.per_fluid_capacity=§7Per-Fluid Capacity: %sL
+kekztech.infodata.tank.tfft.running_cost=§7Running Cost: %dEU/t
+kekztech.infodata.tank.tfft.auto_voiding=§7Auto-voiding: %b
+
+kekztech.structure.glass_incompatible=§7§cGlass configuration incompatible

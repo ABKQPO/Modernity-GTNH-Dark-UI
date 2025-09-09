@@ -1,0 +1,58 @@
+﻿# Carpenter's Blocks Language File =§7SWEDISH
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Snickarens Hammare
+item.itemCarpentersChisel.name=§7Snickarens Stämjärn
+item.itemCarpentersDoor.name=§7Snickarens Dörr
+item.itemCarpentersBed.name=§7Snickarens Säng
+item.itemCarpentersTile.name=§7Snickarens Kakelplatta
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Snickarens Barriär
+tile.blockCarpentersBed.name=§7Snickarens Säng
+tile.blockCarpentersBlock.name=§7Snickarens Block
+tile.blockCarpentersButton.name=§7Snickarens Knapp
+tile.blockCarpentersDaylightSensor.name=§7Snickarens Ljussensor
+tile.blockCarpentersCollapsibleBlock.name=§7Snickarens Hopfällbara Block
+tile.blockCarpentersDoor.name=§7Snickarens Dörr
+tile.blockCarpentersGate.name=§7Snickarens Grind
+tile.blockCarpentersHatch.name=§7Snickarens Lucka
+tile.blockCarpentersLadder.name=§7Snickarens Stege
+tile.blockCarpentersLever.name=§7Snickarens Spak
+tile.blockCarpentersPressurePlate.name=§7Snickarens Tryckplatta
+tile.blockCarpentersSlope.wedge.name=§7Snickarens Lutande Kil
+tile.blockCarpentersSlope.obliqueInterior.name=§7Snickarens Sneda Inre Lutning
+tile.blockCarpentersSlope.obliqueExterior.name=§7Snickarens Sneda Yttre Lutning
+tile.blockCarpentersSlope.prism.name=§7Snickarens Prismaformade Lutning
+tile.blockCarpentersSlope.prismWedge.name=§7Snickarens Prismaformade Kil
+tile.blockCarpentersStairs.name=§7Snickarens Trappor
+tile.blockCarpentersTorch.name=§7Snickarens Fackla
+tile.blockCarpentersSafe.name=§7Snickarens Kassaskåp
+tile.blockCarpentersFlowerPot.name=§7Snickarens Blomkruka
+
+# ENTITIES
+entity.CarpentersTile.name=§7Snickarens Kakelplatta
+
+# MESSAGES
+message.polarity_pos.name=§7POLARITET: Normal rödstens-utsignal.
+message.polarity_neg.name=§7POLARITET: Inverterad rödstens-utsignal.
+message.activation_iron.name=§7AKTIVERING: Kommer att bete sig som en järndörr.
+message.activation_wood.name=§7AKTIVERING: Kommer att bete sig som en trädörr.
+message.trigger_player.name=§7TRIGGER: Aktivera endast för spelare.
+message.trigger_monster.name=§7TRIGGER: Aktivera endast för monster.
+message.trigger_animal.name=§7TRIGGER: Aktivera endast för djur.
+message.trigger_all.name=§7TRIGGER: Aktivera för alla.
+message.safe_lock.name=§7KONTROLL: Kassaskåpet låst.
+message.safe_unlock.name=§7KONTROLL: Kassaskåpet olåst.
+message.automation_all.name=§7AUTOMATISERING: Saker kan läggas in och tas ut.
+message.automation_disabled.name=§7AUTOMATISERING: Avaktiverat.
+message.automation_insert.name=§7AUTOMATISERING: Saker kan bara läggas in.
+message.automation_extract.name=§7AUTOMATISERING: Saker kan bara tas ut.
+message.block_lock.name=§7KONTROLL: Detta block är låst.
+message.sensitivity_sleep.name=§7KÄNSLIGHET: Växla status vid spelarens sömntröskel (soluppgång och solnedgång).
+message.sensitivity_monsters.name=§7KÄNSLIGHET: Växla status vid ljuströskeln för monsterspawn (inklusive stormar).
+
+# </file>

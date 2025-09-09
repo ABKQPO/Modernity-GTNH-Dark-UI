@@ -1,0 +1,11 @@
+item.wrcbe_addons:sniffer.name=§7Беспроводной снифер
+item.wrcbe_addons:psniffer.name=§7Приватный снифер
+item.wrcbe_addons:map.name=§7Беспроводная карта
+item.wrcbe_addons:rep.name=§7РМИ
+item.wrcbe_addons:triangulator.name=§7Беспроводной триангулятор
+item.wrcbe_addons:remote.name=§7Беспроводной пульт
+item.wrcbe_addons:tracker.name=§7Беспроводной маячок
+
+wrcbe_addons.triangulator.short=§7Триангулятор
+wrcbe_addons.remote.short=§7Remote
+wrcbe_addons.tracker.short=§7Tracker

@@ -1,0 +1,184 @@
+itemGroup.malisisdoors=§7Malisis'Doors
+
+item.wood_sliding_door.name=§7Wooden Glass Door
+item.iron_sliding_door.name=§7Iron Glass Door
+item.jail_door.name=§7Jail Door
+item.laboratory_door.name=§7Laboratory Door
+item.factory_door.name=§7Factory Door
+item.custom_door.name=§7Custom Door
+item.shoji_door.name=§7Shoji Door
+item.rustyHatch.name=§7Rusty Hatch
+item.rustyHandle.name=§7Rusty Handle
+item.carriage_door.name=§7Carriage Door
+item.medieval_door.name=§7Medieval Door
+item.forcefieldItem.name=§7Forcefield Controller
+item.door_spruce.name=§7Spruce Door
+item.door_birch.name=§7Birch Door
+item.door_jungle.name=§7Jungle Door
+item.door_acacia.name=§7Acacia Door
+item.door_dark_oak.name=§7Dark Oak Door
+item.saloon.name=§7Saloon Door
+
+item.curtain_white.name=§7White Curtain
+item.curtain_orange.name=§7Orange Curtain
+item.curtain_magenta.name=§7Magenta Curtain
+item.curtain_light_blue.name=§7Light Blue Curtain
+item.curtain_yellow.name=§7Yellow Curtain
+item.curtain_lime.name=§7Lime Curtain
+item.curtain_pink.name=§7Pink Curtain
+item.curtain_gray.name=§7Gray Curtain
+item.curtain_silver.name=§7SilverCurtain
+item.curtain_cyan.name=§7Cyan Curtain
+item.curtain_purple.name=§7Purple Curtain
+item.curtain_blue.name=§7Blue Curtain
+item.curtain_brown.name=§7Brown Curtain
+item.curtain_green.name=§7Green Curtain
+item.curtain_red.name=§7Red Curtain
+item.curtain_black.name=§7Black Curtain
+
+
+tile.player_sensor.name=§7Player Sensor
+tile.vanishing_block.name=§7Vanishing Frame
+tile.vanishing_block_wood.name=§7Wooden Vanishing Frame
+tile.vanishing_block_iron.name=§7Iron Vanishing Frame
+tile.vanishing_block_gold.name=§7Gold Vanishing Frame
+tile.vanishing_block_diamond.name=§7Diamond Vanishing Frame
+tile.block_mixer.name=§7Block Mixer
+tile.mixed_block.name=§7Mixed Block
+tile.garage_door.name=§7Garage Door
+tile.jail_door.name=§7Jail Door
+tile.laboratory_door.name=§7Laboratory Door
+tile.factory_door.name=§7Factory Door
+tile.door_factory.name=§7Door Factory
+tile.custom_door.name=§7Custom Door
+tile.shoji_door.name=§7Shoji Door
+tile.wood_sliding_door.name=§7Wooden Glass Door
+tile.iron_sliding_door.name=§7Iron Glass Door
+tile.rustyHatch.name=§7Rusty Hatch
+tile.carriage_door.name=§7Carriage Door
+tile.carriage_door_collisionHelper.name=§7Carriage Door Collision Helper
+tile.medieval_door.name=§7Medieval Door
+tile.medieval_door_collisionHelper.name=§7Medieval Door Collision Helper
+tile.forcefieldDoor.name=§7Forcefield
+tile.rustyLadder.name=§7Rusty Ladder
+tile.door_spruce.name=§7Spruce Door
+tile.door_birch.name=§7Birch Door
+tile.door_jungle.name=§7Jungle Door
+tile.door_acacia.name=§7Acacia Door
+tile.door_dark_oak.name=§7Dark Oak Door
+tile.iron_trapdoor.name=§7Iron Trapdoor
+tile.sliding_trapdoor.name=§7Sliding Trapdoor
+tile.saloon.name=§7Saloon Door
+
+tile.fenceGate.name=§7Oak Fence Gate
+tile.spruceFenceGate.name=§7Spruce Fence Gate
+tile.birchFenceGate.name=§7Birch Fence Gate
+tile.jungleFenceGate.name=§7Jungle Fence Gate
+tile.darkOakFenceGate.name=§7Dark Oak Fence Gate
+tile.acaciaFenceGate.name=§7Acacia Fence Gate
+tile.camoFenceGate.name=§7Camo Fence Gate
+
+tile.trapdoor_acacia.name=§7Acacia Trapdoor
+tile.trapdoor_birch.name=§7Birch Trapdoor
+tile.trapdoor_dark_oak.name=§7Dark Oak Trapdoor
+tile.trapdoor_jungle.name=§7Jungle Trapdoor
+tile.trapdoor_spruce.name=§7Spruce Trapdoor
+
+tile.curtain_white.name=§7White Curtain
+tile.curtain_orange.name=§7Orange Curtain
+tile.curtain_magenta.name=§7Magenta Curtain
+tile.curtain_light_blue.name=§7Light Blue Curtain
+tile.curtain_yellow.name=§7Yellow Curtain
+tile.curtain_lime.name=§7Lime Curtain
+tile.curtain_pink.name=§7Pink Curtain
+tile.curtain_gray.name=§7Gray Curtain
+tile.curtain_silver.name=§7SilverCurtain
+tile.curtain_cyan.name=§7Cyan Curtain
+tile.curtain_purple.name=§7Purple Curtain
+tile.curtain_blue.name=§7Blue Curtain
+tile.curtain_brown.name=§7Brown Curtain
+tile.curtain_green.name=§7Green Curtain
+tile.curtain_red.name=§7Red Curtain
+tile.curtain_black.name=§7Black Curtain
+
+
+malisisdoors.command.usage=§7Use /malisisdoors <command> where command is config or version
+
+config.title=§7MalisisDoors' configuration
+
+config.modifyVanillaDoors=§7Enable vanilla doors improvement
+config.modifyVanillaDoors.comment1=§7Enables the animations for doors, fence gates and trap doors.
+config.modifyVanillaDoors.comment2=§7This replaces the doors entirely so conflicts may arise if another mod tries to modify them too.
+
+config.enableMixedBlocks=§7Enable Block Mixer and Mixed Blocks
+
+config.simpleMixedBlockRendering=§7Simple Mixed Blocks rendering
+config.simpleMixedBlockRendering.comment1=§7Enables less fancy rendering for Mixed Blocks.
+config.simpleMixedBlockRendering.comment2=§7Enable this option if you experience z-fighting issue or glitched rendering.
+
+config.enableVanishingBlocks=§7Enable Vanishing Frames
+
+config.enableVanishingGlitch=§7Enable Vanishing Frames glitch animation
+config.enableVanishingGlitch.comment=§7Frames randomly become unstable and are temporarily out of this dimension.
+ 
+config.vanishingGlitchChance=§7Vanishing Frames glitch frequency
+config.vanishingGlitchChance.comment=§7How often the frame become unstable.
+
+config.enhancedMixedBlockPlacement=§7Use enhanced mixed block placement
+config.enhancedMixedBlockPlacement.comment1=§7Allows to place the block base on where you look instead of the side you're placing it on.
+config.enhancedMixedBlockPlacement.comment2=§7Use sneak key to inverse the block placement.
+
+config.enableCamoFenceGate=§7Enable camo Fence Gates
+config.enableCamoFenceGate.comment=§7Enables Fence Gate to use the texture of the blocks surrounding them.
+
+
+door_movement.rotating_door=§7Rotating
+door_movement.sliding_door=§7Sliding on the side
+door_movement.sliding_up_door=§7Sliding up
+door_movement.sliding_split_door=§7Sliding up and down
+door_movement.rotating_split_door=§7Rotating up and down
+door_movement.vault_door=§7Vault
+door_movement.sliding_4ways=§7Sliding four ways
+door_movement.rotating_4ways=§7Rotating four ways
+door_movement.rotate_around=§7Rotating around
+door_movement.rotate_slide=§7Rotating and sliding
+door_movement.rotate_place=§7Rotating and replacing
+door_movement.vanishing_door=§7Vanishing
+door_movement.spinning_door=§7Spinning
+door_movement.spinning_around_door=§7Vortex
+door_movement.double_slide_left=§7Double sliding left
+door_movement.double_slide_right=§7Double sliding right
+door_movement.double_rotate_left=§7Double rotating left
+door_movement.double_rotate_right=§7Double rotating right
+
+
+
+gui.door_factory.tab_properties=§7Properties
+gui.door_factory.tab_materials=§7Materials
+gui.door_factory.tab_digicode=§7Digicode
+gui.door_factory.rb_create=§7Create
+gui.door_factory.rb_edit=§7Modify
+gui.door_factory.door_movement=§7Movement
+gui.door_factory.door_open_time=§7Opening time
+gui.door_factory.door_auto_close_time=§7Auto close delay
+gui.door_factory.door_require_redstone=§7Requires redstone
+gui.door_factory.door_double_door=§7Double door
+gui.door_factory.door_sound=§7Sound type
+gui.door_factory.door_sound.silent_door=§7Silent
+gui.door_factory.door_sound.vanilla_door=§7Vanilla door
+gui.door_factory.door_sound.glass_door=§7Glass door
+gui.door_factory.door_sound.jail_door=§7Jail door
+gui.door_factory.door_sound.pneumatic_door=§7Pneumatic door
+gui.door_factory.door_sound.shoji_door=§7Shoji door
+gui.door_factory.door_sound.carriage_door=§7Big Door
+
+
+gui.door_factory.frame_type=§7Frame type
+gui.door_factory.top_material=§7Top block material
+gui.door_factory.bottom_material=§7Bottom block material
+gui.door_factory.door_edit_slot=§7Door to modify
+gui.door_factory.create_door=§7Create door
+gui.door_factory.edit_door=§7Modify door
+
+gui.block_mixer.simple_rendering=§7Simple rendering
+gui.block_mixer.simple_rendering_tooltip=§7In world blocks require chunk update to take effect.

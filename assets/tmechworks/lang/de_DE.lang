@@ -1,0 +1,12 @@
+itemGroup.TMechworks=§7TMechworks
+
+tile.signalbus.name=§7Signalbus
+tile.signalterminal.name=§7Signal-Terminal
+
+item.spoolwire.name=§7Kabelrolle
+item.lengthwire.name=§7Kabelbahn
+
+block.drawbridge.name=§7Zugbrücke
+block.firestarter.name=§7Entzünder
+block.advdrawbridge.name=§7Fortgeschrittene Zugbrücke
+block.extdrawbridge.name=§7Erweiterte Zugbrücke

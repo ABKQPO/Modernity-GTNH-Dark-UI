@@ -1,0 +1,8 @@
+commands.realname.usage=§7/realname <pseudonim>
+commands.realname.is=§7Prawdziwy nick tej osoby to %s
+commands.realname.isNot=§7Ta osoba nie ma pseudonimu!
+commands.me.usage=§7/me <...>
+commands.nick.usage=§7/nick <pseudonim>
+commands.nick.usage.op=§7/nick [cel] <pseudonim>
+commands.nick.done=§7Pseudonim zmieniony!
+item.asielib.unknown.name=§7Nieznana Część

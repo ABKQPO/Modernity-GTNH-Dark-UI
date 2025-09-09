@@ -1,0 +1,187 @@
+﻿nei.load=§7Načítaj
+nei.save=§7Ulož
+
+nei.enchant=§7Očarovanie
+nei.enchant.level=§7Úroveň
+nei.enchant.locked=§7Zamknuté
+nei.enchant.unlocked=§7Odomknuté
+
+nei.inventory.options=§7Nastavenia
+nei.inventory.prev=§7Predchádzajúce
+nei.inventory.next=§7Nasledujúce
+nei.inventory.item_subsets=§7Podmnožiny itemov
+nei.inventory.delete.inv=§7ZMAŽ VŠETKY VECI z vybranej obrazovky inventára
+nei.inventory.delete.one=§7Zmaž %s
+nei.inventory.delete.all=§7Zmaž VŠETKY %s
+nei.inventory.delete.enable=§7Povoliť mazanie
+nei.inventory.delete.1=§7Zapnúť mazanie
+nei.inventory.delete.0=§7Vypnúť mazanie
+nei.inventory.rain.enable=§7Povoliť dážď
+nei.inventory.rain.1=§7Zapnúť dážď
+nei.inventory.rain.0=§7Vypnúť dážď
+nei.inventory.magnet.enable=§7Povoliť magnet
+nei.inventory.magnet.1=§7Zapnúť magnet
+nei.inventory.magnet.0=§7Vypnúť magnet
+nei.inventory.dawn.enable=§7Povoliť ráno - poludnie
+nei.inventory.dawn.set=§7Nastaviť čas na ráno
+nei.inventory.noon.enable=§7Povoliť poludnie - večer
+nei.inventory.noon.set=§7Nastaviť čas na poludnie
+nei.inventory.dusk.enable=§7Povoliť večer - polnoc
+nei.inventory.dusk.set=§7Nastaviť čas na večer
+nei.inventory.midnight.enable=§7Povoliť polnoc - ráno
+nei.inventory.midnight.set=§7Nastaviť čas na polnoc
+nei.inventory.heal=§7Uzdraviť hráča
+nei.inventory.gamemode.0=§7Nastaviť na hru o prežitie
+nei.inventory.gamemode.1=§7Nastaviť na tvorivú hru
+nei.inventory.gamemode.2=§7Nastaviť na tvorivú hru+
+nei.inventory.gamemode.3=§7Nastaviť na dobrodružstvo
+
+nei.chat.gamemode.0=§7Práve hráte hru o prežitie
+nei.chat.gamemode.1=§7Práve hráte tvorivú hru
+nei.chat.gamemode.2=§7Práve hráte tvorivú hru+
+nei.chat.gamemode.3=§7Práve hráte dobrodružstvo
+nei.chat.rain.on=§7Dážď bol zapnutý
+nei.chat.rain.off=§7Dážď bol vypnutý
+nei.chat.time=§7Deň %d. %d:00
+nei.chat.give.noitem=§7Žiaden takýto item.
+nei.chat.chunkoverlay.0=§7Chunk Overlay: Off
+nei.chat.chunkoverlay.1=§7Chunk Overlay: Chunk Corners
+nei.chat.chunkoverlay.2=§7Chunk Overlay: Chunks
+nei.chat.chunkoverlay.3=§7Chunk Overlay: GT Ore Veins
+
+nei.options=§7Nastavenia NEI
+nei.options.back=§7Späť
+nei.options.world=§7Svet
+nei.options.global=§7Globálne
+nei.options.global.tip.0=§7Nastavenia sa aplikujú na všetky svety
+nei.options.global.tip.1=§7Klikni W vedľa an:možnosti a povoľ an:náhradu pre tento svet
+nei.options.wbutton.tip.0=§7Používajú sa globálne nastavenia
+nei.options.wbutton.tip.1=§7Globálne nastavenia sú nahradené
+
+nei.options.keys=§7Klávesové skratky
+nei.options.keys.gui=§7Inventár
+nei.options.keys.gui.recipe=§7Recept
+nei.options.keys.gui.usage=§7Použitie
+nei.options.keys.gui.enchant=§7Očarovania
+nei.options.keys.gui.potion=§7Elixíry
+nei.options.keys.gui.back=§7Predchádzajúci recept
+nei.options.keys.gui.prev=§7Predchádzajúca strana
+nei.options.keys.gui.next=§7Nasledujúca strana
+nei.options.keys.gui.hide=§7Prepni viditeľnosť NEI
+nei.options.keys.gui.search=§7Zamerania na vyhľadávací riadok
+nei.options.keys.world=§7Svet
+nei.options.keys.world.chunkoverlay=§7Vrstva hraníc chunkov
+nei.options.keys.world.moboverlay=§7Vrstva zrodenia sa monštier
+nei.options.keys.world.highlight_tips=§7Zvýraznenie opisov
+nei.options.keys.world.dawn=§7Ráno
+nei.options.keys.world.noon=§7Poludnie
+nei.options.keys.world.dusk=§7Večer
+nei.options.keys.world.midnight=§7Polnoc
+nei.options.keys.world.rain=§7Dážď
+nei.options.keys.world.heal=§7Uzdravenie
+nei.options.keys.world.creative=§7Herný mód
+nei.options.keys.world.creative.tip=§7Cyklické prepínanie herných módov
+
+nei.options.inventory=§7Inventár
+nei.options.inventory.widgetsenabled.true=§7NEI povolené
+nei.options.inventory.widgetsenabled.false=§7NEI zakázané
+nei.options.inventory.cheatmode.0=§7Mód Receptov
+nei.options.inventory.cheatmode.1=§7Úžitkový mód
+nei.options.inventory.cheatmode.2=§7Čítovací mód
+
+nei.options.inventory.guirecipe.profile=§7Profilovanie receptov
+nei.options.inventory.guirecipe.profile.true=§7Áno
+nei.options.inventory.guirecipe.profile.false=§7Nie
+nei.options.inventory.itemsort=§7Zoradenie itemov
+nei.options.inventory.itemIDs=§7ID itemov
+nei.options.inventory.itemIDs.0=§7Skryté
+nei.options.inventory.itemIDs.1=§7Automatické
+nei.options.inventory.itemIDs.2=§7Zobrazené
+nei.options.inventory.search.patternMode=§7Spôsob vyhľadávania
+nei.options.inventory.search.patternMode.0=§7Jednoduchý
+nei.options.inventory.search.patternMode.1=§7Rozšírený
+nei.options.inventory.search.patternMode.2=§7Regulárne výrazy
+nei.options.inventory.utilities=§7Utility
+nei.options.inventory.utilities.tip=§7Zvoľ funkcie pre úžitkový mód
+nei.options.inventory.utilities.time=§7Čas
+nei.options.inventory.utilities.rain=§7Dážď
+nei.options.inventory.utilities.heal=§7Uzdravenie
+nei.options.inventory.utilities.delete=§7Mazanie
+nei.options.inventory.utilities.magnet=§7Magnet
+nei.options.inventory.utilities.gamemode=§7Herný mód
+nei.options.inventory.utilities.enchant=§7Očarovanie
+nei.options.inventory.utilities.potion=§7Elixíry
+nei.options.inventory.utilities.item=§7Itemy
+nei.options.inventory.gamemodes=§7Herné módy
+nei.options.inventory.gamemodes.tip=§7Zvoľ herné módy pre cyklenie
+nei.options.inventory.gamemodes.creative=§7Tvorivý
+nei.options.inventory.gamemodes.creative+=§7Tvorivý+
+nei.options.inventory.gamemodes.adventure=§7Dobrodružstvo
+
+nei.options.command=§7Príkazy
+nei.options.command.creative=§7Herný mód
+nei.options.command.creative.tip=§7{0} = 1 pre tvorivý, 0 pre prežitie, {1} = hráč
+nei.options.command.item=§7Item
+nei.options.command.item.tip=§7{0} = hráč, {1} = id, {2} = množstvo, {3} = poškodenie, {4} = nbt, {5} = názov
+nei.options.command.time=§7Čas
+nei.options.command.time.tip=§7{0} = svetový čas
+nei.options.command.rain=§7Dážď
+nei.options.command.rain.tip=§7{0} = 1 pre zapnutie, 0 pre vypnutie
+nei.options.command.heal=§7Uzdravenie
+nei.options.command.heal.tip=§7{0} = hráč
+
+nei.options.world.highlight_tips=§7Opisy zvýraznenia
+nei.options.world.highlight_tips.hide=§7Skryté
+nei.options.world.highlight_tips.show=§7Zobrazené
+
+nei.options.tools=§7Nástroje
+nei.options.tools.dump=§7Dátová halda
+nei.options.tools.dump.dump=§7Vysypať
+nei.options.tools.dump.dumped=§7%s IDčka boli vysypané do %s
+nei.options.tools.dump.mode.0=§7Používané
+nei.options.tools.dump.mode.1=§7Voľné
+nei.options.tools.dump.mode.2=§7Všetko
+nei.options.tools.dump.item=§7Item
+nei.options.tools.dump.items=§7Itemy
+nei.options.tools.dump.block=§7Kocka
+nei.options.tools.dump.blocks=§7Kocky
+nei.options.tools.dump.potion=§7Elixír
+nei.options.tools.dump.potions=§7Elixíry
+nei.options.tools.dump.enchantment=§70čarovanie
+nei.options.tools.dump.enchantments=§7Očarovania
+nei.options.tools.dump.biome=§7Bióm
+nei.options.tools.dump.biomes=§7Biómy
+nei.options.tools.dump.itempanel=§7Panel itemov
+nei.options.tools.dump.itempanel.dumped=§7Obsah panelu itemov were dumped to %s
+nei.options.tools.dump.itempanel.mode.0=§7CSV
+nei.options.tools.dump.itempanel.mode.1=§7NBT
+nei.options.tools.dump.itempanel.mode.2=§7Json
+
+
+
+
+nei.recipe.page=§7Strana %s/%s
+nei.recipe.shaped=§7Tvarovaná výroba
+nei.recipe.shapeless=§7Beztvará výroba
+nei.recipe.furnace=§7Tavenie
+nei.recipe.fuel=§7Palivo
+nei.recipe.fuel.required=§7%s potrebné
+nei.recipe.fuel.processed=§7%s spracované
+nei.recipe.fuel.produced=§7%s vyprodukované
+nei.recipe.firework=§7Ohňostroj
+nei.recipe.firework.tooltip0=§7Farby zafarbujú nálože
+nei.recipe.firework.tooltip1=§7Prefarbovanie pridáva náložiam miznúcu farbu
+nei.recipe.firework.tooltip2=§7Z jednej rakety môže byť odpálených viac náloží
+nei.recipe.brewing=§7Varenie
+nei.recipe.profiler.crafting=§7Profilovanie výroby
+nei.recipe.profiler.usage=§7Profilovanie používania
+
+nei.itemsort.minecraft=§7Minecraft
+nei.itemsort.minecraft.tip=§7Zobrazuje itemy z Minecraftu ako prvé
+nei.itemsort.mod=§7Mód
+nei.itemsort.mod.tip=§7Zoskupuje itemy z rovnakého módu a zoraďuje módy abecedne
+nei.itemsort.id=§7ID Itemov
+nei.itemsort.default=§7Prevolené
+nei.itemsort.default.tip=§7Prirodzené zoradenie itemov zostáva nezmenené
+nei.itemsort.damage=§7Poškodenie itemov
+nei.itemsort.name=§7Názov

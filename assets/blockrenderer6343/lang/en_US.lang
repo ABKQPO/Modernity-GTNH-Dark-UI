@@ -1,0 +1,15 @@
+gui.blockrenderer6343.BgColor=§7C6C6C6
+blockrenderer6343.multiblock.structure=§7Multiblock Structure
+blockrenderer6343.no_space=§7Not enough space!
+blockrenderer6343.multiblock.project=§7Project Multiblock
+blockrenderer6343.multiblock.overlay=§7NEI Overlay
+blockrenderer6343.multiblock.copy_channels=§7Copy channels to held hologram projector
+blockrenderer6343.no_projector=§7No hologram projector found in hand
+blockrenderer6343.no_block=§7Can't find block to place on
+blockrenderer6343.nei.tier=§7Tier
+blockrenderer6343.nei.layer=§7Layer
+blockrenderer6343.nei.hatch_highlight=§7Toggle hatch position highlight
+blockrenderer6343.nei.hint_dot=§7Hint dot: %s
+blockrenderer6343.nei.valid_hatches=§7Valid hatches:%s
+blockrenderer6343.nei.all=§7All
+blockrenderer6343.nei.not_set=§7Not set

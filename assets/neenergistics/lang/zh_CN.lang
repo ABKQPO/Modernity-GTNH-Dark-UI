@@ -1,0 +1,14 @@
+nei.options.keys.nee=§7NotEnoughEnergistics
+nei.options.keys.nee.count=§7修改物品数量
+nei.options.keys.nee.ingredient=§7选择材料
+nei.options.keys.nee.preview=§7合成帮助
+nei.options.keys.nee.nopreview=§7合成帮助(无预览)
+
+gui.neenergistics.button.title.combination=§7合并同类物品
+gui.neenergistics.button.tooltip.combination=§7当前模式: %s
+gui.neenergistics.button.name.enabled=§7开启
+gui.neenergistics.button.name.disabled=§7关闭
+gui.neenergistics.button.name.whitelist=§7白名单
+gui.neenergistics.button.title.remove=§7删除
+gui.neenergistics.button.tooltip.remove=§7删除并取消当前配方
+tile.neenergistics.pattern_interface.name=§7样板接口

@@ -1,0 +1,106 @@
+itemGroup.storageDrawers=§7מגירות אכסון
+
+# Items
+item.storagedrawers.upgradeTemplate.name=§7Upgrade Template
+item.storagedrawers.upgrade.iron.name=§7שדרוג למגירה (2)
+item.storagedrawers.upgrade.gold.name=§7שדרוג למגירה (3)
+item.storagedrawers.upgrade.obsidian.name=§7שדרוג למגירה (4)
+item.storagedrawers.upgrade.diamond.name=§7שדרוג למגירה (5)
+item.storagedrawers.upgrade.emerald.name=§7שדרוג למגירה (6)
+item.storagedrawers.upgradeStatus.level1.name=§7Status Upgrade (I)
+item.storagedrawers.upgradeStatus.level1.description=§7Shows full storage
+item.storagedrawers.upgradeStatus.level2.name=§7Status Upgrade (II)
+item.storagedrawers.upgradeStatus.level2.description=§7Shows near-full storage
+item.storagedrawers.upgradeStatus.level3.name=§7Status Upgrade (III)
+item.storagedrawers.upgradeStatus.level3.description=§7Shows fill level
+item.storagedrawers.upgradeLock.name=§7Lock Upgrade
+item.storagedrawers.upgradeLock.description=§7Keep associated items when empty
+
+# Blocks
+tile.fullDrawers2.oak.name=§7מגירות אלון 1x2
+tile.fullDrawers2.spruce.name=§7מגירות אשוח 1x2
+tile.fullDrawers2.birch.name=§7מגירות ליבנה 1x2
+tile.fullDrawers2.jungle.name=§7מגירות עץ ג'ונגל 1x2
+tile.fullDrawers2.acacia.name=§7מגירות שיטה 1x2
+tile.fullDrawers2.big_oak.name=§7מגירות אלון כהה 1x2
+
+tile.fullDrawers4.oak.name=§7מגירות אלון 2x2
+tile.fullDrawers4.spruce.name=§7מגירות אשוח 2x2
+tile.fullDrawers4.birch.name=§7מגירות ליבנה 2x2
+tile.fullDrawers4.jungle.name=§7מגירות עץ ג'ונגל 2x2
+tile.fullDrawers4.acacia.name=§7מגירות שיטה 2x2
+tile.fullDrawers4.big_oak.name=§7מגירות אלון כהה 2x2
+
+tile.halfDrawers2.oak.name=§7מגירות אלון קטנות 1x2
+tile.halfDrawers2.spruce.name=§7מגירות אשוח קטנות 1x2
+tile.halfDrawers2.birch.name=§7מגירות ליבנה קטנות 1x2
+tile.halfDrawers2.jungle.name=§7מגירות עץ ג'ונגל קטנות 1x2
+tile.halfDrawers2.acacia.name=§7מגירות שיטה קטנות 1x2
+tile.halfDrawers2.big_oak.name=§7מגירות אלון כהה קטנות 1x2
+
+tile.halfDrawers4.oak.name=§7מגירות אלון קטנות 2x2
+tile.halfDrawers4.spruce.name=§7מגירות אשוח קטנות 2x2
+tile.halfDrawers4.birch.name=§7מגירות ליבנה קטנות 2x2
+tile.halfDrawers4.jungle.name=§7מגירות עץ ג'ונגל קטנות 2x2
+tile.halfDrawers4.acacia.name=§7מגירות שיטה קטנות 2x2
+tile.halfDrawers4.big_oak.name=§7מגירות אלון כהה קטנות 2x2
+
+tile.compDrawers.name=§7Compacting Drawer
+
+storageDrawers.drawers.description=§7מכיל %d ערימות בכל מגירה
+storageDrawers.upgrade.description=§7מכפיל את כמות האכסון ב־%d
+
+# Integration
+storageDrawers.waila.empty=§7ריק
+storageDrawers.waila.level=§7רמת שדרוג: %s
+storageDrawers.waila.drawer=§7מגירה #%s: %s
+storageDrawers.waila.locked=§7Locked
+
+# Configuration
+storageDrawers.config.title=§7Storage Drawers Configuration
+
+storageDrawers.config.general=§7General Settings
+storageDrawers.config.general.tooltip=§7This and that.
+
+storageDrawers.config.blocks=§7Block Settings
+storageDrawers.config.blocks.tooltip=§7Configure individual storage blocks.
+
+storageDrawers.config.blocks.fullDrawers2=§7Drawers 1x2
+storageDrawers.config.blocks.fullDrawers4=§7Drawers 2x2
+storageDrawers.config.blocks.halfDrawers2=§7Compact Drawers 1x2
+storageDrawers.config.blocks.halfDrawers4=§7Compact Drawers 2x2
+storageDrawers.config.blocks.compDrawers=§7Compacting Drawer
+
+storageDrawers.config.upgrades=§7Upgrade Settings
+storageDrawers.config.upgrades.tooltip=§7Configure individual storage upgrades.
+
+storageDrawers.config.upgrades.level2Mult=§7Storage Multiplier (II)
+storageDrawers.config.upgrades.level3Mult=§7Storage Multiplier (III)
+storageDrawers.config.upgrades.level4Mult=§7Storage Multiplier (IV)
+storageDrawers.config.upgrades.level5Mult=§7Storage Multiplier (V)
+storageDrawers.config.upgrades.level6Mult=§7Storage Multiplier (VI)
+
+storageDrawers.config.prop.itemRenderType=§7Item Render Type
+storageDrawers.config.prop.itemRenderType.tooltip=§7Render items in 3D or flat.
+storageDrawers.config.prop.enableIndicatorUpgrades=§7Enable Indicator Upgrades
+storageDrawers.config.prop.enableStorageUpgrades=§7Enable Storage Upgrades
+storageDrawers.config.prop.enableLockUpgrades=§7Enable Lock Upgrade
+storageDrawers.config.prop.renderStorageUpgrades=§7Render Storage Upgrades
+storageDrawers.config.prop.creativeTabVanillaWoods=§7Creative Tab Vanilla Woods
+storageDrawers.config.prop.creativeTabVanillaWoods.tooltip=§7Enable all vanilla wood styles on creative tab.
+storageDrawers.config.prop.enabled=§7Enabled
+storageDrawers.config.prop.enabled.tooltip=§7Enable block in game.
+storageDrawers.config.prop.baseStorage=§7Base Storage
+storageDrawers.config.prop.baseStorage.tooltip=§7Number of stacks held per drawer.
+storageDrawers.config.prop.recipeOutput=§7Recipe Output
+storageDrawers.config.prop.recipeOutput.tooltip=§7Number of items from single crafting.
+storageDrawers.config.prop.enableSidedInput=§7Enable Sided Input
+storageDrawers.config.prop.enableSidedInput.tooltip=§7Other blocks can insert items into drawers.
+storageDrawers.config.prop.enableSidedOutput=§7Enable Sided Output
+storageDrawers.config.prop.enableSidedOutput.tooltip=§7Other blocks can extract items from drawers.
+
+storageDrawers.config.integration=§7Integration
+storageDrawers.config.integration.tooltip=§7Configure integration with other mods.
+
+storageDrawers.config.integration.enableAE2=§7Enable Applied Energistics 2 Integration
+storageDrawers.config.integration.enableWaila=§7Enable WAILA Integration

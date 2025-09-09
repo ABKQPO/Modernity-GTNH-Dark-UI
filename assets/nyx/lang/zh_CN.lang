@@ -1,0 +1,99 @@
+item.ultimate.name=§7无效证明
+item.MetaItem01.0.name=§7测试物品
+item.MetaItem02.0.name=§7标定指示
+tile.MetaBlock01.0.name=§7这是什么?
+
+nyx.material.null=§7空
+nyx.material.null.extra.0=§7这是虚空的材料
+nyx.material.restone=§7雷石东
+nyx.material.restone.extra.0=§7不是红石，不是石头，甚至不是材料
+
+nyx.recipe.restoneGenerator=§7雷石东发电机
+
+nyx.ore.dust=§7%material粉
+nyx.ore.dustSmall=§7小堆%material粉
+nyx.ore.dustTiny=§7小撮%material粉
+nyx.ore.nugget=§7%material粒
+nyx.ore.ingot=§7%material锭
+nyx.ore.ingotHot=§7热%material锭
+nyx.ore.ingotDouble=§7双重%material锭
+nyx.ore.ingotTriple=§7三重%material锭
+nyx.ore.ingotQuadruple=§7四重%material锭
+nyx.ore.ingotQuintuple=§7五重%material锭
+nyx.ore.cell=§7%material单元
+nyx.ore.cellPlasma=§7%material离子单元
+nyx.ore.cellMolten=§7熔融%material单元
+nyx.ore.capsule=§7%material胶囊
+nyx.ore.capsuleMolten=§7熔融%material胶囊
+nyx.ore.plate=§7%material板
+nyx.ore.plateDense=§7致密%material板
+nyx.ore.plateDouble=§7双重%material板
+nyx.ore.plateTriple=§7三重%material板
+nyx.ore.plateQuadruple=§7四重%material板
+nyx.ore.plateQuintuple=§7五重%material板
+nyx.ore.stick=§7%material棒
+nyx.ore.stickLong=§7长%material棒
+nyx.ore.spring=§7%material弹簧
+nyx.ore.springSmall=§7小型%material弹簧
+nyx.ore.gearGt=§7%material齿轮
+nyx.ore.gearGtSmall=§7小型%material齿轮
+nyx.ore.ring=§7%material环
+nyx.ore.rotor=§7%material转子
+nyx.ore.screw=§7%material螺丝
+nyx.ore.foil=§7%material箔
+nyx.ore.frame=§7%material框架
+nyx.ore.gem=§7%material
+nyx.ore.gemChipped=§7破碎的%material
+nyx.ore.gemExquisite=§7精致的%material
+nyx.ore.gemFlawed=§7有瑕的%material
+nyx.ore.gemFlawless=§7无瑕的%material
+nyx.ore.lens=§7%material透镜
+nyx.ore.crystal=§7%material晶体
+nyx.ore.wireFine=§7%material线
+
+nyx.tooltip.press_more_info=§7按下 §b§fShift§r§7 查看更多信息
+
+nyx.wirelessExt.energy.name=§7%s安%s无线能源仓
+nyx.wirelessExt.dynamo.name=§7%s安%s无线动力仓
+nyx.wirelessExt.tooltip.0=§7将能量存储于全局网络中，上限为2^(2^31)EU.
+nyx.wirelessExt.tooltip.1=§7不连接导线，此方块可以从网络中抽取EU.
+nyx.wirelessExt.tooltip.2=§7§b额外无线设备系列
+
+nyx.common.amp=§7安
+nyx.common.current=§7当前
+nyx.common.NyxMagical=§7§bNyx§cCreation§7 - §a魔法揭示
+nyx.common.NyxNuclear=§7§bNyx§cCreation§7 - §a热核反应
+nyx.common.NyxGigaFac=§7§bNyx§cCreation§7 - §a超级工厂
+nyx.common.AddByNyx=§7由 §aNyx§7 添加
+nyx.common.BluePrintInfo=§7如§9蓝§b图§7所示相对位置
+nyx.common.BluePrintTip=§7请参考§9结构§1库§7全息投影，构建主体结构
+nyx.common.StructureTooComplex=§7结构太复杂了!
+nyx.common.ChangeModeByScrewdriver=§7使用螺丝刀切换模式.
+nyx.common.info.maxParallel=§7最大并行
+nyx.common.info.timeModifier=§7时间乘数
+nyx.common.info.euModifier=§7能量消耗
+
+nyx.machine.copier.name=§7COPIER
+nyx.machine.copier.type=§7物质复制器
+nyx.machine.copier.info.0=§7COPIER的控制器
+nyx.machine.copier.info.1=§7复制控制器槽位中的物品, 并输出到AE网络.
+nyx.machine.copier.info.2=§7在控制器输入每次复制的数量.
+nyx.machine.copier.waila.0=§7§f复制原型: §b%s
+nyx.machine.copier.waila.1=§7§f复制数量: §a%s
+nyx.machine.copier.waila.2.item=§7§f复制模式: §a物品
+nyx.machine.copier.waila.2.fluid=§7§f复制模式: §a流体
+nyx.machine.copier.gui.t.0=§7物品模式
+nyx.machine.copier.gui.t.1=§7流体模式
+nyx.machine.copier.gui.t.2=§7复制数量
+
+nyx.machine.proxy.name=§7PROXY (WIP)
+nyx.machine.proxy.type=§7执行代理
+nyx.machine.proxy.gui.t.0=§7切换模式
+nyx.machine.proxy.gui.t.1=§7更新配方
+
+nyx.machine.injector.name=§7INJECTOR
+
+GT5U.gui.text.importing_energy=§7§b导入能量中
+GT5U.gui.text.no_selected_energy_core_set=§7没有能量核心
+GT5U.gui.text.no_mode_set=§7没有用电路设定模式
+GT5U.gui.text.no_recipe_map_set=§7没有可用配方图

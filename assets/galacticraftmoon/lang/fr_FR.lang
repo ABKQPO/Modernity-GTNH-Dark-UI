@@ -1,0 +1,30 @@
+# Galacticraft Moon Language File =§7FRANCAIS (France) Update by Linyor
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7Fer météorique brut
+item.compressedMeteoricIron.name=§7Fer météorique comprimé
+item.meteoricIronIngot.name=§7Lingot de Fer météorique
+
+# FOOD
+item.cheeseCurd.name=§7Caillé
+item.cheeseBlock.name=§7Bloc de fromage
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7Roche Lunaire
+tile.moonBlock.moondirt.name=§7Terre Lunaire
+tile.moonBlock.moongrass.name=§7Herbe Lunaire
+tile.moonBlock.tinmoon.name=§7Minerai d'étain
+tile.moonBlock.coppermoon.name=§7Minerai de cuivre
+tile.moonBlock.cheesestone.name=§7Minerai de fromage
+tile.moonBlock.bricks.name=§7Brique
+tile.cheeseBlock.name=§7Bloc de fromage
+
+# GUI
+gui.choosePlanet.desc.moon=§7Habitable#Pas d'oxygène#Gravité: 18%
+container.lander.name=§7Atterisseurs
+
+dimension.Moon.name=§7Lune

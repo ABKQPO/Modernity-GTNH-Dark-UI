@@ -1,0 +1,10 @@
+options.search=§7搜索
+options.showAll=§7显示所有键位
+options.showConflicts=§7显示冲突键位
+options.showNone=§7显示未绑定键位
+options.availableKeys=§7可用的快捷键
+options.sort=§7排序
+options.category=§7搜索分类
+options.key=§7搜索键位
+options.toggleFree=§7自由切换
+options.confirmReset=§7点击确认重置！

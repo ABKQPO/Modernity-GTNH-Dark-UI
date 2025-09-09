@@ -1,0 +1,35 @@
+microblock.missing=§7Následující mikrobloky nejsou nainstalované v tomto klientovi: %s
+multipart.missing=§7Následující multičástice nejsou nainstalované v tomto klientovi: %s
+
+item.microblock:sawStone.name=§7Kamenná pila
+item.microblock:sawIron.name=§7Železná pila
+item.microblock:sawDiamond.name=§7Diamantová pila
+item.microblock:stoneRod.name=§7Kamenná tyč
+
+mcr_face.1.name=§7%s kryt
+mcr_face.1.subset=§7Kryt
+mcr_face.2.name=§7%s panel
+mcr_face.2.subset=§7Panel
+mcr_face.4.name=§7%s deska
+mcr_face.4.subset=§7Deska
+
+mcr_hllw.1.name=§7Dutý %s kryt
+mcr_hllw.1.subset=§7Dutý kryt
+mcr_hllw.2.name=§7Dutý %s panel
+mcr_hllw.2.subset=§7Dutý panel
+mcr_hllw.4.name=§7Dutá %s deska
+mcr_hllw.4.subset=§7Dutá deska
+
+mcr_edge.1.name=§7%s pás
+mcr_edge.1.subset=§7Pás
+mcr_edge.2.name=§7%s stojan
+mcr_edge.2.subset=§7Stojan
+mcr_edge.4.name=§7%s sloup
+mcr_edge.4.subset=§7Sloup
+
+mcr_cnr.1.name=§7%s kout
+mcr_cnr.1.subset=§7Kout
+mcr_cnr.2.name=§7%s roh
+mcr_cnr.2.subset=§7Roh
+mcr_cnr.4.name=§7%s zářez
+mcr_cnr.4.subset=§7Zářez

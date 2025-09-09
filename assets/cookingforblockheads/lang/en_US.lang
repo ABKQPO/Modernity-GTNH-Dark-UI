@@ -1,0 +1,76 @@
+item.cookingforblockheads:recipebook_tier0.name=§7Cooking for Blockheads
+item.cookingforblockheads:recipebook_tier1.name=§7Cooking for Blockheads I
+item.cookingforblockheads:recipebook_tier2.name=§7Cooking for Blockheads II
+item.cookingforblockheads:toast.name=§7Toast
+
+tile.cookingforblockheads:cookingtable.name=§7Cooking Table
+tile.cookingforblockheads:cookingoven.name=§7Cooking Oven
+tile.cookingforblockheads:fridge.name=§7Fridge
+tile.cookingforblockheads:counter.name=§7Counter
+tile.cookingforblockheads:counter_corner.name=§7Counter Corner
+tile.cookingforblockheads:cabinet.name=§7Cabinet
+tile.cookingforblockheads:cabinet_corner.name=§7Cabinet Corner
+tile.cookingforblockheads:white_kitchen_floor.name=§7Kitchen Floor
+tile.cookingforblockheads:orange_kitchen_floor.name=§7Orange Kitchen Floor
+tile.cookingforblockheads:magenta_kitchen_floor.name=§7Magenta Kitchen Floor
+tile.cookingforblockheads:light_blue_kitchen_floor.name=§7Light Blue Kitchen Floor
+tile.cookingforblockheads:yellow_kitchen_floor.name=§7Yellow Kitchen Floor
+tile.cookingforblockheads:lime_kitchen_floor.name=§7Lime Kitchen Floor
+tile.cookingforblockheads:pink_kitchen_floor.name=§7Pink Kitchen Floor
+tile.cookingforblockheads:gray_kitchen_floor.name=§7Gray Kitchen Floor
+tile.cookingforblockheads:light_gray_kitchen_floor.name=§7Light Gray Kitchen Floor
+tile.cookingforblockheads:cyan_kitchen_floor.name=§7Cyan Kitchen Floor
+tile.cookingforblockheads:purple_kitchen_floor.name=§7Purple Kitchen Floor
+tile.cookingforblockheads:blue_kitchen_floor.name=§7Blue Kitchen Floor
+tile.cookingforblockheads:brown_kitchen_floor.name=§7Brown Kitchen Floor
+tile.cookingforblockheads:green_kitchen_floor.name=§7Green Kitchen Floor
+tile.cookingforblockheads:red_kitchen_floor.name=§7Red Kitchen Floor
+tile.cookingforblockheads:black_kitchen_floor.name=§7Black Kitchen Floor
+tile.cookingforblockheads:sink.name=§7Sink
+tile.cookingforblockheads:toolrack.name=§7Tool Rack
+tile.cookingforblockheads:toaster.name=§7Toaster
+
+container.cookingforblockheads:cookingoven=§7Cooking Oven
+container.cookingforblockheads:fridge=§7Fridge
+container.cookingforblockheads:counter=§7Counter
+container.cookingforblockheads:cabinet=§7Cabinet
+
+itemGroup.cookingforblockheads=§7Cooking for Blockheads
+
+cookingforblockheads:recipebook_tier0.tooltip=§7#NoFilter Edition
+cookingforblockheads:recipebook_tier0.tooltipDesc=§7Shows all food recipes.
+
+cookingforblockheads:recipebook_tier1.tooltip=§7Recipe Book
+cookingforblockheads:recipebook_tier1.tooltipDesc=§7Shows food you can make with the\nthings you have in your inventory.
+
+cookingforblockheads:recipebook_tier2.tooltip=§7Crafting Book
+cookingforblockheads:recipebook_tier2.tooltipDesc=§7Can craft food using the things\nyou have in your inventory.
+
+cookingforblockheads:multiblockKitchen=§7Multiblock Kitchen
+cookingforblockheads:dyeable=§7Dyeable
+cookingforblockheads:cookingtable.tooltipDesc=§7Enables crafting abilities.
+cookingforblockheads:cookingoven.tooltipDesc=§7Enables smelting abilities.
+cookingforblockheads:sink.tooltipDesc=§7Provides water to recipes.
+cookingforblockheads:fridge.tooltipDesc=§7Provides contained ingredients to recipes.
+cookingforblockheads:counter.tooltipDesc=§7Stores ingredients for recipes.
+cookingforblockheads:countercorner.tooltipDesc=§7Keeping up appearances.
+cookingforblockheads:cabinet.tooltipDesc=§7Stores ingredients for recipes.
+cookingforblockheads:cabinetcorner.tooltipDesc=§7Keeping up appearances.
+cookingforblockheads:kitchen_floor.tooltipDesc=§7Connect kitchen blocks over distances.
+cookingforblockheads:toolrack.tooltipDesc=§7Provides contained tools to recipes.
+cookingforblockheads:toaster.tooltipDesc=§7Toasts Bread.
+
+cookingforblockheads:sort_by_name.tooltip=§7Sort by Name
+cookingforblockheads:sort_by_hunger.tooltip=§7Sort by Hunger Restored
+cookingforblockheads:sort_by_saturation.tooltip=§7Sort by Saturation
+cookingforblockheads:sort_by_sol.tooltip=§7Sort by Number of times eaten
+
+cookingforblockheads:no_ingredients=§7Not\nenough\ningredients
+cookingforblockheads:no_selection=§7Select an item\non the right to\nsee its recipe.
+cookingforblockheads:click_to_see_recipe=§7Click to see recipe
+cookingforblockheads:click_to_craft_one=§7Click again to craft
+cookingforblockheads:click_to_smelt_one=§7Click again to cook
+cookingforblockheads:click_to_craft_all=§7Shift-Click to craft a stack
+cookingforblockheads:click_to_smelt_all=§7Shift-Click to cook a stack
+cookingforblockheads:missing_tools=§7Missing tools to craft
+cookingforblockheads:missing_oven=§7Missing oven to cook

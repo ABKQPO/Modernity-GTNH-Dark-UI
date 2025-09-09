@@ -1,0 +1,274 @@
+# gui - config - categories
+ingameinfoxml.config.category.general=§7Главная
+ingameinfoxml.config.category.general.tooltip=§7Основные опции.
+ingameinfoxml.config.category.alignment=§7Выравнивание
+ingameinfoxml.config.category.alignment.tooltip=§7Опции смещения выравнивания.
+
+# gui - config - general
+ingameinfoxml.config.filename=§7Имя файла
+ingameinfoxml.config.filename.tooltip=§7Какая конфигурация должны быть использована при запуске.
+ingameinfoxml.config.replaceDebug=§7Заменить оверлей отладки
+ingameinfoxml.config.replaceDebug.tooltip=§7Заменить оверлей отладки (F3) на InGameInfoXML оверлей.
+ingameinfoxml.config.showInChat=§7Показывать в чате
+ingameinfoxml.config.showInChat.tooltip=§7Показывать оверлей в чате.
+ingameinfoxml.config.showOnPlayerList=§7Показать со списком игроков
+ingameinfoxml.config.showOnPlayerList.tooltip=§7Показывать оверлей со списком игроков.
+ingameinfoxml.config.scale=§7Масштаб
+ingameinfoxml.config.scale.tooltip=§7Оверлей будет масштабироваться на это значение.
+ingameinfoxml.config.fileInterval=§7Интервал тегов файлов
+ingameinfoxml.config.fileInterval.tooltip=§7Интервал между прочтением файлов для 'file' тега (в секундах).
+
+# gui - config - alignment
+ingameinfoxml.config.topleft=§7Верх Лево
+ingameinfoxml.config.topleft.tooltip=§7Смещения для левой верхней части экрана (X<пространство>Y).
+ingameinfoxml.config.topcenter=§7Верх Центр
+ingameinfoxml.config.topcenter.tooltip=§7Смещения для верхней центральной части экрана (X<пространство>Y).
+ingameinfoxml.config.topright=§7Верх Право
+ingameinfoxml.config.topright.tooltip=§7Смещения для верхней правой части экрана (X<пространство>Y).
+ingameinfoxml.config.middleleft=§7Середина Лево
+ingameinfoxml.config.middleleft.tooltip=§7Смещения для средней левой части экрана (X<пространство>Y).
+ingameinfoxml.config.middlecenter=§7Середина Центр
+ingameinfoxml.config.middlecenter.tooltip=§7Смещения для средней центральной части экрана (X<пространство>Y).
+ingameinfoxml.config.middleright=§7Середина Право
+ingameinfoxml.config.middleright.tooltip=§7Смещения для средней правой части экрана (X<пространство>Y).
+ingameinfoxml.config.bottomleft=§7Низ Лево
+ingameinfoxml.config.bottomleft.tooltip=§7Смещения для нижней левой части экрана (X<пространство>Y).
+ingameinfoxml.config.bottomcenter=§7Низ Центр
+ingameinfoxml.config.bottomcenter.tooltip=§7Смещения для нижней центральной части экрана (X<пространство>Y).
+ingameinfoxml.config.bottomright=§7Низ Право
+ingameinfoxml.config.bottomright.tooltip=§7Смещения для нижней правой части экрана (X<пространство>Y).
+
+# gui - tag list
+gui.ingameinfoxml.taglist=§7Список тегов
+
+# gui - tag list - categories
+ingameinfoxml.tag.category.formatting.name=§7Форматирование
+ingameinfoxml.tag.category.misc.name=§7Разное
+ingameinfoxml.tag.category.mouseover.name=§7Мышь
+ingameinfoxml.tag.category.nearbyplayer.name=§7Близлежащие Игроки
+ingameinfoxml.tag.category.playerequipment.name=§7Игрок - экипировка
+ingameinfoxml.tag.category.playergeneral.name=§7Игрок - главное
+ingameinfoxml.tag.category.playerposition.name=§7Игрок - позиция
+ingameinfoxml.tag.category.playerpotion.name=§7Игрок - эффекты зелий
+ingameinfoxml.tag.category.riding.name=§7Верховая езда
+ingameinfoxml.tag.category.time.name=§7Время
+ingameinfoxml.tag.category.world.name=§7Мир
+ingameinfoxml.tag.category.bloodmagic.name=§7Blood Magic
+ingameinfoxml.tag.category.simplyjetpacks.name=§7Simply Jetpacks
+ingameinfoxml.tag.category.terrafirmacraft.name=§7TerraFirmaCraft
+ingameinfoxml.tag.category.thaumcraft.name=§7Thaumcraft
+
+# gui - tag list - formatting tags
+ingameinfoxml.tag.black.desc=§7Черный цвет (§0ПРИМЕР§r).
+ingameinfoxml.tag.darkblue.desc=§7Темно-синий цвет (§1ПРИМЕР§r).
+ingameinfoxml.tag.darkgreen.desc=§7Темно-зеленый цвет (§2ПРИМЕР§r).
+ingameinfoxml.tag.darkaqua.desc=§7Темно-бирюзовый цвет (§3ПРИМЕР§r).
+ingameinfoxml.tag.darkred.desc=§7Темно-красный цвет (§4ПРИМЕР§r).
+ingameinfoxml.tag.darkpurple.desc=§7Темно-пурпурный цвет (§5ПРИМЕР§r).
+ingameinfoxml.tag.gold.desc=§7Золотой цвет (§6ПРИМЕР§r).
+ingameinfoxml.tag.gray.desc=§7Серый цвет (§7ПРИМЕР§r).
+ingameinfoxml.tag.darkgrey.desc=§7Темно-серый цвет (§8ПРИМЕР§r).
+ingameinfoxml.tag.blue.desc=§7Синий цвет (§9ПРИМЕР§r).
+ingameinfoxml.tag.green.desc=§7Зеленый цвет (§aПРИМЕР§r).
+ingameinfoxml.tag.aqua.desc=§7Бирюзовый цвет (§bПРИМЕР§r).
+ingameinfoxml.tag.red.desc=§7Красный цвет (§cПРИМЕР§r).
+ingameinfoxml.tag.lightpurple.desc=§7Светло-пурпурный цвет (§dПРИМЕР§r).
+ingameinfoxml.tag.yellow.desc=§7Желтый цвет (§eПРИМЕР§r).
+ingameinfoxml.tag.white.desc=§7Белый цвет (§fПРИМЕР§r).
+ingameinfoxml.tag.obfuscated.desc=§7Запутанный текст (§kПРИМЕР§r).
+ingameinfoxml.tag.bold.desc=§7Жирный текст (§lПРИМЕР§r).
+ingameinfoxml.tag.strikethrough.desc=§7Зачеркнутый текст (§mПРИМЕР§r).
+ingameinfoxml.tag.underline.desc=§7Подчеркнутый текст (§nПРИМЕР§r).
+ingameinfoxml.tag.italic.desc=§7Курсивный цвет (§oПРИМЕР§r).
+ingameinfoxml.tag.reset.desc=§7Сбросить форматирование.
+
+# gui - tag list - misc
+ingameinfoxml.tag.memmax.desc=§7Количество максимального объема памяти.
+ingameinfoxml.tag.memtotal.desc=§7Количество общего объема памяти.
+ingameinfoxml.tag.memfree.desc=§7Объем свободной памяти.
+ingameinfoxml.tag.memused.desc=§7Объем памяти в использовании.
+ingameinfoxml.tag.fps.desc=§7Текущий FPS.
+ingameinfoxml.tag.resourcepack.desc=§7Текущий пакет ресурсов.
+ingameinfoxml.tag.entitiesrendered.desc=§7Количество прорисованных сущностей.
+ingameinfoxml.tag.entitiestotal.desc=§7Количество загруженных сущностей.
+ingameinfoxml.tag.loadedchunks.desc=§7Количество загруженных чанков.
+ingameinfoxml.tag.server.desc=§7Домен сервера или IP и порт, если он не 25565, localhost, если локальная игра.
+ingameinfoxml.tag.servername.desc=§7Домен сервера, localhost, если локальная игра.
+ingameinfoxml.tag.serverip.desc=§7IP сервера, 127.0.0.1, если локальная игра.
+ingameinfoxml.tag.serverport.desc=§7Порт сервера, -1, если локальная игра.
+ingameinfoxml.tag.ping.desc=§7Текущая задержка, -1 если нет данных.
+ingameinfoxml.tag.pingicon.desc=§7Текущая иконка пинга, пустая строка, если нет данных.
+
+# gui - tag list - mouse over
+ingameinfoxml.tag.mouseovername.desc=§7Название сущности или блока под курсором, пустая строка, если нет информации.
+ingameinfoxml.tag.mouseoveruniquename.desc=§7Уникальное название сущности или блока под курсором, пустая строка, если нет информации.
+ingameinfoxml.tag.mouseoverid.desc=§7ID сущности или блока под курсором, 0, если ничего нет.
+ingameinfoxml.tag.mouseovermetadata.desc=§7Метаданные блока под курсором, 0, если ничего нет.
+ingameinfoxml.tag.mouseoverpowerweak.desc=§7Сила слабого сигнал красного камня на блоке, -1, если ничего нет.
+ingameinfoxml.tag.mouseoverpowerstrong.desc=§7Сила сильного сигнала красного камня на блоке, -1, если ничего нет.
+ingameinfoxml.tag.mouseoverpowerinput.desc=§7Сила выхода красного камня из блока, -1, если ничего нет.
+
+
+# gui - tag list - nearby player
+ingameinfoxml.tag.nearbyplayerdistance.desc=§7Дистанция до игрока.
+ingameinfoxml.tag.nearbyplayername.desc=§7Имя игрока.
+
+# gui - tag list - player equipment
+ingameinfoxml.tag.equippedname.desc=§7Имя экипированного предмета.
+ingameinfoxml.tag.equippeduniquename.desc=§7Уникальное имя экипированного предмета.
+ingameinfoxml.tag.equippeddamage.desc=§7Урон экипированного предмета.
+ingameinfoxml.tag.equippedmaxdamage.desc=§7Максимальный урон экипированного предмета.
+ingameinfoxml.tag.equippeddamageleft.desc=§7Осталось урона экипированному предмета.
+ingameinfoxml.tag.equippedquantity.desc=§7Количество экипированного предмета в инвентаре.
+ingameinfoxml.tag.equippedicon.desc=§7Изображение экипированного предмета.
+ingameinfoxml.tag.equippedlargeicon.desc=§7Большое изображение экипированного предмета.
+ingameinfoxml.tag.helmetname.desc=§7Название шлема.
+ingameinfoxml.tag.helmetuniquename.desc=§7Уникальное название шлема.
+ingameinfoxml.tag.helmetdamage.desc=§7Повреждение шлема.
+ingameinfoxml.tag.helmetmaxdamage.desc=§7Максимальное повреждение шлема.
+ingameinfoxml.tag.helmetdamageleft.desc=§7Осталось урона шлему.
+ingameinfoxml.tag.helmetquantity.desc=§7Количество шлемов в инвентаре.
+ingameinfoxml.tag.helmeticon.desc=§7Изображение шлема.
+ingameinfoxml.tag.helmetlargeicon.desc=§7Большое изображение шлема.
+ingameinfoxml.tag.chestplatename.desc=§7Название кирасы.
+ingameinfoxml.tag.chestplateuniquename.desc=§7Уникальное название кирасы.
+ingameinfoxml.tag.chestplatedamage.desc=§7Повреждение кирасы.
+ingameinfoxml.tag.chestplatemaxdamage.desc=§7Максимальное повреждение кирасы.
+ingameinfoxml.tag.chestplatedamageleft.desc=§7Осталось урона кирасе.
+ingameinfoxml.tag.chestplatequantity.desc=§7Количество кирас в инвентаре.
+ingameinfoxml.tag.chestplateicon.desc=§7Изображение кирасы.
+ingameinfoxml.tag.chestplatelargeicon.desc=§7Большое изображение кирасы.
+ingameinfoxml.tag.leggingsname.desc=§7Название понож.
+ingameinfoxml.tag.leggingsuniquename.desc=§7Уникальное название понож.
+ingameinfoxml.tag.leggingsdamage.desc=§7Повреждение понож.
+ingameinfoxml.tag.leggingsmaxdamage.desc=§7Максимальное повреждение понож.
+ingameinfoxml.tag.leggingsdamageleft.desc=§7Осталось урона поножам.
+ingameinfoxml.tag.leggingsquantity.desc=§7Количество понож в инвентаре.
+ingameinfoxml.tag.leggingsicon.desc=§7Изображение понож.
+ingameinfoxml.tag.leggingslargeicon.desc=§7Большое изображение понож.
+ingameinfoxml.tag.bootsname.desc=§7Название ботинок.
+ingameinfoxml.tag.bootsuniquename.desc=§7Уникальное название ботинок.
+ingameinfoxml.tag.bootsdamage.desc=§7Повреждение ботинок.
+ingameinfoxml.tag.bootsmaxdamage.desc=§7Максимальная повреждение ботинок.
+ingameinfoxml.tag.bootsdamageleft.desc=§7Осталось урона ботинкам.
+ingameinfoxml.tag.bootsquantity.desc=§7Количество ботинок в инвентаре.
+ingameinfoxml.tag.bootsicon.desc=§7Изображение ботинок.
+ingameinfoxml.tag.bootslargeicon.desc=§7Большое изображение ботинок.
+
+# gui - tag list - player general
+ingameinfoxml.tag.light.desc=§7Уровень освещения в вашем положении.
+ingameinfoxml.tag.lightnosun.desc=§7Уровень освещения в вашем положении без солнечного света.
+ingameinfoxml.tag.lightsun.desc=§7Уровень солнечного света в вашем положении.
+ingameinfoxml.tag.score.desc=§7Счет игрока.
+ingameinfoxml.tag.gamemode.desc=§7Название игрового режима игрока.
+ingameinfoxml.tag.gamemodeid.desc=§7ID игрового режима игрока.
+ingameinfoxml.tag.health.desc=§7Текущее количество очков здоровья игрока.
+ingameinfoxml.tag.maxhealth.desc=§7Максимальное количество очков здоровья игрока.
+ingameinfoxml.tag.armor.desc=§7Очки брони игрока.
+ingameinfoxml.tag.foodlevel.desc=§7Количество очков сытости игрока.
+ingameinfoxml.tag.maxfoodlevel.desc=§7Максимальное количество очков сытости игрока.
+ingameinfoxml.tag.saturation.desc=§7Насыщенность еды игрока.
+ingameinfoxml.tag.exhaustion.desc=§7Истощение еды игрока.
+ingameinfoxml.tag.airticks.desc=§7Количество воздуха игрока в тиках.
+ingameinfoxml.tag.maxairticks.desc=§7Максимальное количество воздуха игрока в тиках.
+ingameinfoxml.tag.playerlevel.desc=§7Уровень игрока.
+ingameinfoxml.tag.xpthislevel.desc=§7Текущее количество опыта игрока.
+ingameinfoxml.tag.xpuntilnext.desc=§7Количество опыта до поднятия уровня игрока.
+ingameinfoxml.tag.xpcap.desc=§7Требуется опыта до следующего поднятие уровня игрока.
+ingameinfoxml.tag.username.desc=§7Имя игрока.
+ingameinfoxml.tag.inwater.desc=§7§eИстина§r если игрок под водой, §eложно§r в противном случае.
+ingameinfoxml.tag.wet.desc=§7§eИстина§r если игрок мокрый, §eложно§r в противном случае.
+ingameinfoxml.tag.alive.desc=§7§eИстина§r если игрок жив, §eложно§r в противном случае.
+ingameinfoxml.tag.burning.desc=§7§eИстина§r если игрок горит, §eложно§r в противном случае.
+ingameinfoxml.tag.riding.desc=§7§eИстина§r если игрок верхом, §eложно§r в противном случае.
+ingameinfoxml.tag.sneaking.desc=§7§eИстина§r если игрок крадется, §eложно§r в противном случае.
+ingameinfoxml.tag.sprinting.desc=§7§eИстина§r если игрок бежит, §eложно§r в противном случае.
+ingameinfoxml.tag.invisible.desc=§7§eИстина§r если игрок невидим, §eложно§r в противном случае.
+ingameinfoxml.tag.eating.desc=§7§eИстина§r если игрок есть, §eложно§r в противном случае.
+
+# gui - tag list - player position
+ingameinfoxml.tag.chunkx.desc=§7X координата чанка игрока.
+ingameinfoxml.tag.chunkz.desc=§7Y координата чанка игрока.
+ingameinfoxml.tag.chunkoffsetx.desc=§7X координата смещения в чанке игрока (0-15).
+ingameinfoxml.tag.chunkoffsetz.desc=§7Z координата смещения в чанке игрока (0-15).
+ingameinfoxml.tag.x.desc=§7X координата игрока.
+ingameinfoxml.tag.y.desc=§7Y координата игрока.
+ingameinfoxml.tag.z.desc=§7Z координата игрока.
+ingameinfoxml.tag.xi.desc=§7X координата игрока, округленная до ближайшего целого числа.
+ingameinfoxml.tag.yi.desc=§7Y координата игрока, округленная до ближайшего целого числа.
+ingameinfoxml.tag.zi.desc=§7Z координата игрока, округленная до ближайшего целого числа.
+ingameinfoxml.tag.speed.desc=§7Скорость игрока.
+ingameinfoxml.tag.speedx.desc=§7Скорость игрока вдоль оси х.
+ingameinfoxml.tag.speedy.desc=§7Скорость игрока вдоль оси y.
+ingameinfoxml.tag.speedz.desc=§7Скорость игрока вдоль оси z.
+ingameinfoxml.tag.speedxz.desc=§7Скорость игрока по горизонтали.
+ingameinfoxml.tag.direction.desc=§7Направление игрока в градусах от -180 до 180.
+ingameinfoxml.tag.roughdirection.desc=§7Грубое направление игрока, на которое он смотрит (Юг, запад, север, восток).
+ingameinfoxml.tag.finedirection.desc=§7Уточненное направление игрока, на которое он смотрит (Юг, югозапад, запад, северозапад, ...).
+ingameinfoxml.tag.abrroughdirection.desc=§7Сокращенное грубое направление игрока, на которое он смотрит (Ю, З, С, В).
+ingameinfoxml.tag.abrfinedirection.desc=§7Сокращенное уточненное направление игрока, на которое он смотрит (Ю, ЮЗ, З, СЗ, ...).
+ingameinfoxml.tag.directionhud.desc=§7Небольшой текстовый HUD направлений.
+
+# gui - tag list - player potion
+ingameinfoxml.tag.potioneffect.desc=§7Название эффекта зелья.
+ingameinfoxml.tag.potionduration.desc=§7Продолжительность эффекта зелья в секундах.
+ingameinfoxml.tag.potiondurationticks.desc=§7Продолжительность эффекта в тактах.
+ingameinfoxml.tag.potionicon.desc=§7Значок эффекта зелья.
+ingameinfoxml.tag.potionlargeicon.desc=§7Большой значок эффекта зелья.
+
+# gui - tag list - riding
+ingameinfoxml.tag.ridinghorse.desc=§7§eИстина§r если игрок верхом на лошади, §eложно§r в противном случае.
+ingameinfoxml.tag.horsehealth.desc=§7Здоровье лошади.
+ingameinfoxml.tag.horsemaxhealth.desc=§7Максимальное здоровье лошади.
+ingameinfoxml.tag.horsespeed.desc=§7Скорость лошади.
+ingameinfoxml.tag.horsejumpstrength.desc=§7Сила прыжка лошади.
+
+# gui - tag list - time
+ingameinfoxml.tag.day.desc=§7Minecraft день, начинается от 0.
+ingameinfoxml.tag.mctimeh.desc=§7Minecraft час.
+ingameinfoxml.tag.mctimem.desc=§7Minecraft минута.
+ingameinfoxml.tag.mctime24.desc=§7Minecraft время (24 часовой формат).
+ingameinfoxml.tag.mctime12.desc=§7Minecraft время (12 часовой формат).
+ingameinfoxml.tag.rltime24.desc=§7Реальное время (24 часовой формат).
+ingameinfoxml.tag.rltime12.desc=§7Реальное время (12 часовой формат).
+
+# gui - tag list - world
+ingameinfoxml.tag.worldname.desc=§7Имя мира.
+ingameinfoxml.tag.worldsize.desc=§7Размер мира.
+ingameinfoxml.tag.worldsizemb.desc=§7Размер мира в MiB.
+ingameinfoxml.tag.seed.desc=§7Зерно мера.
+ingameinfoxml.tag.difficulty.desc=§7Игровая сложность мира.
+ingameinfoxml.tag.difficultyid.desc=§7ID игровой сложности мира.
+ingameinfoxml.tag.dimension.desc=§7Название измерения.
+ingameinfoxml.tag.dimensionid.desc=§7ID измерения.
+ingameinfoxml.tag.biome.desc=§7Имя биома.
+ingameinfoxml.tag.biomeid.desc=§7ID биома.
+ingameinfoxml.tag.daytime.desc=§7§eИстина§r если дневное время, §eложно§r в противном случае.
+ingameinfoxml.tag.raining.desc=§7§eИстина§r если идет дождь, §eложно§r в противном случае.
+ingameinfoxml.tag.thundering.desc=§7§eИстина§r если идет гроза, §eложно§r в противном случае.
+ingameinfoxml.tag.snowing.desc=§7§eИстина§r если идет снег, §eложно§r в противном случае.
+ingameinfoxml.tag.slimes.desc=§7§eИстина§r если текущий чанк является слизневым, §eложно§r в противном случае.
+ingameinfoxml.tag.hardcore.desc=§7§eИстина§r если мир находится в hardcore режиме, §eложно§r в противном случае.
+ingameinfoxml.tag.temperature.desc=§7Температура биома.
+ingameinfoxml.tag.localtemperature.desc=§7Температура биома в вашем положении.
+ingameinfoxml.tag.humidity.desc=§7Влажность биома.
+
+# gui - tag list - integration - blood magic
+
+# gui - tag list - integration - simply jetpacks
+
+# gui - tag list - integration - thaumcraft
+
+# keys
+ingameinfoxml.key.category=§7InGame Info XML
+ingameinfoxml.key.toggle=§7Переключить оверлей
+
+# commands
+commands.ingameinfoxml.usage=§7/igi <reload|load|save|enable|disable|taglist|config> [имя файла]
+commands.ingameinfoxml.reload=§7Перегрузка...
+commands.ingameinfoxml.load=§7Загрузка %s...
+commands.ingameinfoxml.save=§7Сохранение %s...
+commands.ingameinfoxml.success=§7Готово!
+commands.ingameinfoxml.failure=§7Что-то пошло не так!
+commands.ingameinfoxml.enable=§7Оверлей InGame Info XML включен.
+commands.ingameinfoxml.disable=§7Оверлей InGame Info XML отключен.

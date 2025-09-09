@@ -1,0 +1,33 @@
+bbw.key.category=§7Better Builders Wands
+bbw.key.mode=§7Modu DeÄŸiÅŸtir
+bbw.key.fluidmode=§7SÄ±vÄ± Modunu DeÄŸiÅŸtir
+
+item.betterbuilderswands.wandbasic.name=§7TaÅŸ DeÄŸnek
+item.betterbuilderswands.wandadvanced.name=§7Demir DeÄŸnek
+item.betterbuilderswands.wandunrestricted.name=§7Elmas DeÄŸnek
+item.betterbuilderswands.wandunbreakable.name=§7KÄ±rÄ±lmayan DeÄŸnek
+
+bbw.hover.mode.northsouth=§7Mod: Kuzey-GÃ¼ney
+bbw.hover.mode.verticalnorthsouth=§7Mod: Kuzey-GÃ¼ney (+ Dikey)
+bbw.hover.mode.eastwest=§7Mod: East-West
+bbw.hover.mode.verticaleastwest=§7Mod: DoÄŸu-BatÄ± (+ Dikey)
+bbw.hover.mode.horizontal=§7Mod: Yatay
+bbw.hover.mode.vertical=§7Mod: Dikey
+bbw.hover.mode.nolock=§7Mod: KÄ±sÄ±t Yok
+bbw.hover.maxblocks=§7Maksimum %d blok
+bbw.chat.mode.northsouth=§7Mode: Mode: North-South - Extend north and south from initial block. No building on north/south face
+bbw.chat.mode.verticalnorthsouth=§7Mode: North-South (+ Vertical) - Extend north, south, up and down from initial block. No building on north/south face
+bbw.chat.mode.eastwest=§7Mode: East-West - Extend east and west from the initial block. No building on east/west face
+bbw.chat.mode.verticaleastwest=§7Mode: East-West (+ Vertical) - Extend east, west, up and down from the original block. No building on east/west face
+bbw.chat.mode.horizontal=§7Mode: Horizontal - Extend left and right from the original block. No building on top/bottom face.
+bbw.chat.mode.vertical=§7Mode: Vertical - Extend up and down from the original block. No building on north/east/south/west face.
+bbw.chat.mode.nolock=§7Mode: No Lock - Extend left, right, up and down from the original block.
+
+bbw.hover.fluidmode.stopat=§7SÄ±vÄ±: Durdur
+bbw.chat.fluidmode.stopat=§7SÄ±vÄ±: Durdur - SÄ±vÄ± tarafÄ±ndan durdurulur. SÄ±vÄ± tipi olan hiÃ§ bir ÅŸeyin yanÄ±na inÅŸaat yapÄ±lmaz.
+bbw.hover.fluidmode.ignore=§7SÄ±vÄ±: Umursama
+bbw.chat.fluidmode.ignore=§7SÄ±vÄ±: Umursama - SÄ±vÄ±lar iÃ§ine inÅŸaat yapar (bÃ¼tÃ¼n kaynak sÄ±vÄ±larÄ± ve akan sÄ±vÄ±lar dahil).
+
+bbw.chat.error.noundo=§7Bu deÄŸneÄŸin en son ne inÅŸa ettiÄŸini bilmiyorum. Geriye alma baÅŸarÄ±sÄ±z oldu.
+bbw.chat.error.nowand=§7Bunu, Better Builders Wand deÄŸneklerinden biri elinde iken kullanarak Ã§alÄ±ÅŸtÄ±rmalÄ±sÄ±n.
+bbw.chat.error.bot=§7Yapay Zeka, oyuncu-dÄ±ÅŸÄ± karakterleri algÄ±layabilir. LÃ¼tfen bunu bir daha yapma.

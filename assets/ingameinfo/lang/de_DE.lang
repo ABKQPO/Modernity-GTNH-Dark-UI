@@ -1,0 +1,47 @@
+# gui - config - categories
+
+# gui - config - general
+
+# gui - config - alignment
+
+# gui - tag list
+
+# gui - tag list - categories
+
+# gui - tag list - formatting tags
+
+# gui - tag list - misc
+
+# gui - tag list - mouse over
+
+# gui - tag list - nearby player
+
+# gui - tag list - player equipment
+
+# gui - tag list - player general
+
+# gui - tag list - player position
+
+# gui - tag list - player potion
+
+# gui - tag list - riding
+
+# gui - tag list - time
+
+# gui - tag list - world
+
+# gui - tag list - integration - blood magic
+
+# gui - tag list - integration - simply jetpacks
+
+# gui - tag list - integration - thaumcraft
+
+# keys
+
+# commands
+commands.ingameinfoxml.usage=§7/igi <reload|load|save|enable|disable|taglist|config> [Dateiname]
+commands.ingameinfoxml.reload=§7Lade neu...
+commands.ingameinfoxml.load=§7%s wird geladen...
+commands.ingameinfoxml.save=§7%s wird gespeichert...
+commands.ingameinfoxml.enable=§7InGame Info XML Overlay ist nun aktiviert.
+commands.ingameinfoxml.disable=§7InGame Info XML Overlay ist nun deaktiviert.

@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7곡괭이
+wailaharvestability.toolclass.shovel=§7삽
+wailaharvestability.toolclass.axe=§7도끼
+wailaharvestability.toolclass.chisel=§7정
+wailaharvestability.toolclass.scoop=§7뜰채
+wailaharvestability.toolclass.crowbar=§7크로우 바
+wailaharvestability.toolclass.sword=§7검
+
+# tooltips
+wailaharvestability.effectivetool=§7사용가능 도구 :
+wailaharvestability.harvestlevel=§7회수 레벨 :
+wailaharvestability.currentlyharvestable=§7회수가능한 아이템
+wailaharvestability.harvestable=§7회수가능
+
+# options
+option.harvestability.harvestlevel=§7회수 레벨
+option.harvestability.effectivetool=§7사용 가능 도구
+option.harvestability.currentlyharvestable=§7회수가능 아이템
+option.harvestability.oresonly=§7광석 만
+option.harvestability.harvestlevel.sneakingonly=§7스낵 만 : 회수 레벨
+option.harvestability.effectivetool.sneakingonly=§7스낵 만: 사용가능 도구
+option.harvestability.currentlyharvestable.sneakingonly=§7스낵 만: 회수가능
+option.harvestability.minimal=§7최소 모드
+option.harvestability.unharvestableonly=§7회수불가 아이템 만
+option.harvestability.toolrequiredonly=§7필수도구 만
+option.harvestability.shearability=§7Shearability
+option.harvestability.shearability.sneakingonly=§7스낵 만: Shearability
+option.harvestability.silktouchability=§7섬세한손길 능력
+option.harvestability.silktouchability.sneakingonly=§7스낵 만: 실크터치 능력

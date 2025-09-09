@@ -1,0 +1,6 @@
+recipe.type.arcaneworkbenchshaped=§7무형 마법 조합대
+recipe.type.arcaneworkbenchshapeless=§7유형 마법 조합대
+item.itemaspect.aspectprefix=§7위상
+recipe.aspects.containing=§7들어있는 아이템
+recipe.aspects.component=§7요소
+recipe.aspects.usedin=§7사용

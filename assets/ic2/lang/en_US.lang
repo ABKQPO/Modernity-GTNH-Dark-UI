@@ -1,0 +1,35 @@
+ic2.itemEnergeticRotor=§7Kinetic Gearbox Rotor (Energetic Alloy)
+ic2.itemTungstenSteelRotor=§7Kinetic Gearbox Rotor (TungstenSteel)
+ic2.itemVibrantRotor=§7Kinetic Gearbox Rotor (Vibrant Alloy)
+ic2.itemIridiumRotor=§7Kinetic Gearbox Rotor (Iridium)
+
+ic2.itemMagnaliumRotor=§7Kinetic Gearbox Rotor (Magnalium)
+ic2.itemUltimetRotor=§7Kinetic Gearbox Rotor (Ultimet)
+
+ic2.blockGenerator=§7RTG POWARZ
+ic2.blockGenerator.0=§7RTG POWA
+ic2.blockGenerator.1=§7KINETIC POWA
+ic2.blockGenerator.2=§7ERROR POWA
+ic2.blockGenerator.3=§7MOAR ERROR POWA
+
+ic2.blockRTGenerator2=§7RTG POWARZ 2
+ic2.blockKineticGenerator2=§7KINETIC POWA 2
+
+ic2.HydrofluoricAcid=§7Industrial Strength Hydrofluoric Acid Cell
+ic2.SulfurDioxide=§7Sulfur Dioxide Cell
+ic2.SulfuricApatite=§7Sulfuric Apatite Cell
+ic2.SulfurousAcid=§7Sulfurous Acid Cell
+
+ic2.HydrogenChloride=§7Industrial Strength Hydrogen Chloride Cell
+ic2.LithiumHydroxide=§7Lithium Hydroxide Cell
+ic2.SulfuricLithium=§7Sulfuric Lithium Cell
+
+ic2.UraniumHexaFluoride=§7Uranium Hexafluoride Cell
+ic2.ThoriumTetraFluoride=§7Thorium Tetrafluoride Cell
+ic2.UraniumTetraFluoride=§7Uranium Tetrafluoride Cell
+
+
+ic2.itemArmorHazmatHelmetEx=§7Advanced Hazmat Helmet
+ic2.itemArmorHazmatChestplateEx=§7Advanced Hazmat Suit
+ic2.itemArmorHazmatLeggingsEx=§7Advanced Hazmat Leggings
+ic2.itemArmorRubBootsEx=§7Advanced Hazmat Boots

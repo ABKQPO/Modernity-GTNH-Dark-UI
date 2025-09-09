@@ -1,0 +1,11 @@
+itemGroup.avaritiaddons=§7Avaritiaddons
+
+tile.CompressedChest.name=§7Сжатый сундук
+tile.InfinityChest.name=§7Сундук бесконечности
+tile.ExtremeAutoCrafter.name=§7Ужасный автоматический верстак
+
+container.CompressedChest=§7Сжатый сундук
+container.InfinityChest=§7Сундук бесконечности
+container.ExtremeAutoCrafter=§7Ужасный автоматический верстак
+
+tooltip.fillingRange=§7%1$s из %2$s

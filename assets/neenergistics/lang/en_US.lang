@@ -1,0 +1,23 @@
+neenergistics.gui.tooltip.crafting.preview=§7Request missing items
+neenergistics.gui.tooltip.crafting.preview.result=§7Request the recipe result
+neenergistics.gui.tooltip.crafting.nopreview=§7Request missing items (No Preview)
+neenergistics.gui.tooltip.crafting.nopreview.result=§7Request the recipe result (No Preview)
+
+neenergistics.gui.tooltip.ingredient.permutation=§7Change Item
+neenergistics.gui.tooltip.ingredient.count=§7Change Count
+
+nei.options.keys.nee=§7NotEnoughEnergistics
+nei.options.keys.nee.count=§7Change Item Count
+nei.options.keys.nee.ingredient=§7Choose ingredient
+nei.options.keys.nee.preview=§7Crafting Help
+nei.options.keys.nee.nopreview=§7Crafting Help(No Preview)
+
+gui.neenergistics.button.title.combination=§7Combine Items
+gui.neenergistics.button.tooltip.combination=§7Current Mode: %s
+gui.neenergistics.button.name.enabled=§7Enabled
+gui.neenergistics.button.name.disabled=§7Disabled
+gui.neenergistics.button.name.whitelist=§7Whitelist
+gui.neenergistics.button.title.remove=§7Remove
+gui.neenergistics.button.tooltip.remove=§7Remove and cancel the current recipe
+
+tile.neenergistics.pattern_interface.name=§7Pattern Interface

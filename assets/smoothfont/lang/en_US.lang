@@ -1,0 +1,105 @@
+smoothfont.key.guiOpen=§7Open Config GUI
+
+smoothfont.key.categories=§7Smooth Font
+
+smoothfont.config.menu.enableInterpolation=§7Interpolation
+smoothfont.config.menu.blurReduction=§7Blur Reduction
+smoothfont.config.menu.brightness=§7Brightness
+smoothfont.config.menu.shadowLength=§7Shadow Length
+smoothfont.config.menu.excludeIntMultiple=§7Exclude INT Multiples
+smoothfont.config.menu.limitMagnification=§7Effect Limit MAG
+smoothfont.config.menu.font=§7Font...
+smoothfont.config.menu.advancedOptions=§7Advanced Options...
+smoothfont.config.menu.default=§7Set to Default
+smoothfont.config.menu.default.yesno.global=§7The all settings of Global Config will be set to default values.
+smoothfont.config.menu.default.yesno.player=§7The all settings of Player Config will be set to Global Config values.
+smoothfont.config.menu.exit=§7Back to Game
+smoothfont.config.menu.playerConfig=§7Player Config
+smoothfont.config.menu.globalConfig=§7Global Config
+
+smoothfont.config.menu.title.advanced=§7Smooth Font [Advanced Options]
+smoothfont.config.menu.enableAlphaBlend=§7Alpha Blend
+smoothfont.config.menu.allowNPOTTexture=§7Use NPOT Texture
+smoothfont.config.menu.enableMipmap=§7Mipmap
+smoothfont.config.menu.enableAnisotropicFilter=§7Anisotropic Filter
+smoothfont.config.menu.mipmapLodBias=§7Mipmap LOD Bias
+smoothfont.config.menu.overlayLodBias=§7Overlay LOD Bias
+smoothfont.config.menu.forceUnicode=§7Force Unicode
+smoothfont.config.menu.removeScaleRestriction=§7Unlock L-GUI
+smoothfont.config.menu.alternativeInterpolation=§7Force LERP
+smoothfont.config.menu.done=§7Done
+
+smoothfont.config.font.title=§7Font Selection
+smoothfont.config.font.fontFilter=§7Search
+smoothfont.config.font.sizeAdjustField=§7Autosizing Samples
+smoothfont.config.font.antiAlias=§7AA
+smoothfont.config.font.antiAlias.0=§7OFF
+smoothfont.config.font.antiAlias.1=§7Normal
+smoothfont.config.font.antiAlias.2=§7High Precision
+smoothfont.config.font.doubleRendering=§7Emphasis
+smoothfont.config.font.doubleRendering.0=§7OFF
+smoothfont.config.font.doubleRendering.1=§7ASCII Only
+smoothfont.config.font.doubleRendering.2=§7Non-ASCII
+smoothfont.config.font.doubleRendering.3=§7All
+smoothfont.config.font.fontRes=§7Resolution
+smoothfont.config.font.autoSizing.auto=§7Autosizing
+smoothfont.config.font.autoSizing.fixed=§7Fixed Size
+smoothfont.config.font.fontSize=§7Size
+smoothfont.config.font.fontGap=§7Gap
+smoothfont.config.font.fontGap.normal=§7Normal
+smoothfont.config.font.fontDetailList.on=§7Detail
+smoothfont.config.font.fontDetailList.off=§7Simple
+smoothfont.config.font.size.normal=§7Normal
+smoothfont.config.font.alignBaseline.on=§7Align Baseline
+smoothfont.config.font.alignBaseline.off=§7Align Box-bottom
+smoothfont.config.font.spaceWidth=§7SPC width
+smoothfont.config.font.spaceWidth.normal=§7DEF
+smoothfont.config.font.targetToReplace=§7Target
+smoothfont.config.font.targetToReplace.0=§7Standard
+smoothfont.config.font.targetToReplace.1=§7All
+smoothfont.config.font.apply=§7Apply
+smoothfont.config.font.finish=§7Done
+smoothfont.config.font.memUsage=§7Memory Usage
+
+smoothfont.config.ON=§7ON
+smoothfont.config.OFF=§7OFF
+smoothfont.config.auto=§7Auto
+smoothfont.config.unlimited=§7Unlimited
+smoothfont.config.default=§7Default
+
+smoothfont.msg.transformingFailed=§7Transforming was failed. It may be in conflict.
+smoothfont.msg.notWorking=§7The MOD is not working properly. It may be in conflict.
+smoothfont.msg.detectFastCraft=§7FastCraft was detected. Please set enableFontRendererTweaks=false in fastcraft.ini.
+
+smoothfont.tooltip.enableInterpolation=§7Linear Interpolation\nApply linear interpolation filter to characters.
+smoothfont.tooltip.blurReduction=§7Blur Reduction\nApply a blur reduction to interpolated characters below specified resolution.
+smoothfont.tooltip.brightness=§7Brightness\nAdjust a brightness of interpolated characters. "Auto" enables automatic brightness adjustment for the current font.
+smoothfont.tooltip.excludeIntMultiple=§7Exclude INT Multiples\nThe integral multiple of default size characters are not effected.
+smoothfont.tooltip.limitMagnification=§7Effect Limit Magnification\nThe effect will not be applied to characters above the specified magnification.
+smoothfont.tooltip.setToDefault=§7Set to Default\nThe settings will be set to default values except the settings that cannot be set in the GUI. In Player Config mode, the settings will be set to Global Config values.
+smoothfont.tooltip.configSelection=§7Config Selection\nSwitch between Global Config and Player Config. Global Config is same as a normal cfg file of forge mods. Player Config saves some user preferences to the configuration file specific to the player.
+
+smoothfont.tooltip.enableAlphaBlend=§7Alpha Blending\nEnable alpha blending to smooth characters.
+smoothfont.tooltip.allowNPOTTexture=§7Use NPOT Texture\nMake it possible to use non power of two texture. Texture loading may become faster. Some GPUs may have draw problems using NPOT texture.
+smoothfont.tooltip.enableMipmap=§7Mipmap\nEnable mipmap. Readability of small character improves.
+smoothfont.tooltip.enableAnisotropicFilter=§7Anisotropic Filter\nEnable the anisotropic filter. Readability of characters at oblique viewing angles improves.
+smoothfont.tooltip.mipmapLodBias=§7Mipmap LOD Bias\nAdjust the effectiveness of the mipmap for the scaled down characters. Characters are displayed more clearly with a negative value, but they may be chipped or flickering. The closer to zero the higher the quality of scaling down, the less chipped and flickering, but it looks a bit blurry.
+smoothfont.tooltip.overlayLodBias=§7Overlay LOD Bias\nThis is the setting for overlay screen characters. Adjust the effectiveness of the mipmap for the scaled down characters. Characters are displayed more clearly with a negative value. The closer to zero the higher the quality of scaling down.
+smoothfont.tooltip.forceUnicode=§7Force unicode font\nForces all characters to be displayed in unicode font. If you restore the original state completely, you must turn it off and restart Minecraft.
+smoothfont.tooltip.removeScaleRestriction=§7Unlock Large GUI\nWhen using Unicode font, enable "Large" GUI scale. (This enables all GUI scales other than integral multiples.)
+smoothfont.tooltip.alternativeInterpolation=§7Force Linear Interpolation\nThis is experimental. Force linear interpolation to Unicode glyph texture. MOD's original font renderer may be affected as well, but the font is not changed.
+
+smoothfont.tooltip.font.sizeAdjustField=§7Autosizing Samples\nThis option is useful when certain characters are oversized and can not be drawn correctly. In autosizing, the font size is automatically adjusted so that the whole character entered here can be drawn. Multiple characters can be specified.
+smoothfont.tooltip.font.fontNameList=§7Font List\nYou can select a font. §eYellow§7 indicates the secondary font. The secondary font is used instead of the character that can not be displayed in the main font. You can select the secondary font by double click.
+smoothfont.tooltip.font.fontDetailList=§7Font List Mode\n§fSimple§7: List of font family name\n§fDetail§7: List of all font name
+smoothfont.tooltip.font.fontNameFilter=§7Font Name Filter
+smoothfont.tooltip.font.fontRes=§7Glyph Resolution\nSelect glyph texture resolution. The higher the resolution, the more memory and VRAM will be consumed. An asterisk "*" indicates the recommendation value for the current GUI scale.
+smoothfont.tooltip.font.fontSize=§7Display Size\nAdjust the character display size.
+smoothfont.tooltip.font.fontGap=§7Gap\nSpecify the character spacing.
+smoothfont.tooltip.font.antiAlias=§7Anti-Alias\nDraw font smoothly.\n§fNormal§7: Draws with rounding to pixels.\n§fHigh precision§7: Draws without rounding to pixels.
+smoothfont.tooltip.font.doubleRendering=§7Emphasis\nEmphasize the characters.\n§fASCII only§7: Emphasize ASCII characters only.\n§fNon-ASCII§7: Emphasize non-ASCII characters.\n§fAll§7: Emphasize all characters.
+smoothfont.tooltip.font.fontAutoSizing=§7Autosizing / Fixed Size\nHow to determine appropriate font size for the specified resolution.\n§fAuto§7: Auto-detects the appropriate font size.\n§fFixed§7: Resolution = Font size.\nUsually "§fAuto§7" is recommended. "§fFixed§7" is convenient when using bitmap fonts such as 8 or 12 dots at low resolution.
+smoothfont.tooltip.font.fontAlignBaseline=§7Align Baseline / Align Box-Bottom\nSelect the reference position in the vertical alignment.\n§fbaseline§7: Align font baseline\n§fbox-bottom§7: Align bottom of glyph box\nUsually "§fbaseline§7" is recommended. If the vertical position between fonts is misaligned, try "§fbox-bottom§7".
+smoothfont.tooltip.font.spaceWidth=§7Space Width\nSelect the space width.\n§fAuto§7: Use a font-specific space width.\n"4" is a default space width of Minecraft.
+smoothfont.tooltip.font.targetToReplace=§7Target to Replace\nSpecify a replace manner of fonts.\n§fStandard§7: Only a MC standard font and an unicode font are replaced.\n§fAll§7: All fonts including special fonts specified by other mods are replaced.
+smoothfont.tooltip.font.memUsage=§7Memory Usage\nTotal memory usage to hold the all glyph images of the platform fonts currently in use.

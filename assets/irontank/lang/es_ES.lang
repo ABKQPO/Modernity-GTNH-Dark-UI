@@ -1,0 +1,23 @@
+# Item localizations
+item.irontank:copperIronUpgrade.name=§7Mejora de Tanque de Cobre a Hierro
+item.irontank:copperSilverUpgrade.name=§7Mejora de Tanque de Cobre a Acero
+item.irontank:diamondObsidianUpgrade.name=§7Mejora de Tanque de Diamante a Obsidiana
+item.irontank:diamondEmeraldUpgrade.name=§7Mejora de Tanque de Diamante a Esmeralda
+item.irontank:goldDiamondUpgrade.name=§7Mejora de Tanque de Oro a Diamante
+item.irontank:ironGoldUpgrade.name=§7Mejora de Tanque de Hierro a Oro
+item.irontank:silverGoldUpgrade.name=§7Mejora de Tanque de Acero a Oro
+item.irontank:glassCopperUpgrade.name=§7Mejora de Tanque de Vidrio a Cobre
+item.irontank:glassIronUpgrade.name=§7Mejora de Tanque de Vidrio a Hierro
+item.irontank:silverDiamondUpgrade.name=§7Mejora de Tanque de Acero a Diamante
+
+# Block localizations
+tile.irontank:ironTank.name=§7Tanque de Hierro
+tile.irontank:goldTank.name=§7Tanque de Oro
+tile.irontank:diamondTank.name=§7Tanque de Diamante
+tile.irontank:emeraldTank.name=§7Tanque de Esmeralda
+tile.irontank:obsidianTank.name=§7Tanque de Obsidiana
+tile.irontank:copperTank.name=§7Tanque de Cobre
+tile.irontank:silverTank.name=§7Tanque de Acero
+
+# Misc localizations
+itemGroup.irontank=§7Iron Tanks

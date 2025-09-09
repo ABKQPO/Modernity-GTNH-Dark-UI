@@ -1,0 +1,45 @@
+tile.ae2stuff.Encoder.name=§7Minta Kódoló
+tile.ae2stuff.Grower.name=§7Kristály Növelő Kamra
+tile.ae2stuff.Inscriber.name=§7Fejlett Karcoló
+tile.ae2stuff.Wireless.name=§7Vezetéknélküli Csatlakozó
+
+item.ae2stuff.WirelessKit.name=§7Wireless Setup Kit
+item.ae2stuff.Visualiser.name=§7Network Visualisation Tool
+
+ae2stuff.error.not_connected=§7Hálózat nincs csatlakoztatva
+
+ae2stuff.waila.sleep.true=§7Alszik
+ae2stuff.waila.sleep.false=§7Dolgozik
+ae2stuff.waila.power=§7%s / %s AE
+
+ae2stuff.waila.wireless.connected=§7%s,%s,%s-hoz csatlakoztatva
+ae2stuff.waila.wireless.notconnected=§7Nincs csatlakoztatva
+ae2stuff.waila.wireless.channels=§7Csatornák: %s
+ae2stuff.waila.wireless.power=§7Energia használva: %s AE/t
+
+ae2stuff.gui.lock.on=§7Lezárva - Automatikusan nem lehet eltávolítani
+ae2stuff.gui.lock.off=§7Feloldva - Automatikusan el lehet távolítani
+ae2stuff.gui.lock.note=§7Ha egy folyamat se megy és a középső retesz üres
+
+ae2stuff.gui.recipes=§7Receptek
+
+ae2stuff.wireless.tool.empty=§7Kattints a vezetéknélküli Csatlakozóra hogy összekösd
+ae2stuff.wireless.tool.bound1=§7%s,%s,%s-hez/-hőz kötve
+ae2stuff.wireless.tool.bound2=§7Kattints a másik Vezetéknélküli Csatlakozóra hogy csatlakoztasd
+ae2stuff.wireless.tool.connected=§7%s,%s,%s-hez/-höz csatlakozik
+ae2stuff.wireless.tool.failed=§7Kapcsolat sikertelen
+ae2stuff.wireless.tool.dimension=§7Mind két csatlakozónak ugyan abban a dimenzióban kell lennie
+ae2stuff.wireless.tool.noexist=§7A csatlakoztatott Csatlakozó nem létezik
+ae2stuff.wireless.tool.security.network=§7Biztonsági áthágás - hálózatok nem kapcsolódhatnak
+ae2stuff.wireless.tool.security.player=§7Biztonsági áthágás - nem módosíthatod a hálózatot
+
+ae2stuff.visualiser.bound=§7Következő hálózat vizualizálása: %s,%s,%s
+ae2stuff.visualiser.mode=§7Mód:
+ae2stuff.visualiser.set=§7Mód átállítva a következőre %s
+ae2stuff.visualiser.mode.full=§7minden megjelenítése
+ae2stuff.visualiser.mode.nodes=§7Csomópontok megjelenítése
+ae2stuff.visualiser.mode.channels=§7Csatornák megjelenítése
+ae2stuff.visualiser.mode.nonum=§7Csatornák és csomópontok megjelenítése
+ae2stuff.visualiser.mode.p2p=§7P2P kapcsolatok megjelenítése
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff

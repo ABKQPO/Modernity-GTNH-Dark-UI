@@ -1,0 +1,35 @@
+microblock.missing=§7마이크로블럭이 %s에 설치 되어있지 않습니다
+multipart.missing=§7%s에 멀티파트가 설치 되지 않았습니다
+
+item.microblock:sawStone.name=§7돌 톱
+item.microblock:sawIron.name=§7철 톱
+item.microblock:sawDiamond.name=§7다이아몬드 톱
+item.microblock:stoneRod.name=§7돌 막대
+
+mcr_face.1.name=§7%s 덮개
+mcr_face.1.subset=§7덮개
+mcr_face.2.name=§7%s 판
+mcr_face.2.subset=§7판
+mcr_face.4.name=§7%s 반블럭
+mcr_face.4.subset=§7반블럭
+
+mcr_hllw.1.name=§7구멍 뚫린 %s 덮개
+mcr_hllw.1.subset=§7구멍 뚫린 덮개
+mcr_hllw.2.name=§7구멍 뚫린 %s 판
+mcr_hllw.2.subset=§7구멍 뚫린 판
+mcr_hllw.4.name=§7구멍 뚫린 %s 반블럭
+mcr_hllw.4.subset=§7구멍 뚫린 반블럭
+
+mcr_edge.1.name=§7%s 조각
+mcr_edge.1.subset=§7조각
+mcr_edge.2.name=§7%s 말뚝
+mcr_edge.2.subset=§7말뚝
+mcr_edge.4.name=§7%s 기둥
+mcr_edge.4.subset=§7기둥
+
+mcr_cnr.1.name=§7%s 녹
+mcr_cnr.1.subset=§7녹
+mcr_cnr.2.name=§7%s 코너
+mcr_cnr.2.subset=§7코너
+mcr_cnr.4.name=§7%s 노치
+mcr_cnr.4.subset=§7노치

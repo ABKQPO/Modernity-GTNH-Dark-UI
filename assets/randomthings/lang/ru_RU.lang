@@ -1,0 +1,173 @@
+tile.playerinterface.name=§7Интерфейс игрока
+tile.creativePlayerInterface.name=§7Творческий интерфейс игрока
+tile.fluidDisplay.name=§7Отображатель жидкостей
+tile.advancedFluidDisplay.name=§7Продвинутый отображатель жидкостей
+tile.fertilizedDirt.name=§7Удобрённая земля
+tile.itemCollector.name=§7Собиратель предметов
+tile.advancedItemCollector.name=§7Продвинутый собиратель предметов
+tile.onlineDetector.name=§7Детектор онлайн-игроков
+tile.moonSensor.name=§7Датчик лунных фаз
+tile.notificationInterface.name=§7Интерфейс уведомлений
+tile.wirelessLever.name=§7Беспроводной рычаг
+tile.lapisLamp.name=§7Лазуритовый светильник
+tile.dyeingMachine.name=§7Покрасочный механизм
+tile.imbuingStation.name=§7Станция наполнения
+tile.spectreGlass.name=§7Призрачное стекло
+tile.energyDistributor.name=§7Распределитель энергии
+tile.enderEnergyDistributor.name=§7Распределитель энергии Края
+tile.bloodMoonSensor.name=§7Датчик кровавой луны
+
+tile.spectreBlock.name=§7Призрачный блок
+tile.spectreBlock.black.name=§7Чёрный призрачный блок
+tile.spectreBlock.red.name=§7Красный призрачный блок
+tile.spectreBlock.green.name=§7Зелёный призрачный блок
+tile.spectreBlock.brown.name=§7Коричневый призрачный блок
+tile.spectreBlock.blue.name=§7Синий призрачный блок
+tile.spectreBlock.purple.name=§7Фиолетовый призрачный блок
+tile.spectreBlock.cyan.name=§7Бирюзовый призрачный блок
+tile.spectreBlock.silver.name=§7Светло-серый призрачный блок
+tile.spectreBlock.gray.name=§7Серый призрачный блок
+tile.spectreBlock.pink.name=§7Розовый призрачный блок
+tile.spectreBlock.lime.name=§7Лаймовый призрачный блок
+tile.spectreBlock.yellow.name=§7Жёлтый призрачный блок
+tile.spectreBlock.lightBlue.name=§7Светло-синий призрачный блок
+tile.spectreBlock.magenta.name=§7Сиреневый призрачный блок
+tile.spectreBlock.orange.name=§7Оранжевый призрачный блок
+tile.spectreBlock.white.name=§7Белый призрачный блок
+
+itemGroup.Random Things=§7Random Things
+item.filterBlock.name=§7Фильтр блоков
+item.filterItem.name=§7Фильтр предметов
+item.filterEntity.name=§7Фильтр сущностей
+item.filterPosition.name=§7Фильтр положений
+item.biomeSolution.name=§7Solution
+item.biomeCapsule.name=§7Biome Capsule
+item.biomePainter.name=§7Biome Painter
+item.whitestoneUncharged.name=§7Белый камень [Незаряженный]
+item.whitestoneCharged.name=§7Белый камень [Заряженный]
+item.voidStone.name=§7Пустотный камень
+item.dropFilter.name=§7Фильтр упавших предметов
+item.dropFilterVoiding.name=§7Пустотный фильтр упавших предметов
+item.enderLetter.name=§7Письмо Края
+item.spectreKey.name=§7Призрачный ключ
+item.opSpectreKey.name=§7Призрачный ключ Оператора
+item.soundRecorder.name=§7Диктофон
+item.spectreSword.name=§7Призрачный меч
+item.spectreHelmet.name=§7Призрачный шлем
+item.spectreChestplate.name=§7Призрачная кираса
+item.spectreLeggings.name=§7Призрачные поножи
+item.spectreBoots.name=§7Призрачные ботинки
+item.spiritBinder.name=§7Привязыватель духа
+item.magneticForce.name=§7Магнитная сила
+item.gintoEmpty.name=§7Empty Ginto
+item.gintoFilled.name=§7Filled Ginto
+item.creativeSword.name=§7Творческий меч
+item.creativeGrower.name=§7Творческий выращиватель
+item.creativeChestGenerator.name=§7Творческий генератор сундуков
+item.playerCore.name=§7Сердце игрока
+item.obsidianStick.name=§7Обсидиановая палка
+item.enderFragment.name=§7Фрагмент Края
+item.ectoplasm.name=§7Эктоплазма
+item.spectreIron.name=§7Призрачное железо
+item.transformationCore.name=§7Ядро трансформации
+item.enderDiamond.name=§7Алмаз Края
+item.energizedWater.name=§7Заряженная вода
+item.bloodStone.name=§7Кровавый камень
+item.error.name=§7Недействительный предмет
+
+item.imbue.poison.name=§7Фляга яда
+item.imbue.experience.name=§7Фляга опыта
+item.imbue.fire.name=§7Фляга огня
+item.imbue.wither.name=§7Фляга иссушения
+item.imbue.weakness.name=§7Фляга слабости
+item.imbue.spectre.name=§7Фляга призрачности
+
+imbue.poison=§7Настой яда
+imbue.experience=§7Настой опыта
+imbue.fire=§7Настой огня
+imbue.wither=§7Настой иссушения
+imbue.weakness=§7Настой слабости
+imbue.spectre=§7Настой призрачности
+
+entity.spirit.name=§7Дух
+entity.bloodmoonCircle.name=§7Круг кровавой луны
+
+text.miscellaneous.press=§7Нажмите %s для подробной информации
+text.miscellaneous.shift=§7shift
+text.miscellaneous.block=§7Блок
+text.miscellaneous.metadata=§7Метаданные
+text.miscellaneous.oreDictionary=§7Словарь руд
+text.miscellaneous.listType=§7Тип списка
+text.miscellaneous.entityid=§7ID сущности
+text.miscellaneous.entityName=§7Имя сущности
+text.miscellaneous.connectedTo=§7Соединено с
+text.miscellaneous.invalidArguments=§7Неверные аргументы
+text.miscellaneous.setBonus=§7Бонус комплекта:
+text.miscellaneous.opOnly=§7Только для Операторов
+text.miscellaneous.creativeOnly=§7Только для творческого режима
+text.miscellaneous.category=§7Категория: %s
+text.miscellaneous.shiftCategory=§7Shift-ПКМ, чтобы изменить категорию
+text.miscellaneous.save=§7Сохранить
+text.miscellaneous.charges=§7Заряжает: %d
+
+text.miscellaneous.whiteList=§7Белый список
+text.miscellaneous.blackList=§7Чёрный список
+
+text.miscellaneous.yes=§7Да
+text.miscellaneous.no=§7Нет
+
+text.onlineDetector.detectingNobody=§7Никто не отслеживается
+text.onlineDetector.detecting=§7"Отслеживание %s"
+
+text.miscellaneous.ignoreOreDict=§7Игнорировать словарь руд
+text.miscellaneous.useOreDict=§7Использовать словарь руд
+
+text.miscellaneous.ignoreMetadata=§7Игнорировать метаданные
+text.miscellaneous.useMetadata=§7Использовать метаданные
+
+text.miscellaneous.noTarget=§7Цель не выбрана (Shift-ПКМ по блоку)
+text.miscellaneous.target.x=§7Координата-X: %d
+text.miscellaneous.target.y=§7Координата-Y: %d
+text.miscellaneous.target.z=§7Координата-Z: %d
+
+text.miscellaneous.position.x=§7Координата-X: %d
+text.miscellaneous.position.y=§7Координата-Y: %d
+text.miscellaneous.position.z=§7Координата-Z: %d
+text.miscellaneous.dimension=§7Измерение: %d
+
+text.spectre.soulSolid=§7Твёрдая душа
+
+text.dyed=§7Покрашено в %s
+text.color.black=§7чёрный
+text.color.red=§7красный
+text.color.green=§7зелёный
+text.color.brown=§7коричневый
+text.color.blue=§7синий
+text.color.purple=§7фиолетовый
+text.color.cyan=§7бирюзовый
+text.color.silver=§7светло-серый
+text.color.gray=§7серый
+text.color.pink=§7розовый
+text.color.lime=§7лаймовый
+text.color.yellow=§7жёлтый
+text.color.lightBlue=§7светло-синий
+text.color.magenta=§7сиреневый
+text.color.orange=§7оранжевый
+text.color.white=§7белый
+
+text.error.nbt=§7Не удалось прочитать NBT файл, происхождение таких вещей, как отправка письма или использование магнитной силы, не выдержит перезапуска.
+
+text.magneticForce.notOnline=§7Не в сети
+text.magneticForce.invalidUsername=§7Неверное имя игрока
+text.magneticForce.noRights=§7Нет права
+text.magneticForce.notYourself=§7Не себя
+
+text.enderLetter.noReceiver=§7Получатель не выбран
+text.enderLetter.receiver=§7Получатель: %s
+text.enderLetter.sender=§7Отправитель: %s
+text.enderLetter.invalidreceiver=§7Вы указали неправильного получателя
+text.enderLetter.empty=§7Вы не можете отправить пустое письмо
+
+text.bloodmoon.command=§7Кровавая луна будет следующей ночью
+text.bloodmoon.notify=§7Кровавая луна наступает...
+text.bloodmoon.nosleep=§7Вы не чувствуете себя усталым

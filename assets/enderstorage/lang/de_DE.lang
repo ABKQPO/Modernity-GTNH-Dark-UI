@@ -1,0 +1,9 @@
+tile.enderchest|0.name=§7Endertruhe
+tile.enderchest|1.name=§7Endertank
+item.enderpouch.name=§7Enderbeutel
+enderstorage.serverop=§7Operator
+
+enderstorage.serverop=§7enderstorage <Frequenz>|(<Farbe> <Farbe> <Farbe>) [Eigentümer]
+enderstorage.command.no_arguments=§7Ungültige Anzahl an Parametern
+enderstorage.command.no_freq=§7Ungültige Frequenz
+enderstorage.command.no_colour=§7Ungültige Farbe: %s

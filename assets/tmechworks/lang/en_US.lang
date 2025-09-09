@@ -1,0 +1,39 @@
+itemGroup.TMechworks=§7TMechworks
+
+tile.tmechworks.signalbus.name=§7Signal Bus
+tile.signalbus.name=§7Signal Bus
+tile.tmechworks.signalterminal.name=§7Signal Terminal
+tile.signalterminal.name=§7Signal Terminal
+tile.tmechworks.dynamo.name=§7Dynamo
+tile.tmechworks.meshFilter.name=§7Mesh Filter
+tile.tmechworks.meshFilter.empty.name=§7Empty Mesh Filter
+tile.tmechworks.meshFilter.wide.name=§7Wide Mesh Filter
+tile.tmechworks.meshFilter.slat.name=§7Slat Mesh Filter
+tile.tmechworks.meshFilter.mesh.name=§7Mesh Filter
+tile.tmechworks.meshFilter.fine.name=§7Fine Mesh Filter
+
+item.spoolwire.name=§7Spool of Wire
+item.lengthwire.name=§7Length of Wire
+
+tile.tmechworks.redstoneMachine.name=§7Machine
+block.drawbridge.name=§7Drawbridge
+block.firestarter.name=§7Igniter
+block.advdrawbridge.name=§7Advanced Drawbridge
+block.extdrawbridge.name=§7Extended Drawbridge
+
+tooltip.spoolofwire=§7Wirey!
+tooltip.spoolofwire.connecting=§7Connecting (X:%d, Y:%d, Z:%d, Dim:%d)
+tooltip.drawbridge.inventory=§7Inventory:
+tooltip.drawbridge.amount=§7Amount:
+tooltip.drawbridge.slot=§7Slot
+tooltip.drawbridge.camoflauge=§7Camoflauge:
+tooltip.drawbridge.direction=§7Placement Direction:
+tooltip.drawbridge.default=§7Stores its inventory when harvested
+tooltip.drawbridge.direction.up=§7Up
+tooltip.drawbridge.direction.down=§7Down
+tooltip.drawbridge.direction.left=§7Left
+tooltip.drawbridge.direction.right=§7Right
+
+container.advdrawbridge=§7Advanced Drawbridge
+container.inv=§7Inv
+container.drawbridge=§7Drawbridge

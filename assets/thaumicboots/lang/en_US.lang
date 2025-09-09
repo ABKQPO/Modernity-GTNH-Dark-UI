@@ -1,0 +1,118 @@
+language.name=§7English
+language.region=§7US
+language.code=§7en_US
+
+# Miscellaneous strings
+# -- Updater strings. Please try to keep these to one line if possible.
+thaumicinsurgence.versioning.newVersion=§7A new version of Thaumic Insurgence is available: %s
+thaumicinsurgence.versioning.critical=§7Magic Bees has a critical update ready: %s - Please update!
+thaumicinsurgence.versioning.clickDownload=§7Click to open the Download page. Hover for update info.
+thaumicinsurgence.config.category.general=§7General
+thaumicinsurgence.config.category.general.tooltip=§7General mod configs
+thaumicinsurgence.config.category.debug=§7Debug
+thaumicinsurgence.config.category.debug.tooltip=§7Options to enable debugging and/or informational messages
+thaumicinsurgence.config.category.modules=§7Modules
+thaumicinsurgence.config.category.modules.tooltip=§7Options to enable or disable integration
+tc.research_category.THAUMICINSURGENCE=§7Thaumic Insurgence
+
+
+item.ItemPactRing.name=§7Ring of Pacts
+
+unintelligbleLaughter=§7I USED TO BE NOTHING BUT THE E_MAIL GUY, NOW I'M THE [[It Burns! Ow! Stop! Help Me! It Burns!]] GUY!                                                [[Amazed at thi5 amazing transformation? You too can]] HAVE A [[Communion]] WITH [[Unintelligble Laughter]]
+
+tc.research_name.TI_DeliciousKromer=§7[[Funky]] LITTLE [[Worm]]
+tc.research_text.TI_DeliciousKromer=§7THIS IS [One Purchase] YOU WILL [Regret] FOR THE REST OF YOUR LIFE!
+
+#Tools
+item.ItemArcaniumInterfacer.name=§7Arcanium Lens
+
+#Items
+item.ItemElectricMeteor.name=§7Electric Boots of the Meteor
+item.ItemNanoMeteor.name=§7Nano Boots of the Meteor
+item.ItemQuantumMeteor.name=§7Quantum Boots of the Meteor
+
+item.ItemElectricComet.name=§7Electric Boots of the Comet
+item.ItemNanoComet.name=§7Nano Boots of the Comet
+item.ItemQuantumComet.name=§7Quantum Boots of the Comet
+
+item.ItemElectricVoid.name=§7Electric Boots of the Voidwalker
+item.ItemNanoVoid.name=§7Nano Boots of the Voidwalker
+item.ItemQuantumVoid.name=§7Quantum Boots of the Voidwalker
+
+item.ItemVoidComet.name=§7Tainted Boots of the Eldritch Comet
+item.ItemVoidMeteor.name=§7Meteoric Boots of the Voidwalker
+
+item.ItemMeteoricComet.name=§7Meteoric Boots of the Comet
+item.ItemCometMeteor.name=§7Icy Boots of the Frozen Meteor
+
+item.ItemPurpleVoidwalkerBoots.name=§7Altered Boots of the Purple Haze
+
+item.ItemSeasonBoots.name=§7Boots of the Seasons
+item.ItemChristmasBoots.name=§7Boots of Christmas Spirit
+item.ItemSlowBoots.name=§7Boots of the Sloth
+
+#Research things
+tc.research_category.THAUMICBOOTS=§7Thaumic Boots
+tc.research_name.TB_Core_Research=§7Thaumaturgic Shoemaking
+tc.research_text.TB_Core_Research=§7A Thaumaturgist's Guide to Arcane Cobbling
+tc.research_name.TB_Tainted_Core=§7Void Magicks
+tc.research_text.TB_Tainted_Core=§7Void Thaumometry in the Human Psyche
+tc.research_name.TB_Explorations_Core=§7Celestial Magicks
+tc.research_text.TB_Explorations_Core=§7A Thaumaturgist's Guide to the Galaxy
+tc.research_name.TB_EMT_Core=§7Artificial Magicks
+tc.research_text.TB_EMT_Core=§7The Thaumaturgic Applications of Artificial Magicks
+tc.research_name.TB_Explorations_Compat=§7Combined Celestial Magicks
+tc.research_text.TB_Explorations_Compat=§7Advanced Theory in Cosmic Combination
+
+tc.research_name.TB_EMT_Tainted_Compat=§7Artificial Void Magicks
+tc.research_text.TB_EMT_Tainted_Compat=§7The Application of Artificial Energy in Void Magicks
+tc.research_name.TB_Explorations_Tainted_Compat=§7Eldritch Celestial Bodies
+tc.research_text.TB_Explorations_Tainted_Compat=§7Discovering Celestial Bodies of the Void
+tc.research_name.TB_Explorations_EMT_Compat=§7Artificial Celestial Magicks
+tc.research_text.TB_Explorations_EMT_Compat=§7The Application of Artificial Energy in Celestial Magicks
+tc.research_name.TB_Seasonal_Boots=§7Seasonal Magicks
+tc.research_text.TB_Seasonal_Boots=§7Christmas Spirits and Other Magickal Phenomena
+tc.research_name.TB_Seasonal_Stabilized=§7Stabilized Seasonal Magicks
+tc.research_text.TB_Seasonal_Stabilized=§7Stabilization of Seasonal Magicks
+
+tc.research_name.TB_Unique_Boots=§7Unique Magicks
+tc.research_text.TB_Unique_Boots=§7The Study of Unreplicable Magicks
+
+#Actual Researches
+Core.1=§7In your studies, you have discovered something rather... peculiar. In this, you found that you were somehow able to equally combine different forms of magick energy to create something... <BR><BR>Unique.<BR><BR>A new form of energy, somehow greater than the sum of its original parts.<BR><BR>You wonder where else this could be applied.
+ExplorationsCore.1=§7Your study of the sky and stars yielded, after intense research of these celestial bodies, you discovered what you call "comets" and "meteors." <BR><BR>In this, you discovered some magicks innate to the heavens, able to be infused into your boots. <BR><BR>And yet, you feel as if there were still more to discover...
+TaintedCore.1=§7Your study of your own mind and the void has yielded strange, new properties, previously thought impossible. <BR><BR>Speed unlike any other, even during flight, void empowered tendons allowing you to soar into the sky, you even saw a significant improvement in your innate ability to channel natural vis energies. <BR><BR>And yet, you feel as if there exists more potential past this...
+EMTCore.1=§7Recently, a peer of your discovered something... peculiar: a form of seemingly mundane energy similar to that of lighting. <BR><BR>Studying it, however, you were able to discover it wasn't quite as mundane as you thought at all! <BR><BR>Rather, this new "electricity" seems to have an intrinsic tie to the natural energies found in vis, and yet, somehow... different, artificial.
+EMTCore.2=§7In this, you found that you were able to create a pair of boots that ran on this "electricity" rather than the innate, and even moreso you were able to overcharge and improve their designs further.<BR><BR>You wonder where else this new energy could be applied...
+ExplorationsTainted.1=§7Studying the void, you have made a unique discovery: the void has celestial bodies itself.<BR><BR>A quite peculiar revelation at that. You began to wonder if contained a similar magical energy like those of the mundane plane and found something miraculous! Similar to their counterparts, the void's bodies likewise contain innate magical properties; with one small caveat: they can't be tapped into directly.<BR><BR>However, by combining the energies of the void with the energies of the cosmic, you were able to make two more combined sets of boots, and continue to wonder if there may be more possibility than you thought?
+ExplorationsCompat.1=§7In your studies of the stars, you had discovered two distinct forms of celestial energies, those being the energy of comets as well as the energy of meteors. However, after your discovery of the thaumic combinator, you began to wonder if there were a way to combine these two energy signals...<BR><BR>Lo and behold, there was! Two distinct methods actually, though the results are currently shockingly similar.<BR><BR>Perhaps there might be a way to enhance these further...
+EMTTainted.1=§7As you continued your studies of electricity, you noticed something interesting, like the traditional magical energies, electricity was likewise able to be combined into other energies. However, at one caveat: it doesn't exactly mix into the energy but rather, converts the natural into the artificial.<BR><BR>In your applications of this to void energy, you found that not only can they run on electricity, but likewise, they can both be overcharged by electricity AND boosted by enhanced void.<BR><BR>A rather interesting revelation...
+ExplorationsEMT.1=§7As you continued your studies of electricity, you noticed something interesting, like the traditional magical energies, electricity was likewise able to be combined into other energies. However, at one caveat: it doesn't exactly mix into the energy but rather, converts the natural into the artificial.<BR><BR>In your applications of this to the celestial energies, you found that they were able run on electricity, even being able to be overcharged, enhancing their natural tendencies.<BR><BR>A rather interesting revelation...
+SeasonalCore.1=§7In your studies of magickal phenomena, you discovered something peculiar: there are spikes of magickal energies around specific parts of the solar calendar. <BR><BR>These spikes have been known to cause various tranformations, such as transforming chests to presents, and vice versa as they pass. Interestingly, you've managed to capture this chaotic energy. <BR><BR>Yet you wonder if there is some way you may be able to stabilize these energies...
+SeasonalStabilized.1=§7As you continued your studies of the seasonal magick phenomena, you noticed something interesting, it actually is possible to attune these energies into a specific phenomena, resulting in a drastically boosted seasonal effect... with one caveat: these effects become incredibly diminished after the season has passed. <BR><BR>The first of these effects you've noticed is a drastic increase in the steady running speed over time, while freezing water similar to that of comet attuned magicks <BR><BR>Though, you almost swear you can hear sleigh bells...
+SeasonalStabilized.2=§7You believe you should come back to this in December...
+UniqueCore.1=§7In your studies of magickal phenomena, you've run upon something peculiar: there are certain magicks that can only be recreated in exact scenarios. The first of these you've stumbled upon, being a seemingly simple slowness curse. <BR><BR>However, while you were able to reproduce the boots themselves, you cannot for the life of you understand how the magick energy works, nor how to recreate it directly. <BR><BR>You begin to wonder if you'll stumble upon energies in similar situations...
+
+#Aspects
+tc.aspect.caelum=§7Celestial Space
+tc.aspect.tabernus=§7Boots, Traversal
+
+itemGroup.Thaumic Boots=§7Thaumic Boots
+
+keybinding.speedtoggle=§7Modulate Speed Boost
+keybinding.jumptoggle=§7Modulate Jump Boost
+keybinding.omnitoggle=§7Toggle Omnidirectional Movement
+keybinding.inertiatoggle=§7Toggle Canceling Flight Inertia
+keybinding.incrementmodifier=§7Modulation Increment Modifier
+keybinding.stepassist=§7Toggle Step Assist
+
+thaumicboots.jumpEffect=§7Jump Boost:
+thaumicboots.speedEffect=§7Speed Boost:
+thaumicboots.omniEffect=§7Omni Mode:
+thaumicboots.inertiaCancelingEffect=§7Inertia Canceling:
+thaumicboots.inertiaCancelingConfigDisabledMessage=§7Inertia Canceling Feature Disabled in Config
+thaumicboots.stepAssistEffect=§7Step Assist:
+
+thaumicboots.activeStatetrue=§7Activated
+thaumicboots.activeStatefalse=§7Deactivated
+

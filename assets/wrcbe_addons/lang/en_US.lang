@@ -1,2 +1,12 @@
 item.wrcbe_addons:sniffer.name=§7Wireless Sniffer
 item.wrcbe_addons:psniffer.name=§7Private Sniffer
+item.wrcbe_addons:empty_map.name=§7Empty Wireless Map
+item.wrcbe_addons:map.name=§7Wireless Map
+item.wrcbe_addons:rep.name=§7REP
+item.wrcbe_addons:triangulator.name=§7Wireless Triangulator
+item.wrcbe_addons:remote.name=§7Wireless Remote
+item.wrcbe_addons:tracker.name=§7Wireless Tracker
+
+wrcbe_addons.triangulator.short=§7Triangulator
+wrcbe_addons.remote.short=§7Remote
+wrcbe_addons.tracker.short=§7Tracker

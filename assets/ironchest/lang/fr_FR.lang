@@ -1,0 +1,22 @@
+#fr_FR translated by robin4002
+
+tile.ironchest:IRON.name=§7Coffre en Fer
+tile.ironchest:GOLD.name=§7Coffre en Or
+tile.ironchest:DIAMOND.name=§7Coffre en Diamant
+tile.ironchest:COPPER.name=§7Coffre en Cuivre
+tile.ironchest:STEEL.name=§7Coffre en Argent
+tile.ironchest:SILVER.name=§7Coffre en Argent
+tile.ironchest:CRYSTAL.name=§7Coffre en Cristal
+tile.ironchest:OBSIDIAN.name=§7Coffre en Obsidienne
+
+item.ironchest:IRONGOLD.name=§7Amélioration de coffre en fer à or
+item.ironchest:GOLDDIAMOND.name=§7Amélioration de coffre en or à diamant
+item.ironchest:COPPERSTEEL.name=§7Amélioration de coffre en cuivre à argent
+item.ironchest:STEELGOLD.name=§7Amélioration de coffre en argent à or
+item.ironchest:COPPERSILVER.name=§7Amélioration de coffre en cuivre à argent
+item.ironchest:SILVERGOLD.name=§7Amélioration de coffre en argent à or
+item.ironchest:COPPERIRON.name=§7Amélioration de coffre en cuivre à fer
+item.ironchest:DIAMONDCRYSTAL.name=§7Amélioration de coffre en diamant à crital
+item.ironchest:WOODIRON.name=§7Amélioration de coffre en bois à fer
+item.ironchest:WOODCOPPER.name=§7Amélioration de coffre en bois à cuivre
+item.ironchest:DIAMONDOBSIDIAN.name=§7Amélioration de coffre en diamant à obsidienne

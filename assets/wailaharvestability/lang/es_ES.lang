@@ -1,0 +1,30 @@
+# Tools
+wailaharvestability.toolclass.pickaxe=§7Pico
+wailaharvestability.toolclass.shovel=§7Pala
+wailaharvestability.toolclass.axe=§7Hacha
+wailaharvestability.toolclass.chisel=§7Cincel
+wailaharvestability.toolclass.scoop=§7Espátula
+wailaharvestability.toolclass.crowbar=§7Palanca
+wailaharvestability.toolclass.sword=§7Espada
+
+# Tooltips
+wailaharvestability.effectivetool=§7Herramienta más eficaz
+wailaharvestability.harvestlevel=§7Nivel de dureza
+wailaharvestability.currentlyharvestable=§7Disponible para extraer
+wailaharvestability.harvestable=§7Dureza
+
+# Options
+option.harvestability.harvestlevel=§7Herramienta más eficaz
+option.harvestability.effectivetool=§7Nivel de dureza
+option.harvestability.currentlyharvestable=§7Disponible para extraer
+option.harvestability.oresonly=§7Minerales sólo
+option.harvestability.harvestlevel.sneakingonly=§7Sólo Shift: Nivel de dureza
+option.harvestability.effectivetool.sneakingonly=§7Sólo Shift: Herramienta más eficaz
+option.harvestability.currentlyharvestable.sneakingonly=§7Sólo Shift: Disponible para extraer
+option.harvestability.minimal=§7Modo mínimo
+option.harvestability.unharvestableonly=§7No extraíble
+option.harvestability.toolrequiredonly=§7Sólo herramienta requerida
+option.harvestability.shearability=§7Habilidad de cortar
+option.harvestability.shearability.sneakingonly=§7Sólo Shift: Compartibilidad
+option.harvestability.silktouchability=§7Habilidad de toque de seda
+option.harvestability.silktouchability.sneakingonly=§7Sólo Shift: Habilidad de toque de seda

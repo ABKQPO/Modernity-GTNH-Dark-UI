@@ -1,0 +1,1032 @@
+#based on en_US.lang
+#translated by Platypus007, with the help of Joe
+#translation is in progress
+#missing lines:49-51,55,79,101-103,107,175,194-196,220,340,359,364,513,514,603
+
+chat.railcraft.api.error=§7Hiba: Túl régi API, kérlek nézd meg a logokat további információért.
+
+death.railcraft.bore.1=§7%s a haladás útjába állt
+death.railcraft.bore.2=§7%s megpróbálta megállítani a Fúrót
+death.railcraft.bore.3=§7%s -t elgázolta a Fúró
+death.railcraft.bore.4=§7%s azt hitte jobb Toldi Miklósnál
+death.railcraft.bore.5=§7%s egy szikla és valami kemény hely közé ragadt
+death.railcraft.bore.6=§7%s a fejlődés rossz oldalát választotta
+
+death.railcraft.crusher.1=§7%s megbotlott a munkagépek közelében
+death.railcraft.crusher.2=§7%s nem vasember, ő is összetört, akárcsak a többiek
+death.railcraft.crusher.3=§7%s a mélységbe bámult, majd beleesett
+death.railcraft.crusher.4=§7%s most majd pótolhatja a cuccait
+death.railcraft.crusher.5=§7%s figyelmen kívül hagyta a "Vigyázz hova lépsz!" táblákat
+death.railcraft.crusher.6=§7Akció! %s  véres finomságai kaphatóak!
+death.railcraft.crusher.7=§7%s kilapítatta magát
+death.railcraft.crusher.8=§7%s , talán el kellett volna olvasni a használati útmutatót
+
+death.railcraft.steam.1=§7%s megsült, finom és szaftos
+death.railcraft.steam.2=§7%s nem immunis a magas hőmérsékletre, sőt, épp ellenkezőleg
+death.railcraft.steam.3=§7%s megtapasztalta milyen fájdalmas is tud lenni a gőzölés
+death.railcraft.steam.4=§7%s ipari baleset áldozata lett
+death.railcraft.steam.5=§7%s , lehet nem kellett volna oda lépned
+death.railcraft.steam.6=§7%s felfedezte, hogy jobb, ha a gőzfürdőt meghagyja a szaunáknak
+
+death.railcraft.track.electric.1=§7%s áramvezető sínre pisilt
+death.railcraft.track.electric.2=§7%s megtapasztalta a "Nagy feszültség" jelentését
+death.railcraft.track.electric.3=§7%s felvillanyozták az áramtan csodái
+death.railcraft.track.electric.4=§7%s megbotlott egy harmadik sínben
+death.railcraft.track.electric.5=§7%s sokkoló felfedezést tett
+death.railcraft.track.electric.6=§7%s tanult valamit az elektromosságról: néha nagyon tud fájni!
+
+death.railcraft.train.1=§7%s -t elütötte egy vonat
+death.railcraft.train.2=§7%s a síneken játszott
+death.railcraft.train.3=§7%s a vonattal fogócskázott, és vesztett
+death.railcraft.train.4=§7%s rossz vonatra szállt
+death.railcraft.train.5=§7%s egy útra szóló jegyet vett a túlvilágra
+death.railcraft.train.6=§7%s viselnie kellett volna a munkaruhát
+
+enchantment.railcraft.crowbar.destruction=§7Megsemmisítés
+enchantment.railcraft.crowbar.implosion=§7Robbanás
+enchantment.railcraft.crowbar.wrecking=§7Tönkretevés
+
+entity.Railcraft.cart.anchor.admin.name=§7Admin Anchor Cart
+entity.Railcraft.cart.anchor.name=§7Anchor Cart
+entity.Railcraft.cart.anchor.personal.name=§7Personal Anchor Cart
+entity.Railcraft.cart.basic.name=§7Csille
+entity.Railcraft.cart.bore.name=§7Alagútfúró
+entity.Railcraft.cart.chest.name=§7Tárolócsille
+entity.Railcraft.cart.energy.batbox.name=§7Batbox csille
+entity.Railcraft.cart.energy.cesu.name=§7CESU csille
+entity.Railcraft.cart.energy.mfe.name=§7MFE csille
+entity.Railcraft.cart.energy.mfsu.name=§7MFSU csille
+entity.Railcraft.cart.furnace.name=§7Kemencés csille
+entity.Railcraft.cart.gift.name=§7Ajándék csille
+entity.Railcraft.cart.loco.electric.name=§7Elektromos mozdony
+entity.Railcraft.cart.loco.steam.solid.name=§7Gőzmozdony
+entity.Railcraft.cart.pumpkin.name=§7Tökös csille
+entity.Railcraft.cart.tank.name=§7Tank csille
+entity.Railcraft.cart.tnt.name=§7TNT csille
+entity.Railcraft.cart.tnt.wood.name=§7Fa-TNT csille
+entity.Railcraft.cart.track.layer.name=§7Sínelhelyező csille
+entity.Railcraft.cart.track.relayer.name=§7Síncserélő csille
+entity.Railcraft.cart.track.remover.name=§7Síneltávolító csille
+entity.Railcraft.cart.undercutter.name=§7Aládolgozó csille
+entity.Railcraft.cart.work.name=§7Dolgozó csille
+
+fluid.creosote=§7Karbolsav olaj
+fluid.steam=§7Gőz
+
+item.minecartChest.name=§7Tárolócsille
+item.minecartFurnace.name=§7Kemencés csille
+item.minecartTnt.name=§7TNT csille
+item.minecartHopper.name=§7Hopper Cart
+
+item.railcraft.armor.goggles.name=§7Pályamunkás szemüveg
+item.railcraft.armor.overalls.name=§7Mérnöki munkaköpeny
+item.railcraft.armor.overalls.tip=§7Megvéd a vasútépítési \n munkák közben
+item.railcraft.armor.steel.boots.name=§7Acél csizma
+item.railcraft.armor.steel.helmet.name=§7Acél sisak
+item.railcraft.armor.steel.legs.name=§7Acél lábvért
+item.railcraft.armor.steel.plate.name=§7Acél mellvért
+
+item.railcraft.backpack.apothecary.t1.name=§7Patikusi hátizsák
+item.railcraft.backpack.apothecary.t2.name=§7Összefűzött patikusi hátizsák
+item.railcraft.backpack.iceman.t1.name=§7Jégbányász hátizsák
+item.railcraft.backpack.iceman.t2.name=§7Összefűzött jégbányász hátizsák
+item.railcraft.backpack.tip=§7Készítette: Railcraft, Inc.
+item.railcraft.backpack.trackman.t1.name=§7Pályamunkás hátizsák
+item.railcraft.backpack.trackman.t2.name=§7Összefűzött pályamunkás hátizsák
+
+item.railcraft.borehead.diamond.name=§7Gyémánt fúrópajzs
+item.railcraft.borehead.iron.name=§7Vas fúrópajzs
+item.railcraft.borehead.steel.name=§7Acél fúrópajzs
+
+item.railcraft.cart.anchor.admin.name=§7Admin Anchor Cart
+item.railcraft.cart.anchor.name=§7Anchor Cart
+item.railcraft.cart.anchor.personal.name=§7Personal Anchor Cart
+item.railcraft.cart.basic.name=§7Csille
+item.railcraft.cart.bore.name=§7Alagútfúró
+item.railcraft.cart.chest.name=§7Tárolócsille
+item.railcraft.cart.energy.batbox.name=§7Batbox csille
+item.railcraft.cart.energy.cesu.name=§7CESU csille
+item.railcraft.cart.energy.mfe.name=§7MFE csille
+item.railcraft.cart.energy.mfsu.name=§7MFSU csille
+item.railcraft.cart.furnace.name=§7Kemencés csille
+item.railcraft.cart.gift.name=§7Ajándék csille
+item.railcraft.cart.gift.tip=§7Boldog karácsonyt
+item.railcraft.cart.loco.electric.name=§7elektromos mozdony
+item.railcraft.cart.loco.steam.solid.name=§7Gőzmozdony
+item.railcraft.cart.pumpkin.name=§7Tökös csille
+item.railcraft.cart.pumpkin.tip=§7Csokit vagy csalunk :-)
+item.railcraft.cart.tank.name=§7Tank csille
+item.railcraft.cart.tnt.name=§7TNT csille
+item.railcraft.cart.tnt.wood.name=§7Fa-TNT csille
+item.railcraft.cart.track.layer.name=§7Sínelhelyező csille
+item.railcraft.cart.track.layer.tip=§7Sínt helyez le, ahogy halad
+item.railcraft.cart.track.relayer.name=§7Síncserélő csille
+item.railcraft.cart.track.relayer.tip=§7Kicseréli a sínt egy másikra
+item.railcraft.cart.track.remover.name=§7Síneltávolító csille
+item.railcraft.cart.track.remover.tip=§7Eltávolítja a sínt,\n amin áthalad
+item.railcraft.cart.undercutter.name=§7Aládolgozó csille
+item.railcraft.cart.undercutter.tip=§7Kicseréli a sín \n alatti blokkokat
+item.railcraft.cart.work.name=§7Dolgozó csille
+
+item.railcraft.dust.charcoal.name=§7Szénpor
+item.railcraft.dust.obsidian.name=§7Obszidián por
+item.railcraft.dust.saltpeter.name=§7Salétrom
+item.railcraft.dust.sulfur.name=§7Kén
+
+item.railcraft.emblem.name=§7Jelkép
+
+item.railcraft.firestone.cracked.name=§7Repedezett tűzkő
+item.railcraft.firestone.cracked.tip.charged=§7Elszökő hő,\n ha óvatos vagy, \n akkor még felhasználható lehet...
+item.railcraft.firestone.cracked.tip.empty=§7Sérült, de it\n ha fel tudod tölteni,\n akkor még használható lehet...
+item.railcraft.firestone.cut.name=§7Vágott tűzkő
+item.railcraft.firestone.cut.tip=§7Még ad le energiát,\n korlátok nélkül...
+item.railcraft.firestone.raw.name=§7Durva tűzkő
+item.railcraft.firestone.raw.tip=§7Megélénkül ha kézbe veszed,\n érezheted magad körül \n a levegőben...
+item.railcraft.firestone.refined.name=§7Kifinomult tűzkő
+item.railcraft.firestone.refined.tip.charged=§7Energiával töltve,\n csak gyakorolnod kell \n rajta, hogy szabadon engedd\n a pusztító hőséget...
+item.railcraft.firestone.refined.tip.empty=§7Kontrollálja az energiáit,\n ha újra tudod tölteni,\n akkor még használható lehet...
+
+item.railcraft.fluid.creosote.bottle.name=§7Karbolsavas üveg
+item.railcraft.fluid.creosote.bucket.name=§7Karbolsavas vödör
+item.railcraft.fluid.creosote.can.name=§7Karbolsavas kanna
+item.railcraft.fluid.creosote.cell.name=§7Karbolsavas rekesz
+item.railcraft.fluid.creosote.refactory.name=§7Karbolsavas kapszula
+item.railcraft.fluid.creosote.wax.name=§7Karbolsavas kapszula
+item.railcraft.fluid.steam.bottle.name=§7Gőzös üveg
+
+item.railcraft.fuel.coke.name=§7Koksz
+
+item.railcraft.ingot.copper.name=§7Réz öntvény
+item.railcraft.ingot.lead.name=§7Ólom öntvény
+item.railcraft.ingot.steel.name=§7Acél öntvény
+item.railcraft.ingot.tin.name=§7Cin öntvény
+
+item.railcraft.nugget.copper.name=§7Réz rög
+item.railcraft.nugget.iron.name=§7Vas rög
+item.railcraft.nugget.lead.name=§7Ólom rög
+item.railcraft.nugget.steel.name=§7Acél rög
+item.railcraft.nugget.tin.name=§7Cin rög
+
+item.railcraft.part.bleached.clay.name=§7Fehérített agyag
+item.railcraft.part.circuit.controller.name=§7Vezérlő áramkör
+item.railcraft.part.circuit.receiver.name=§7Fogadó áramkör
+item.railcraft.part.circuit.signal.name=§7Jelző áramkör
+item.railcraft.part.gear.bushing.name=§7Cin csapágypersely
+item.railcraft.part.gear.gold.plate.name=§7Gold-Plate Gear
+item.railcraft.part.gear.iron.name=§7Vas fogaskerék
+item.railcraft.part.gear.steel.name=§7Acél fogaskerék
+item.railcraft.part.plate.copper.name=§7Réz lemez
+item.railcraft.part.plate.iron.name=§7Vas lemez
+item.railcraft.part.plate.steel.name=§7Acél lemez
+item.railcraft.part.plate.tin.name=§7Cin lemez
+item.railcraft.part.rail.advanced.name=§7Fejlesztett sín
+item.railcraft.part.rail.electric.name=§7Elektromos sín
+item.railcraft.part.rail.reinforced.name=§7Megerősített sín
+item.railcraft.part.rail.speed.name=§7N.GY. sín
+item.railcraft.part.rail.standard.name=§7Általános sín
+item.railcraft.part.rail.wood.name=§7Fa sín
+item.railcraft.part.railbed.stone.name=§7Kő talpfa-készlet
+item.railcraft.part.railbed.wood.name=§7Fa talpfa-készlet
+item.railcraft.part.rebar.name=§7Vasbeton
+item.railcraft.part.signal.lamp.name=§7Jelző lámpa
+item.railcraft.part.tie.stone.name=§7Kő talpfa
+item.railcraft.part.tie.wood.name=§7Fa talpfa
+item.railcraft.part.turbine.blade.name=§7Turbine Blade
+item.railcraft.part.turbine.disk.name=§7Turbine Disk
+item.railcraft.part.turbine.rotor.name=§7Turbine Rotor
+
+item.railcraft.routing.table.name=§7Irányító tábla
+item.railcraft.routing.ticket.gold.name=§7Arany menetjegy
+item.railcraft.routing.ticket.name=§7Menetjegy
+
+item.railcraft.tool.crowbar.magic.name=§7Titánium feszítővas
+item.railcraft.tool.crowbar.name=§7Feszítővas
+item.railcraft.tool.crowbar.reinforced.name=§7Megerősített feszítővas
+item.railcraft.tool.crowbar.tip=§7§okocsik összekapcsolása: shift+jobb klikk
+item.railcraft.tool.electric.meter.name=§7Villanyóra
+item.railcraft.tool.magnifying.glass.name=§7Nagyító
+item.railcraft.tool.signal.tuner.name=§7Jel-hangoló
+item.railcraft.tool.signal.tuner.tip=§7Kapcsolat vezérlő fogadókhoz
+item.railcraft.tool.steel.axe.name=§7Acél fejsze
+item.railcraft.tool.steel.hoe.name=§7Acél kapa
+item.railcraft.tool.steel.pickaxe.name=§7Acél csákány
+item.railcraft.tool.steel.shears.name=§7Acél nyesőolló
+item.railcraft.tool.steel.shovel.name=§7Acél ásó
+item.railcraft.tool.steel.sword.name=§7Acél kard
+item.railcraft.tool.surveyor.name=§7Jelző-blokk felügyelő
+item.railcraft.tool.surveyor.tip=§7Összeköti a jeleket és a jelző-blokkokat
+item.railcraft.tool.whistle.tuner.name=§7Hangolósíp
+
+item.railcraft.upgrade.lapotron.name=§7Lapotron Loader Upgrade
+
+item.synthetic=§7mesterséges
+
+railcraft.color.black=§7Fekete
+railcraft.color.blue=§7Kék
+railcraft.color.brown=§7Barna
+railcraft.color.cyan=§7Cián
+railcraft.color.gray=§7Szürke
+railcraft.color.green=§7Zöld
+railcraft.color.light.blue=§7Világos kék
+railcraft.color.light.gray=§7Világos szürke
+railcraft.color.lime=§7Limezöld
+railcraft.color.magenta=§7Bíborvörös
+railcraft.color.orange=§7Narancssárga
+railcraft.color.pink=§7Rózsaszín
+railcraft.color.purple=§7Lila
+railcraft.color.red=§7Piros
+railcraft.color.white=§7Fehér
+railcraft.color.yellow=§7Sárga
+
+railcraft.gates.action.pause=§7Munka szüneteltetése
+railcraft.gates.action.sendcart=§7Csille küldése
+
+railcraft.gates.trigger.aspect.green=§7Zöld aspektus
+railcraft.gates.trigger.aspect.off=§7Kikapcsolt aspektus
+railcraft.gates.trigger.aspect.red.blink=§7Villogó piros aspektus
+railcraft.gates.trigger.aspect.red=§7Piros aspektus
+railcraft.gates.trigger.aspect.yellow.blink=§7Villogó sárga aspektus
+railcraft.gates.trigger.aspect.yellow=§7Sárga aspektus
+railcraft.gates.trigger.cart=§7Érzékel csillét
+railcraft.gates.trigger.engine.blue=§7Motor állapota: kék
+railcraft.gates.trigger.engine.green=§7Motor állapota: zöld
+railcraft.gates.trigger.engine.orange=§7Motor állapota: narancssárga
+railcraft.gates.trigger.engine.red=§7Motor állapota: piros
+railcraft.gates.trigger.engine.yellow=§7Motor állapota: sárga
+railcraft.gates.trigger.fuel=§7Kevés üzemanyag
+railcraft.gates.trigger.maintenance=§7Karbantartás szükséges
+railcraft.gates.trigger.temp.cold=§7Hideg
+railcraft.gates.trigger.temp.hot=§7Forró
+railcraft.gates.trigger.temp.warm=§7Meleg
+railcraft.gates.trigger.work=§7Van munkája
+
+railcraft.gui.anchor.fuel.remaining=§7@.2f óra
+railcraft.gui.anchor.fuel=§7Végzet gyöngye
+railcraft.gui.anchor.pair.fail.alignment=§7%1$s tengelyei nincsenek összehangolva %2$s tengelyeivel
+railcraft.gui.anchor.pair.fail.distance=§7%1$s túl messze van a következőtől: %2$s
+railcraft.gui.anchor.pair.fail.dimension=§7%1$s más dimenzióban van, mint a célpont
+railcraft.gui.anchor.pair.fail.invalid=§7Ez nem kapcsolható össze a következővel: %s
+railcraft.gui.anchor.pair.fail.unloaded=§7A célpont nem volt betöltve, mikor össze akartad kapcsolni a következővel: %s
+railcraft.gui.anchor.pair.cancel=§7%s az összekapcsolás törölve lett
+railcraft.gui.anchor.pair.start=§7%s összekapcsolás kezdeményezése
+railcraft.gui.anchor.pair.success=§7%s sikeresen összekapcsolva
+
+railcraft.gui.aspect.blink.red.name=§7Villogó piros
+railcraft.gui.aspect.blink.yellow.name=§7Villogó sárga
+railcraft.gui.aspect.green.name=§7Zöld
+railcraft.gui.aspect.off.name=§7Kikapcsolva
+railcraft.gui.aspect.red.name=§7Piros
+railcraft.gui.aspect.yellow.name=§7Sárga
+
+railcraft.gui.aura.disable=§7@s Aura kikapcsolva
+railcraft.gui.aura.enable=§7@s Aura bekapcsolva
+
+railcraft.gui.blast.furnace=§7 Nagy olvasztókemence
+
+railcraft.gui.bore.ballast=§7Ballaszt
+railcraft.gui.bore.fuel=§7Üzemanyag
+railcraft.gui.bore.head=§7Fúrópajzs
+railcraft.gui.bore.track=§7Vasúti nyomelem
+
+railcraft.gui.box.aspect.action=§7Vöröskőjel kibocsátása aspektus szerint
+railcraft.gui.box.capacitor.duration=§7Vöröskőjel kibocsátása @d másodpercre
+railcraft.gui.box.controller.aspect.default=§7Alapértelmezett aspektus:
+railcraft.gui.box.controller.aspect.redstone=§7Vöröskö aspektus:
+
+railcraft.gui.cart.tnt.fuse=§7Biztosíték
+railcraft.gui.cart.track.relayer.pattern=§7Mintázat
+railcraft.gui.cart.track.relayer.stock=§7Készlet
+railcraft.gui.cart.undercutter.pattern=§7Mintázat
+railcraft.gui.cart.undercutter.sides=§7Oldalsó elemek
+railcraft.gui.cart.undercutter.stock=§7Készlet
+railcraft.gui.cart.undercutter.under=§7Alulra helyezendő elem
+
+railcraft.gui.coke.oven=§7Kokszolókemence
+
+railcraft.gui.detector.item.analog=§7Analóg
+railcraft.gui.detector.item.anything=§7Akármi
+railcraft.gui.detector.item.at_least=§7Legalább
+railcraft.gui.detector.item.at_most=§7Legfeljebb
+railcraft.gui.detector.item.empty=§7Üres
+railcraft.gui.detector.item.exactly=§7Pontosan
+railcraft.gui.detector.item.filtered=§7Szűrt
+railcraft.gui.detector.item.full=§7Telített
+railcraft.gui.detector.item.greater_than=§7Nagyobb mint
+railcraft.gui.detector.item.less_than=§7Kisebb mint
+railcraft.gui.detector.item.not_empty=§7Nem üres
+railcraft.gui.detector.loco.primary=§7Elsődleges szín
+railcraft.gui.detector.loco.secondary=§7Másodlagos szín
+railcraft.gui.detector.tank.tip.analog=§7Analóg vöröskőjel kibocsátása\n a tankban lévő mennyiség alapján
+railcraft.gui.detector.tank.tip.empty=§7Üres a tank
+railcraft.gui.detector.tank.tip.full=§7Teli a tank
+railcraft.gui.detector.tank.tip.half=§7Több mint félig teli a tank
+railcraft.gui.detector.tank.tip.less.than.full=§7Kevesebb, mint teli a tank
+railcraft.gui.detector.tank.tip.less.than.half=§7Kevesebb, mint félig teli a tank
+railcraft.gui.detector.tank.tip.less.than.most=§7Kevesebb, mint 3/4-ig teli a tank
+railcraft.gui.detector.tank.tip.less.than.quarter=§7Kevesebb, mint negyedig teli a tank
+railcraft.gui.detector.tank.tip.most=§7Több, mint teli a tank
+railcraft.gui.detector.tank.tip.not.empty=§7Nem üres a tank
+railcraft.gui.detector.tank.tip.quarter=§7Több, mint negyedig teli a tank
+railcraft.gui.detector.tank.tip.void=§7Bármilyen mennyiség is van a tankban
+railcraft.gui.detector.train.size=§7Vonat mérete = @d
+railcraft.gui.detector.villager.any=§7Bármi
+railcraft.gui.detector.villager.equals=§7Egyenlő
+railcraft.gui.detector.villager.none=§7Semmi
+railcraft.gui.detector.villager.not=§7Nem
+
+railcraft.gui.electric.meter.charge=§7Töltés: @.2fc | Használat: @.2fc/t | Veszteség: @.2fc/t
+
+railcraft.gui.energy.loader.empty=§7Üres tartása
+railcraft.gui.energy.loader.fill=§7Top Off
+railcraft.gui.energy.unloader.wait=§7Várj amíg üres
+
+railcraft.gui.engrave.entercode=§7Üsd be a feloldó kódot:
+railcraft.gui.engrave.getmore1=§7Látogasd meg a lenti kapcsolatokat
+railcraft.gui.engrave.getmore2=§7Találj még több feloldó kódot!
+railcraft.gui.engrave.openunlock=§7Jelképek feloldása
+railcraft.gui.engrave.unlock.exists=§7Duplázás!
+railcraft.gui.engrave.unlock.fail=§7Nem sikerült!
+railcraft.gui.engrave.unlock.success=§7Siker!
+railcraft.gui.engrave.unlock=§7Feloldás!
+railcraft.gui.engrave=§7Gravírozás
+
+railcraft.gui.feed.station.feed=§7Étel
+
+railcraft.gui.filter=§7Szűrő
+railcraft.gui.filters.carts=§7Csillék
+railcraft.gui.filters=§7Szűrők
+
+railcraft.gui.goggles.aura.anchor=§7Anchor
+railcraft.gui.goggles.aura.none=§7Semmi
+railcraft.gui.goggles.aura.tracking=§7Nyomkövető
+railcraft.gui.goggles.aura.tuning=§7Fejlesztett
+railcraft.gui.goggles.mode=§7Jelenlegi aura: @s
+railcraft.gui.goggles.tip=§7Use from hotbar to change Auras
+
+railcraft.gui.help=§7Segítség
+
+railcraft.gui.ic2.energy.rate=§7Arány: @d EU
+
+railcraft.gui.item.loader.all.tip=§7Összes egyező tárgy mozgatása
+railcraft.gui.item.loader.all=§7Összes
+railcraft.gui.item.loader.buffer=§7Buffer
+railcraft.gui.item.loader.complete.tip=§7Vöröskő jel kibocsátása, ha kész
+railcraft.gui.item.loader.complete=§7Kész
+railcraft.gui.item.loader.excess.tip=§7Tartsa a tárgyakat a szűrőben\n a többit mozgassa
+railcraft.gui.item.loader.excess=§7Felesleg
+railcraft.gui.item.loader.immediate.tip=§7Vöröskő jel kibocsátása, ha\n egyetlen tárgyat sem mozgatott
+railcraft.gui.item.loader.immediate=§7Sürgős
+railcraft.gui.item.loader.manual.tip=§7Sose adjon ki vöröskő jelet
+railcraft.gui.item.loader.manual=§7Kézi
+railcraft.gui.item.loader.partial.tip=§7Vöröskő jel kibocsátása, ha\n a csille nem üres és egyetlen tárgyat sem mozgatott
+railcraft.gui.item.loader.partial=§7Részleges
+railcraft.gui.item.loader.stock.tip=§7Tárgyak mozgatása, amíg\n a cél meg nem egyezik a szűrővel
+railcraft.gui.item.loader.stock=§7Készlet
+railcraft.gui.item.loader.transfer.tip=§7Pontosan annyi tárgy mozgatása, \n mint amennyi a szűrőben van
+railcraft.gui.item.loader.transfer=§7Szállítás
+
+railcraft.gui.link.broken=§7Kapcsolat megszakítva
+railcraft.gui.link.created=§7Kapcsolat létrehozva
+railcraft.gui.link.failed=§7Kapcsolat létrehozása nem sikerült
+railcraft.gui.link.started=§7Kapcsolat megkezdve
+
+railcraft.gui.liquid.capacity=§7Kapacitás
+railcraft.gui.liquid.loader.empty.tip=§7Üres csillék megtartása
+railcraft.gui.liquid.loader.empty=§7Üres megtartása
+railcraft.gui.liquid.loader.fill.tip=§7Csillék megtartása amíg nincsenek teljesen tele
+railcraft.gui.liquid.loader.fill=§7Erőltetett telítés
+railcraft.gui.liquid.loader.immediate.tip=§7Vöröskő jel kibocsátása, ha\n nem mozgott folyadék
+railcraft.gui.liquid.loader.immediate=§7Sürgős
+railcraft.gui.liquid.loader.manual.tip=§7Sose adjon ki vöröskő jelet
+railcraft.gui.liquid.loader.manual=§7Kézi
+railcraft.gui.liquid.unloader.empty.tip=§7Csillék megtartása, amíg\n teljesen ki nem ürülnek
+railcraft.gui.liquid.unloader.empty=§7Üres
+railcraft.gui.liquid.unloader.immediate.tip=§7Vöröskő jel kibocsátása, ha\n nem mozgott folyadék
+railcraft.gui.liquid.unloader.immediate=§7Sürgős
+railcraft.gui.liquid.unloader.manual.tip=§7Sose adjon ki vöröskő jelet
+railcraft.gui.liquid.unloader.manual=§7Kézi
+
+railcraft.gui.locomotive.mode.idle=§7Tétlen
+railcraft.gui.locomotive.mode.running=§7Fut
+railcraft.gui.locomotive.mode.shutdown=§7Kikapcsolva
+railcraft.gui.locomotive.electric.tip.button.mode.running=§7Elindítja/működésben tartja a mozdonyt.
+railcraft.gui.locomotive.electric.tip.button.mode.shutdown=§7Megállítja a mozdonyt.
+railcraft.gui.locomotive.steam.tip.button.mode.idle=§7A mozdony fogyasztása csökken, de\n a fűtés hőmérséklete megmarad\n Ha a vonatot egy sín tartja fel,\n akkor úgy viselkedik, mintha Tétlen módban lenne.
+railcraft.gui.locomotive.steam.tip.button.mode.running=§7Elindítja/működésben tartja a mozdonyt.
+railcraft.gui.locomotive.steam.tip.button.mode.shutdown=§7Kikapcsolja a mozdonyt.\nLeállítja a mozgást, és \n elkezdi a hűtési folyamatot.\n Ez némi időbe telhet.
+railcraft.gui.locomotive.tip.button.locked=§7Ez a csille zárolva van a következő számára:o\n {owner}.\n Csak általa vagy egy Operátor által\n kiadott jegyet fogad el.
+railcraft.gui.locomotive.tip.button.private=§7Ez a csille az ő tulajdona: \n {owner}.\n Csak ő vagy egy Operátor \n irányíthatja.
+railcraft.gui.locomotive.tip.button.unlocked=§7Kattints a mozdonyra.\n Ha zárolod, akkor csak\n tőled vagy egy Operátortól \n származó jegyet fogad majd el.
+railcraft.gui.locomotive.tip.item.emblem=§7§oJelkép:§r @s
+railcraft.gui.locomotive.tip.item.model.default=§7Alapértelmezett model
+railcraft.gui.locomotive.tip.item.model=§7§oModel:§r @s
+railcraft.gui.locomotive.tip.item.owner=§7§oTulajdonos:§r @s
+railcraft.gui.locomotive.tip.item.primary=§7§oElsődleges szín:§r @s
+railcraft.gui.locomotive.tip.item.secondary=§7§oMásodlagos szín:§r @s
+railcraft.gui.locomotive.tip.item.whistle=§7§oSíp hangmagassága:§r @s
+railcraft.gui.locomotive.tip.slot.ticket=§7Jegy behelyezése
+
+railcraft.gui.mag.glass.aspect=§7A jel aspektusa:  %s
+railcraft.gui.mag.glass.aspect.dual=§7A jel aspektusa legfeljebb %1$s legalább %2$s
+railcraft.gui.mag.glass.placedby=§7%1$s tárgyat ő helyezte ide: %2$s
+
+railcraft.gui.rolling.machine.tip.craft=§7§e§o--kattint a craft-oláshoz--
+
+railcraft.gui.routing.logic.blank=§7Üres asztal
+railcraft.gui.routing.logic.insufficient.operands=§7Elégtelen feltétel
+railcraft.gui.routing.logic.malformed.syntax=§7Rossz szintaktika
+railcraft.gui.routing.logic.unrecognized.keyword=§7Ismeretlen kulcsszó
+railcraft.gui.routing.slot.label=§7Irányító tábla
+railcraft.gui.routing.table.editor=§7Utoljára szerkesztette: @s
+railcraft.gui.routing.table.manual.page1=§7Ha az Irányító táblát egy Irányítás érzékelőbe vagy Irányítás váltóba helyezzük, akkor egy sor szabályt definiálunk, amiknek az áthaladó mozdonyoknak meg kell felelniük. Ezek a szabályok egyszerű logikai alapok szerint hozhatóak létre, ezáltal olyan egyszerű vagy komplex szabályokat hozhatunk létre, amilyeneket csak szeretnénk. A szintaktika egy elő-jelöléses script, az operátorok után következnek a feltételek.Soronként csak egy kulcsszó megengedett. Ha nincs specifikált operátor, akkor a VAGY lesz alkalmazva.Az Irányító táblák úgy másolhatóak, hogy kettőt vagyy többet helyezünk egy craftoló hálózatba.
+railcraft.gui.routing.table.manual.page2=§7Operátor kulcsszavak:\n   ÉS - Két feltétele van, mindkettő igaz kell legyen.\n   VAGY - Két feltétele van, legalább az egyik igaz kell legyen.\n   NEM - A következő feltétel ellentetjét kell venni.
+railcraft.gui.routing.table.manual.page3=§7Feltétel kulcsszavak:\n   Cél=<string>\n  Ha a mozdony célállomása\n az előző szöveggel kezdődik,\n  akkor a feltétel igaz.\n "Cél=nulla" a célállomás nélküli\n kocsikkal egyezik meg.\n   Tulajdonos=<username>\n Igaz, ha a mozdony ehhez \n a személyhez tartozik.\n Név=<entityname>\n  Igaz, ha egyezik \n a csille nevével.
+railcraft.gui.routing.table.manual.page4=§7Feltétel kulcsszavak:\n   Szín=<primary>,<secondary>\n      Igaz, ha a mozdony elsődleges és \n      másodlagos színei passzolnak.\n      A "Bármi" opció dzsokerként működik.\n      Színek: Fekete, Piros, Zöld, Barna, Kék\n  Lila, Cián, Világos Szürke, Szürke, Rózsaszín, Limezöld,\n  Sárga, Világos kék, Bíborvörös, Narancssárga, Fehér\n   Újratöltés_szükséges=<true/false>\n     Ha a mozdony kezd kifogyni üzemanyagból\n vagy vízből, ez majd jelzi nekünk.
+railcraft.gui.routing.table.manual.page5=§7Feltétel kulcsszavak:\n   Vöröskő=<true/false>\n      Igaz az értéke, ha az irányító blokkot\n      egy vöröskő hajtja meg.
+railcraft.gui.routing.table.manual.page6=§7Példa Script:\n   Cél=Távoliföldek\n   Szín=Fekete,Piros\n   ÉS\n   NEM\n   Tulajdonos=Joe\n   Cél=Titkosbúvóhely/ÓceániBejárat
+railcraft.gui.routing.table.manual.page7=§7Eredmény:\n  Az előző oldalon látható script \n  a mozdonynak a következő célállomást adja: Távoli földek.\n   Vagy, ha pirosra és feketére van festve,\n  és a nem Joe a tulajdonosa, akkor \n a következő célt kapja a mozdony: Titkosbúvóhely/ÓceániBejárat.
+railcraft.gui.routing.table.manual.title=§7Irányítási kézikönyv
+railcraft.gui.routing.table.name=§7Név
+railcraft.gui.routing.ticket.line1=§7Ez a menetjegy érvényes
+railcraft.gui.routing.ticket.line2=§7a következő célállomáshoz:
+railcraft.gui.routing.ticket.manual.title=§7Az arany menetjegyről bővebben
+railcraft.gui.routing.ticket.manual=§7Az Arany menetjegy egy olyan menetjegy, mely tetszőleges számú alkalommal használható a közforgalmi vasúton vagy a kibocsátó saját vasúrján.Papírral kombinálva egyszeri alkalomra érvényes menetjegyet készíthetünk belőle.
+railcraft.gui.routing.ticket.tip.blank=§7Üres menetjegy
+railcraft.gui.routing.ticket.tip.dest=§7Célállomás:
+railcraft.gui.routing.ticket.tip.issuer=§7Kibocsátó:
+railcraft.gui.routing.ticket.title=§7Arany menetjegy
+railcraft.gui.routing.tip.slot=§7Helyezz ide egy Irányító táblát
+railcraft.gui.routing.track.slot.label=§7Menetjegy
+railcraft.gui.routing.track.tip.slot=§7Arany menetjegy
+railcraft.gui.routing.type.private.tip=§7Csak a következő személyhez \n tartozó mozdonyokat irányítja: \n {owner}.
+railcraft.gui.routing.type.private=§7Magán vasút
+railcraft.gui.routing.type.public.tip=§7Minden mozdonyt képes irányítani.
+railcraft.gui.routing.type.public=§7Közforgalmi vasút
+
+railcraft.gui.steam.boiler=§7 Gőzkazán
+railcraft.gui.steam.oven=§7Gőzsütő
+
+railcraft.gui.surveyor.abandon=§7Félbehagyott jelzés-blokk áttekintés
+railcraft.gui.surveyor.begin=§7A jelzés-blokk áttekintésének megkezdése
+railcraft.gui.surveyor.invalid=§7Nem érvényes jelzés-blokk
+railcraft.gui.surveyor.lost=§7Az első jelzés nem létezik többé, az áttekintés elhagyása
+railcraft.gui.surveyor.success=§7Sikeresen definiált Jelzés-blokk
+railcraft.gui.surveyor.track=§7Nem található sínpár a következő közelében: %s
+railcraft.gui.surveyor.unloaded=§7Az első jel egy nem betöltött chunk-ban van.
+railcraft.gui.surveyor.wrong=§7Nem érvényes blokk-jelzés
+
+railcraft.gui.switch.motor.action=§7Aspektus szerinti váltás
+
+railcraft.gui.tank.iron=§7Vas tartály
+railcraft.gui.tank.steel=§7Acél tartály
+railcraft.gui.tank.water=§7Víztartály
+
+railcraft.gui.ticks=§7másodperc
+
+railcraft.gui.tip.button.lock.locked=§7Ez az eszköz a következő személyhez tartozik\n {owner}.\n Csak ő vagy egy Operátor\n változtathat rajta.
+railcraft.gui.tip.button.lock.notowner=§7Ez az eszköz nem \n a te tulajdonod.\n A jogos tulajdonosa: \n {owner}.
+railcraft.gui.tip.button.lock.unlocked=§7Kattint az eszköz zárolásához.\n Ha lezárod, akkor \n a későbbiekben \n csak te vagy egy Opreátor \n férhet hozzá.
+
+railcraft.gui.track.embarking.radius=§7Sugár
+railcraft.gui.track.mode.change=§7A következő módra váltott: @s
+railcraft.gui.track.locking.mode.boarding.train=§7Vonat elindítása
+railcraft.gui.track.locking.mode.boarding=§7Indító/továbbító
+railcraft.gui.track.locking.mode.holding.train=§7Vonat megtartása
+railcraft.gui.track.locking.mode.holding=§7Megtartás
+railcraft.gui.track.locking.mode.lockdown.train=§7Vonat lezárása
+railcraft.gui.track.locking.mode.lockdown=§7Lezárás
+railcraft.gui.track.priming.fuse=§7Egybeolvadás = @d másodperc
+railcraft.gui.track.launcher.force=§7Érvényesítés = @d
+
+railcraft.gui.trade.station.dice.tip=§7Véletlenszerű kereskedelem
+
+railcraft.gui.tuner.abandon.chunk=§7Az irányító nem betöltött chunk-ban van, ezért a kapcsolat megszűnik
+railcraft.gui.tuner.abandon.gone=§7Az irányító már nem létezik, kapcsolat megszüntetése
+railcraft.gui.tuner.start=§7%s megkezdte a kapcsolatot a vevővel
+railcraft.gui.tuner.stop=§7%s kapcsolata megszakadt a vevővel
+railcraft.gui.tuner.success=§7%1$s sikeresen összepárosítva a következővel %2$s
+
+railcraft.gui.turbine.output=§7Kimenet: @d%%
+railcraft.gui.turbine.rotor=§7Rotor:
+railcraft.gui.turbine=§7Gőzturbina
+
+railcraft.keybind.aura.anchor=§7Anchor Aura
+railcraft.keybind.aura.tuning=§7Tuning Aura
+
+railcraft.keybind.loco.faster=§7Mozdony gyorsítása
+railcraft.keybind.loco.mode=§7Mozdony mód
+railcraft.keybind.loco.slower=§7Mozdony lassítása
+railcraft.keybind.loco.whistle=§7Mozdony sípoltatása
+
+railcraft.locomotive.model.electric.default.name=§7Szabvány elektronika
+railcraft.locomotive.model.steam.magic.default.name=§7Szabvány varázslat
+railcraft.locomotive.model.steam.solid.default.name=§7Szabvány tömörség
+
+railcraft.multiblock.state.invalid.entity=§7Úton lévő entitás: %s
+railcraft.multiblock.state.invalid.pattern=§7Nem passzol a mintával: %s
+railcraft.multiblock.state.unknown.unloaded=§7A szerkezet egy része nincs betöltve: %s
+railcraft.multiblock.state.valid=§7Érvényes szerkezet
+
+tc.research_category.RAILCRAFT=§7Titánmágia
+thaumcraft.research.RC_Crowbar.name=§7Titánium feszítővas
+thaumcraft.research.RC_Crowbar.page.1=§7Ha az acélt titániumra cseréljük, és egy csipetnyi kis szabálylal töltjük fel, akkor felfedezhetjük, hogy hogyan csináljunk olyan feszítővasat, ami sokkal fogékonyabb a varázslatra.
+thaumcraft.research.RC_Crowbar.text=§7[RC] Azt hiszem ezt te hagytad el...
+
+tile.activatorRail.name=§7Aktiváló vasút
+tile.detectorRail.name=§7Érzékelő vasút
+tile.goldenRail.name=§7Gyorsító vasút
+tile.rail.name=§7Vasút
+
+tile.railcraft.anvil.intact.name=§7Acél üllő
+tile.railcraft.anvil.slightlyDamaged.name=§7Kicsit sérült üllő
+tile.railcraft.anvil.veryDamaged.name=§7Nagyon sérült üllő
+
+tile.railcraft.brick.abyssal.block.name=§7Mélységi tömb
+tile.railcraft.brick.abyssal.brick.name=§7Mélységi kőtégla
+tile.railcraft.brick.abyssal.cobble.name=§7Mélységi zúzottkő
+tile.railcraft.brick.abyssal.etched.name=§7Mélységi mart kő
+tile.railcraft.brick.abyssal.fitted.name=§7Mélységi illesztett kő
+tile.railcraft.brick.abyssal.ornate.name=§7Mélységi ékes kő
+
+tile.railcraft.brick.bleachedbone.block.name=§7Fehérített tömb
+tile.railcraft.brick.bleachedbone.brick.name=§7Fehérített tégla
+tile.railcraft.brick.bleachedbone.cobble.name=§7Fehérített zúzottkő
+tile.railcraft.brick.bleachedbone.etched.name=§7Fehérített mart kő
+tile.railcraft.brick.bleachedbone.fitted.name=§7Fehérített illesztett kő
+tile.railcraft.brick.bleachedbone.ornate.name=§7Fehérített ékes kő
+
+tile.railcraft.brick.bloodstained.block.name=§7Vérfoltos tömb
+tile.railcraft.brick.bloodstained.brick.name=§7Vérfoltos tégla
+tile.railcraft.brick.bloodstained.cobble.name=§7Vérfoltos zúzottkő
+tile.railcraft.brick.bloodstained.etched.name=§7Vérfoltos mart kő
+tile.railcraft.brick.bloodstained.fitted.name=§7Vérfoltos illesztett kő
+tile.railcraft.brick.bloodstained.ornate.name=§7Vérfoltos ékes kő
+
+tile.railcraft.brick.frostbound.block.name=§7Megfagyott tömb
+tile.railcraft.brick.frostbound.brick.name=§7Fagyott tégla
+tile.railcraft.brick.frostbound.cobble.name=§7Fagyott zúzottkő
+tile.railcraft.brick.frostbound.etched.name=§7Fagyott mart kő
+tile.railcraft.brick.frostbound.fitted.name=§7Fagyott illesztett kő
+tile.railcraft.brick.frostbound.ornate.name=§7Fagyott ékes kő
+
+tile.railcraft.brick.infernal.block.name=§7Pokolbéli tömb
+tile.railcraft.brick.infernal.brick.name=§7Pokolbéli tégla
+tile.railcraft.brick.infernal.cobble.name=§7Pokolbéli zúzottkő
+tile.railcraft.brick.infernal.etched.name=§7Pokolbéli mart kő
+tile.railcraft.brick.infernal.fitted.name=§7Pokolbéli illesztett kő
+tile.railcraft.brick.infernal.ornate.name=§7Pokolbéli ékes kő
+
+tile.railcraft.brick.nether.block.name=§7Alvilági tömb
+tile.railcraft.brick.nether.cobble.name=§7Alvilági zúzottkő
+tile.railcraft.brick.nether.etched.name=§7Alvilági mart kő
+tile.railcraft.brick.nether.fitted.name=§7Alvilági illesztett kő
+tile.railcraft.brick.nether.ornate.name=§7Alvilági ékes kő
+
+tile.railcraft.brick.quarried.block.name=§7Fejtett tömb
+tile.railcraft.brick.quarried.brick.name=§7Fejtett kőtégla
+tile.railcraft.brick.quarried.cobble.name=§7Fejtett zúzottkő
+tile.railcraft.brick.quarried.etched.name=§7Fejtett mart kő
+tile.railcraft.brick.quarried.fitted.name=§7Fejtett illesztett kő
+tile.railcraft.brick.quarried.ornate.name=§7Fejtett ékes kő
+
+tile.railcraft.brick.sandy.block.name=§7Homokos tömb
+tile.railcraft.brick.sandy.brick.name=§7Homokos tégla
+tile.railcraft.brick.sandy.cobble.name=§7Homokos zúzottkő
+tile.railcraft.brick.sandy.etched.name=§7Homokos mart kő
+tile.railcraft.brick.sandy.fitted.name=§7Homokos illesztett kő
+tile.railcraft.brick.sandy.ornate.name=§7Homokos ékes kő
+
+tile.railcraft.cube.brick.infernal.name=§7Pokolbéli tégla (Elavult)
+tile.railcraft.cube.brick.sandy.name=§7Homokos tégla (Elavult)
+tile.railcraft.cube.coke.name=§7Koksz tömb
+tile.railcraft.cube.coke.tip=§732,000 Fűtési egység
+tile.railcraft.cube.concrete.name=§7Block of Concrete
+tile.railcraft.cube.copper.name=§7Réz tömb
+tile.railcraft.cube.creosote.name=§7Karbolsavas fatömb
+tile.railcraft.cube.crushed.obsidian.name=§7Tört obszidián
+tile.railcraft.cube.crushed.obsidian.tip=§7Szörnyek megidőzédésének gátlása
+tile.railcraft.cube.lead.name=§7Ólom tömb
+tile.railcraft.cube.steel.name=§7Acél tömb
+tile.railcraft.cube.stone.abyssal.name=§7Mélységi kő
+tile.railcraft.cube.stone.quarried.name=§7Fejtett kő
+tile.railcraft.cube.tin.name=§7Cin tömb
+
+tile.railcraft.detector.advanced.name=§7Érzékelő - Fejlesztett
+tile.railcraft.detector.age.name=§7Érzékelő - Életkor
+tile.railcraft.detector.animal.name=§7Érzékelő - Állat
+tile.railcraft.detector.any.name=§7Érzékelő - Akármi
+tile.railcraft.detector.cart.name=§7Érzékelő - Csille
+tile.railcraft.detector.empty.name=§7Érzékelő - Üres
+tile.railcraft.detector.energy.name=§7Érzékelő - Energia
+tile.railcraft.detector.explosive.name=§7Érzékelő - Robbanóanyag
+tile.railcraft.detector.item.name=§7Érzékelő - Tárgy
+tile.railcraft.detector.locomotive.name=§7Érzékelő - Mozdony
+tile.railcraft.detector.mob.name=§7Érzékelő - Szörny
+tile.railcraft.detector.player.name=§7Érzékelő - Játékos
+tile.railcraft.detector.powered.name=§7Érzékelő - Meghajtott
+tile.railcraft.detector.routing.name=§7Érzékelő - Irányítás
+tile.railcraft.detector.sheep.name=§7Érzékelő - Bárány
+tile.railcraft.detector.tank.name=§7Érzékelő - Tartály
+tile.railcraft.detector.train.name=§7Érzékelő - Vonat
+tile.railcraft.detector.villager.name=§7Érzékelő - Bennszülött
+
+tile.railcraft.firestone.recharge.name=§7Újratöltődő tűzkő
+
+tile.railcraft.fluid.creosote.name=§7Creosote
+tile.railcraft.fluid.steam.name=§7Steam
+
+tile.railcraft.frame.name=§7Wire Support Frame
+tile.railcraft.frame.tip=§7Use to place Track on Shunting Wire
+
+tile.railcraft.glass.name=§7Strengthened Glass
+
+tile.railcraft.machine.alpha.anchor.admin.name=§7Admin Anchor
+tile.railcraft.machine.alpha.anchor.personal.name=§7Personal Anchor
+tile.railcraft.machine.alpha.anchor.world.name=§7World Anchor
+tile.railcraft.machine.alpha.blast.furnace.name=§7Blast Furnace Brick
+tile.railcraft.machine.alpha.blast.furnace.tip=§7Multi-Block: 3x4x3 (Hollow)
+tile.railcraft.machine.alpha.coke.oven.name=§7Coke Oven Brick
+tile.railcraft.machine.alpha.coke.oven.tip=§7Multi-Block: 3x3x3 (Hollow)
+tile.railcraft.machine.epsilon.engraving.bench.name=§7Engraving Bench
+tile.railcraft.machine.alpha.feed.station.name=§7Feed Station
+tile.railcraft.machine.alpha.rock.crusher.name=§7Rock Crusher
+tile.railcraft.machine.alpha.rock.crusher.tip=§7Multi-Block: 3x2x2
+tile.railcraft.machine.alpha.rolling.machine.name=§7Rolling Machine
+tile.railcraft.machine.alpha.smoker.name=§7Smoker
+tile.railcraft.machine.alpha.steam.oven.name=§7Steam Oven
+tile.railcraft.machine.alpha.steam.oven.tip=§7Multi-Block: 2x2x2
+tile.railcraft.machine.alpha.steam.trap.auto.name=§7Automated Steam Trap
+tile.railcraft.machine.alpha.steam.trap.name=§7Manual Steam Trap
+tile.railcraft.machine.alpha.tank.water.name=§7Water Tank Siding
+tile.railcraft.machine.alpha.tank.water.tip=§7Multi-Block: 3x3x3 (Hollow)
+tile.railcraft.machine.alpha.trade.station.name=§7Trade Station
+tile.railcraft.machine.alpha.turbine.name=§7Steam Turbine Housing
+tile.railcraft.machine.alpha.turbine.tip=§7Multi-Block: 3x2x2\n Generates Electricity from Steam\nOutputs water to the bottom\n Requires a Turbine Rotor
+
+tile.railcraft.machine.beta.anchor.sentinel.name=§7Anchor Sentinel
+tile.railcraft.machine.beta.boiler.firebox.liquid.name=§7Liquid Fueled Boiler Firebox
+tile.railcraft.machine.beta.boiler.firebox.liquid.tip=§7Multi-Block: Variable Size, Bottom Layer\n Dimensions: 1x1, 2x2, 3x3
+tile.railcraft.machine.beta.boiler.firebox.solid.name=§7Solid Fueled Boiler Firebox
+tile.railcraft.machine.beta.boiler.firebox.solid.tip=§7Multi-Block: Variable Size, Bottom Layer\n Dimensions: 1x1, 2x2, 3x3
+tile.railcraft.machine.beta.boiler.tank.pressure.high.name=§7High Pressure Boiler Tank
+tile.railcraft.machine.beta.boiler.tank.pressure.high.tip=§7Multi-Block: Variable Size, Above Firebox\n Dimensions: 1x1x1, 2x2x2, 2x3x2,\n 3x2x3, 3x3x3, 3x4x3\n Produces up to 800L of Steam per second
+tile.railcraft.machine.beta.boiler.tank.pressure.low.name=§7Low Pressure Boiler Tank
+tile.railcraft.machine.beta.boiler.tank.pressure.low.tip=§7Multi-Block: Variable Size, Above Firebox\n Dimensions: 1x1x1, 2x2x2, 2x3x2,\n 3x2x3, 3x3x3, 3x4x3\n Produces up to 200L of Steam per second
+tile.railcraft.machine.beta.chest.metals.name=§7Metals Chest
+tile.railcraft.machine.beta.chest.metals.tip=§7Condenses Metals to Blocks
+tile.railcraft.machine.beta.chest.void.name=§7Void Chest
+tile.railcraft.machine.beta.chest.void.tip=§7Deletes Items
+tile.railcraft.machine.beta.engine.steam.high.name=§7Industrial Steam Engine
+tile.railcraft.machine.beta.engine.steam.high.tip=§7Produces 80 RF/t\n Uses 800L of Steam per second
+tile.railcraft.machine.beta.engine.steam.hobby.name=§7Hobbyist's Steam Engine
+tile.railcraft.machine.beta.engine.steam.hobby.tip=§7Produces 20 RF/t\n Uses 200L of Steam per second
+tile.railcraft.machine.beta.engine.steam.low.name=§7Commercial Steam Engine
+tile.railcraft.machine.beta.engine.steam.low.tip=§7Produces 40 RF/t\n Uses 400L of Steam per second
+tile.railcraft.machine.beta.tank.iron.gauge.name=§7Iron Tank Gauge
+tile.railcraft.machine.beta.tank.iron.gauge.tip=§7Multi-Block: Variable Size, Hollow\n Heights: 4, 5, 6, 7, 8\n Diameters: 3, 5, 7, 9
+tile.railcraft.machine.beta.tank.iron.valve.name=§7Iron Tank Valve
+tile.railcraft.machine.beta.tank.iron.valve.tip=§7Multi-Block: Must be in bottom\n two layers to output liquid.
+tile.railcraft.machine.beta.tank.iron.wall.name=§7Iron Tank Wall
+tile.railcraft.machine.beta.tank.iron.wall.tip=§7Multi-Block: Variable Size, Hollow\n Heights: 4, 5, 6, 7, 8\n Diameters: 3, 5, 7, 9
+tile.railcraft.machine.beta.tank.steel.gauge.name=§7Steel Tank Gauge
+tile.railcraft.machine.beta.tank.steel.gauge.tip=§7Multi-Block: Variable Size, Hollow\n Heights: 4, 5, 6, 7, 8\n Diameters: 3, 5, 7, 9
+tile.railcraft.machine.beta.tank.steel.valve.name=§7Steel Tank Valve
+tile.railcraft.machine.beta.tank.steel.valve.tip=§7Multi-Block: Must be in bottom\n two layers to output liquid.
+tile.railcraft.machine.beta.tank.steel.wall.name=§7Steel Tank Wall
+tile.railcraft.machine.beta.tank.steel.wall.tip=§7Multi-Block: Variable Size, Hollow\n Heights: 4, 5, 6, 7, 8\n Diameters: 3, 5, 7, 9
+
+tile.railcraft.machine.delta.wire.name=§7Electric Shunting Wire
+tile.railcraft.machine.delta.wire.tip=§7Connect Electric Track across gaps\n Place under Track using Wire Support Frames
+
+tile.railcraft.machine.epsilon.admin.steam.producer.name=§7Admin Steam Producer
+tile.railcraft.machine.epsilon.admin.steam.producer.tip=§7Provides Unlimited Steam
+tile.railcraft.machine.epsilon.electric.feeder.admin.name=§7Admin Feeder Unit
+tile.railcraft.machine.epsilon.electric.feeder.admin.tip=§7Provides Unlimited Railcraft Charge
+tile.railcraft.machine.epsilon.electric.feeder.name=§7Electric Feeder Unit
+tile.railcraft.machine.epsilon.electric.feeder.tip=§7Converts IC2 and Gregtech\n Electricity to Railcraft Charge
+tile.railcraft.machine.epsilon.flux.transformer.name=§7Flux Transformer
+tile.railcraft.machine.epsilon.flux.transformer.tip=§7Multi-Block: 2x2x2\n Converts Redstone Flux to Railcraft Charge\n 80% Efficiency
+tile.railcraft.machine.epsilon.force.track.emitter.name=§7Force Track Emitter
+tile.railcraft.machine.epsilon.force.track.emitter.tip=§7Projects energy-based tracks
+
+tile.railcraft.machine.gamma.dispenser.cart.name=§7Cart Dispenser
+tile.railcraft.machine.gamma.dispenser.cart.tip=§7Dispenses Carts onto Tracks\n§o§9- Hit with Crowbar to change orientation -\n§o§c- Apply Redstone to dispense Cart -
+tile.railcraft.machine.gamma.dispenser.train.name=§7Train Dispenser
+tile.railcraft.machine.gamma.dispenser.train.tip=§7Dispenses linked Trains onto Tracks\n§o§9- Hit with Crowbar to change orientation -\n§o§c- Apply Redstone to dispense Train -
+tile.railcraft.machine.gamma.loader.energy.name=§7Energy Loader
+tile.railcraft.machine.gamma.loader.energy.tip=§7Loads Energy into Ic2 Energy Carts\n§o§9- Hit with Crowbar to change orientation -\n§o§c- Only accepts Ic2 and Gregtech power
+tile.railcraft.machine.gamma.loader.item.advanced.name=§7Adv. Item Loader
+tile.railcraft.machine.gamma.loader.item.advanced.tip=§7Loads Items into Carts\n§o§9- Hit with Crowbar to change orientation -
+tile.railcraft.machine.gamma.loader.item.name=§7Item Loader
+tile.railcraft.machine.gamma.loader.item.tip=§7Loads Items into Carts\n§o§c- Place over Track -
+tile.railcraft.machine.gamma.loader.liquid.name=§7Fluid Loader
+tile.railcraft.machine.gamma.loader.liquid.tip=§7Loads Fluids into Carts\n§o§c- Place over Track -
+tile.railcraft.machine.gamma.unloader.energy.name=§7Energy Unloader
+tile.railcraft.machine.gamma.unloader.energy.tip=§7Unloads Energy from Ic2 Energy Carts\n§o§9- Hit with Crowbar to change orientation -\n§o§c- Only emits Ic2 power
+tile.railcraft.machine.gamma.unloader.item.advanced.name=§7Adv. Item Unloader
+tile.railcraft.machine.gamma.unloader.item.advanced.tip=§7Unloads Items from Carts\n§o§9- Hit with Crowbar to change orientation -
+tile.railcraft.machine.gamma.unloader.item.name=§7Item Unloader
+tile.railcraft.machine.gamma.unloader.item.tip=§7Unloads Items from Carts\n§o§c- Place under Track -
+tile.railcraft.machine.gamma.unloader.liquid.name=§7Fluid Unloader
+tile.railcraft.machine.gamma.unloader.liquid.tip=§7Unloads Fluids from Carts\n§o§c- Place under Track -
+
+tile.railcraft.ore.dark.diamond.name=§7Dark Diamond Ore
+tile.railcraft.ore.dark.emerald.name=§7Dark Emerald Ore
+tile.railcraft.ore.dark.lapis.name=§7Dark Lapis Lazuli Ore
+tile.railcraft.ore.firestone.name=§7Firestone Ore
+tile.railcraft.ore.firestone.tip.name=§7Burning everything except flesh,\n you can feel the air change\n around you as you hold it...
+tile.railcraft.ore.poor.copper.name=§7Poor Copper Ore
+tile.railcraft.ore.poor.gold.name=§7Poor Gold Ore
+tile.railcraft.ore.poor.iron.name=§7Poor Iron Ore
+tile.railcraft.ore.poor.lead.name=§7Poor Lead Ore
+tile.railcraft.ore.poor.tin.name=§7Poor Tin Ore
+tile.railcraft.ore.saltpeter.name=§7Saltpeter Ore
+tile.railcraft.ore.sulfur.name=§7Sulfur Ore
+
+tile.railcraft.post.emblem.name=§7Emblem Post
+tile.railcraft.post.metal.black.name=§7Black Metal Post
+tile.railcraft.post.metal.blue.name=§7Blue Metal Post
+tile.railcraft.post.metal.brown.name=§7Brown Metal Post
+tile.railcraft.post.metal.cyan.name=§7Cyan Metal Post
+tile.railcraft.post.metal.gray.name=§7Gray Metal Post
+tile.railcraft.post.metal.green.name=§7Green Metal Post
+tile.railcraft.post.metal.light.blue.name=§7Light Blue Metal Post
+tile.railcraft.post.metal.light.gray.name=§7Light Gray Metal Post
+tile.railcraft.post.metal.lime.name=§7Lime Metal Post
+tile.railcraft.post.metal.magenta.name=§7Magenta Metal Post
+tile.railcraft.post.metal.unpainted.name=§7Metal Post
+tile.railcraft.post.metal.orange.name=§7Orange Metal Post
+tile.railcraft.post.metal.pink.name=§7Pink Metal Post
+tile.railcraft.post.metal.platform.black.name=§7Black Metal Platform
+tile.railcraft.post.metal.platform.blue.name=§7Blue Metal Platform
+tile.railcraft.post.metal.platform.brown.name=§7Brown Metal Platform
+tile.railcraft.post.metal.platform.cyan.name=§7Cyan Metal Platform
+tile.railcraft.post.metal.platform.gray.name=§7Gray Metal Platform
+tile.railcraft.post.metal.platform.green.name=§7Green Metal Platform
+tile.railcraft.post.metal.platform.light.blue.name=§7Light Blue Metal Platform
+tile.railcraft.post.metal.platform.light.gray.name=§7Light Gray Metal Platform
+tile.railcraft.post.metal.platform.lime.name=§7Lime Metal Platform
+tile.railcraft.post.metal.platform.magenta.name=§7Magenta Metal Platform
+tile.railcraft.post.metal.platform.unpainted.name=§7Metal Platform
+tile.railcraft.post.metal.platform.orange.name=§7Orange Metal Platform
+tile.railcraft.post.metal.platform.pink.name=§7Pink Metal Platform
+tile.railcraft.post.metal.platform.purple.name=§7Purple Metal Platform
+tile.railcraft.post.metal.platform.red.name=§7Red Metal Platform
+tile.railcraft.post.metal.platform.white.name=§7White Metal Platform
+tile.railcraft.post.metal.platform.yellow.name=§7Yellow Metal Platform
+tile.railcraft.post.metal.purple.name=§7Purple Metal Post
+tile.railcraft.post.metal.red.name=§7Red Metal Post
+tile.railcraft.post.metal.white.name=§7White Metal Post
+tile.railcraft.post.metal.yellow.name=§7Yellow Metal Post
+tile.railcraft.post.stone.name=§7Stone Post
+tile.railcraft.post.stone.platform.name=§7Stone Platform
+tile.railcraft.post.wood.name=§7Wooden Post
+tile.railcraft.post.wood.platform.name=§7Wooden Platform
+
+tile.railcraft.residual.heat.name=§7Residual Heat
+
+tile.railcraft.signal.block.signal.dual.name=§7Dual-Head Block Signal
+tile.railcraft.signal.block.signal.name=§7Block Signal
+tile.railcraft.signal.box.analog.name=§7Analog Signal Controller Box
+tile.railcraft.signal.box.block.relay.name=§7Signal Block Relay Box
+tile.railcraft.signal.box.capacitor.name=§7Signal Capacitor Box
+tile.railcraft.signal.box.controller.name=§7Signal Controller Box
+tile.railcraft.signal.box.interlock.name=§7Signal Interlock Box
+tile.railcraft.signal.box.receiver.name=§7Signal Receiver Box
+tile.railcraft.signal.box.sequencer.name=§7Signal Sequencer Box
+tile.railcraft.signal.distant.dual.name=§7Dual-Head Distant Signal
+tile.railcraft.signal.distant.name=§7Distant Signal
+tile.railcraft.signal.switch.lever.name=§7Switch Lever
+tile.railcraft.signal.switch.motor.name=§7Switch Motor
+tile.railcraft.signal.switch.routing.name=§7Routing Switch Motor
+
+tile.railcraft.slab.abyssal.block.name=§7Abyssal Block Slab
+tile.railcraft.slab.abyssal.brick.name=§7Abyssal Brick Slab
+tile.railcraft.slab.abyssal.cobble.name=§7Abyssal Cobble Slab
+tile.railcraft.slab.abyssal.fitted.name=§7Fitted Abyssal Stone Slab
+tile.railcraft.slab.bleachedbone.block.name=§7Bleached Bone Block Slab
+tile.railcraft.slab.bleachedbone.brick.name=§7Bleached Bone Brick Slab
+tile.railcraft.slab.bleachedbone.cobble.name=§7Bleached Bone Cobble Slab
+tile.railcraft.slab.bleachedbone.fitted.name=§7Fitted Bleached Bone Stone Slab
+tile.railcraft.slab.bloodstained.block.name=§7Blood Stained Block Slab
+tile.railcraft.slab.bloodstained.brick.name=§7Blood Stained Brick Slab
+tile.railcraft.slab.bloodstained.cobble.name=§7Blood Stained Cobble Slab
+tile.railcraft.slab.bloodstained.fitted.name=§7Fitted Blood Stained Stone Slab
+tile.railcraft.slab.concrete.name=§7Concrete Slab
+tile.railcraft.slab.copper.name=§7Copper Slab
+tile.railcraft.slab.creosote.name=§7Creosote Block Slab
+tile.railcraft.slab.diamond.name=§7Diamond Slab
+tile.railcraft.slab.frostbound.block.name=§7Frost Bound Block Slab
+tile.railcraft.slab.frostbound.brick.name=§7Frost Bound Brick Slab
+tile.railcraft.slab.frostbound.cobble.name=§7Frost Bound Cobble Slab
+tile.railcraft.slab.frostbound.fitted.name=§7Fitted Frost Bound Stone Slab
+tile.railcraft.slab.gold.name=§7Gold Slab
+tile.railcraft.slab.ice.name=§7Ice Slab
+tile.railcraft.slab.infernal.block.name=§7Infernal Block Slab
+tile.railcraft.slab.infernal.brick.name=§7Infernal Brick Slab
+tile.railcraft.slab.infernal.cobble.name=§7Infernal Cobble Slab
+tile.railcraft.slab.infernal.fitted.name=§7Fitted Infernal Stone Slab
+tile.railcraft.slab.iron.name=§7Iron Slab
+tile.railcraft.slab.lead.name=§7Lead Slab
+tile.railcraft.slab.nether.block.name=§7Nether Block Slab
+tile.railcraft.slab.nether.cobble.name=§7Nether Cobble Slab
+tile.railcraft.slab.nether.fitted.name=§7Fitted Nether Stone Slab
+tile.railcraft.slab.obsidian.name=§7Obsidian Slab
+tile.railcraft.slab.packed.ice.name=§7Packed Ice Slab
+tile.railcraft.slab.quarried.block.name=§7Quarried Block Slab
+tile.railcraft.slab.quarried.brick.name=§7Quarried Brick Slab
+tile.railcraft.slab.quarried.cobble.name=§7Quarried Cobble Slab
+tile.railcraft.slab.quarried.fitted.name=§7Fitted Quarried Stone Slab
+tile.railcraft.slab.sandy.block.name=§7Sandy Block Slab
+tile.railcraft.slab.sandy.brick.name=§7Sandy Brick Slab
+tile.railcraft.slab.sandy.cobble.name=§7Sandy Cobble Slab
+tile.railcraft.slab.sandy.fitted.name=§7Fitted Sandy Stone Slab
+tile.railcraft.slab.snow.name=§7Snow Slab
+tile.railcraft.slab.steel.name=§7Steel Slab
+tile.railcraft.slab.tin.name=§7Tin Slab
+
+tile.railcraft.stair.abyssal.block.name=§7Abyssal Block Stairs
+tile.railcraft.stair.abyssal.brick.name=§7Abyssal Brick Stairs
+tile.railcraft.stair.abyssal.cobble.name=§7Abyssal Cobble Stairs
+tile.railcraft.stair.abyssal.fitted.name=§7Fitted Abyssal Stone Stairs
+tile.railcraft.stair.bleachedbone.block.name=§7Bleached Bone Block Stairs
+tile.railcraft.stair.bleachedbone.brick.name=§7Bleached Bone Brick Stairs
+tile.railcraft.stair.bleachedbone.cobble.name=§7Bleached Bone Cobble Stairs
+tile.railcraft.stair.bleachedbone.fitted.name=§7Fitted Bleached Bone Stone Stairs
+tile.railcraft.stair.bloodstained.block.name=§7Blood Stained Block Stairs
+tile.railcraft.stair.bloodstained.brick.name=§7Blood Stained Brick Stairs
+tile.railcraft.stair.bloodstained.cobble.name=§7Blood Stained Cobble Stairs
+tile.railcraft.stair.bloodstained.fitted.name=§7Fitted Blood Stained Stone Stairs
+tile.railcraft.stair.concrete.name=§7Concrete Stairs
+tile.railcraft.stair.copper.name=§7Copper Stairs
+tile.railcraft.stair.creosote.name=§7Creosote Block Stairs
+tile.railcraft.stair.diamond.name=§7Diamond Stairs
+tile.railcraft.stair.frostbound.block.name=§7Frost Bound Block Stairs
+tile.railcraft.stair.frostbound.brick.name=§7Frost Bound Brick Stairs
+tile.railcraft.stair.frostbound.cobble.name=§7Frost Bound Cobble Stairs
+tile.railcraft.stair.frostbound.fitted.name=§7Fitted Frost Bound Stone Stairs
+tile.railcraft.stair.gold.name=§7Gold Stairs
+tile.railcraft.stair.ice.name=§7Ice Stairs
+tile.railcraft.stair.infernal.block.name=§7Infernal Block Stairs
+tile.railcraft.stair.infernal.brick.name=§7Infernal Brick Stairs
+tile.railcraft.stair.infernal.cobble.name=§7Infernal Cobble Stairs
+tile.railcraft.stair.infernal.fitted.name=§7Fitted Infernal Stone Stairs
+tile.railcraft.stair.iron.name=§7Iron Stairs
+tile.railcraft.stair.lead.name=§7Lead Stairs
+tile.railcraft.stair.nether.block.name=§7Nether Block Stairs
+tile.railcraft.stair.nether.cobble.name=§7Nether Cobble Stairs
+tile.railcraft.stair.nether.fitted.name=§7Fitted Nether Stone Stairs
+tile.railcraft.stair.obsidian.name=§7Obsidian Stairs
+tile.railcraft.stair.packed.ice.name=§7Packed Ice Stairs
+tile.railcraft.stair.quarried.block.name=§7Quarried Block Stairs
+tile.railcraft.stair.quarried.brick.name=§7Quarried Brick Stairs
+tile.railcraft.stair.quarried.cobble.name=§7Quarried Cobble Stairs
+tile.railcraft.stair.quarried.fitted.name=§7Fitted Quarried Stone Stairs
+tile.railcraft.stair.sandy.block.name=§7Sandy Block Stairs
+tile.railcraft.stair.sandy.brick.name=§7Sandy Brick Stairs
+tile.railcraft.stair.sandy.cobble.name=§7Sandy Cobble Stairs
+tile.railcraft.stair.sandy.fitted.name=§7Fitted Sandy Stone Stairs
+tile.railcraft.stair.snow.name=§7Snow Stairs
+tile.railcraft.stair.steel.name=§7Steel Stairs
+tile.railcraft.stair.tin.name=§7Tin Stairs
+
+tile.railcraft.lantern.metal.copper.name=§7Copper Lantern
+tile.railcraft.lantern.metal.gold.name=§7Gold Lantern
+tile.railcraft.lantern.metal.iron.name=§7Iron Lantern
+tile.railcraft.lantern.metal.lead.name=§7Lead Lantern
+tile.railcraft.lantern.metal.steel.name=§7Steel Lantern
+tile.railcraft.lantern.metal.tin.name=§7Tin Lantern
+
+tile.railcraft.lantern.stone.abyssal.name=§7Abyssal Stone Lantern
+tile.railcraft.lantern.stone.bleachedbone.name=§7Bleached Bone Stone Lantern
+tile.railcraft.lantern.stone.bloodstained.name=§7Bloodstained Stone Lantern
+tile.railcraft.lantern.stone.frostbound.name=§7Frostbound Stone Lantern
+tile.railcraft.lantern.stone.infernal.name=§7Infernal Stone Lantern
+tile.railcraft.lantern.stone.nether.name=§7Nether Stone Lantern
+tile.railcraft.lantern.stone.quarried.name=§7Quarried Stone Lantern
+tile.railcraft.lantern.stone.sandstone.name=§7Sandstone Lantern
+tile.railcraft.lantern.stone.sandy.name=§7Sandy Stone Lantern
+tile.railcraft.lantern.stone.stone.name=§7Stone Lantern
+
+tile.railcraft.track.boarding.name=§7Boarding Track
+tile.railcraft.track.boarding.tip=§7Replaced by Locking Track
+tile.railcraft.track.boarding.train.name=§7Train Boarding Track
+tile.railcraft.track.boarding.train.tip=§7Replaced by Locking Track
+tile.railcraft.track.buffer.stop.name=§7Buffer Stop Track
+tile.railcraft.track.buffer.stop.tip=§7End of the Line\n§o§9- Hit with Crowbar to change direction -
+tile.railcraft.track.control.name=§7Control Track
+tile.railcraft.track.control.tip=§7Applies a small omni-directional boost\n§o§9- Hit with Crowbar to change direction -\n§o§c- Apply Redstone to change direction -
+tile.railcraft.track.coupler.name=§7Coupler Track
+tile.railcraft.track.coupler.tip=§7Couples/Decouples passing Carts\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.decoupler.name=§7Decoupler Track
+tile.railcraft.track.detector.direction.name=§7Directional Detector Track
+tile.railcraft.track.detector.direction.tip=§7Emits Redstone when a cart passes\n in the indicated direction\n§o§9- Hit with Crowbar to change direction -
+tile.railcraft.track.disembarking.name=§7Disembarking Track
+tile.railcraft.track.disembarking.tip=§7Dismounts riding Entities in direction of arrow\n§o§9- Hit with Crowbar to change direction -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.disposal.name=§7Disposal Track
+tile.railcraft.track.disposal.tip=§7Suspended track\n Dismounts riding Entities
+tile.railcraft.track.electric.name=§7Electric Track
+tile.railcraft.track.electric.tip=§7§9Danger: High Voltage\n §rPowered by Electricity\n Use with Electric Locomotive\n Use Electric Feeder Units to power\n Use Shunting Wire to bridge gaps
+tile.railcraft.track.electric.junction.name=§7Electric Junction Track
+tile.railcraft.track.electric.junction.tip=§7§9Danger: High Voltage\n §rPowered by Electricity\n Use with Electric Locomotive\n Use Electric Feeder Units to power\n Use Shunting Wire to bridge gaps
+tile.railcraft.track.electric.switch.name=§7Electric Switch Track
+tile.railcraft.track.electric.switch.tip=§7§9Danger: High Voltage\n §rPowered by Electricity\n Use with Electric Locomotive\n Use Electric Feeder Units to power\n Use Shunting Wire to bridge gaps\n§o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.electric.wye.name=§7Electric Wye Track
+tile.railcraft.track.electric.wye.tip=§7§9Danger: High Voltage\n §rPowered by Electricity\n Use with Electric Locomotive\n Use Electric Feeder Units to power\n Use Shunting Wire to bridge gaps\n§o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.elevator.name=§7Elevator Track
+tile.railcraft.track.elevator.tip=§7Allows vertical Minecart movement\n§o§c- Apply Redstone at top to go up -
+tile.railcraft.track.embarking.name=§7Embarking Track
+tile.railcraft.track.embarking.tip=§7Loads entities into Carts\n§o§9- Hit with Crowbar to change range -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.force.name=§7Force Track
+tile.railcraft.track.gated.name=§7Gated Track
+tile.railcraft.track.gated.oneway.name=§7Gated One-Way Track
+tile.railcraft.track.gated.oneway.tip=§7Its a one-way gate\n§o§c- Apply Redstone to open -
+tile.railcraft.track.gated.tip=§7Its a gate\n§o§c- Apply Redstone to open -
+tile.railcraft.track.holding.name=§7Holding Track
+tile.railcraft.track.holding.tip=§7Replaced by Locking Track
+tile.railcraft.track.holding.train.name=§7Train Holding Track
+tile.railcraft.track.holding.train.tip=§7Replaced by Locking Track
+tile.railcraft.track.junction.name=§7Junction Track
+tile.railcraft.track.launcher.name=§7Launcher Track
+tile.railcraft.track.launcher.tip=§7Makes carts fly\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.limiter.name=§7Limiter Track
+tile.railcraft.track.limiter.tip=§7Adjusts the speed\n of passing Locomotives\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.lockdown.name=§7Lockdown Track
+tile.railcraft.track.lockdown.tip=§7Replaced by Locking Track
+tile.railcraft.track.lockdown.train.name=§7Train Lockdown Track
+tile.railcraft.track.lockdown.train.tip=§7Replaced by Locking Track
+tile.railcraft.track.locking.name=§7Locking Track
+tile.railcraft.track.locking.tip=§7Stops and holds carts\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.locomotive.name=§7Locomotive Track
+tile.railcraft.track.locomotive.tip=§7Starts/Stops Locomotives\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.oneway.name=§7One-Way Track
+tile.railcraft.track.oneway.tip=§7Carts can only pass\n in the direction of the arrow\n§o§9- Hit with Crowbar to change direction -
+tile.railcraft.track.priming.name=§7Priming Track
+tile.railcraft.track.priming.tip=§7Ignites TNT Carts\n Adjustable Fuse\n§o§9- Hit with Crowbar to change fuse -\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.reinforced.boost.name=§7Reinforced Booster Track
+tile.railcraft.track.reinforced.boost.tip=§7125% of the speed of normal track\n Explosion resistant\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.reinforced.junction.name=§7Reinforced Junction Track
+tile.railcraft.track.reinforced.junction.tip=§7125% of the speed of normal track\n Explosion resistant
+tile.railcraft.track.reinforced.name=§7Reinforced Track
+tile.railcraft.track.reinforced.tip=§7125% of the speed of normal track\n Explosion resistant
+tile.railcraft.track.reinforced.switch.name=§7Reinforced Switch Track
+tile.railcraft.track.reinforced.switch.tip=§7125% of the speed of normal track\n Explosion resistant\n§o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.reinforced.wye.name=§7Reinforced Wye Track
+tile.railcraft.track.reinforced.wye.tip=§7125% of the speed of normal track\n Explosion resistant\n§o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.routing.name=§7Routing Track
+tile.railcraft.track.routing.tip=§7Sets a passing Locomotive's Ticket\n§o§9- Hit with Crowbar to change ticket -
+tile.railcraft.track.slow.boost.name=§7Wooden Booster Track
+tile.railcraft.track.slow.junction.name=§7Wooden Junction Track
+tile.railcraft.track.slow.junction.tip=§730% of the speed of normal track
+tile.railcraft.track.slow.name=§7Wooden Track
+tile.railcraft.track.slow.tip=§730% of the speed of normal track
+tile.railcraft.track.slow.switch.name=§7Wooden Switch Track
+tile.railcraft.track.slow.switch.tip=§730% of the speed of normal track\n §o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.slow.wye.name=§7Wooden Wye Track
+tile.railcraft.track.slow.wye.tip=§730% of the speed of normal track\n §o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.speed.boost.name=§7H.S. Booster Track
+tile.railcraft.track.speed.boost.tip=§7§9Dangerous\n §rMore than twice as fast as normal track\n Maintains High Speed\n§o§c- Apply Redstone to boost -
+tile.railcraft.track.speed.name=§7H.S. Track
+tile.railcraft.track.speed.tip=§7§9Dangerous\n §rMore than twice as fast as normal track\n Requires Boosters/Transitions to reach speed\n Cannot make corners at High Speed
+tile.railcraft.track.speed.switch.name=§7H.S. Switch Track
+tile.railcraft.track.speed.switch.tip=§7§9Dangerous\n Do not attempt to diverge at High Speed\n §o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.speed.transition.name=§7H.S. Transition Track
+tile.railcraft.track.speed.transition.tip=§7§9Dangerous\n §rMore than twice as fast as normal track\n Transitions to/from High Speed\n§o§c- Apply Redstone to boost -
+tile.railcraft.track.speed.wye.name=§7H.S. Wye Track
+tile.railcraft.track.speed.wye.tip=§7§9Dangerous\n Do not attempt to traverse at High Speed\n §o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.suspended.name=§7Suspended Track
+tile.railcraft.track.suspended.tip=§7Does not require support below\n Can cross gaps
+tile.railcraft.track.switch.name=§7Switch Track
+tile.railcraft.track.switch.tip=§7§o§c- Requires Switch Motor/Lever to switch -
+tile.railcraft.track.whistle.name=§7Whistle Track
+tile.railcraft.track.whistle.tip=§7Passing Locomotives\n will blow their Whistle\n§o§c- Apply Redstone to enable -
+tile.railcraft.track.wye.name=§7Wye Track
+tile.railcraft.track.wye.tip=§7§o§c- Requires Switch Motor/Lever to switch -
+
+tile.railcraft.wall.abyssal.brick.name=§7Abyssal Brick Wall
+tile.railcraft.wall.bleachedbone.brick.name=§7Bleached Bone Brick Wall
+tile.railcraft.wall.bloodstained.brick.name=§7Blood Stained Brick Wall
+tile.railcraft.wall.brick.name=§7Brick Wall
+tile.railcraft.wall.concrete.name=§7Concrete Wall
+tile.railcraft.wall.diamond.name=§7Diamond Wall
+tile.railcraft.wall.frost.bound.brick.name=§7Frost Bound Brick Wall
+tile.railcraft.wall.gold.name=§7Gold Wall
+tile.railcraft.wall.ice.name=§7Ice Wall
+tile.railcraft.wall.infernal.brick.name=§7Infernal Brick Wall
+tile.railcraft.wall.iron.name=§7Iron Wall
+tile.railcraft.wall.nether.brick.name=§7Nether Brick Wall
+tile.railcraft.wall.obsidian.name=§7Obsidian Wall
+tile.railcraft.wall.quarried.brick.name=§7Quarried Brick Wall
+tile.railcraft.wall.quartz.chiseled.name=§7Chiseled Quartz Wall
+tile.railcraft.wall.quartz.name=§7Quartz Wall
+tile.railcraft.wall.sandstone.chiseled.name=§7Chiseled Sandstone Wall
+tile.railcraft.wall.sandstone.name=§7Sandstone Wall
+tile.railcraft.wall.sandstone.smooth.name=§7Smooth Sandstone Wall
+tile.railcraft.wall.sandy.brick.name=§7Sandy Brick Wall
+tile.railcraft.wall.snow.name=§7Snow Wall
+tile.railcraft.wall.stone.brick.chiseled.name=§7Chiseled Stone Brick Wall
+tile.railcraft.wall.stone.brick.cracked.name=§7Cracked Stone Brick Wall
+tile.railcraft.wall.stone.brick.mossy.name=§7Mossy Stone Brick Wall
+tile.railcraft.wall.stone.brick.name=§7Stone Brick Wall
+
+tile.railcraft.worldlogic.name=§7Saltpeter Ore Spawner

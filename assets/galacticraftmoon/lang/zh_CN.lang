@@ -1,0 +1,31 @@
+# Galacticraft Moon Language File =§7SIMPLIFIED CHINESE
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7生陨铁锭
+item.compressedMeteoricIron.name=§7致密陨铁
+item.meteoricIronIngot.name=§7陨铁锭
+
+# FOOD
+item.cheeseCurd.name=§7奶酪凝乳
+item.cheeseBlock.name=§7奶酪块
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7月球石头
+tile.moonBlock.moondirt.name=§7月球泥土
+tile.moonBlock.moongrass.name=§7月面草皮
+tile.moonBlock.tinmoon.name=§7锡矿石
+tile.moonBlock.coppermoon.name=§7铜矿石
+tile.moonBlock.cheesestone.name=§7奶酪矿石
+tile.moonBlock.bricks.name=§7月球地牢砖块
+tile.cheeseBlock.name=§7奶酪块
+
+# GUI
+gui.choosePlanet.desc.moon=§7宜居#无氧气#重力:18%
+
+# OTHER
+container.lander.name=§7登陆舱
+dimension.Moon.name=§7月球

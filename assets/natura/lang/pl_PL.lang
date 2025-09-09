@@ -1,0 +1,384 @@
+itemGroup.natura.plants=§7Natury
+
+item.natura.spawnegg.name=§7Przywołaj
+
+item.wheatBag.name=§7Torba nasion pszenicy
+item.barleyBag.name=§7Torba nasion jęczmienia
+item.potatoBag.name=§7Torba ziemiaków
+item.carrotBag.name=§7Torba marchwi
+item.wartBag.name=§7Torba brodawek
+item.cottonBag.name=§7Torba nasion bawełny
+item.boneBag.name=§7Torba mączki kostnej
+
+item.barley.seed.name=§7Nasiona jęczmienia
+item.barley.plant.name=§7Jęczmień
+item.barley.flour.name=§7Mąka jęczmieniowa
+item.wheat.flour.name=§7Mąka pszeniczna
+item.cotton.plant.name=§7Bawełna
+item.fletching.ghostwood.name=§7Opierzenie drzewa duchów
+item.leather.imp.name=§7Diableska skóra
+item.string.flame.name=§7Flamestring
+item.string.flame.name=§7Ognisty sznur
+item.dye.blue.name=§7Niebieski barwnik
+
+item.cotton.seed.name=§7Nasiona bawełny
+item.powder.sulfur.name=§7Siarka
+item.waterdrop.name=§7Sok kaktusowy
+item.saguaro.fruit.name=§7Owoc saguara
+
+item.berry.rasp.name=§7Malina
+item.berry.blue.name=§7Borówka
+item.berry.black.name=§7Jeżyna
+item.berry.geo.name=§7Maloberry
+item.berry.medley.name=§7Mieszanka jagodowa
+item.berry.blight.name=§7Zepsute jagody
+item.berry.dusk.name=§7Jagody zmroku
+item.berry.sky.name=§7Niebiańskie jagody
+item.berry.sting.name=§7Żądlące jagody
+
+block.rasp.berryBush.name=§7Krzew malinowy
+block.blue.berryBush.name=§7Krzew borówkowy
+block.black.berryBush.name=§7Krzew jeżynowy
+block.geo.berryBush.name=§7Krzew maloberry'owy
+
+block.bush.berry.blight.name=§7Krzew zepsutych jagód
+block.bush.berry.dusk.name=§7Krzew jagód zmroku
+block.bush.berry.sky.name=§7Krzew niebiańskich jagód
+block.bush.berry.sting.name=§7Krzew żądlących jagód
+
+block.log.maple.name=§7Pień klonu
+block.log.silverbell.name=§7Pień srebrnego dzwonu
+block.log.purpleheart.name=§7Pień amarantu
+block.log.tiger.name=§7Pień tygrysi
+block.log.willow.name=§7Pień wierzby
+
+block.log.darkwood.name=§7Ciemny pień
+block.log.fusewood.name=§7Pień zapalnikowy
+
+item.bowl.mushroom.name=§7Gulasz grzybowy
+item.bowl.glowshroom.name=§7Gulasz świecogrzybowy
+
+block.leaves.darkwood.name=§7Ciemne liście
+block.leaves.darkwood.flowering.name=§7Ciemne liście
+block.leaves.darkwood.fruit.name=§7Ciemne liście
+block.leaves.fusewood.name=§7Zapalnikowe liście
+
+item.food.nether.potashapple.name=§7Jabłko potażowe
+
+block.leaves.maple.name=§7Liście klonu
+block.leaves.silverbell.name=§7Liście srebrnego dzwonu
+block.leaves.purpleheart.name=§7Liście amarantu
+block.leaves.tiger.name=§7Liście tygrysie
+block.leaves.willow.name=§7Liście brzozy
+
+block.normal.cloud.name=§7Chmura
+block.dark.cloud.name=§7Ciemna chmura
+block.ash.cloud.name=§7Chmura popiołów
+block.sulfur.cloud.name=§7Chmura siarki
+
+redwoodNDoor.name=§7Czerwone drzwi
+eucalyptusNDoor.name=§7Eukaliptusowe drzwi
+hopseedNDoor.name=§7Drzwi z dodonei
+sakuraNDoor.name=§7Drzwi z sakury
+ghostNDoor.name=§7Drzwi z drzewa duchów
+bloodNDoor.name=§7Drzwi z drzewa krwi
+redwoodBarkNDoor.name=§7Drzwi z kory czerwonego drzewa
+
+block.bark.redwood.name=§7Kora czerwonego drzewa
+block.heart.redwood.name=§7Czerwone drzewo
+block.root.redwood.name=§7Korzeń czerwonego drzewa
+
+block.eucalyptus.NPlanks.name=§7Deski eukaliptusowe
+block.sakura.NPlanks.name=§7Deski z sakury
+block.ghost.NPlanks.name=§7Deski z drzewa duchów
+block.bush.NPlanks.name=§7Deski z dodonei
+block.blood.NPlanks.name=§7Deski z drzewa krwi
+block.redwood.NPlanks.name=§7Deski z czerwonego drzewa
+block.maple.NPlanks.name=§7Deski klonowe
+block.silverbell.NPlanks.name=§7Deski srebrnego dzwonu
+block.tiger.NPlanks.name=§7Deski z tygrysa
+block.purpleheart.NPlanks.name=§7Deski amarantowe
+block.willow.NPlanks.name=§7Deski brzozy
+block.darkwood.NPlanks.name=§7Deski czarnego drzewa
+block.fusewood.NPlanks.name=§7Deski z drzewa zapalnikowego
+
+block.sapling.eucalyptus.name=§7Sadzonka eukaliptusa
+block.sapling.sakura.name=§7Sadzonka sakury
+block.sapling.ghost.name=§7Sadzonka drzewa duchów
+block.sapling.bush.name=§7Sadzonka dodonei
+block.sapling.redwood.name=§7Sadzonka czerwonego drzewa
+block.sapling.blood.name=§7Krwawa sadzonka
+block.sapling.darkwood.name=§7Sadzonka czarnego drzewa
+block.sapling.fusewood.name=§7Sadzonka zapalnikowego drzewa
+block.sapling.willow.name=§7Sadzonka brzozy
+block.sapling.tiger.name=§7Sadzonka tygrysiego drzewa
+block.sapling.maple.name=§7Sadzonka klonu
+block.sapling.purpleheart.name=§7Sadzonka amarantu
+block.sapling.silverbell.name=§7Sadzonka srebrnego dzwonu
+
+block.wood.eucalyptus.slab.name=§7Płyta eukaliptusowa
+block.wood.sakura.slab.name=§7Płyta z sakury
+block.wood.ghost.slab.name=§7Płyta z drzewa duchów
+block.wood.bush.slab.name=§7Płyta z dodonei
+block.wood.redwood.slab.name=§7Płyta z czerwonego drzewa
+block.wood.blood.slab.name=§7Krwawa płyta
+block.wood.darkwood.slab.name=§7Płyta z czarnego drzewa
+block.wood.fusewood.slab.name=§7Płyta z zapalnikowego drzewa
+block.wood.willow.slab.name=§7Płyta brzozowa
+block.wood.tiger.slab.name=§7Płyta z drzewa tygrysiego
+block.wood.maple.slab.name=§7Płyta klonowa
+block.wood.purpleheart.slab.name=§7Płyta amarantowa
+block.wood.silverbell.slab.name=§7Płyta ze srebrnego dzwonu
+
+tile.door.eucalyptus.name=§7Drzwi eucaliptusowe
+tile.door.sakura.name=§7Drzwi z sakury
+tile.door.ghostwood.name=§7Drzwi z drzewa duchów
+tile.door.hopseed.name=§7Drzwi z dodonei
+tile.door.redwood.name=§7Drzwi z czerwonego drzewa
+tile.door.bloodwood.name=§7Drzwi z krwawego drzewa
+tile.door.redwoodbark.name=§7Drzwi z kory czerwonego drzewa
+
+tile.pressureplate.eucalyptus.name=§7Płyta naciskowa z eucaliptusa
+tile.pressureplate.sakura.name=§7Płyta naciskowa z sakury
+tile.pressureplate.ghostwood.name=§7Płyta naciskowa z drzewa duchów
+tile.pressureplate.hopseed.name=§7Płyta naciskowa z dodonei
+tile.pressureplate.redwood.name=§7Płyta naciskowa z czerwonego drzewa
+tile.pressureplate.bloodwood.name=§7Krwawa płyta naciskowa
+tile.pressureplate.darkwood.name=§7Płyta naciskowa z czarnego drzewa
+tile.pressureplate.fusewood.name=§7Płyta naciskowa z drzewa zapalnikowego
+tile.pressureplate.willow.name=§7Płyta naciskowa z brzozy
+tile.pressureplate.tiger.name=§7Płyta naciskowa z drzewa tgrysiego
+tile.pressureplate.maple.name=§7Płyta naciskowa z klonu
+tile.pressureplate.amaranth.name=§7Płyta naciskowa z amarantu
+tile.pressureplate.silverbell.name=§7Płyta naciskowa ze srebrnego dzwonu
+
+tile.fenceGate.eucalyptus.name=§7Bramka eucaliptusowa
+tile.fenceGate.sakura.name=§7Bramka z sakury
+tile.fenceGate.ghostwood.name=§7Bramka z drzewa duchów
+tile.fenceGate.hopseed.name=§7Bramka z dodonei
+tile.fenceGate.redwood.name=§7Bramka z czerwonego drzewa
+tile.fenceGate.bloodwood.name=§7Krwawa bramka
+tile.fenceGate.darkwood.name=§7Bramka z czarnego drzewa
+tile.fenceGate.fusewood.name=§7Bramka z drzewa zapalnikowego
+tile.fenceGate.willow.name=§7Bramka brzozowa
+tile.fenceGate.tiger.name=§7Bramka z drzewa tygrysiego
+tile.fenceGate.maple.name=§7Bramka klonowa
+tile.fenceGate.amaranth.name=§7Bramka amarantowa
+tile.fenceGate.silverbell.name=§7Bramka ze srebrnego dzwonu
+
+tile.stair.eucalyptus.name=§7Schody eucaliptusowe
+tile.stair.sakura.name=§7Schody z sakury
+tile.stair.ghostwood.name=§7Schody z drzwa duchów
+tile.stair.hopseed.name=§7Schody z dodonei
+tile.stair.redwood.name=§7Schody z czerwonego drzewa
+tile.stair.bloodwood.name=§7Krwawe schody
+tile.stair.darkwood.name=§7Schody z czarnego drzewa
+tile.stair.fusewood.name=§7Schody z drzewa zapalnikowego
+tile.stair.willow.name=§7Schody brzozowe
+tile.stair.tiger.name=§7Schody z drzewa tygrysiego
+tile.stair.maple.name=§7Schody klonowe
+tile.stair.amaranth.name=§7Schody amarantowe
+tile.stair.silverbell.name=§7Schody ze srebrnego dzwonu
+
+tile.button.eucalyptus.name=§7Przycisk eucaliptusowy
+tile.button.sakura.name=§7Przycisk z sakury
+tile.button.ghostwood.name=§7Przycisk z drzewa duchów
+tile.button.hopseed.name=§7Przycisk z dodonei
+tile.button.redwood.name=§7Przycisk z czerwonego drzewa
+tile.button.bloodwood.name=§7Krwawy przycisk
+tile.button.darkwood.name=§7Przycisk z czarnego drzewa
+tile.button.fusewood.name=§7Przycisk z drzewa zapalnikowego
+tile.button.willow.name=§7Przycisk brzozowy
+tile.button.tiger.name=§7Przycisk drzewa tygrysiego
+tile.button.maple.name=§7Przycisk klonowy
+tile.button.amaranth.name=§7Przycisk amarantowy
+tile.button.silverbell.name=§7Przycisk ze srebrnego dzwonu
+
+tile.trapdoor.eucalyptus.name=§7Zapadnia eucaliptusowa
+tile.trapdoor.sakura.name=§7Zapadnia z sakury
+tile.trapdoor.ghostwood.name=§7Zapadnia z drzewa duchów
+tile.trapdoor.hopseed.name=§7Zapadnia z dodonei
+tile.trapdoor.redwood.name=§7Zapadnia z czerwonego drzewa
+tile.trapdoor.bloodwood.name=§7Krwawa zapadnia
+tile.trapdoor.darkwood.name=§7Zapadnia z czarnego drzewa
+tile.trapdoor.fusewood.name=§7Zapadnia z zapalnikowego drzewa
+tile.trapdoor.willow.name=§7Zapadnia brzozowa
+tile.trapdoor.tiger.name=§7Zapadnia z drzewa tygrysiego
+tile.trapdoor.maple.name=§7Zapadnia klonowa
+tile.trapdoor.amaranth.name=§7Zapadnia amarantowa
+tile.trapdoor.silverbell.name=§7Zapadnia ze srebrnego dzwonu
+
+tile.blazerail.name=§7Płonące tory
+tile.blazerail.powered.name=§7Zasilane połonące tory
+tile.blazerail.detector.name=§7Wykrywające połonące tory
+tile.blazerail.activator.name=§7Aktywujące połonące tory
+
+tile.furnace.netherrack.name=§7Piekielny piec
+tile.nether.obelisk.name=§7Obelisk
+tile.nether.hopper.name=§7Lej
+
+tile.glass.soul.name=§7Trawa dusz
+tile.glass.heat.name=§7Podgrzewane szkło
+
+block.glowshroom.green.name=§7Zielony świecogrzyb
+block.glowshroom.purple.name=§7Purpurowy świecogrzyb
+block.glowshroom.blue.name=§7Niebieski świecogrzyb
+
+block.eucalyptus.NLeaves.name=§7Liście eucaliptusa
+block.leaves.sakura.name=§7Liście sakury
+block.leaves.ghost.name=§7Liście duchów
+block.bush.NLeaves.name=§7Liście dodonei
+block.redwood.NLeaves.name=§7Czerwone liście
+block.leaves.blood.name=§7Krwawe liście
+
+block.eucalyptus.log.name=§7Pień eucaliptusa
+block.sakura.log.name=§7Pień sakury
+block.ghost.log.name=§7Pień duchów
+block.hopseed.log.name=§7Pień dodonei
+
+redwoodBoat.name=§7Łódź z czerwonego drzewa
+bloodBoat.name=§7Krwawa łódź
+whiteBoat.name=§7Biała łódź
+eucalyptusBoat.name=§7Eukaliptusowa łódź
+
+item.impmeat.raw.name=§7Surowa diabla skóra
+item.impmeat.cooked.name=§7Ugotowana diabla skóra
+
+block.soil.grass.name=§7Ozdobnie przystrzyżona trawa
+block.soil.bluegrass.name=§7Niebieska trawa
+block.soil.autumngrass.name=§7Jesienna trawa
+block.soil.grass.slab.name=§7Płyta z ozdobnie przystrzyżonej trawy
+block.soil.bluegrass.slab.name=§7Płyta z niebieskiej trawy
+block.soil.autumngrass.slab.name=§7Płyta z jesiennej trawy
+
+tile.bloodwood.name=§7Krwawe drzewo
+tile.saguaro.block.name=§7Kaktus saguaro
+tile.bluebells.name=§7Dzwonki
+tile.natura.crops.name=§7Plony
+tile.greenGlowshroom.name=§7Zielony świecogrzyb
+tile.blueGlowshroom.name=§7Niebieski świecogrzyb
+tile.purpleGlowshroom.name=§7Purpurowe świecogrzyb
+
+tile.TaintedSoil.name=§7Skażona ziemia uprawna
+tile.HeatSand.name=§7POdgrzewany piasek
+tile.Thornvines.name=§7Cierniowa winorośl
+tile.potashApple.name=§7Jabłko potażowe
+item.natura.stick.name=§7Patyk
+
+item.natura.sword.ghostwood.name=§7Miecz z drzewa duchów
+item.natura.pickaxe.ghostwood.name=§7Kilof z drzewa duchów
+item.natura.shovel.ghostwood.name=§7Łopata z drzewa duchów
+item.natura.axe.ghostwood.name=§7Topór z drzewa duchów
+item.natura.kama.ghostwood.name=§7Sierp bojowy z drzewa duchów
+item.natura.bow.ghostwood.name=§7Łuk z drzewa duchów
+
+item.natura.sword.bloodwood.name=§7Krwawy miecz
+item.natura.pickaxe.bloodwood.name=§7Krwawy kilof
+item.natura.shovel.bloodwood.name=§7Krwawa łopata
+item.natura.axe.bloodwood.name=§7Krwawy topór
+item.natura.kama.bloodwood.name=§7Krwawy sierp bojowy
+item.natura.bow.bloodwood.name=§7Krwawy łuk
+
+item.natura.sword.darkwood.name=§7Czarny miecz
+item.natura.pickaxe.darkwood.name=§7Czarny kilof
+item.natura.shovel.darkwood.name=§7Czarna łopata
+item.natura.axe.darkwood.name=§7Czarny topór
+item.natura.kama.darkwood.name=§7Czarny sierp bojowy
+item.natura.bow.darkwood.name=§7Czarny łuk
+
+item.natura.sword.fusewood.name=§7Miecz z zapalnikowego drzewa
+item.natura.pickaxe.fusewood.name=§7Kilof z zapalnikowego drzewa
+item.natura.shovel.fusewood.name=§7Łopata z zapalnikowego drzewa
+item.natura.axe.fusewood.name=§7Topór z zapalnikowego drzewa
+item.natura.kama.fusewood.name=§7Sierp bojowy z zapalnikowego drzewa
+item.natura.bow.fusewood.name=§7Łuk z zapalnikowego drzewa
+
+item.natura.sword.netherquartz.name=§7Kwarcowy miecz
+item.natura.pickaxe.netherquartz.name=§7Kwarcowy kilof
+item.natura.shovel.netherquartz.name=§7Kwarcowa łopata
+item.natura.axe.netherquartz.name=§7Kwarcowy topór
+item.natura.kama.netherquartz.name=§7Kwarcowy sierp bojowy
+
+item.natura.armor.imphelmet.name=§7Hełm z diabelskiej skóry
+item.natura.armor.impjerkin.name=§7Kabat z diabelskiej skóry
+item.natura.armor.impleggings.name=§7Getry z diabelskiej skóry
+item.natura.armor.impboots.name=§7Buty z diabelskiej skóry
+
+item.flintandblaze.name=§7Krzemień i płomień
+
+entity.Natura.Imp.name=§7Diabełek
+entity.Natura.HeatscarSpider.name=§7Ognisty pająk
+entity.Natura.BabyHeatscarSpider.name=§7Młody ognisty pająk
+entity.Natura.FlameSpider.name=§7Ognisty pająk
+entity.Natura.FlameSpiderBaby.name=§7Młody ognisty pająk
+entity.Natura.NitroCreeper.name=§7Nitro creeper
+
+tooltip.nethertree=§7Piekielne drzewo
+tooltip.fusewood.log=§7Wybuchowa osobowość
+tooltip.glass.soul=§7Widmowy
+tooltip.glass.heat=§7
+tooltip.tree1=§7Różowe drzewo
+tooltip.tree2=§7Kwitnąca wiśnia
+tooltip.tree3=§7Blade jak duch
+tooltip.tree4=§7Wielka sekwoja
+tooltip.tree5=§7Ognioodporne deski
+tooltip.tree6=§7Błąd wyższego poziomu
+tooltip.tree7=§7Słodkawe
+tooltip.tree8=§7Srebrne dzwonki
+tooltip.tree9=§7Serce drzewa
+tooltip.tree10=§7Dzike ziarno
+tooltip.tree11=§7Płacząca
+tooltip.barley=§7Dzika pszenica
+tooltip.flour1=§7Upiecz mnie, by zrobić chleb
+tooltip.flour2=§7Również używane do pieczenia ciasta
+tooltip.cotton=§7Źródło wszystkich sznurków i wełny
+tooltip.sulfur=§72x2 zmienia w proch strzelniczy
+tooltip.fletching=§7Komponent do robienia strzał
+tooltip.imp=§7Odporny na gorąco piekieł
+tooltip.string=§7Coś odporniejszego od sznurka
+tooltip.darkwood1=§7Kwiatki!
+tooltip.darkwood2=§7Zawiera jabłko
+tooltip.saguroplant1=§7Rośnie jak drzewo
+tooltip.saguroplant2=§7Daje owoce po deszczu
+tooltip.fireleaves=§7Ognioodporne liście
+tooltip.cloud1=§7Tak lekkie i puchate!
+tooltip.cloud2=§7Ratuje cię, gdy spadasz
+tooltip.cloud3=§7Ściąga pioruny
+tooltip.cloud4=§73x3 zmienia w węgiel drzewny
+tooltip.cloud5=§72x2 zmienia w siarkę
+tooltip.tree12=§7Ognioodporne drzewo
+tooltip.redwood1=§7Spal je dla węgla drzewnego
+tooltip.redwood2=§7lub zrób ukryte drewniane drzwi
+tooltip.redwood3=§7Serce drzewa
+tooltip.redwood4=§7Korzeń drzewa
+tooltip.berrybush1=§7Słodkie i czerwone
+tooltip.berrybush2=§7Znajdowane w ciepłych rejonach
+tooltip.berrybush3=§7Cierpkie i niebieskie
+tooltip.berrybush4=§7Znajdowane w uniarkowanych rejonach
+tooltip.berrybush5=§7Słodkie i czarne
+tooltip.berrybush6=§7Znajdowane w mokrych rejonach
+tooltip.berrybush7=§7SMaczne i żółto-pomarańczowe
+tooltip.berrybush8=§7Znajdowane w zimnych rejonach
+tooltip.shroom=§7Neonowy sok
+tooltip.netherberrybush1=§7Troszkę zły
+tooltip.netherberrybush2=§7Mordercze leczenie
+tooltip.netherberrybush3=§7Widoczna noc
+tooltip.netherberrybush4=§7Powolne nurkowanie
+tooltip.netherberrybush5=§7Walnij jak ciężarówka
+tooltip.netherfood=§7Smakuje kredowato
+tooltip.sapling1=§7Sadź je w powierzchni 7x7
+tooltip.sapling2=§7Rośnie w parę dni
+tooltip.sapling3=§7Lawoodporne
+tooltip.sapling4=§7Rośnie na suficie
+tooltip.sapling5=§7Produkuje kredowate jabłka
+tooltip.impmeat1=§7Jedzenie tego chyba nie jest najlepszym pomysłem
+tooltip.impmeat2=§7Jest ciepłe
+tooltip.berry=§7Sycące!
+tooltip.cactusjuice=§7Odświerzające!
+tooltip.barkdoor=§7Tajny tunel
+tooltip.firedoor=§7Ognioodporne drzwi
+tooltip.sagurofruit=§7Używalne jako jedzenie i nasiona
+tooltip.berrymedley=§7Kombinacja jagód, której nie można się oprzeć
+tooltip.seedbag=§7Sadzi w powierzchni 3x3
+tooltip.kama=§7Wielki zbieracz liści
+tooltip.bonebag=§7Wyrasta rośliny w powierzchni 3x3

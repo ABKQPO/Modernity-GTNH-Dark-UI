@@ -1,0 +1,53 @@
+# Keypress related strings
+tictooltips.hold.key.for.stats=§7Mantener %s para las estadisticas
+tictooltips.hold.key.for.materials=§7Mantener %s para materiales
+tictooltips.hold.key.for.bow.stats=§7Mantener %s para las estadisticas de las flechas
+tictooltips.hold.key.for.more=§7Mantener %s para más
+
+# Material tooltips
+tictooltips.material.shoddiness.modifier=§7[Modificar: %s]
+tictooltips.material.arrow.weight=§7Peso de la Flecha:
+tictooltips.material.durability.modifier=§7Durabilidad Modificada:
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=§7Materiales Validos:
+
+# Tool tooltips
+tictooltips.tool.repair.material=§7Reparar Material:
+tictooltips.tool.effective.durability=§7Durabilidad Efectiva:
+
+# Uses: material.cactus.ability/material.stone.ability
+tictooltips.tool.shoddiness.modifier=§7%s Modificar:
+
+# Uncomment these if your language needs different syntax for jagged/stonebound 
+tictooltips.tool.jagged.modifier=§7Modificador Jagged:
+tictooltips.tool.stonebound.modifier=§7Modificador Stonebound:
+tictooltips.tool.burn.duration=§7Duración ardiendo:
+tictooltips.tool.bonus.vs.undead=§7Bonus contra no muertos:
+tictooltips.tool.bonus.vs.spiders=§7Bonus contra arañas:
+tictooltips.tool.chance.to.behead=§7Probabilidad para decapitar:
+tictooltips.tool.modifiers=§7Modificadores:
+tictooltips.tool.knockback=§7Retroceso:
+tictooltips.tool.sprint.damage=§7Daño por sprint:
+tictooltips.tool.crit.damage=§7Bonus por daño critico:
+
+# Uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=§7%s %s
+tictooltips.tool.stonebound.bonus=§7%s %s
+tictooltips.tool.jagged.loss=§7%s %s
+tictooltips.tool.jagged.bonus=§7%s %s
+
+# Uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=§7%s %s %s
+tictooltips.tool.max.stonebound.bonus=§7%s %s %s
+tictooltips.tool.max.jagged.loss=§7%s %s %s
+tictooltips.tool.max.jagged.bonus=§7%s %s %s
+
+# Generic
+tictooltips.minimum=§7Minimo
+tictooltips.maximum=§7Maximo
+tictooltips.unknown.part=§7<Parte desconocida>
+tictooltips.infinite=§7Infinito
+
+# Things that should be in TiC
+tictooltips.unbreakable=§7Irrompible

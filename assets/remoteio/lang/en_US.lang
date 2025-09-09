@@ -1,0 +1,90 @@
+# Misc
+itemGroup.rio=§7RemoteIO
+inhibitor.tooltip=§7Interaction Inhibitor:
+inhibitor.block=§7Block
+inhibitor.item=§7Item
+inhibitor.inactive=§7Inactive
+inhibitor.active=§7Active
+
+#Documentation
+documentation.category.block=§7Block
+documentation.category.item=§7Item
+documentation.category.other=§7Other
+
+documentation.block.remoteInterface=§7Remote Interface
+documentation.block.remoteInventory=§7Remote Inventory
+documentation.block.skylight=§7Skylight
+documentation.block.heater=§7Heater
+documentation.block.reservoir=§7Reservoir
+documentation.block.intelligentWorkbench=§7Intelligent Workbench
+documentation.item.ioTool=§7IO Tool
+documentation.item.pda=§7PDA
+documentation.item.wirelessTransmitter=§7Wireless Transmitter
+documentation.item.wirelessLocationChip=§7Wireless Location Chip
+documentation.item.upgrades=§7Upgrades
+documentation.item.remoteAccessor=§7Remote Accessor
+documentation.item.linker=§7Linker
+
+documentation.block.remoteInterface.page.1=§7The Remote Interface is the core block in this mod. In short, it allows the user to access one block remote from great distances, as though the block were sitting right there.
+documentation.block.remoteInventory.page.1=§7The Remote Inventory is quite similar to the Remote Interface, but instead of connecting to a block, it connects to a Player. Most transfer upgrades will also work, but may work in ways you may not expect
+documentation.block.skylight.page.1=§7The skylight is a purely aesthetic block in the mod. When placed it is dark and opaque, but when given a redstone signal will become transparent and all neighboring skylights will do the same.
+documentation.block.heater.page.1=§7The heater is a small machine meant to aid in automation. It's function is such that, when lava is adjacent to it on two or more sides, it will heat the furnace above it. At a slower pace than normal.
+documentation.block.reservoir.page.1=§7Similar to the heater the reservoir is a small machine. It's function is simply that when it has two or more water sources adjacent will act like a source block and output water to machines and pipes.
+documentation.block.intelligentWorkbench.page.1=§7The intelligent workbench is a more intelligent form of crafting table. It will do all of the normal functions of the crafting table as well as store the items in it. It also has the function of allowing items with conflicting recipes to be craftable.
+documentation.item.pda.page.1=§7The pda is what you are holding to read this with.
+documentation.item.ioTool.page.1=§7The IO Tool is the wrench of the mod. It is used to open up the inventories of the various machines and add and remove upgrades or modify camouflage settings.
+documentation.item.wirelessTransmitter.page.1=§7This item is used in the crafting of the remote inventory, and in the assigning of the remote inventory if gotten in creative.
+documentation.item.upgrades.page.1=§7Upgrades simply put are what allow your remote inventory and interface to function. Without them the blocks cannot do much. Each upgrade does something different and some are there for mod compatibility.
+documentation.item.remoteAccessor.page.1=§7The Remote Accessor is an item that can be bound to a block in the world. When right clicking on any other (non-tile entity) block in the world it will function as if you click on that block.
+documentation.item.linker.page.1=§7Currently only used in the crafting of the Remote Accessor
+documentation.item.wirelessLocationChip.page.1=§7Shift right click on a block to save the locations of that block. This can then be put into a remote interface to tell it what block it should interact with.
+
+# GUI
+container.remoteio.upgrade=§7Upgrade
+container.remoteio.transfer=§7Transfer
+container.remoteio.rfconfig=§7RF Config
+
+container.remoteio.rfconfig_desc=§7RF by default relies on energy sources to push power to neighboring blocks, instead of them pulling. As this isn't possible with the interface block by default, configuring this allows the interface block to passively push power to adjacent blocks.
+
+# Tooltip
+tooltip.bound=§7Bound to: %s
+tooltip.dimension=§7Dimension: %s
+tooltip.coords=§7X: %s Y: %s Z: %s
+tooltip.inventory.creative=§7Right-click with bound Wireless Transmitter to link this Remote Inventory
+
+# Chat
+chat.target.save=§7Target Saved
+chat.target.load=§7Target Loaded
+chat.target.loop=§7You cannot link an interface block with another interface block
+
+# Item
+item.blank_plate.name=§7Blank Plate
+item.chip.location.name=§7Location Chip
+item.chip.transfer.name=§7Transfer Chip
+item.chip.transfer.item.name=§7Item Transfer Chip
+item.chip.transfer.fluid.name=§7Fluid Transfer Chip
+item.chip.transfer.essentia.name=§7Essentia Transfer Chip
+item.chip.transfer.energy_ic2.name=§7EU Energy Transfer Chip
+item.chip.transfer.energy_mj.name=§7MJ Energy Transfer Chip
+item.chip.transfer.energy_rf.name=§7RF Energy Transfer Chip
+item.chip.transfer.network_ae.name=§7AE2 Network Transfer Chip
+item.chip.transfer.redstone.name=§7Redstone Transfer Chip
+item.chip.upgrade.name=§7Remote Upgrade
+item.chip.upgrade.remote_camo.name=§7Remote Camouflage Upgrade
+item.chip.upgrade.remote_access.name=§7Remote Access Upgrade
+item.chip.upgrade.simple_camo.name=§7Simple Camouflage Upgrade
+item.wireless_transmitter.name=§7Wireless Transmitter
+item.io_tool.name=§7IO Tool
+item.interaction_inhibitor.name=§7Interaction Inhibitor
+item.pda.name=§7PDA
+item.remoteAccessor.name=§7Remote Accessor
+item.linker.name=§7Linker
+
+# Block
+tile.remote_interface.name=§7Remote Interface
+tile.remote_inventory.name=§7Remote Inventory
+tile.machine.name=§7Machine
+tile.machine.reservoir.name=§7Water Reservoir
+tile.machine.heater.name=§7Lava Heater
+tile.intelligentWorkbench.name=§7Intelligent Workbench
+tile.skylight.name=§7Skylight

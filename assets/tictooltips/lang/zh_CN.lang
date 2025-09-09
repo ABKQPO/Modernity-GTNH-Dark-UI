@@ -1,0 +1,89 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=§7按住 %s 查看数据
+tictooltips.hold.key.for.materials=§7按住 %s 查看材料
+tictooltips.hold.key.for.bow.stats=§7按住 %s 箭数据
+tictooltips.hold.key.for.more=§7按住 %s 查看更多
+
+# material tooltips
+tictooltips.material.shoddiness.modifier=§7[升级槽: %s]
+tictooltips.material.arrow.weight=§7箭重:
+tictooltips.material.durability.modifier=§7耐久升级槽：
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=§7有效材料:
+
+# tool tooltips
+tictooltips.tool.repair.material=§7修理材料:
+tictooltips.tool.effective.durability=§7有效 %s
+# uses: material.cactus.ability/material.stone.ability
+tictooltips.tool.shoddiness.modifier=§7%s 升级槽:
+# uncomment these if your language needs different syntax for jagged/stonebound 
+#tictooltips.tool.jagged.modifier=§7Jagged Modifier:
+#tictooltips.tool.stonebound.modifier=§7Stonebound Modifier:
+tictooltips.tool.burn.duration=§7燃烧持续时间:
+tictooltips.tool.bonus.vs.undead=§7%s vs 不死生物:
+tictooltips.tool.bonus.vs.spiders=§7%s vs 蜘蛛:
+tictooltips.tool.chance.to.behead=§7斩首几率:
+tictooltips.tool.modifiers=§7升级槽:
+tictooltips.tool.knockback=§7击退:
+tictooltips.tool.basedamage=§7基础攻击:
+tictooltips.tool.sprint.damage=§7冲刺伤害:
+tictooltips.tool.crit.damage=§7暴击伤害加成:
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=§7%s %s
+tictooltips.tool.stonebound.bonus=§7%s %s
+tictooltips.tool.jagged.loss=§7%s %s
+tictooltips.tool.jagged.bonus=§7%s %s
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=§7%s %s %s
+tictooltips.tool.max.stonebound.bonus=§7%s %s %s
+tictooltips.tool.max.jagged.loss=§7%s %s %s
+tictooltips.tool.max.jagged.bonus=§7%s %s %s
+
+# generic
+tictooltips.minimum=§7最小
+tictooltips.maximum=§7最大
+tictooltips.unknown.part=§7<未知部分>
+tictooltips.infinite=§7无限
+
+# overrides for gui.partcrafter.mining6
+tictooltips.mining.level.6=§76
+tictooltips.mining.level.6.with.metallurgy=§7金钻
+
+# all of the following strings are only used with Tinkers Construct versions less than 1.5.3
+# in TiC versions >=§71.5.3, the TiC localization strings are used instead
+tictooltips.base.durability=§7基础耐久:
+tictooltips.handle.modifier=§7手柄升级槽:
+tictooltips.mining.speed=§7挖掘速度:
+tictooltips.mining.level=§7挖掘等级:
+tictooltips.heart=§7颗心
+tictooltips.hearts=§7颗心
+tictooltips.mining.level.1=§7石头
+tictooltips.mining.level.2=§7铁
+tictooltips.mining.level.3=§7红石
+tictooltips.mining.level.4=§7黑曜石
+tictooltips.mining.level.5=§7钴
+# see overrides above
+tictooltips.mining.level.7=§77
+tictooltips.mining.level.8=§78
+tictooltips.durability=§7耐久:
+tictooltips.attack=§7攻击:
+tictooltips.bonus=§7加成:
+tictooltips.loss=§7损耗:
+tictooltips.draw.speed=§7拉弓速度:
+tictooltips.arrow.speed=§7箭速:
+tictooltips.weight=§7重量:
+tictooltips.accuracy=§7精准度:
+tictooltips.base.attack=§7基础攻击:
+tictooltips.shortbow.attack=§7短弓攻击:
+tictooltips.mining.speeds=§7挖掘速度:
+tictooltips.harvest.levels=§7收获等级:
+tictooltips.mining.speed=§7挖掘速度:
+tictooltips.mining.level=§7挖掘等级:
+tictooltips.usage.speed=§7使用速度:
+tictooltips.modifiers=§7升级槽
+tictooltips.modifiers.remaining=§7剩余升级槽:
+tictooltips.unbreakable=§7不毁
+tictooltips.reinforced=§7坚固
+tictooltips.jagged=§7锯齿
+tictooltips.stonebound=§7石缚

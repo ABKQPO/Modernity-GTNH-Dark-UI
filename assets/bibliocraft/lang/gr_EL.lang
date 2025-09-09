@@ -1,0 +1,175 @@
+language.name=§7Greek
+language.region=§7EL
+language.code=§7gr_EL
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+
+// Gui stuff
+gui.armorstand=§7Βάση Πανοπλίας
+gui.bookcase=§7Βιβλιοθήκη
+gui.cookiejar=§7Βάζο για μπισκότα
+gui.shelf=§7Ξύλινο Ράφι
+gui.label=§7Ξύλινη Ταμπέλα
+gui.potionshelf=§7Ράφι Ελιξίριων
+gui.typeset.selectbook=§7Παρακαλώ Επιλέξτε Βιβλίο
+gui.table=§7Ξύλινο Τραπέζι
+gui.case=§7Βιτρίνα
+gui.toolrack=§7Εργαλειοθήκη
+gui.desk=§7Ξύλινο Γραφείο
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Απόσταση απο Βόρεια/Νότια =
+tape.measureeastwest=§7Απόσταση απο Ανατολικά/Δυτικά =
+tape.measureheight=§7Ύψος =
+tape.nomeasure=§7Δεν Έγινε Μέτρηση.
+tape.measure=§7Απόσταση =
+tape.startmeasure=§7Έναρξη Μέτρησης.
+tape.mode0=§7Αλλαγή τρόπου μέτρησης σε Βόρεια/Νότια, Ανατολικά/Δυτικά, και Ύψος.
+tape.mode1=§7Αλλαγή τρόπου μέτρησης σε απόλυτη απόσταση.
+
+lock.creativeonly=§7Μόνο σε Δημιουργική λειτουργία
+lock.notowner=§7Δεν είστε ο κάτοχος αυτού του μπλοκ.
+lock.locked=§7Αυτό το μπλοκ έχει κλειδωθεί.
+lock.unlocked=§7Αυτό το μπλοκ έχει ξεκλειδωθεί.
+
+// Blocks
+CookieJar.name=§7Βάζο για μπισκότα
+MarkerPole.name=§7Σημάδι
+tile.BiblioType.name=§7Γραφείο Στοιχειοθεσίας
+tile.BiblioPress.name=§7Πιεστήριο
+tile.BiblioArmorStand.name=§7Βάση Πανοπλίας
+OakBookcase.name=§7Βιβλιοθήκη βελανιδίας
+SpruceBookcase.name=§7Βιβλιοθήκη ελάτου
+BirchBookcase.name=§7Βιβλιοθήκη σημύδας
+JungleBookcase.name=§7Βιβλιοθήκη απο ξύλο ζούγκλας
+OakPotionShelf.name=§7Ράφι Ελιξίριων βελανιδίας
+SprucePotionShelf.name=§7Ράφι Ελιξίριων ελάτου
+BirchPotionShelf.name=§7Ράφι Ελιξίριων σημύδας
+JunglePotionShelf.name=§7Ράφι Ελιξίριων απο ξύλο ζούγκλας
+OakShelf.name=§7Ράφι βελανιδίας
+SpruceShelf.name=§7Ράφι ελάτου
+BirchShelf.name=§7Ράφι σημύδας
+JungleShelf.name=§7Ράφι απο ξύλο ζούγκλας
+OakWeaponRack.name=§7Εργαλειοθήκη βελανιδίας
+SpruceWeaponRack.name=§7Εργαλειοθήκη ελάτου
+BirchWeaponRack.name=§7Εργαλειοθήκη σημύδας
+JungleWeaponRack.name=§7Εργαλειοθήκη απο ξύλο ζούγκλας
+OakLabel.name=§7Ταμπέλα βελανιδίας
+SpruceLabel.name=§7Ταμπέλα ελάτου
+BirchLabel.name=§7Ταμπέλα σημύδας
+JungleLabel.name=§7Ταμπέλα απο ξύλο ζούγκλας
+RedLinedOakCase.name=§7Βιτρίνα βελανιδίας
+BlueLinedOakCase.name=§7Βιτρίνα βελανιδίας
+GreenLinedOakCase.name=§7Βιτρίνα βελανιδίας
+BlackLinedOakCase.name=§7Βιτρίνα βελανιδίας
+RedLinedSpruceCase.name=§7Βιτρίνα ελάτου
+BlueLinedSpruceCase.name=§7Βιτρίνα ελάτου
+GreenLinedSpruceCase.name=§7Βιτρίνα ελάτου
+BlackLinedSpruceCase.name=§7Βιτρίνα ελάτου
+RedLinedBirchCase.name=§7Βιτρίνα σημύδας
+BlueLinedBirchCase.name=§7Βιτρίνα σημύδας
+GreenLinedBirchCase.name=§7Βιτρίνα σημύδας
+BlackLinedBirchCase.name=§7Βιτρίνα σημύδας
+RedLinedJungleCase.name=§7Βιτρίνα απο ξύλο ζούγκλας
+BlueLinedJungleCase.name=§7Βιτρίνα απο ξύλο ζούγκλας
+GreenLinedJungleCase.name=§7Βιτρίνα απο ξύλο ζούγκλας
+BlackLinedJungleCase.name=§7Βιτρίνα απο ξύλο ζούγκλας
+OakWritingDesk.name=§7Γραφείο βελανιδίας
+SpruceWritingDesk.name=§7Γραφείο ελάτου
+BirchWritingDesk.name=§7Γραφείο σημύδας
+JungleWritingDesk.name=§7Γραφείο απο ξύλο ζούγκλας
+OakTable.name=§7Τραπέζι βελανιδίας
+SpruceTable.name=§7Τραπέζι ελάτου
+BirchTable.name=§7Τραπέζι σημύδας
+JungleTable.name=§7Τραπέζι απο ξύλο ζούγκλας
+
+//lights
+whiteLantern.name=§7Χρυσός Φανός
+lightGrayLantern.name=§7Χρυσός Φανός
+grayLantern.name=§7Χρυσός Φανός
+blackLantern.name=§7Χρυσός Φανός
+redLantern.name=§7Χρυσός Φανός
+orangeLantern.name=§7Χρυσός Φανός
+yellowLantern.name=§7Χρυσός Φανός
+limeLantern.name=§7Χρυσός Φανός
+greenLantern.name=§7Χρυσός Φανός
+cyanLantern.name=§7Χρυσός Φανός
+lightBlueLantern.name=§7Χρυσός Φανός
+blueLantern.name=§7Χρυσός Φανός
+purpleLantern.name=§7Χρυσός Φανός
+magentaLantern.name=§7Χρυσός Φανός
+pinkLantern.name=§7Χρυσός Φανός
+brownLantern.name=§7Χρυσός Φανός
+
+whiteLamp.name=§7Κομψή Λάπμα
+lightGrayLamp.name=§7Κομψή Λάπμα
+grayLamp.name=§7Κομψή Λάπμα
+blackLamp.name=§7Κομψή Λάπμα
+redLamp.name=§7Κομψή Λάπμα
+orangeLamp.name=§7Κομψή Λάπμα
+yellowLamp.name=§7Κομψή Λάπμα
+limeLamp.name=§7Κομψή Λάπμα
+greenLamp.name=§7Κομψή Λάπμα
+cyanLamp.name=§7Κομψή Λάπμα
+lightBlueLamp.name=§7Κομψή Λάπμα
+blueLamp.name=§7Κομψή Λάπμα
+purpleLamp.name=§7Κομψή Λάπμα
+magentaLamp.name=§7Κομψή Λάπμα
+pinkLamp.name=§7Κομψή Λάπμα
+brownLamp.name=§7Κομψή Λάπμα
+
+tile.case.redline=§7Κόκκινη Φόδρα
+tile.case.blueline=§7Μπλέ Φόδρα
+tile.case.greenline=§7Πράσινη Φόδρα
+tile.case.blackline=§7Μαύρη Φόδρα
+
+lamp.hood0=§7Άσπρο Κάλλυμα Λάμπας
+lamp.hood1=§7Απαλό Γκρί Κάλλυμα Λάμπας
+lamp.hood2=§7Γκρί Κάλλυμα Λάμπας
+lamp.hood3=§7Μαύρο Κάλλυμα Λάμπας
+lamp.hood4=§7Κόκκινο Κάλλυμα Λάμπας
+lamp.hood5=§7Πορτοκαλί Κάλλυμα Λάμπας
+lamp.hood6=§7Κίτρινο Κάλλυμα Λάμπας
+lamp.hood7=§7Λαχανί Κάλλυμα Λάμπας
+lamp.hood8=§7Πράσινο Κάλλυμα Λάμπας
+lamp.hood9=§7Κυανό Κάλλυμα Λάμπας
+lamp.hood10=§7Γαλάζιο Κάλλυμα Λάμπας
+lamp.hood11=§7Μπλέ Κάλλυμα Λάμπας
+lamp.hood12=§7Μώβ Κάλλυμα Λάμπας
+lamp.hood13=§7Φούξια Κάλλυμα Λάμπας
+lamp.hood14=§7Ρόζ Κάλλυμα Λάμπας
+lamp.hood15=§7Καφέ Κάλλυμα Λάμπας
+
+lantern.candle0=§7Άσπρο Κερί
+lantern.candle1=§7Απαλό Γκρί Κερί
+lantern.candle2=§7Γκρί Κερί
+lantern.candle3=§7Μαύρο Κερί
+lantern.candle4=§7Κοκκινο Κερί
+lantern.candle5=§7Πορτοκαλί Κερί
+lantern.candle6=§7Κίτρινο Κερί
+lantern.candle7=§7Λαχανί Κερί
+lantern.candle8=§7Πράσινο Κερί
+lantern.candle9=§7Κυανό Κερί
+lantern.candle10=§7Γαλάζιο Κερί
+lantern.candle11=§7Μπλέ Κερί
+lantern.candle12=§7Μώβ Κερί
+lantern.candle13=§7Φούξια Κερί
+lantern.candle14=§7Ρόζ Κερί
+lantern.candle15=§7Καφέ Κερί
+
+// Items
+item.tapeMeasure.name=§7Μέτρο
+item.tape.name=§7Μπομπίνα Μέτρου
+item.BiblioChase.name=§7Κάσα Πιεστιρίου
+item.PrintPlate.name=§7Πλάκα Πιεστιρίου
+item.EnchantedPlate.name=§7Μαγεμένη Πλάκα
+item.BiblioRedBook.name=§7Κοκκινόπετρα: Τόμος I
+item.BiblioGlasses.readingglasses.name=§7Γυαλία Ανάγνωσης
+item.BiblioGlasses.tintedglasses.name=§7Φιμέ Γυαλία
+item.BiblioGlasses.monocle.name=§7Μονύελος //Not 100% sure about this one
+item.BiblioDrill.name=§7Τρυπάνι
+item.BiblioCreativeLock.name=§7Λουκέτο και Κλειδλι
+item.BiblioClipboard.name=§7Πρόχειρο
+

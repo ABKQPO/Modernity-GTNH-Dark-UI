@@ -1,0 +1,4 @@
+malisiscore.commands.usage=§7Use /malisis <config|version> [modid] to display the current version or the configuration GUI for the mod.
+malisiscore.commands.modversion=§7Current version for %s : %s.
+malisiscore.commands.modnotfound=§7No mod registered with id %s.
+malisiscore.commands.noconfiguration=§7No configuration available for %s.

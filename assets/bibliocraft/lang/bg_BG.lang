@@ -1,0 +1,385 @@
+language.name=§7български
+language.region=§7BG
+language.code=§7bg_BG
+
+// Tab Names
+itemGroup.BiblioCraft=§7Библио Крафт
+itemGroup.BiblioCraftLights=§7Библио Крафт Oсветление
+
+// All BiblioCraft 1.8 additions and changes //
+
+screwgun.selected.painting1=§7Първа картина избрана
+screwgun.selected.painting2=§7Втора картина избрана
+screwgun.selected.clock1=§7Първи часовник избран
+screwgun.selected.clock2=§7Втори часовник избран
+
+item.PaintingCanvas.name=§7Платно за Картини
+tile.BiblioPaintPress.name=§7Преса за Картини
+
+gui.painting.scale=§7Скала
+gui.painting.resolution=§7Резолюция
+gui.painting.aspectRatio=§7Съотношение на Страните
+gui.painting.size=§7Размер на Картината
+gui.painting.rotation=§7Ротация
+gui.painting.corner=§7Главен Ъгъл
+
+OakPaintingFrame.name=§7Дъбова Художествена Рамка
+SprucePaintingFrame.name=§7Смърчова Художествена Рамка
+BirchPaintingFrame.name=§7Брезова Художествена Рамка
+JunglePaintingFrame.name=§7Джунглова Художествена Рамка
+AcaciaPaintingFrame.name=§7Акациева Художествена Рамка
+OldOakPaintingFrame.name=§7Тъмно Дъбова Художествена Рамка
+
+OakClock.name=§7Дъбов Часовник
+SpruceClock.name=§7Смърчов Часовник
+BirchClock.name=§7Брезов Часовник
+JungleClock.name=§7Джунглов Часовник
+AcaciaClock.name=§7Акациев Часовник
+OldOakClock.name=§7Тъмно Дъбов Часовник
+
+// End of 1.8 additions and changes // 
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=§7Сигурни ли сте?
+gui.recipe.finalize=§7Натискане на да ще заключи книгата от редактиране за винаги.
+gui.recipe.description=§7Добави Описание
+
+swordpedestal.name=§7Мечова Стойка
+swordpedestal.white=§7Бяла Декорация
+swordpedestal.orange=§7Оранжева Декорация
+swordpedestal.magenta=§7Пурпурена Декорация
+swordpedestal.lightblue=§7Светло Синя Декорация
+swordpedestal.yellow=§7Жълта Декорация
+swordpedestal.lime=§7Свелто Зелена Декорация
+swordpedestal.pink=§7Розова Декорация
+swordpedestal.gray=§7Сива Декорация
+swordpedestal.lightgray=§7Светло Сива Декорация
+swordpedestal.cyan=§7Цианова Декорация
+swordpedestal.purple=§7Лилава Декорация
+swordpedestal.blue=§7Синя Декорация
+swordpedestal.brown=§7Кафява Декорация
+swordpedestal.green=§7Зелена Декорация
+swordpedestal.red=§7Червена Декорация
+swordpedestal.black=§7Черна Декорация
+
+OakSign.name=§7Дъбова Табела
+SpruceSign.name=§7Смърчо Табела
+BirchSign.name=§7Брезова Табела
+JungleSign.name=§7Джунглова Табела
+AcaciaSign.name=§7Акациева Табела
+OldOakSign.name=§7Тъмна Дъбова Табела
+
+OakWorkbench.name=§7Дъбова Работна маса
+SpruceWorkbench.name=§7Смърчо Работна маса
+BirchWorkbench.name=§7Брезова Работна маса
+JungleWorkbench.name=§7Джунглова Работна маса
+AcaciaWorkbench.name=§7Акациева Работна маса
+OldOakWorkbench.name=§7Тъмна Дъбова Работна маса
+
+tile.BiblioBell.name=§7Збънец за Бюро
+
+item.RecipeBook.name=§7Празна Рецептна Книга
+item.SlottedBook.name=§7Пребрана Кнуга
+item.BigBook.name=§7Голяма Книга
+item.HandDrill.name=§7Ръчна Дрелка
+
+book.bold=§7B
+book.italic=§7I
+book.underline=§7U
+book.strike=§7Strike
+book.obfuscated=§7O
+book.reset=§7Изчисти
+book.save=§7Запази
+book.sign=§7Подпиши
+book.entertitle=§7Въведи Заглавие на Книгата:
+book.by=§7написана от
+book.signnotice=§7Важно! Когато подпишете книгата, няма да можете да я редактирате.
+book.textscale=§7Размер на текста
+book.lineselected=§7Избраният Ред
+book.cancel=§7Отказ
+book.linenum=§7Ред# =
+book.title=§7Заглавие
+book.description=§7Описание
+book.ingredients=§7Нужни Съставки:
+book.overwriterecipe=§7Презапишете актуалното
+book.overwriterecipe2=§7рецептна книга.
+book.saverecipe=§7Запази рецепта на
+book.saverecipe2=§7празна книга.
+book.loadrecipe=§7Зареди елементи
+book.loadrecipe2=§7от инвентара.
+book.areyousure=§7Сигурни ли сте?
+book.areyousure2=§7Натискане на да ще заключи книгата от редактиране за винаги.
+book.setrecipename=§7Рецепта:
+gui.fancyworkbench=§7Работна Маса
+
+gui.sign.left=§7Ляво
+gui.sign.center=§7Посредата
+gui.sign.right=§7Дясно
+
+gui.sign.black=§7Черно
+gui.sign.darkblue=§7Тъмно Синьо
+gui.sign.darkgreen=§7Тъмно Зелено
+gui.sign.darkaqua=§7Тъмна Аква
+gui.sign.darkred=§7Тъмно Червено
+gui.sign.darkpurple=§7Тъмно Лилаво
+gui.sign.gold=§7Златно
+gui.sign.gray=§7Сиво
+gui.sign.darkgray=§7Тъмно Сиво
+gui.sign.blue=§7Синьо
+gui.sign.green=§7Зелено
+gui.sign.aqua=§7Аква
+gui.sign.red=§7Червено
+gui.sign.lightpurple=§7Светло Лилаво
+gui.sign.yellow=§7Жълто
+gui.sign.white=§7Бяло
+
+gui.sign.tooltip1=§7Щракнете върху някоя кутия или натиснете таб, за да изберете редакция панел. Таб ще циклира панелите.
+gui.sign.tooltip2=§7Кликнете на горната кутия, за да отворите панел със опции за редактиране на слот 1. Редактирай мащаба, позицията и ротацията.
+gui.sign.tooltip3=§7Кликнете на горната кутия, за да отворите панел със опции за редактиране на текста. Редактирай мащаба и добави "Vanilla" стил форматирване.
+gui.sign.tooltip4=§7Кликнете на горната кутия, за да отворите панел със опции за редактиране на слот 2. Редактирай мащаба, позицията и ротацията.
+gui.sign.tooltip5=§7Настрой мащаба на блока.
+gui.sign.tooltip6=§7
+gui.sign.tooltip7=§7
+gui.sign.tooltip8=§7
+gui.sign.tooltip9=§7
+
+gui.sign.bold=§7Очертавка
+gui.sign.strikethrough=§7Зачерк
+gui.sign.underline=§7Подчертавка
+gui.sign.italic=§7Италийски
+
+gui.sign.scale=§7Размер на текста
+gui.sign.format=§7Формат
+gui.sign.linenum=§7Ред#
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=§7Заглавие на Книгата:
+gui.redbook.description.p1=§7
+gui.redbook.description.p2=§7
+
+
+
+AcaciaDesk.name=§7Акациево Бюро
+OldOakDesk.name=§7Тъмно Дъбово Бюро
+AcaciaBookcase.name=§7Акациева Етажерка за Книги
+OldOakBookcase.name=§7Тъмна Дъбова Етажерка за Книги
+AcaciaPotionShelf.name=§7Акациева Етажерка за Отвари
+OldOakPotionShelf.name=§7Тъмна Дъбова Етажерка за Отвари
+AcaciaShelf.name=§7Акациев Рафт
+OldOakShelf.name=§7Тъмна Дъбова Рафт
+AcaciaWeaponRack.name=§7Акациева Стойка за Инструменти
+OldOakWeaponRack.name=§7Тъмна Дъбова Стойка за Инструменти
+AcaciaLabel.name=§7Акациев Надпис
+OldOakLabel.name=§7Тъмна Дъбова Надпис
+AcaciaTable.name=§7Акациева Маса
+OldOakTable.name=§7Тъмна Дъбова Маса
+AcaciaMapFrame.name=§7Акациева Рамка
+OldOakMapFrame.name=§7Тъмна Дъбова Рамка
+AcaciaSeat.name=§7Акациева Седалка
+OldOakSeat.name=§7Тъмна Дъбова Седалка
+OakCase.name=§7Дъбова Кутия
+SpruceCase.name=§7Смърчо Кутия
+BirchCase.name=§7Брезова Кутия
+JungleCase.name=§7Джунглова Кутия
+AcaciaCase.name=§7Акациева Кутия
+OldOakCase.name=§7Тъмна Дъбова Кутия
+item.seatBack.AcaciaSeatBack.name=§7Акациева Облегалка
+item.seatBack.OldOakSeatBack.name=§7Тъмна Дъбова Облегалка
+lighting.metalIron=§7Направено от Желязо
+lighting.metalGold=§7Направено от Злато
+gui.typesetting.guiTitle=§7Набопна Маса: Организирване на Книги
+gui.typesetting.pageOfpages=§7от
+gui.typesetting.public=§7Публично
+gui.typesetting.private=§7Частно
+gui.typesetting.delete=§7Изтрии
+gui.typesetting.select=§7Избери
+gui.typesetting.nextPage=§7Следващата Страница
+gui.typesetting.prevPage=§7Предишната Страница
+gui.typesetting.exit=§7Изход
+gui.typesetting.enableDiscard=§7Унищожи
+
+
+
+
+// Gui stuff
+gui.armorstand=§7Стойка за Броня
+gui.bookcase=§7Етажерка за Книги
+gui.cookiejar=§7Буркан за Бисквити
+gui.shelf=§7Дървен Рафт
+gui.label=§7Дървен Надпис
+gui.potionshelf=§7Етажерка за Отвари
+gui.table=§7Дървена Маса
+gui.case=§7Кутия за Изложба
+gui.toolrack=§7Стойка за Инструменти
+gui.desk=§7Дървено Бюро
+gui.mapWaypoint.accept=§7Приеми
+gui.mapWaypoint.remove=§7Откажи
+gui.mapWaypoint.cancel=§7Отказ
+gui.mapWaypoint.waypoint=§7Насочваща Точка
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Чиния
+gui.discRack=§7Стойка за Музикални Плочи
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=§7Четене
+redbook.by=§7написана от
+plate.notValid=§7Не е Валидно
+typesetting.requires=§7Нужни са
+typesetting.levels=§7Нива
+typesetting.chase=§7Рамки
+typesetting.bookSelect=§7Избери Книга
+print.ink=§7Мастило
+print.book=§7Книги
+screwgun.firstSeat=§7Първа седалка избрана.
+screwgun.secondSeat=§7Опитване да ce свържат/разделият седалките.
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Мерене Север / Юг =
+tape.measureeastwest=§7Мерене Изток / Запад =
+tape.measureheight=§7Мерене Висучина =
+tape.nomeasure=§7Няма Мерене.
+tape.measure=§7Мерене =
+tape.startmeasure=§7Започване на мерене.
+tape.mode0=§7Смяна на режим до Север / Юг, Изток / Запад, у Висучина.
+tape.mode1=§7Смяна на режим до точно мерене.
+lock.creativeonly=§7Само Творчески Режим
+lock.notowner=§7Ти не си собственик на този блок.
+lock.locked=§7Този блок сега е заключен.
+lock.unlocked=§7Този блок цега е отключен.
+
+// Blocks
+CookieJar.name=§7Буркан за Бисквити
+MarkerPole.name=§7Показвач
+tile.BiblioType.name=§7Набопна Маса
+tile.BiblioPress.name=§7Принтирваща Преса
+tile.BiblioArmorStand.name=§7Стойка за Броня
+OakBookcase.name=§7Дъбова Етажерка за Книги
+SpruceBookcase.name=§7Смърчова Етажерка за Книги
+BirchBookcase.name=§7Брезова Етажерка за Книги
+JungleBookcase.name=§7Джунглова Етажерка за Книги
+OakPotionShelf.name=§7Дъбова Етажерка за Отвари
+SprucePotionShelf.name=§7Смърчова Етажерка за Отвари
+BirchPotionShelf.name=§7Брезова Етажерка за Отвари
+JunglePotionShelf.name=§7Джунглова Етажерка за Отвари
+OakShelf.name=§7Дъбоб Рафт
+SpruceShelf.name=§7Смърчов Рафт
+BirchShelf.name=§7Брезов Рафт
+JungleShelf.name=§7Джунглов Рафт
+OakWeaponRack.name=§7Дъбова Стойка за Инструменти
+SpruceWeaponRack.name=§7Смърчова Стойка за Инструменти
+BirchWeaponRack.name=§7Брезова Стойка за Инструменти
+JungleWeaponRack.name=§7Джунглова Стойка за Инструменти
+OakLabel.name=§7Дъбов Надпис
+SpruceLabel.name=§7Смърчов Надпис
+BirchLabel.name=§7Брезов Надпис
+JungleLabel.name=§7Джунглов Надпис
+OakWritingDesk.name=§7Дъбовo Бюро
+SpruceWritingDesk.name=§7Смърчовo Бюро
+BirchWritingDesk.name=§7Брезовo Бюро
+JungleWritingDesk.name=§7Джунгловo Бюро
+OakTable.name=§7Дъбова Маса
+SpruceTable.name=§7Смърчова Маса
+BirchTable.name=§7Брезова Маса
+JungleTable.name=§7Джунглова Маса
+DiscRack.name=§7Стойка за Музикални Плочи
+DinnerPlate.name=§7Чиния
+OakMapFrame.name=§7Дъбова Рамка
+SpruceMapFrame.name=§7Смърчова Рамка
+BirchMapFrame.name=§7Брезова Рамка
+JungleMapFrame.name=§7Джунглова Рамка
+OakSeat.name=§7Дъбова Седалка
+SpruceSeat.name=§7Смърчова Седалка
+BirchSeat.name=§7Брезова Седалка
+JungleSeat.name=§7Джунглова Седалка
+
+//lights
+whiteLantern.name=§7Красив Фенер
+lightGrayLantern.name=§7Красив Фенер
+grayLantern.name=§7Красив Фенер
+blackLantern.name=§7Красив Фенер
+redLantern.name=§7Красив Фенер
+orangeLantern.name=§7Красив Фенер
+yellowLantern.name=§7Красив Фенер
+limeLantern.name=§7Красив Фенер
+greenLantern.name=§7Красив Фенер
+cyanLantern.name=§7Красив Фенер
+lightBlueLantern.name=§7Красив Фенер
+blueLantern.name=§7Красив Фенер
+purpleLantern.name=§7Красив Фенер
+magentaLantern.name=§7Красив Фенер
+pinkLantern.name=§7Красив Фенер
+brownLantern.name=§7Красив Фенер
+
+whiteLamp.name=§7Красива Лампа
+lightGrayLamp.name=§7Красива Лампа
+grayLamp.name=§7Красива Лампа
+blackLamp.name=§7Красива Лампа
+redLamp.name=§7Красива Лампа
+orangeLamp.name=§7Красива Лампа
+yellowLamp.name=§7Красива Лампа
+limeLamp.name=§7Красива Лампа
+greenLamp.name=§7Красива Лампа
+cyanLamp.name=§7Красива Лампа
+lightBlueLamp.name=§7Красива Лампа
+blueLamp.name=§7Красива Лампа
+purpleLamp.name=§7Красива Лампа
+magentaLamp.name=§7Красива Лампа
+pinkLamp.name=§7Красива Лампа
+brownLamp.name=§7Красива Лампа
+
+lamp.hood0=§7Бял Капак
+lamp.hood1=§7Светло Сив Капак
+lamp.hood2=§7Сив Капак
+lamp.hood3=§7Черен Капак
+lamp.hood4=§7Червена Капак
+lamp.hood5=§7Оранжев Капак
+lamp.hood6=§7Жълт Капак
+lamp.hood7=§7Свелто Зелен Капак
+lamp.hood8=§7Зелен Капак
+lamp.hood9=§7Цианов Капак
+lamp.hood10=§7Светло Син Капак
+lamp.hood11=§7Син Капак
+lamp.hood12=§7Лилав Капак
+lamp.hood13=§7Пурпурен Капак
+lamp.hood14=§7Розов Капак
+lamp.hood15=§7Кафяв Капак
+
+lantern.candle0=§7Бяла Свещ
+lantern.candle1=§7Светло Сива Свещ
+lantern.candle2=§7Сива Свещ
+lantern.candle3=§7Черна Свещ
+lantern.candle4=§7Червена Свещ
+lantern.candle5=§7Оранжева Свещ
+lantern.candle6=§7Жълта Свещ
+lantern.candle7=§7Свелто Зелена Свещ
+lantern.candle8=§7Зелена Свещ
+lantern.candle9=§7Цианова Свещ
+lantern.candle10=§7Светло Синя Свещ
+lantern.candle11=§7Синя Свещ
+lantern.candle12=§7Лилава Свещ
+lantern.candle13=§7Пурпурена Свещ
+lantern.candle14=§7Розова Свещ
+lantern.candle15=§7Кафява Свещ
+
+// Items
+item.tapeMeasure.name=§7Рулетка
+item.tape.name=§7Рулеткова Лента
+item.BiblioChase.name=§7Рамка за Принтирваща Преса
+item.PrintPlate.name=§7Табелка за Принтирваща Преса
+item.EnchantedPlate.name=§7Омагьосана Табелка
+item.BiblioRedBook.name=§7Червен камък: Том I
+item.BiblioGlasses.readingglasses.name=§7Очила за Четене
+item.BiblioGlasses.tintedglasses.name=§7Затъмнени Очила
+item.BiblioGlasses.monocle.name=§7Монокъл
+item.BiblioDrill.name=§7Дрелка
+item.BiblioCreativeLock.name=§7Катинар и Ключ
+item.BiblioClipboard.name=§7Бележкова Табелка
+item.seatBack.OakSeatBack.name=§7Дъбова Облегалка
+item.seatBack.SpruceSeatBack.name=§7Смърчова Облегалка
+item.seatBack.BirchSeatBack.name=§7Брезова Облегалка
+item.seatBack.JungleSeatBack.name=§7Джунглова Облегалка
+item.BiblioWayPointCompass.name=§7Маркеров Компас
+item.BiblioMapTool.name=§7Пергел

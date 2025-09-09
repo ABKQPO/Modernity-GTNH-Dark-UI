@@ -1,0 +1,160 @@
+# gui - general
+schematica.gui.openFolder=§7Open schematic folder
+schematica.gui.done=§7Done
+schematica.gui.title=§7Select schematic file
+schematica.gui.folderInfo=§7(Place schematic files here)
+schematica.gui.noschematic=§7-- No schematic --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Hide
+schematica.gui.all=§7ALL
+schematica.gui.show=§7Show
+schematica.gui.movehere=§7Move here
+schematica.gui.flip=§7Flip
+schematica.gui.rotate=§7Rotate
+schematica.gui.save=§7Save
+schematica.gui.name=§7Name
+schematica.gui.savecoordinates=§7Save Coordinates
+schematica.gui.moveschematic=§7Move schematic
+schematica.gui.layers=§7Layers
+schematica.gui.operations=§7Operations
+schematica.gui.unload=§7Unload
+schematica.gui.point.red=§7Red point
+schematica.gui.point.blue=§7Blue point
+schematica.gui.saveselection=§7Save the selection as a schematic
+schematica.gui.on=§7ON
+schematica.gui.off=§7OFF
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Materials
+schematica.gui.materialname=§7Material
+schematica.gui.materialamount=§7Amount
+schematica.gui.materialrequired=§7Required
+schematica.gui.materialavailable=§7Available
+schematica.gui.materialdump=§7Save to file
+schematica.gui.printer=§7Printer
+
+# gui - config - categories
+schematica.config.category.debug=§7Debug
+schematica.config.category.debug.tooltip=§7Debug/developer settings.\nDon't touch unless you know what you're doing.
+schematica.config.category.render=§7Rendering
+schematica.config.category.render.tooltip=§7Render related settings.
+schematica.config.category.printer=§7Printer
+schematica.config.category.printer.tooltip=§7Printer related settings.
+schematica.config.category.printer.swapslots=§7Hotbar Slots
+schematica.config.category.printer.swapslots.tooltip=§7Allow the printer to use non empty hotbar slots.
+schematica.config.category.general=§7General
+schematica.config.category.general.tooltip=§7General settings.
+schematica.config.category.server=§7Server
+schematica.config.category.server.tooltip=§7Server-side settings.
+
+# gui - config - debug
+schematica.config.showDebugInfo=§7Show Debug Info
+schematica.config.showDebugInfo.tooltip=§7Display extra information on the debug screen (F3).
+
+# gui - config - render
+schematica.config.alphaEnabled=§7Alpha Enabled
+schematica.config.alphaEnabled.tooltip=§7Enable transparent textures.
+schematica.config.alpha=§7Alpha
+schematica.config.alpha.tooltip=§7Alpha value used when rendering the schematic (1.0 = opaque, 0.5 = half transparent, 0.0 = transparent).
+schematica.config.highlight=§7Highlight Blocks
+schematica.config.highlight.tooltip=§7Highlight invalid placed blocks and to be placed blocks.
+schematica.config.highlightAir=§7Highlight Air
+schematica.config.highlightAir.tooltip=§7Highlight blocks that should be air.
+schematica.config.blockDelta=§7Block Delta
+schematica.config.blockDelta.tooltip=§7Delta value used for highlighting (if you experience z-fighting increase this).
+schematica.config.drawQuads=§7Draw Quads
+schematica.config.drawQuads.tooltip=§7Draw surface areas.
+schematica.config.drawLines=§7Draw Lines
+schematica.config.drawLines.tooltip=§7Draw outlines.
+
+# gui - config - printer
+schematica.config.placeDelay=§7Placement Delay
+schematica.config.placeDelay.tooltip=§7Delay between placement attempts (in ticks).
+schematica.config.timeout=§7Timeout
+schematica.config.timeout.tooltip=§7Timeout before re-trying failed blocks.
+schematica.config.placeInstantly=§7Place Instantly
+schematica.config.placeInstantly.tooltip=§7Place all blocks that can be placed in one tick.
+schematica.config.destroyBlocks=§7Destroy Blocks
+schematica.config.destroyBlocks.tooltip=§7The printer will destroy blocks (creative mode only).
+schematica.config.destroyInstantly=§7Destroy Instantly
+schematica.config.destroyInstantly.tooltip=§7Destroy all blocks that can be destroyed in one tick.
+schematica.config.placeAdjacent=§7Place Only Adjacent
+schematica.config.placeAdjacent.tooltip=§7Place blocks only if there is an adjacent block next to them.
+
+# gui - config - printer - swap slots
+schematica.config.swapSlot0=§7Allow Slot 1
+schematica.config.swapSlot0.tooltip=§7Allow the printer to use the hotbar slot 1.
+schematica.config.swapSlot1=§7Allow Slot 2
+schematica.config.swapSlot1.tooltip=§7Allow the printer to use the hotbar slot 2.
+schematica.config.swapSlot2=§7Allow Slot 3
+schematica.config.swapSlot2.tooltip=§7Allow the printer to use the hotbar slot 3.
+schematica.config.swapSlot3=§7Allow Slot 4
+schematica.config.swapSlot3.tooltip=§7Allow the printer to use the hotbar slot 4.
+schematica.config.swapSlot4=§7Allow Slot 5
+schematica.config.swapSlot4.tooltip=§7Allow the printer to use the hotbar slot 5.
+schematica.config.swapSlot5=§7Allow Slot 6
+schematica.config.swapSlot5.tooltip=§7Allow the printer to use the hotbar slot 6.
+schematica.config.swapSlot6=§7Allow Slot 7
+schematica.config.swapSlot6.tooltip=§7Allow the printer to use the hotbar slot 7.
+schematica.config.swapSlot7=§7Allow Slot 8
+schematica.config.swapSlot7.tooltip=§7Allow the printer to use the hotbar slot 8.
+schematica.config.swapSlot8=§7Allow Slot 9
+schematica.config.swapSlot8.tooltip=§7Allow the printer to use the hotbar slot 9.
+
+# gui - config - general
+schematica.config.schematicDirectory=§7Schematic Directory
+schematica.config.schematicDirectory.tooltip=§7Schematic directory.
+schematica.config.extraAirBlocks=§7Extra Air Blocks
+schematica.config.extraAirBlocks.tooltip=§7Extra blocks to consider as air for the schematic renderer.
+
+# chat
+Schematica.chat.saveCoordinatesSuccess=§7Successfully saved coordinates
+Schematica.chat.saveCoordinatesFail=§7Failed to save coordinates
+
+# gui - config - server
+schematica.config.printerEnabled=§7Allow Printer
+schematica.config.printerEnabled.tooltip=§7Allow players to use the printer.
+schematica.config.saveEnabled=§7Allow Saving
+schematica.config.saveEnabled.tooltip=§7Allow players to save schematics.
+schematica.config.loadEnabled=§7Allow Loading
+schematica.config.loadEnabled.tooltip=§7Allow players to load schematics.
+
+# keys
+schematica.key.category=§7Schematica
+schematica.key.load=§7Load schematic
+schematica.key.save=§7Save schematic
+schematica.key.control=§7Manipulate schematic
+schematica.key.layerInc=§7Next Layer
+schematica.key.layerDec=§7Previous layer
+
+# commands - save
+schematica.command.save.usage=§7/schematicaSave <startX> <startY> <startZ> <endX> <endY> <endZ> <name>
+schematica.command.save.playersOnly=§7This command can only be used by players.
+schematica.command.save.started=§7Started saving %d chunks into %s.
+schematica.command.save.saveSucceeded=§7Successfully saved %s.
+schematica.command.save.saveFailed=§7There was a problem saving the schematic %s.
+schematica.command.save.quotaExceeded=§7You have exceeded your quota on the server. Please use /schematicaList and /schematicaRemove to remove some old schematics.
+schematica.command.save.playerSchematicDirUnavailable=§7There was a problem on the server and your schematic was not saved. Please contact the server administrator.
+
+# commands - list
+schematica.command.list.usage=§7/schematicaList [page]
+schematica.command.list.notAvailable=§7There was a problem retrieving your list of schematics.
+schematica.command.list.remove=§7Remove
+schematica.command.list.download=§7Download
+schematica.command.list.header=§7--- Showing schematics page %d of %d ---
+schematica.command.list.noSuchPage=§7No such page
+schematica.command.list.noSchematics=§7You have no schematics available.
+
+# commands - remove
+schematica.command.remove.usage=§7/schematicaRemove <name>
+schematica.command.remove.schematicRemoved=§7Schematic "%s" removed.
+schematica.command.remove.schematicNotFound=§7Schematic "%s" could not be found.
+schematica.command.remove.areYouSure=§7Are you sure?
+
+# commands - download
+schematica.command.download.usage=§7/schematicaDownload <name>
+schematica.command.download.started=§7Started downloading %s...
+schematica.command.download.downloadSucceeded=§7Successfully downloaded %s.
+schematica.command.download.downloadFail=§7Download failed.

@@ -1,0 +1,262 @@
+#CreativeTab
+itemGroup.BA_TAB=§7Blood Arsenal
+
+#Blocks
+tile.blood_stone_1.name=§7Blank Blood Stone
+tile.blood_stone_2.name=§7Reinforced Blood Stone
+tile.blood_stone_3.name=§7Imbued Blood Stone
+tile.blood_stone_4.name=§7Demonic Blood Stone
+tile.blood_stone_5.name=§7Ethereal Blood Stone
+tile.blood_tnt.name=§7Blood TNT
+tile.blood_stained_glass.name=§7Blood Stained Glass
+tile.blood_stained_ice.name=§7Blood Stained Ice
+tile.blood_stained_ice_packed.name=§7Blood Stained Packed Ice
+tile.blood_infused_wood.name=§7Blood Infused Wood
+tile.blood_infused_planks.name=§7Blood Infused Wooden Plank
+tile.blood_infused_iron_block.name=§7Blood Infused Iron Block
+tile.blood_torch.name=§7Blood Torch
+tile.blood_infused_glowstone.name=§7Blood Infused Glowstone
+tile.blood_lamp.name=§7Blood Lamp
+tile.blood_infused_diamond_block.name=§7Blood Infused Diamond Block
+tile.portable_altar.name=§7Portable Altar
+tile.life_infuser.name=§7Life Infuser
+tile.lp_materializer.name=§7Life Essence Materializer
+tile.compacter.name=§7Soul Compacter
+tile.compacted_mrs.name=§7Compacted Master Ritual Stone
+tile.blood_cake.name=§7Blood Cake
+tile.block_burned_string.name=§7Blood Burned String
+
+#Items
+item.bound_bow.name=§7Bound Bow
+item.blood_orange.name=§7Blood Orange
+item.blood_infused_stick.name=§7Blood Infused Stick
+item.blood_infused_pickaxe_wood.name=§7Blood Infused Wooden Pickaxe
+item.blood_infused_axe_wood.name=§7Blood Infused Wooden Axe
+item.blood_infused_shovel_wood.name=§7Blood Infused Wooden Shovel
+item.blood_infused_sword_wood.name=§7Blood Infused Wooden Sword
+item.amorphic_catalyst.name=§7Amorphic Catalyst
+item.bound_sickle.name=§7Bound Sickle
+item.bound_shears.name=§7Bound Shears
+item.blood_infused_iron.name=§7Blood Infused Iron Ingot
+item.blood_infused_pickaxe_iron.name=§7Blood Infused Iron Pickaxe
+item.blood_infused_axe_iron.name=§7Blood Infused Iron Axe
+item.blood_infused_shovel_iron.name=§7Blood Infused Iron Shovel
+item.blood_infused_sword_iron.name=§7Blood Infused Iron Sword
+item.blood_diamond.name=§7Blood Diamond
+item.blood_infused_diamond_unactive.name=§7Blood Infused Diamond (Unactive)
+item.blood_infused_diamond_active.name=§7Blood Infused Diamond (Active)
+item.blood_infused_diamond_bound.name=§7Bound Diamond
+item.blood_infused_pickaxe_diamond.name=§7Blood Infused Diamond Pickaxe
+item.blood_infused_axe_diamond.name=§7Blood Infused Diamond Axe [WIP]
+item.blood_infused_shovel_diamond.name=§7Blood Infused Diamond Shovel
+item.blood_infused_sword_diamond.name=§7Blood Infused Diamond Sword [WIP]
+item.heart.name=§7Heart
+item.bound_igniter.name=§7Bound Igniter
+item.soul_fragment.name=§7Soul Fragment
+item.soul_booster.name=§7Soul Booster
+item.soul_nullifier.name=§7Soul Nullifier
+item.blood_cookie.name=§7Blood Cookie
+item.orange_juice.name=§7Orange Juice
+item.juice_and_cookies.name=§7Juice and Cookies
+item.vampire_cape.name=§7Vampire Cape
+item.vampire_greaves.name=§7Vampire Greaves
+item.vampire_boots.name=§7Vampire Boots
+item.vampire_ring.name=§7Vampire Ring
+item.energy_gatling.name=§7Energy Gatling [WIP]
+item.sigil_of_swimming.name=§7Sigil of Swimming
+item.sigil_of_ender.name=§7Ender Sigil
+item.blood_infused_glowstone_dust.name=§7Blood Infused Glowstone Dust
+item.sacrifice_amulet.name=§7Amulet of Sacrifice
+item.self_sacrifice_amulet.name=§7Amulet of Self Sacrifice
+item.sigil_of_divinity.name=§7Sigil of Divinity
+item.blood_ball.name=§7Blood Ball
+item.item_blood_cake.name=§7Blood Cake
+item.wolf_hide.name=§7Wolf Hide
+item.blood_money.name=§7Blood Money
+item.blood_money1.name=§7Blood Money x1
+item.blood_money4.name=§7Blood Money x4
+item.blood_money16.name=§7Blood Money x16
+item.blood_money64.name=§7Blood Money x64
+item.blood_burned_string.name=§7Blood Burned String
+item.glass_shard.name=§7Glass Shard
+item.empowered_sacrifice_amulet.name=§7Empowered Sacrifice Amulet
+item.empowered_self_sacrifice_amulet.name=§7Empowered Self Sacrifice Amulet
+item.empowered_amulet_containing=§7(Containing Mode)
+item.empowered_amulet_soul_network=§7(Soul Network Mode)
+item.sigil_of_augmented_holding.name=§7Sigil of Augmented Holding
+item.sigil_of_lightning.name=§7Lightning Sigil
+item.glass_sacrificial_dagger.name=§7Glass Sacrificial Dagger
+item.glass_sacrificial_orb.name=§7Glass Sacrificial Orb
+item.glass_dagger_of_sacrifice.name=§7Glass Dagger of Sacrifice
+item.glass_helmet.name=§7Glass Helmet
+item.glass_chestplate.name=§7Glass Chestplate
+item.glass_leggings.name=§7Glass Leggings
+item.glass_boots.name=§7Glass Boots
+item.transparent_orb.name=§7Transparent Orb
+item.life_imbued_helmet.name=§7Life Imbued Helmet
+item.life_imbued_chestplate.name=§7Life Imbued Chestplate
+item.life_imbued_leggings.name=§7Life Imbued Leggings
+item.life_imbued_boots.name=§7Life Imbued Boots
+item.bound_diamond_shard.name=§7Bound Diamond Shard
+item.bound_diamond_shard_.name=§7Bound Diamond Shard
+item.bound_diamond_shard_air.name=§7Bound Diamond Air Shard
+item.bound_diamond_shard_earth.name=§7Bound Diamond Earth Shard
+item.bound_diamond_shard_fire.name=§7Bound Diamond Fire Shard
+item.bound_diamond_shard_water.name=§7Bound Diamond Water Shard
+item.bound_diamond_shard_dusk.name=§7Bound Diamond Dusk Shard
+item.bound_diamond_shard_dawn.name=§7Bound Diamond Dawn Shard
+item.wand_caps.blood_iron.name=§7Blood Infused Iron Cap
+item.wand_cores.blood_wood.name=§7Blood Infused Wooden Rod
+item.wand_cores.blood_wood_staff.name=§7Blood Infused Wooden Staff Of Doom
+item.Wand.blood_iron.cap=§7Blood Iron Topped
+item.Wand.blood_wood.rod=§7Blood Wood
+
+#Death Texts
+death.attack.deathFromBlood=§7%1$s lost too much blood
+
+#Tooltips
+tooltip.itemba.amorphic_catalyst=§7A coagulated mess
+tooltip.itemba.blood_infused_stick=§7A stick infused with life!
+tooltip.itemba.blood_infused_iron1=§7Mundane iron infused
+tooltip.itemba.blood_infused_iron2=§7with life essence
+tooltip.itemba.heart=§7Bright red in color
+tooltip.itemba.soul_fragment=§7The raw essence of a soul
+tooltip.itemba.blood_cookie=§7A sugary treat
+tooltip.itemba.blood_orange=§7Completely organic
+tooltip.itemba.soul_booster1=§7Used to increase
+tooltip.itemba.soul_booster2=§7the soul's abilities
+tooltip.itemba.soul_nullifier1=§7Used to nullify
+tooltip.itemba.soul_nullifier2=§7the soul's unnatural abilities
+tooltip.itemba.glass_shard=§7Remember this?
+tooltip.tool.bound_bow=§7Let Demon arrows fly!
+tooltip.tool.bound_igniter=§7Burning souls...
+tooltip.tool.bound_shears1=§7A demonic solution
+tooltip.tool.bound_shears2=§7to an overgrown lawn
+tooltip.tool.bound_sickle1=§7Hacking down plants
+tooltip.tool.bound_sickle2=§7like a demon!
+tooltip.tool.energy_gatling=§7Point and click.
+tooltip.tool.blood_diamond_unactive1=§7Diamond needs to
+tooltip.tool.blood_diamond_unactive2=§7be activated
+tooltip.tool.blood_diamond_active1=§7Diamond infused
+tooltip.tool.blood_diamond_active2=§7with life essence
+tooltip.tool.blood_diamond_bound=§7The Diamond of Life
+tooltip.tool.blood_infused_diamond_axe=§7Demonic deforestation!
+tooltip.tool.blood_infused_diamond_pickaxe=§7A handheld quarry
+tooltip.tool.blood_infused_diamond_shovel=§7Making a hole
+tooltip.tool.blood_infused_diamond_sword=§7Slices right through!
+tooltip.tool.glassSacrificeDagger=§7Don't play with this!
+tooltip.tool.glassDaggerOfSacrifice=§7Making it hurt
+tooltip.sigil.swimming=§7Just keep swimming!
+tooltip.sigil.ender1=§7Sticking your hand
+tooltip.sigil.ender2=§7into the End!
+tooltip.sigil.divinity=§7May the Divines protect you!
+tooltip.sigil.augmentedHolding=§7Hold all the sigils!
+tooltip.sigil.lightning=§7Let 'er rip!
+tooltip.sigil.lightning2=§7Mode:
+tooltip.bloodMoney.money=§7Pay your debts in blood!
+tooltip.boundDiamondShard.shard=§7Elemental shards of doom
+tooltip.armor.glassArmor=§7More painful than it looks
+tooltip.armor.lifeImbuedArmor=§7Living Armor
+tooltip.energybattery.currentLP=§7Current LP:
+
+tooltip.shiftinfo=§7-Press &cSHIFT&7 for more info-
+
+tooltip.ritualName=§7Ritual:
+
+tooltip.running=§7Running:
+tooltip.yes=§7Yes
+tooltip.no=§7No
+tooltip.direction=§7Direction:
+
+tooltip.currentEssence=§7Current Essence:
+tooltip.altarTier=§7Altar Tier:
+tooltip.capacity=§7Capacity:
+
+tooltip.speedUpgrades=§7Speed Upgrades:
+tooltip.efficiencyUpgrades=§7Efficiency Upgrades:
+tooltip.sacrificeUpgrades=§7Sacrifice Upgrades:
+tooltip.selfSacrificeUpgrades=§7Self-Sacrifice Upgrades:
+tooltip.displacementUpgrades=§7Dislocation Upgrades:
+tooltip.altarCapacitiveUpgrades=§7Capacity Upgrades:
+tooltip.orbCapacitiveUpgrades=§7Orb Upgrades:
+tooltip.betterCapacitiveUpgrades=§7Superior Capacity Upgrades:
+tooltip.accelerationUpgrades=§7Acceleration Upgrades:
+
+tooltip.fillable.currentAmount=§7Stored LP:
+
+tooltip.bauble.sacrifice=§7Collecting some life!
+tooltip.bauble.empowered_sacrifice=§7Collecting more life!
+tooltip.bauble.self_sacrifice=§7Collecting your life!
+tooltip.bauble.empowered_self_sacrifice=§7Collecting more of your life!
+
+#Messages
+message.bloodMoney.tooMuch=§7Your Soul Network cannot hold that much LP.
+
+message.cake.lie=§7The cake is a lie!
+message.cake.eating=§7Omm nom nom!
+message.cake.tooFull=§7You are too full to eat any cake
+
+message.door.severedConnection=§7You have severed a connection to the Soul Network!
+message.door.tooWeak=§7You are too weak to open the door.
+message.door.draining=§7You feel an odd draining sensation as the door actively resists you.
+
+message.compacter.notEnoughLP=§7There is not enough LP in your Soul Network!
+message.compacter.itemInAltar=§7There is an item in the altar!
+message.compacter.wrongOrbTier=§7You need a better orb to do this!
+
+message.enchant.noAltar=§7There is no altar!
+message.enchant.noPedestals=§7There are no pedestals!
+message.enchant.noEnchantItem=§7There is no item to enchant!
+message.enchant.noEnchantments=§7There are no enchantments to apply!
+message.enchant.notEnoughLP=§7You do not have enough LP!
+message.enchant.enchantIsNotValid=§7The enchantment is not valid for the item!
+
+message.tile.contains=§7Contains:
+
+message.altarCurrentTier=§7Altar's Current Tier:
+message.capacity=§7Capacity:
+message.altarProgress=§7Altar's Progress:
+message.consumptionRate=§7Consumption rate:
+message.altarEssence=§7Altar's Current Essence:
+message.inputTank=§7Input tank:
+message.outputTank=§7Output tank:
+
+#Miscs
+ba.versioning.outdated=§7You are using Blood Arsenal %s; the latest is %s.
+ba.versioning.updateMessage=§7["Click to [",{"text":"Download","color":"red","hoverEvent":{"action":"show_text","value":{"text":"Click this to auto-magically download the latest version","color":"red"}},"clickEvent":{"action":"run_command","value":"/bloodarsenal-download-latest %version%"}},"] [",{"text":"Website","color":"red","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the website","color":"red"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/228823-blood-magic-addon-blood-arsenal/files"}},"] [",{"text":"Changelog","color":"red","hoverEvent":{"action":"show_text","value":{"text":"Click this to go see the changelog","color":"red"}},"clickEvent":{"action":"open_url","value":"http://www.curse.com/mc-mods/minecraft/228823-blood-magic-addon-blood-arsenal#t1:changes"}},"]"]
+ba.versioning.startingDownload=§7[{"text":"Starting download of %s Please do not remove your hard disk.", "color":"orange"},{"text":"Support Arcaratus","color":"cyan"},{"text":" on [","color":"orange"},{"text":"Patreon","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to Arcaratus's Patreon","color":"cyan"}},"clickEvent":{"action":"open_url","value":"http://www.patreon.com/Arcaratus"}},{"text":"]!","color":"orange"}]
+ba.versioning.doneDownloading=§7Finished downloading %s Delete your old Blood Arsenal .jar and reload your game to update.
+ba.versioning.error=§7An error has occurred while downloading the mod!
+ba.versioning.downloadedAlready=§7You have the latest version already, delete the old BloodArsenal .jar and reload your game to update!
+ba.versioning.downloadingAlready=§7It's downloading! Be patient!
+ba.versioning.disabled=§7This feature is disabled.
+owner=§7Owner:
+
+#TConstruct Stuffs
+material.bloodarsenal.blood_infused_wood=§7Blood Infused Wood
+material.bloodarsenal.blood_infused_iron=§7Blood Infused Iron
+
+fluid.molten.blood_infused_iron=§7Molten Blood Infused Iron
+
+modifier.toolstation.Soulbound=§7Soulbound
+
+#Thaumcraft Entries
+blood_arsenal.research_name.CAP_blood_iron=§7Blood Infused Iron Caps
+blood_arsenal.research_text.CAP_blood_iron=§7Imbued with life
+blood_arsenal.research_page.CAP_blood_iron.1=§7Alchemical Caps were just the beginning. You know that like Blood Infused Wood, Blood Infused Iron also has regenerating properties so you have theorized a way to combine Blood Infused Iron into an Alchemical Cap making it...almost living! They give a better vis discount than the Alchemical Caps, and seem to be more efficient at consuming LP when combined with the Blood Infused Wooden Wand Rod. However, this regenerating property seems to be too much for a standard Blood Rod rendering it inert if put on a Blood Rod.
+#
+blood_arsenal.research_name.ROD_blood_wood=§7Blood Infused Wood Cores
+blood_arsenal.research_text.ROD_blood_wood=§7Pulsating with life
+blood_arsenal.research_page.ROD_blood_wood.1=§7Your works on the Blood Rods have led you to wonder if you can use the properties of Blood Infused Wood in the same manner as you have used the Blood Rods. Pondering on this thought, you realize that with a bit of catalyzing and some mystical infusing, that yes! It is indeed possible to upgrade a Blood Rod with Blood Infused Wood which grants it much higher regenerative vis capabilities. No wand has ever been so living! Recharging at twice the speed it was, you can fill the wand in no time. However there is one downside, it uses muuch more LP than the Blood Rod ever did. Even with Alchemical Caps, it still uses more than the Blood Rod. Desperate for a work-around, you wonder if you can
+blood_arsenal.research_page.ROD_blood_wood.2=§7apply the same principles to Alchemical Caps...
+#
+blood_arsenal.research_name.ROD_blood_wood_staff=§7Blood Infused Wood Staff Core
+blood_arsenal.research_text.ROD_blood_wood_staff=§7Bringing Doom to the party
+blood_arsenal.research_page.ROD_blood_wood_staff.1=§7Even with your supremely regenerative wand and caps, you are still not yet satisfied. You know that when the Blood Rods are turned into Blood Staff Cores, they regenerate four times faster but holds half the amount of vis. Working with some dark magics and a Blood Staff Core, you can now create a living terror. This mighty staff regenerates 2 times faster than the Blood Staff but this is where the regenerative capabilities of Blood Infused Wood meet its limits: the wood itself seemingly tries to regenerate faster than it physically can. To compensate for this, it has to draw Life from the player every time it regenerates vis. And unlike the other blood wands, it doesn't care if you survive or not...
+
+#Rituals
+ritual.ARC001Wither.name=§7Ritual of Withering
+ritual.ARC002Midas.name=§7Midas Touch
+ritual.ARC003Enchant.name=§7The Enchantress's Spell
+ritual.ARC004MobDisable.name=§7Ritual of Mob Oppression
+ritual.ARC005Fisherman.name=§7Fisherman's Hymn

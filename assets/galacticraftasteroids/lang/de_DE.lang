@@ -1,0 +1,153 @@
+# Galacticraft Asteroids Language File =§7GERMANY GERMAN
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7Rakete (Stufe 3)
+item.itemAstroMiner.name=§7Astrominer
+item.heavyNoseCone.name=§7Schwere Raketennase
+item.compressedTitanium.name=§7Gepresstes Titan
+item.ingotTitanium.name=§7Titanbarren
+item.shardTitanium.name=§7Titanscherbe
+item.shardIron.name=§7Eisenscherbe
+item.rocketFinsT2.name=§7Schwere Raketenfinnen
+item.engineT2.name=§7Schwerer Raketenmotor
+item.reinforcedPlateT3.name=§7Robuste Platte
+item.grapple.name=§7Greifhaken
+item.atmosphericValve.name=§7Atmosphärenventil
+item.thermalCloth.name=§7Thermalstoff
+item.beamCore.name=§7Strahlenkern
+item.orionDrive.name=§7Ionenantrieb
+item.tier3.desc=§7Stufe 3
+
+# TOOLS
+item.titanium_pickaxe.name=§7Titanspitzhacke
+item.titanium_axe.name=§7Titanaxt
+item.titanium_hoe.name=§7Titanhacke
+item.titanium_shovel.name=§7Titanschaufel
+item.titanium_sword.name=§7Titanschwert
+
+# ARMOR
+item.thermalHelm.name=§7Thermalpolsterhelm
+item.thermalChestplate.name=§7Thermalpolsterbrustpanzer
+item.thermalLeggings.name=§7Thermalpolsterbeinschutz
+item.thermalBoots.name=§7Thermalpolsterstiefel
+item.titanium_helmet.name=§7Titanhelm
+item.titanium_chestplate.name=§7Titanbrustpanzer
+item.titanium_leggings.name=§7Titanbeinschutz
+item.titanium_boots.name=§7Titanstiefel
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7Methangaskanister
+item.methaneCanister.name=§7Gefüllter Methangaskanister
+item.canister.gas.name=§7Gas                  #short name for Methane Gas contents level
+item.canister.LOX.partial.name=§7Kanister mit Flüssigem Sauerstoff
+item.canister.LOX.full.name=§7Gefüllter Kanister mit Flüssigem Sauerstoff
+item.canister.LOX.name=§7LOX                  #short name for Liquid Oxygen contents level
+item.canister.liquidNitrogen.partial.name=§7Kanister mit Flüssigem Stickstoff
+item.canister.liquidNitrogen.full.name=§7Gefüllter Kanister mit Flüssigem Stickstoff
+item.canister.liquidNitrogen.name=§7Flüssigk. #short name for Liquid Nitrogen contents level
+item.canister.liquidArgon.partial.name=§7Kanister mit Flüssigem Argon
+item.canister.liquidArgon.full.name=§7Gefüllter Kanister mit Flüssigem Argon
+item.canister.liquidArgon.name=§7Flüssigk.    #short name for Liquid Argon contents level
+item.emptyGasCanister.name=§7Leerer Gaskanister
+
+# FLUIDS AND GASES
+fluid.methane=§7Methan
+fluid.oxygen=§7Sauerstoff
+fluid.nitrogen=§7Stickstoff
+fluid.hydrogen=§7Wasserstoff
+fluid.carbondioxide=§7CO2
+fluid.helium=§7Helium
+fluid.argon=§7Argon
+fluid.atmosphericgases=§7Atmosphärische Gase
+fluid.liquidmethane=§7Flüssiges Methan
+fluid.liquidoxygen=§7Flüssiger Sauerstoff
+fluid.liquidnitrogen=§7Flüssiger Stickstoff
+fluid.liquidargon=§7Flüssiges Argon
+fluid.fuel=§7Treibstoff
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7Asteroidengestein
+tile.asteroidsBlock.asteroid1.name=§7Asteroidengestein
+tile.asteroidsBlock.asteroid2.name=§7Asteroidengestein
+tile.asteroidsBlock.oreIron.name=§7Eisenerz
+tile.asteroidsBlock.oreIlmenite.name=§7Ilmeniterz
+tile.asteroidsBlock.oreAluminum.name=§7Aluminiumerz
+tile.beamReflector.name=§7Strahlenreflektor
+tile.beamReceiver.name=§7Strahlenempfänger
+tile.telepadShort.name=§7Kurzreichweiten-Telepad
+tile.walkway.name=§7Gehweg
+tile.walkwayWire.name=§7Gehweg
+tile.walkwayOxygenPipe.name=§7Gehweg
+tile.treasureT3.name=§7Schatztruhe (Stufe 3)
+tile.denseIce.name=§7Dichtes Eis
+tile.minerBase.name=§7Astrominer-Basis
+
+# GUI
+planet.asteroids=§7Asteroiden
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7Dies ist die einzigartige$Adresse des Telepads
+gui.telepad.desc.1=§7Adresse eines anderen Telepads.$Lebewesen werden dort hin gesendet.
+gui.message.address.name=§7Adresse
+gui.message.destAddress.name=§7Zieladresse
+gui.message.invalidAddress.name=§7Ungültige einzigartige Adresse
+gui.message.invalidTargetAddress.name=§7Ungültige Zieladresse
+gui.message.receivingActive.name=§7Empfangen aktiviert
+gui.message.telepadTooFar.name=§7Ziel zu weit weg! (Max %d)
+gui.message.telepadWrongDim.name=§7Ziel ist in der falschen Dimension!
+gui.message.telepadNotFound.name=§7Telepad nicht gefunden!
+gui.message.sendingActive.name=§7Senden aktiviert
+gui.message.range.name=§7Reichweite: %dm
+gui.message.notEnoughEnergy.name=§7Nicht genug Energie!
+gui.message.targetNoEnergy.name=§7Ziel hat nicht genügend Energie!
+gui.message.grapple.fail=§7Ich brauche einen Faden, wenn ich den Greifhaken werfen will!
+gui.message.astroMiner.fail=§7Diese Basis hat schon einen Astrominer!
+gui.message.astroMiner1.fail=§7Der Andockbereich ist versperrt durch:
+gui.message.astroMiner1A.fail=§7Die Route des Astrominers wird blockiert durch:
+gui.message.astroMiner2.fail=§7Das wäre ein Astrominer zu viel!
+gui.message.astroMiner3.fail=§7Die Astrominer-Basis wurde entfernt!
+gui.message.astroMiner4.fail=§7Der Astrominer hat keine Energie mehr und kann nicht zur Basis zurückkehren!
+gui.message.astroMiner5.fail=§7Die Route des Astrominers zurück zur Basis ist versperrt!
+gui.message.astroMiner6.fail=§7Der Astrominer ist mit dem Abbauen fertig und wird jetzt aufhören!
+gui.message.astroMiner7.fail=§7Auf einer Raumstation gibt es für den Astrominer nichts zum Abbauen!
+gui.message.astroMiner8.fail=§7Ein zweiter Astrominer wurde auf der selben Basis erkannt, der erste wird nun einfrieren.
+gui.button.recall.name=§7Zurückrufen
+gui.miner.outOfRange=§7Außer Reichweite
+gui.miner.offline=§7Offline
+gui.miner.stuck=§7Steckt fest an:
+gui.miner.docked=§7Angedockt
+gui.miner.travelling=§7Reist
+gui.miner.mining=§7Baut ab
+gui.miner.returning=§7Kehrt zurück
+gui.miner.docking=§7Dockt an
+gui.miner.mined=§7Abgebaut
+
+tile.treasureT3.description=§7Schatztruhen der Stufe 3 werden zur Zeit nicht benutzt.
+tile.walkway.description=§7Gehwege können für Dekorationszwecke benutzt werden und um Blöcke zu verbinden.
+tile.walkwayAluminumWire.description=§7Aluminumkabelgehwege werden benutzt, um Kabel unter einer vollständig begehbaren Oberfläche zu verlegen.
+tile.walkwayOxygenPipe.description=§7Sauerstoffleitungsgehwege werden benutzt, um Sauerstoffleitungen unter einer vollständig begehbaren Oberfläche zu verlegen.
+tile.beamReflector.description=§7Strahlenreflektoren werden benutzt, um Energiestrahlen von der Quelle zum Ziel weiterzuleiten. Rechtsklick um das Ziel umzuschalten.
+tile.beamReceiver.description=§7Strahlenempfänger werden mit den Energieein- und ausgängen von Maschinen verbunden, um Energie über Strahlen zu übertragen.
+tile.telepadShort.description=§7Kurzreichweiten-Telepads werden benutzt, um Spieler und andere Lebewesen über kurze Distanzen (250 Blöcke) zu teleportieren, wenn sie mit anderen Telepads verbunden sind.
+tile.minerBase.description=§7Die Astrominer-Basis ist die Andockstelle für einen Astrominer. Sie ist groß ... versuche, einen 2 x 2 x 2-Würfel mit den Blöcken zu bauen.
+
+# SCHEMATICS
+schematic.astroMiner.name=§7Astrominer
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=§7Kleiner Asteroid
+entity.GalacticraftMars.GrappleHookGC.name=§7Greifhaken
+entity.GalacticraftMars.Tier3RocketGC.name=§7Rakete (Stufe 3)
+entity.GalacticraftMars.EntryPodAsteroids.name=§7Eintrittskapsel
+entity.GalacticraftMars.AstroMiner.name=§7Astrominer
+
+# CONTAINERS
+container.shortRangeTelepad.name=§7Kurzreichweiten-Telepad
+container.entryPod.name=§7Eintrittskapsel
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=§7Asteroiden -  Dimensions-ID
+gc.configgui.idSchematicRocketT3=§7Rakete (Stufe 3) - Schematic-ID
+gc.configgui.disableGalacticraftHelium=§7Helium-Registrierung deaktivieren
+gc.configgui.astroMinersMax=§7Maximale Anzahl an Astrominern pro Spieler

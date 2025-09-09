@@ -1,0 +1,925 @@
+# sv_SE
+# Initially translated by Landrash
+# Fixes and updates by Hugsim
+# Fix by Maxnordlund
+# Fixed errored characters by Mercalus
+# Updated by Regnander, 2020
+
+buildcraft.boardRobotClean=§7Rengörare
+buildcraft.boardRobotPicker=§7Upplockare
+buildcraft.boardRobotLumberjack=§7Trädhuggare
+buildcraft.boardRobotPlanter=§7Planterare
+buildcraft.boardRobotLeaveCutter=§7Lövklippare
+buildcraft.boardRobotCarrier=§7Bärare
+buildcraft.boardRobotFluidCarrier=§7Vätskebärare
+buildcraft.boardRobotBomber=§7Bombare
+buildcraft.boardRobotKnight=§7Riddare
+buildcraft.boardRobotMiner=§7Malmbrytare
+buildcraft.boardRobotFarmer=§7Jordbrukare
+buildcraft.boardRobotHarvester=§7Skördare
+buildcraft.boardRobotShovelman=§7Grävare
+buildcraft.boardRobotButcher=§7Slaktare
+buildcraft.boardRobotBuilder=§7Byggare
+buildcraft.boardRobotCrafter=§7Tillverkare
+buildcraft.boardRobotDelivery=§7Budbärare
+buildcraft.boardRobotPump=§7Pumpskötare
+buildcraft.boardRobotStripes=§7Blockhanterare
+buildcraft.boardRobotBreaker=§7Brytare
+
+buildcraft.boardRobotPicker.desc=§7Plockar upp föremål
+buildcraft.boardRobotLumberjack.desc=§7Hugger ned stammar
+buildcraft.boardRobotPlanter.desc=§7Planterar grödor
+buildcraft.boardRobotLeaveCutter.desc=§7Klipper löv
+buildcraft.boardRobotCarrier.desc=§7Flyttar föremål mellan utrustningar
+buildcraft.boardRobotFluidCarrier.desc=§7Flyttar vätskor mellan tankar
+buildcraft.boardRobotBomber.desc=§7Bombar utvalda platser
+buildcraft.boardRobotKnight.desc=§7Slåss mot monster
+buildcraft.boardRobotMiner.desc=§7Bryter malmer
+buildcraft.boardRobotFarmer.desc=§7Luckrar upp jord
+buildcraft.boardRobotHarvester.desc=§7Skördar fullväxta grödor
+buildcraft.boardRobotShovelman.desc=§7Gräver upp områden
+buildcraft.boardRobotButcher.desc=§7Slåss mot djur
+buildcraft.boardRobotBuilder.desc=§7Bygger strukturer
+buildcraft.boardRobotCrafter.desc=§7Tillverkar föremål
+buildcraft.boardRobotDelivery.desc=§7Levererar föremål på begäran
+buildcraft.boardRobotPump.desc=§7Pumpar ut vätska
+buildcraft.boardRobotStripes.desc=§7Placerar och bryter block slumpartat
+buildcraft.boardRobotBreaker.desc=§7Gräver sten
+
+chat.gateCopier.clear=§7Grindinformation rensades.
+chat.gateCopier.gateCopied=§7Grindinformation kopierades.
+chat.gateCopier.gatePasted=§7Klistrade in kopierad data till grinden.
+chat.gateCopier.noGate=§7Ingen grind hittades på denna sida!
+chat.gateCopier.noInformation=§7Ingen grindinformation är lagrad!
+chat.gateCopier.warning.actionParameters=§7§6Varning: Målet har färre åtgärdsparametrar!
+chat.gateCopier.warning.logic=§7§6Varning: Målet har en annan logiktyp!
+chat.gateCopier.warning.load=§7§6Varning: Utlösare/åtgärder för grinden kanske saknas!
+chat.gateCopier.warning.slots=§7§6Varning: Målet har färre platser!
+chat.gateCopier.warning.triggerParameters=§7§6Varning: Målet har färre utlösningsparametrar!
+chat.pipe.power.iron.mode=§7Bytte till gränsen på %d MJ/t
+chat.pipe.power.iron.mode.numberless=§7Bytte till gränsen %s
+chat.pipe.power.iron.level.20=§7Mycket låg
+chat.pipe.power.iron.level.40=§7Låg
+chat.pipe.power.iron.level.80=§7Mellanlåg
+chat.pipe.power.iron.level.160=§7Mellan
+chat.pipe.power.iron.level.320=§7Mellanhög
+chat.pipe.power.iron.level.640=§7Hög
+chat.pipe.power.iron.level.1280=§7Mycket hög
+chat.pipe.power.iron.level.2560=§7Full kapacitet
+color.clear=§7Genomskinlig
+
+color.black=§7Svart
+color.blue=§7Blå
+color.brown=§7Brun
+color.cyan=§7Turkos
+color.gray=§7Grå
+color.green=§7Grön
+color.light.blue=§7Ljusblå
+color.light.gray=§7Ljusgrå
+color.lime=§7Limegrön
+color.magenta=§7Ljuslila
+color.orange=§7Orange
+color.pink=§7Rosa
+color.purple=§7Lila
+color.red=§7Röd
+color.white=§7Vit
+color.yellow=§7Gul
+
+config.general=§7Allmänt
+config.general.pipes=§7Rör
+config.blueprints=§7Ritningar
+config.builders=§7Byggare
+config.power=§7Energianvändning
+config.experimental=§7Experimentellt
+config.display=§7Visning
+config.performance=§7Prestanda
+config.worldgen=§7Världsgenerering
+config.network=§7Nätverkshantering
+config.buildcraft=§7Konfigurering för BuildCraft
+
+config.blueprints.clientDatabaseDirectory=§7Klientkatalog
+config.blueprints.excludedMods=§7Exkluderade moddar
+config.blueprints.excludedBlocks=§7Exkluderade block
+
+config.builders.dropBrokenBlocks=§7Avge brutna block
+
+config.display.colorBlindMode=§7Färgblindhetsläge
+config.display.hideFluidValues=§7Dölj vätskevärden
+config.display.hidePowerValues=§7Dölj energivärden
+
+config.experimental.kinesisPowerLossOnTravel=§7Energiförlust för kinesisrör
+
+config.general.boards.blacklist=§7Svartlista för robotar
+config.general.pumpsConsumeWater=§7Pumpar konsumerar vatten
+config.general.updateCheck=§7Kolla efter uppdateringar
+config.general.fuel.fuel.combustion=§7Bränslemultipl. för förbr.motorn
+config.general.fuel.oil.combustion=§7Oljemultipl. för förbr.motorn
+config.general.fuel.fuel.combustion.energyOutput=§7Bränsleutm. f. förbränningsmotorn
+config.general.fuel.oil.combustion.energyOutput=§7Oljeutmatn. f. förbränningsmotorn
+config.general.itemLifespan=§7Livslängd för föremål (sekunder)
+config.general.canEnginesExplode=§7Motorer kan explodera
+config.general.oilCanBurn=§7Olja kan brinna
+config.general.oilIsDense=§7Olja är trög
+config.general.pipes.baseFluidRate=§7Grundhastighet för flöde
+config.general.pipes.facadeBlacklist=§7Svartlista för fasader
+config.general.pipes.facadeBlacklistAsWhitelist=§7Svartlista för inverterade fasader
+config.general.pipes.facadeNoLaserRecipe=§7Lägg till fasadrecept utan laser
+config.general.pipes.hardness=§7Hårdhet
+config.general.pipes.slimeballWaterproofRecipe=§7Recept för slembollstätningar
+config.general.pumpsNeedRealPower=§7Pumpar behöver riktig energi
+config.general.quarry=§7Alternativ för stenbrott
+config.general.quarry.oneTimeUse=§7Engångsanvändning
+config.general.quarry.doChunkLoading=§7Automatisk inläsning av datablock
+config.general.markerRange=§7Räckvidd för markörer
+config.general.miningDepth=§7Maximalt relativt grävdjup
+config.general.pumpDimensionControl=§7Dimensionskontroll för pump
+
+config.network.longUpdateFactor=§7Synkfaktor för klienten (i tick)
+config.network.updateFactor=§7Sändningsfaktor för paket (i tick)
+
+config.power.miningUsageMultiplier=§7Multiplikator för brytningsanv.
+config.power.chipsetCostMultiplier=§7Multiplikator för kretskostnad
+config.power.gateCostMultiplier=§7Multiplikator för grindskostnad
+
+config.worldgen.enable=§7Aktivera
+config.worldgen.generateWaterSprings=§7Skapa vattenkällor
+config.worldgen.oilWellGenerationRate=§7Genereringsfrekv. för oljebrunnar
+config.worldgen.spawnOilSprings=§7Skapa oljekällor
+config.worldgen.biomes.biomeOilDesert=§7Biom-ID för oljeöken
+config.worldgen.biomes.biomeOilOcean=§7Biom-ID för oljehav
+config.worldgen.biomes.excessiveOilIDs=§7Biomer med överdriven mängd olja
+config.worldgen.biomes.excludeOilIDs=§7Biomer utan olja
+config.worldgen.biomes.increasedOilIDs=§7Biomer med ökad mängd olja
+
+direction.north=§7Nord
+direction.west=§7Väst
+direction.east=§7Öst
+direction.south=§7Syd
+direction.up=§7Överkant
+direction.down=§7Nederkant
+direction.center=§7Mitten
+
+direction.center.0=§7Nordväst
+direction.center.1=§7Nord
+direction.center.2=§7Nordöst
+direction.center.3=§7Väst
+direction.center.4=§7Mitten
+direction.center.5=§7Öst
+direction.center.6=§7Sydväst
+direction.center.7=§7Syd
+direction.center.8=§7Sydöst
+
+buildcraft.fluid.empty=§7Tom
+buildcraft.fluid.static.milli.short=§7%s mB
+buildcraft.fluid.static.bucket.short=§7%s B
+buildcraft.fluid.static.milli.long=§7%s millihink(ar)
+buildcraft.fluid.static.bucket.long=§7%s hink(ar)
+
+buildcraft.fluid.empty.milli.short=§70 / %s mB
+buildcraft.fluid.empty.bucket.short=§70 / %s B
+buildcraft.fluid.empty.milli.long=§7Tom tank på %s millihink(ar)
+buildcraft.fluid.empty.bucket.long=§7Tom tank på %s hink(ar)
+
+buildcraft.fluid.full.milli.short=§7%1$s / %1$s mB
+buildcraft.fluid.full.bucket.short=§7%1$s / %1$s B
+buildcraft.fluid.full.milli.long=§7Full tank på %s millihink(ar)
+buildcraft.fluid.full.bucket.long=§7Full tank på %s hink(ar)
+
+buildcraft.fluid.static.cap.milli.short=§7%s / %s mB
+buildcraft.fluid.static.cap.bucket.short=§7%s / %s B
+buildcraft.fluid.static.cap.milli.long=§7%s millihink(ar) i en tank på %s millihink(ar)
+buildcraft.fluid.static.cap.bucket.long=§7%s hink(ar) i en tank på %s hink(ar)
+
+buildcraft.fluid.flow.milli.short=§7%s mB/t
+buildcraft.fluid.flow.bucket.short=§7%s B/s
+buildcraft.fluid.flow.milli.long=§7%s millihink(ar) per tick
+buildcraft.fluid.flow.bucket.long=§7%s hink(ar) per sekund
+
+buildcraft.mj.static.long=§7%s Minecraft Joule
+buildcraft.mj.static.short=§7%s MJ
+buildcraft.mj.flow.long=§7%s Minecraft Joule per tick
+buildcraft.mj.flow.short=§7%s MJ/t
+buildcraft.mj.flow.seconds.long=§7%s Minecraft Joule per sekund
+buildcraft.mj.flow.seconds.short=§7%s MJ/s
+
+fillerpattern.clear=§7Töm allting
+fillerpattern.fill=§7Fyll allting
+fillerpattern.flatten=§7Platta till
+fillerpattern.horizon=§7Horisont
+fillerpattern.pyramid=§7Pyramid
+fillerpattern.stairs=§7Trappa
+fillerpattern.box=§7Ihålig låda
+fillerpattern.frame=§7Ram
+fillerpattern.none=§7Ingen
+fillerpattern.sphere_eighth=§7Åttondelssfär
+fillerpattern.sphere_quarter=§7Fjärdedelssfär
+fillerpattern.sphere_half=§7Halv sfär
+fillerpattern.sphere=§7Sfär
+fillerpattern.2d_arc=§7Båge
+fillerpattern.2d_semi_circle=§7Halvcirkel
+fillerpattern.2d_circle=§7Cirkel
+fillerpattern.2d_triangle=§7Triangel
+fillerpattern.2d_square=§7Fyrkant
+fillerpattern.2d_pentagon=§7Femhörning
+fillerpattern.2d_hexagon=§7Sexhörning
+fillerpattern.2d_octagon=§7Åttahörning
+fillerpattern.parameter.hollow=§7Ihålig
+fillerpattern.parameter.filled=§7Fylld
+fillerpattern.parameter.filled_outer=§7Omringad
+
+buildcraft.param.rotation.0=§7Ingen rotation
+buildcraft.param.rotation.1=§7Rotera 90°
+buildcraft.param.rotation.2=§7Rotera 180°
+buildcraft.param.rotation.3=§7Rotera 270°
+
+buildcraft.param.axis.x=§7X-axel
+buildcraft.param.axis.y=§7Y-axel
+buildcraft.param.axis.z=§7Z-axel
+
+fluid.oil=§7olja
+fluid.fuel=§7lätt bränsle
+fluid.oil_distilled=§7destillerad olja
+fluid.oil_heavy=§7tung olja
+fluid.oil_dense=§7trög olja
+fluid.oil_residue=§7spillolja
+fluid.tar=§7tjära
+fluid.fuel_mixed=§7bränsleblandning
+fluid.fuel_mixed_heavy=§7tung bränsleblandning
+fluid.fuel_mixed_light=§7lätt bränsleblandning
+fluid.fuel_dense=§7trögt bränsle
+fluid.fuel_light=§7lätt bränsle
+fluid.fuel_gaseous=§7gasformigt bränsle
+
+buildcraft.fluid.heat_0=§7§bKall§r %s
+buildcraft.fluid.heat_1=§7§6Het§r %s
+buildcraft.fluid.heat_2=§7§cKokande§r %s
+
+buildcraft.christmas.fluid.oil=§7rå chokladblandning
+buildcraft.christmas.fluid.fuel=§7mjölkchoklad
+buildcraft.christmas.fluid.oil_distilled=§7chokladblandning
+buildcraft.christmas.fluid.oil_heavy=§7rå choklad
+buildcraft.christmas.fluid.oil_dense=§7rå tung choklad
+buildcraft.christmas.fluid.oil_residue=§7överskottskaramell
+buildcraft.christmas.fluid.fuel_mixed_heavy=§7mörk chokladblandning
+buildcraft.christmas.fluid.fuel_mixed_light=§7ljus chokladblandning
+buildcraft.christmas.fluid.fuel_dense=§7mörk choklad
+buildcraft.christmas.fluid.fuel_light=§7mjölkchoklad
+buildcraft.christmas.fluid.fuel_gaseous=§7vit choklad
+
+buildcraft.christmas.buildcraft.fluid.heat_0=§7§bNedsmält§r %s
+buildcraft.christmas.buildcraft.fluid.heat_1=§7§6Het§r %s
+buildcraft.christmas.buildcraft.fluid.heat_2=§7§cKokande§r %s
+
+buildcraft.christmas.tile.engineIron.name=§7Chokladmotor
+
+gate.action.extraction=§7%s extraheringsförinställning
+gate.action.pipe.item.color=§7Färglägg föremål %s
+gate.action.machine.on=§7PÅ
+gate.action.machine.off=§7AV
+gate.action.machine.loop=§7Loopa
+gate.action.pulsar.constant=§7Energipulserare
+gate.action.pulsar.single=§7Enkel energipuls
+gate.action.pipe.wire=§7%s rörsignal
+gate.action.redstone.signal=§7Redstonesignal
+gate.action.robot.goto_station=§7Destinationsstation
+gate.action.pipe.valve.open=§7Öppen
+gate.action.pipe.valve.input_only=§7Endast inmatning
+gate.action.pipe.valve.output_only=§7Endast utmatning
+gate.action.pipe.valve.closed=§7Stängd
+gate.action.station.provide_items=§7Tillhandahåll föremål
+gate.action.station.accept_items=§7Acceptera föremål
+gate.action.station.request_items=§7Begär föremål
+gate.action.station.drop_items_in_pipe=§7Släpp föremål i rör
+gate.action.station.allow_craft=§7Tillåt tillverkning
+gate.action.station.provide_machine_request=§7Begär nödvändiga föremål
+gate.action.station.accept_fluids=§7Acceptera vätskor
+gate.action.station.povide_fluids=§7Tillhandhåll vätskor
+gate.action.robot.work_in_area=§7Arbeta i område
+gate.action.robot.load_unload_area=§7Lasta på/av i område
+gate.action.robot.wakeup=§7Vakna
+gate.action.station.forbid_robot=§7Förbjud robot
+gate.action.station.force_robot=§7Tvinga robot
+gate.action.robot.filter=§7Filter
+gate.action.robot.filter_tool=§7Filtrera verktyg
+gate.action.pipe.direction=§7Rikta mot %s
+
+gate.logic.and=§7OCH
+gate.logic.or=§7ELLER
+
+gate.material.iron=§7Järn
+gate.material.nether_brick=§7Nethertegel
+gate.material.gold=§7Guld
+
+gate.slots=§7%s plats(er)
+gate.params=§7%s platsparametrar
+gate.params.trigger=§7%s utlösningsparametrar
+gate.params.action=§7%s åtgärdsparametrar
+
+gate.side=§7på %s§7sidan
+
+gate.name=§7%sgrind - %s
+gate.name.basic=§7Enkel grind
+
+gate.parameter.redstone.gateSideOnly=§7Endast grindsida
+
+gate.trigger.true=§7Alltid på
+gate.trigger.engine.blue=§7Blå motor
+gate.trigger.engine.green=§7Grön motor
+gate.trigger.engine.yellow=§7Gul motor
+gate.trigger.engine.red=§7Röd motor
+gate.trigger.engine.overheat=§7Överhettad motor
+gate.trigger.fluid.empty=§7Tom tank
+gate.trigger.fluid.contains=§7Vätska i tank
+gate.trigger.fluid.space=§7Utrymme för vätska
+gate.trigger.fluid.full=§7Full tank
+gate.trigger.fluidlevel.below=§7Innehåller < %d %%
+gate.trigger.inventory.empty=§7Tom utrustning
+gate.trigger.inventory.contains=§7Föremål i utrustningen
+gate.trigger.inventory.space=§7Utrymme i utrustningen
+gate.trigger.inventory.full=§7Full utrustning
+gate.trigger.inventorylevel.below=§7Innehåller < %d %%
+gate.trigger.machine.done=§7Har arbetat färdigt
+gate.trigger.machine.scheduled=§7Har arbete
+gate.trigger.redstone.input.active=§7Redstonesignal aktiv
+gate.trigger.redstone.input.equal=§7Redstonesignal lika med
+gate.trigger.redstone.input.inactive=§7Redstonesignal inaktiv
+gate.trigger.redstone.input.greater=§7Redstonesignal större än
+gate.trigger.redstone.input.less=§7Redstonesignal mindre än
+gate.trigger.redstone.input.level=§7Redstone %d
+gate.trigger.pipe.empty=§7Tomt rör
+gate.trigger.pipe.containsItems=§7Innehåller föremål
+gate.trigger.pipe.containsFluids=§7Innehåller vätska
+gate.trigger.pipe.containsEnergy=§7Innehåller energi
+gate.trigger.pipe.requestsEnergy=§7Begär energi
+gate.trigger.pipe.tooMuchEnergy=§7För mycket energi
+gate.trigger.pipe.wire.active=§7%s aktiv rörsignal
+gate.trigger.pipe.wire.inactive=§7%s inaktiv rörsignal
+gate.trigger.timer=§7%s sekunderstimer
+gate.trigger.robot.sleep=§7Sov
+gate.trigger.robot.in.station=§7Robot i station
+gate.trigger.robot.linked=§7länkad station
+gate.trigger.robot.reserved=§7reserverad station
+gate.trigger.machine.energyStored.high=§7Mycket lagrad energi
+gate.trigger.machine.energyStored.low=§7Lite lagrad energi
+gate.trigger.machine.energyStored.below25=§7Energi < 25 %%
+gate.trigger.machine.energyStored.below50=§7Energi < 50 %%
+gate.trigger.machine.energyStored.below75=§7Energi < 75 %%
+gate.trigger.light.bright=§7Ljus
+gate.trigger.light.dark=§7Mörk
+gate.trigger.time.0=§7Natt
+gate.trigger.time.6=§7Morgon
+gate.trigger.time.12=§7Eftermiddag
+gate.trigger.time.18=§7Kväll
+gate.trigger.fuelLevelBelow=§7Bränslenivå under %d %%
+gate.trigger.coolantLevelBelow=§7Kylningsmedelnivå under %d %%
+
+gui.fluidtank.empty=§7Tom
+
+gui.building.resources=§7Byggresurser
+gui.building.fluids=§7Vätsketankar
+gui.del=§7Radera
+gui.filling.resources=§7Ifyllningsresurser
+gui.inventory=§7Utrustning
+gui.lock=§7Lås
+gui.needed=§7Nödvändig mängd
+gui.unlock=§7Lås upp
+gui.power=§7Energi
+gui.currentOutput=§7Nuvarande utmatning
+gui.stored=§7Lagrad mängd
+gui.heat=§7Värme
+gui.assemblyRate=§7Hastighet
+gui.assemblyCurrentRequired=§7Nödvändig
+gui.clickcraft=§7-Klicka för att tillverka-
+gui.list.nbt=§7Kräver exakt matchning\n§7(förtrollningar, namn och lagrad data måste stämma överens exakt)
+gui.list.metadata=§7Acceptera variationer\n§7(samma typ)
+gui.list.oredict=§7Acceptera motsvarigheter\n§7(samma material)
+gui.pipes.emerald.title=§7Filter
+gui.pipes.emerald.blocking=§7Blockering
+gui.pipes.emerald.blocking.tip=§7Extrahering blockeras om ett element i filtret saknas
+gui.pipes.emerald.nonblocking=§7Ingen blockering
+gui.pipes.emerald.nonblocking.tip=§7Extrahering fortsätter med nästa element i filtret om ett element saknas
+gui.pipes.emzuli.title=§7Extraheringsförinställning
+gui.pipes.emzuli.paint=§7Färglägg föremålet %s
+gui.pipes.emzuli.nopaint=§7Färglägg inte föremål
+gui.ledger.ownership=§7Ägare
+gui.ledger.help=§7Hjälp
+gui.progress=§7Förlopp
+gui.leftToBreak=§7Antal block att bryta
+gui.leftToPlace=§7Antal block att placera
+
+item.bucketFuel.name=§7Bränslehink
+item.bucketOil.name=§7Oljehink
+item.diamondShard.name=§7Diamantskärva
+item.woodenGearItem.name=§7Träkugghjul
+item.stoneGearItem.name=§7Stenkugghjul
+item.ironGearItem.name=§7Järnkugghjul
+item.goldGearItem.name=§7Guldkugghjul
+item.diamondGearItem.name=§7Diamantkugghjul
+item.templateItem.name=§7Mall
+item.wrenchItem.name=§7Blocknyckel
+item.paintbrush.name=§7Färgpensel
+item.pipeWaterproof.name=§7Rörtätning
+item.pipeWire.name=§7rörkabel
+item.redstoneCrystal.name=§7Redstonekristall
+item.redstone_red_chipset.name=§7Redstonekrets
+item.redstone_iron_chipset.name=§7Järnkrets
+item.redstone_gold_chipset.name=§7Guldkrets
+item.redstone_diamond_chipset.name=§7Diamantkrets
+item.redstone_emerald_chipset.name=§7Smaragdkrets
+item.redstone_pulsating_chipset.name=§7Pulserande krets
+item.redstone_quartz_chipset.name=§7Kvartskrets
+item.redstone_comp_chipset.name=§7Redstonejämförarkrets
+item.redstone_board.name=§7Redstonepanel
+item.robot.name=§7Robot
+item.tablet.name=§7Platta
+item.blueprintItem.name=§7Ritning
+item.schematicSingle.name=§7Schema för ett block
+item.list.name=§7Lista
+item.blueprint.unnamed=§7<namnlös>
+item.blueprint.author=§7av
+item.blueprint.blank=§7Tom
+item.blueprint.creative_only=§7Endast kreativt läge
+item.blueprint.no_build=§7Ingen byggnad
+item.blueprint.incomplete=§7Ofullständig
+item.mapLocation.name=§7Plats på karta
+item.gateCopier.name=§7Grindkopierare
+item.plasticSheet.name=§7Plastblad
+item.markerConnector.name=§7Marköranslutare
+item.pulsar.name=§7Rörpulserare
+item.fragile_fluid_shard.name=§7Ömtålig skärva av %s
+item.waterGel.name=§7Vattengelatin
+item.gel.name=§7Gelévatten
+
+item.buildcraft_pipe_wood_item.name=§7Transportrör av trä
+item.buildcraft_pipe_cobblestone_item.name=§7Transportrör av kullersten
+item.buildcraft_pipe_stone_item.name=§7Transportrör av sten
+item.buildcraft_pipe_andersite_item.name=§7Transportrör av andersit
+item.buildcraft_pipe_andersite_polished_item.name=§7Transportrör av polerad andersit
+item.buildcraft_pipe_diorite_item.name=§7Transportrör av diorit
+item.buildcraft_pipe_diorite_polished_item.name=§7Transportrör av polerad diorit
+item.buildcraft_pipe_granite_item.name=§7Transportrör av granit
+item.buildcraft_pipe_granite_polished_item.name=§7Transportrör av polerad granit
+
+item.PipeItemsWood.name=§7Transportrör av trä
+item.PipeItemsCobblestone.name=§7Transportrör av kullersten
+item.PipeItemsStone.name=§7Transportrör av sten
+item.PipeItemsAndesite.name=§7Transportrör av andesit
+item.PipeItemsDiorite.name=§7Transportrör av diorit
+item.PipeItemsGranite.name=§7Transportrör av granit
+item.PipeItemsQuartz.name=§7Transportrör av kvarts
+item.PipeItemsIron.name=§7Transportrör av järn
+item.PipeItemsGold.name=§7Transportrör av guld
+item.PipeItemsDiamond.name=§7Transportrör av diamant
+item.PipeItemsObsidian.name=§7Transportrör av obsidian
+item.PipeItemsWoodenDiamond.name=§7Transportrör av trädiamant
+item.PipeItemsLapis.name=§7Transportrör av lazuli
+item.PipeItemsDaizuli.name=§7Transportrör av daizuli
+item.PipeItemsEmzuli.name=§7Transportrör av emzuli
+item.PipeItemsClay.name=§7Transportrör av lera
+item.PipeFluidsWood.name=§7Vätskerör av trä
+item.PipeFluidsCobblestone.name=§7Vätskerör av kullersten
+item.PipeFluidsStone.name=§7Vätskerör av sten
+item.PipeFluidsAndesite.name=§7Vätskerör av andesit
+item.PipeFluidsDiorite.name=§7Vätskerör av diorit
+item.PipeFluidsGranite.name=§7Vätskerör av granit
+item.PipeFluidsIron.name=§7Vätskerör av järn
+item.PipeFluidsQuartz.name=§7Vätskerör av kvarts
+item.PipeFluidsGold.name=§7Vätskerör av guld
+item.PipeFluidsWoodenDiamond.name=§7Vätskerör av trädiamant
+item.PipeFluidsDiamond.name=§7Vätskerör av diamant
+item.PipeFluidsClay.name=§7Vätskerör av lera
+item.PipePowerWood.name=§7Kinesisrör av trä
+item.PipePowerCobblestone.name=§7Kinesisrör av kullersten
+item.PipePowerStone.name=§7Kinesisrör av sten
+item.PipePowerQuartz.name=§7Kinesisrör av kvarts
+item.PipePowerIron.name=§7Kinesisrör av järn
+item.PipePowerGold.name=§7Kinesisrör av guld
+item.PipePowerDiamond.name=§7Kinesisrör av diamant
+item.PipePowerEmerald.name=§7Kinesisrör av smaragd
+item.PipeItemsStripes.name=§7Transportrör av ränder
+item.PipeStructureCobblestone.name=§7Strukturrör av kullersten
+item.PipeItemsVoid.name=§7Transportrör av tomhet
+item.PipeFluidsVoid.name=§7Vätskerör av tomhet
+item.PipeItemsSandstone.name=§7Transportrör av sandsten
+item.PipeFluidsSandstone.name=§7Vätskerör av sandsten
+item.PipePowerSandstone.name=§7Kinesisrör av sandsten
+
+item.PipeRobotStation.name=§7Dockningsstation
+item.Facade.name=§7Fasad
+item.Facade.state_hollow=§7Ihålig
+item.FacadePhased.name=§7Anpassad fasad
+item.FacadePhased.state=§7%s: %s
+item.FacadePhased.state_default=§7Standard: %s
+item.FacadePhased.state_transparent=§7Genomskinlig
+item.PipePlug.name=§7Rörplugg
+item.light_sensor.name=§7Ljussensor
+item.Lens.name=§7lins
+item.Filter.name=§7filter
+item.PipePowerAdapter.name=§7Energiadapter
+item.debugger.name=§7Felsökare
+item.debugger.warning=§7Endast för testning! Tenderar att läcka hemligheter.
+item.package.name=§7Paket
+item.buildcraft.guide.name=§7BuildCrafts guidebok
+item.buildcraft.guide_note.name=§7BuildCrafts guideboksanteckningar
+item.buildcraft.robot_goggles.name=§7Robotglasögon
+item.buildcraft.filler_planner.name=§7Ifyllningsplanerare
+
+itemGroup.buildcraft.boards=§7BuildCraft - Robotar
+itemGroup.buildcraft.main=§7BuildCraft
+itemGroup.buildcraft.pipes=§7BuildCraft - Rör
+itemGroup.buildcraft.facades=§7BuildCraft - Fasader
+itemGroup.buildcraft.plugs=§7BuildCraft - Anslutningsbara komponenter
+
+tile.architectBlock.name=§7Arkitektbänk
+tile.architectBlock.tip=§7Kan inte användas i överlevnadsläge
+tile.assemblyTableBlock.name=§7Monteringsbänk
+tile.assemblyWorkbenchBlock.name=§7Avancerad arbetsbänk
+tile.autoWorkbenchBlock.name=§7Automatisk arbetsbänk
+tile.blockFuel.name=§7Bränsle
+tile.chuteBlock.name=§7Ränna
+tile.blockOil.name=§7Olja
+tile.builderBlock.name=§7Byggare
+tile.builderBlock.tip=§7Kan inte användas i överlevnadsläge
+tile.chargingTableBlock.name=§7Uppladdningsbänk
+tile.chargingTableBlock.tip=§7Ingenting kan laddas upp med detta!
+tile.constructionMarkerBlock.name=§7Byggnadsmarkör
+tile.engineCreative.name=§7Kreativ motor
+tile.engineIron.name=§7Förbränningsmotor
+tile.engineStone.name=§7Stirlingmotor
+tile.engineWood.name=§7Redstonemotor
+tile.fillerBlock.name=§7Ifyllare
+tile.fillerBlock.tip=§7Kan inte användas i överlevnadsläge.
+tile.filteredBufferBlock.name=§7Filtrerad buffert
+tile.floodGateBlock.name=§7Flodgrind
+tile.frameBlock.name=§7Ram
+tile.integrationTableBlock.name=§7Integreringsbänk
+tile.integrationTableBlock.tip=§7Inga recept använder detta!
+tile.laserBlock.name=§7Laser
+tile.libraryBlock.name=§7Elektroniskt bibliotek
+tile.libraryBlock.tip=§7Kan inte användas i överlevnadsläge
+tile.quarryBlock.name=§7Stenbrott
+tile.markerBlock.name=§7Landmarkör
+tile.miningWellBlock.name=§7Brunnsborr
+tile.packagerBlock.name=§7Receptpaketerare
+tile.pathMarkerBlock.name=§7Vägmarkör
+tile.plainPipeBlock.name=§7Gruvrör
+tile.programmingTableBlock.name=§7Programmeringsbänk
+tile.programmingTableBlock.tip=§7Robotar kommer inte till 1.12.2, så denna bänk är oanvändbar :(
+tile.pumpBlock.name=§7Pump
+tile.refineryBlock.name=§7Raffinaderi
+tile.requester.name=§7Begärare
+tile.spring.oil.name=§7Oljekälla
+tile.spring.water.name=§7Vattenkälla
+tile.stampingTableBlock.name=§7Stämpelbord
+tile.tankBlock.name=§7Tank
+tile.zonePlannerBlock.name=§7Zonplanerare
+tile.zonePlannerBlock.tip=§7Robotar kommer inte till 1.12.2, så detta är oanvändbart :(
+tile.distiller.name=§7Destillatör
+tile.heat_exchange.name=§7Värmeväxlare
+tile.decorated.blueprint.name=§7Ritning (dekoration)
+tile.decorated.template.name=§7Mall (dekoration)
+tile.decorated.laser_back.name=§7Laser (dekoration)
+
+tile.architect.rotate=§7Rotera: På
+tile.architect.norotate=§7Rotera: Av
+tile.architect.allowCreative=§7Läge: Kreativt
+tile.architect.noallowCreative=§7Läge: Överlevnad
+tile.architect.tooltip.allowCreative.1=§7Kreativt läge tillåter alla block - Endast kreativt läge!
+tile.architect.tooltip.allowCreative.2=§7överlevnadsläge ignorerar alla block som inte stöds
+tile.architect.excavate=§7Gräv ut: På
+tile.architect.noexcavate=§7Gräv ut: Av
+
+tip.gate.wires=§7§9§oKompatibla kablar:
+tip.gate.wires.redstone=§7Röd
+tip.gate.wires.iron=§7Röd, blå
+tip.gate.wires.gold=§7Röd, blå, grön
+tip.gate.wires.quartz=§7Röd, blå, grön
+tip.gate.wires.diamond=§7Röd, blå, grön, gul
+tip.gate.wires.emerald=§7Röd, blå, grön, gul
+tip.gate.expansions=§7§9§oInstallerade expansioner:
+
+tip.PipeFluidsClay=§7Inmatningsrör
+tip.PipeFluidsDiamond=§7Sorterar vätskor
+tip.PipeFluidsEmerald=§7Extraheringsrör
+tip.PipeFluidsIron=§7Ventilrör
+tip.PipeFluidsSandstone=§7Ansluts endast till andra rör
+tip.PipeFluidsVoid=§7Förstör vätskor
+tip.PipeFluidsWood=§7Extraheringsrör
+tip.PipeItemsClay=§7Inmatningsrör
+tip.PipeItemsDaizuli=§7Överför färgade föremål
+tip.PipeItemsDiamond=§7Sorterar föremål
+tip.PipeItemsEmerald=§7Roundrobin-sorterat extraheringsrör
+tip.PipeItemsEmzuli=§7Grindkontrollerat extraheringsrör
+tip.PipeItemsGold=§7Skyndar på föremål
+tip.PipeItemsIron=§7Överför föremål
+tip.PipeItemsLapis=§7Färglägger föremål
+tip.PipeItemsObsidian=§7Suger upp föremål
+tip.PipeItemsSandstone=§7Ansluter endast till andra rör
+tip.PipeItemsVoid=§7Förstör föremål
+tip.PipeItemsWood=§7Extraheringsrör
+tip.PipePowerEmerald=§7Energiinmatningsrör
+tip.PipePowerDiamond=§7Valbart begränsningsrör
+tip.PipePowerSandstone=§7Ansluts endast till andra rör
+tip.PipePowerWood=§7Energiinmatningsrör
+tip.PipeStructureCobblestone=§7Stödrör
+tip.deprecated=§7Föråldrad
+
+tip.gate.charged=§7Uppladdad
+tip.gate.fullcharge=§7Full laddning
+tip.gate.nocharge=§7Ingen laddning
+
+tip.filler.excavate.on=§7Gräv ut
+tip.filler.excavate.off=§7Gräv inte ut
+
+tip.filler.invert.on=§7Invertera
+tip.filler.invert.off=§7Invertera inte
+
+tip.list.matches=§7Matchar
+
+tip.shift.PipeFluidsDiamond=§7Gränssnittet accepterar alla vätskebehållare
+tip.shift.PipeFluidsEmerald=§7Gränssnittet accepterar alla vätskebehållare
+tip.shift.PipeItemsClay=§7Prioriterar maskiner och kistor\növer rör i närheten.
+tip.shift.PipeItemsDaizuli=§7Smyg och klicka för att ändra färg
+tip.shift.PipeItemsEmzuli=§7Ändra filter för förinställningsextrahering i gränssnittet\nEn förinställning kan färglägga extraherade föremål\nByt förinställningar med grindar
+tip.shift.PipeItemsLapis=§7Smyg och klicka för att ändra färg
+tip.shift.PipeItemsObsidian=§7Energi med en motor\nMer energi - längre avstånd
+tip.shift.PipePowerDiamond=§7Ändra gränsen med en blocknyckel eller grindar
+
+tip.PipeItemsEmerald.whitelist=§7Vitlista
+tip.PipeItemsEmerald.blacklist=§7Svartlista
+tip.PipeItemsEmerald.roundrobin=§7Round Robin (sorterat)
+
+tip.tool.add=§7Lägg till
+tip.tool.fullscreen=§7Helskärm
+tip.tool.remove=§7Ta bort
+
+achievement.woodenGearAchievement=§7Ta i trä
+achievement.woodenGearAchievement.desc=§7Tillverka ett träkugghjul
+achievement.stoneGearAchievement=§7Stenhårt
+achievement.stoneGearAchievement.desc=§7Uppgradera ett träkugghjul till ett stenkugghjul
+achievement.ironGearAchievement=§7Är det rostfritt?
+achievement.ironGearAchievement.desc=§7Uppgradera ett stenkugghjul till ett järnkugghjul
+achievement.goldGearAchievement=§7Nej, det är inte gjort av honung
+achievement.goldGearAchievement.desc=§7Uppgradera ett järnkugghjul till ett guldkugghjul
+achievement.diamondGearAchievement=§7Glänsande!
+achievement.diamondGearAchievement.desc=§7Uppgradera ett guldkugghjul till ett diamantkugghjul
+achievement.wrenchAchievement=§7Det är bara att slå till!
+achievement.wrenchAchievement.desc=§7Gör en blocknyckel
+achievement.engineAchievement1=§7Början av någonting stort
+achievement.engineAchievement1.desc=§7Tillverka en redstonemotor
+achievement.engineAchievement2=§7Hög effektivitet
+achievement.engineAchievement2.desc=§7Tillverka en stirlingmotor
+achievement.engineAchievement3=§7Kraftpaket
+achievement.engineAchievement3.desc=§7Tillverka en förbränningsmotor
+achievement.aLotOfCraftingAchievement=§7Mycket tillverkande
+achievement.aLotOfCraftingAchievement.desc=§7Tillverka en automtisk arbetsbänk
+achievement.straightDownAchievement=§7Rakt ned
+achievement.straightDownAchievement.desc=§7Gör en brunnsborr
+achievement.chunkDestroyerAchievement=§7Datablocksförstörare
+achievement.chunkDestroyerAchievement.desc=§7Tillverka ett stenbrott
+achievement.fasterFillingAchievement=§7Snabbare ifyllning
+achievement.fasterFillingAchievement.desc=§7Gör en ifyllare
+achievement.timeForSomeLogicAchievement=§7Dags för lite logik
+achievement.timeForSomeLogicAchievement.desc=§7Tillverka en monteringsbänk
+achievement.refineAndRedefineAchievement=§7Raffinera och omdefiniera
+achievement.refineAndRedefineAchievement.desc=§7Gör ett raffinaderi
+achievement.tinglyLaserAchievement=§7Laserfasoner
+achievement.tinglyLaserAchievement.desc=§7Tillverka en laser
+achievement.architectAchievement=§7Arkitektur
+achievement.architectAchievement.desc=§7Tillverka en arkitekturbänk
+achievement.builderAchievement=§7Jag har bättre saker att göra
+achievement.builderAchievement.desc=§7Tillverka en byggare
+achievement.blueprintAchievement=§7Byggreferens
+achievement.blueprintAchievement.desc=§7Tillverka en ritning
+achievement.templateAchievement=§7Grundläggande
+achievement.templateAchievement.desc=§7Tillverka en mall
+achievement.blueprintLibraryAchievement=§7Idéerna lever vidare
+achievement.blueprintLibraryAchievement.desc=§7Tillverka ett elektroniskt bibliotek
+
+bc_update.new_version=§7§cEn ny version av BuildCraft är tillgänglig: %s för Minecraft %s
+bc_update.download=§7§cLadda ned från http://www.mod-buildcraft.com/download
+bc_update.once=§7Detta meddelande visas bara en gång
+bc_update.again=§7Skriv "/buildcraft version" om du vill se det igen
+bc_update.changelog=§7Skriv "/buildcraft changelog" för att se ändringsloggen
+
+chat.buildcraft.quarry.tooSmall=§7[BuildCraft] Stenbrottets storlek är utanför gränserna för de inlästa datablocken eller för liten %d %d (%d)
+chat.buildcraft.quarry.chunkloadInfo=§7[BuildCraft] Stenbrottet vid %d %d %d kommer att hålla %d datablock inlästa
+
+command.buildcraft.version=§7BuildCraft %s för Minecraft %s (senaste: %s).
+command.buildcraft.changelog_header=§7Ändringslogg för BuildCraft %s:
+command.buildcraft.version.fail=§7Versionskontrollen misslyckades! Kolla loggfilen för detaljer.
+command.buildcraft.version.prerelease=§7Du använder en förhandsversion
+
+command.buildcraft.aliases=§7Alias: %s
+command.buildcraft.help=§7Skriv "%s" för hjälp.
+command.buildcraft.list=§7Tillgängliga kommandon:
+command.buildcraft.permlevel=§7Behörighetsnivå: %s
+command.buildcraft.noperms=§7Du har inte behörighet att använda detta kommando.
+
+command.buildcraft.buildcraft.help=§7Diverse BuildCraft-relaterade kommandon
+command.buildcraft.buildcraft.format=§7Format: /%s <underkommando>
+
+command.buildcraft.buildcraft.version.desc=§7- %s : Versionsinformation
+command.buildcraft.buildcraft.version.help=§7Visar den nuvarande och senaste versionen av BC.
+command.buildcraft.buildcraft.version.format=§7Format: /%s
+
+command.buildcraft.buildcraft.changelog.desc=§7- %s : Ändringslogg
+command.buildcraft.buildcraft.changelog.help=§7Visar den senaste ändringsloggen för BC.
+command.buildcraft.buildcraft.changelog.format=§7Format: /%s
+
+buildcraft.item.nonclean.usage=§7Shift-högerklicka för att rensa
+
+buildcraft.guide.book.meta.name=§7BuildCrafts konfigurationsguide
+buildcraft.guide_book.reloaded=§7Uppdaterad guidebok
+buildcraft.guide.too_many_results=§7För många resultat att visa: %s
+buildcraft.guide.chapter_list=§7Kapitel
+buildcraft.guide.contents.loaded_modules=§7Inlästa moduler:
+buildcraft.guide.contents.missing_modules=§7Moduler som saknas:
+buildcraft.guide.order.type_subtype=§7Sortera efter typ
+buildcraft.guide.order.mod_type=§7Sortera efter modnamn
+buildcraft.guide.order.alphabetical=§7Sortera alfabetiskt
+
+buildcraft.guide.recipe.create=§7Recept
+buildcraft.guide.recipe.create.plural=§7Recept
+buildcraft.guide.recipe.use=§7Användning
+buildcraft.guide.recipe.use.plural=§7Användningar
+
+buildcraft.guide.chapter.contents=§7Innehåll
+
+buildcraft.guide.contents.all_group=§7Övrigt
+buildcraft.guide.contents.item_stacks=§7Föremål och block
+buildcraft.guide.contents.triggers=§7Utlösare
+buildcraft.guide.contents.actions=§7Åtgärder
+
+buildcraft.guide.chapter.type.unknown=§7Okänd typ!
+buildcraft.guide.chapter.subtype.unknown=§7Okänd undertyp!
+buildcraft.guide.chapter.mod.unknown=§7Okänd mod!
+buildcraft.guide.chapter.submod.unknown=§7Okänd undermod!
+
+buildcraft.guide.meta.group.linking_to=§7Länkad till
+buildcraft.guide.meta.group.linked_from=§7Länkad från
+buildcraft.guide.group.to.buildcraft.pipe_power_providers=§7Rörkraftssändare
+buildcraft.guide.group.from.buildcraft.pipe_power_providers=§7Rörkraftsmottagare
+buildcraft.guide.group.to.buildcraft.full_power_providers=§7Full kraftsändare
+buildcraft.guide.group.from.buildcraft.full_power_providers=§7Full kraftmottagare
+buildcraft.guide.group.to.buildcraft.laser_power_providers=§7Laserkraftsändare
+buildcraft.guide.group.from.buildcraft.laser_power_providers=§7Laserkraftsmottagare
+buildcraft.guide.group.to.buildcraft.area_markers=§7Områdesmarkörer
+buildcraft.guide.group.from.buildcraft.area_markers=§7Områdesberoende block
+
+buildcraft.help.tank.generic=§7Klicka på denna tank\nmed en tom hink för\natt tömma tankens\ninnehåll i hinken eller\nen full hink för att\nfylla tanken med\nhinkens innehåll.
+buildcraft.help.tank.title.tankFuel=§7Bränsletank
+buildcraft.help.tank.title.tankCoolant=§7Kylningsmedeltank
+buildcraft.help.tank.title.tankResidue=§7Spilltank
+buildcraft.help.tank.fuel=§7Denna tank accepterar alla\ntyper av bränsle.
+buildcraft.help.tank.coolant=§7Denna tank accepterar alla\ntyper av vätskor, kylnings-\nmedel eller isblock.
+buildcraft.help.tank.residue=§7Denna tank kommer att mata\nut spillolja om bränslet inte\nhar bearbetats (t.ex. olja).
+
+buildcraft.help.stone_engine.flame.title=§7Bränsle kvar
+buildcraft.help.stone_engine.fuel.title=§7Bränsleinmatning
+buildcraft.help.stone_engine.flame=§7DETTA BRINNER OCH DENNA HJÄLPTEXT ÄR ÄNNU INTE FÄRDIG.
+buildcraft.help.stone_engine.fuel=§7Accepterar alla bränslen som en vanlig ugn gör.
+
+command.buildcraft.buildcraft.op.desc=§7- %s : Gör låtsasspelare till operatör
+command.buildcraft.buildcraft.op.help=§7Ger operatörsrättigheter till en låtsasspelare för BC (fungerar som namnet på stenbrott, robotar, etc.)
+command.buildcraft.buildcraft.op.format=§7Format: /%s
+
+command.buildcraft.buildcraft.deop.desc=§7- %s : Ta bort låtsasspelare som operatör
+command.buildcraft.buildcraft.deop.help=§7Tar bort operatörsrättigheter från en låtsasspelare för BC (fungerar som namnet på stenbrott, robotar, etc.)
+command.buildcraft.buildcraft.deop.format=§7Format: /%s
+
+#advancements
+advancements.buildcraftcore.root.title=§7BuildCraft
+advancements.buildcraftcore.root.description=§7För alla dina ingenjörsbehov
+
+advancements.buildcraftcore.guide.title=§7Hur fungerade detta nu igen?
+advancements.buildcraftcore.guide.description=§7Öppna guideboken
+
+advancements.buildcraftcore.gears.title=§7Kugghjulssamling
+advancements.buildcraftcore.gears.description=§7Skaffa ett av varje kugghjul
+
+advancements.buildcraftcore.wrenched.title=§7Det är bara att slå till!
+advancements.buildcraftcore.wrenched.description=§7Använd en blocknyckel
+
+advancements.buildcraftcore.freePowar.title=§7Gratis energi!
+advancements.buildcraftcore.freePowar.description=§7Generera gratis energi
+
+advancements.buildcraftcore.list.title=§7Sortera mera
+advancements.buildcraftcore.list.description=§7Upptäck listans avancerade förmågor
+
+advancements.buildcraftcore.engine.title=§7Min första motor
+advancements.buildcraftcore.engine.description=§7Skaffa din första motor
+
+advancements.buildcraftcore.markers.title=§7Markerar ditt territorium
+advancements.buildcraftcore.markers.description=§7Använd volymmarkörer för att markera ut ett område
+
+advancements.buildcraftcore.path_markers.title=§7Vägdefinerare
+advancements.buildcraftcore.path_markers.description=§7Definiera en väg
+
+advancements.buildcraftcore.paper.title=§7Papperssamlare
+advancements.buildcraftcore.paper.description=§7Använd varje papperstyp
+
+advancements.buildcraftenergy.poweringUp.title=§7Dags för en starkare motor!
+advancements.buildcraftenergy.poweringUp.description=§7Aktivera en stirling-/förbränningsmotor med en redstonesignal
+
+advancements.buildcraftenergy.lava_power.title=§7Lavaenergi
+advancements.buildcraftenergy.lava_power.description=§7Driv en stirlingmotor med en lavahink
+
+advancements.buildcraftenergy.to_much_power.title=§7För mycket energi!
+advancements.buildcraftenergy.to_much_power.description=§7Få en motor att överhettas och slå till den med en blocknyckel
+
+advancements.buildcraftenergy.ice_cool.title=§7Iskallt
+advancements.buildcraftenergy.ice_cool.description=§7Kyl ned en förbränningsmotor med någonting annat än vatten (om det finns)
+
+advancements.buildcraftenergy.sticky_dipping.title=§7Klibbigt och droppande
+advancements.buildcraftenergy.sticky_dipping.description=§7Upptäck den klibbiga naturen hos olja
+
+advancements.buildcraftenergy.fine_riches.title=§7Fina rikedomar
+advancements.buildcraftenergy.fine_riches.description=§7Hitta en oljebiom
+
+advancements.buildcraftenergy.refine_and_redefine.title=§7Raffinera och omdefiniera
+advancements.buildcraftenergy.refine_and_redefine.description=§7Producera en tank som är full med varje typ av olja och bränsle
+
+advancements.buildcraftfactory.fluid_storage.title=§7Vätskelagring
+advancements.buildcraftfactory.fluid_storage.description=§7Lagra vätska i en tank
+
+advancements.buildcraftfactory.lazy_crafting.title=§7Lat tillverkning
+advancements.buildcraftfactory.lazy_crafting.description=§7Låt den automatiska arbetsbänken arbeta åt dig
+
+advancements.buildcraftfactory.retired_hopper.title=§7Pensionera tratten
+advancements.buildcraftfactory.retired_hopper.description=§7Sätt rännan arbete
+
+advancements.buildcraftfactory.flooding_the_world.title=§7Svämma över världen
+advancements.buildcraftfactory.flooding_the_world.description=§7Översvämma området med en flodgrind
+
+advancements.buildcraftfactory.draining_the_world.title=§7Dränera världen
+advancements.buildcraftfactory.draining_the_world.description=§7Använd en pump för att dränera vätskor från världen
+
+advancements.buildcraftfactory.oil_platform.title=§7Oljeplattform
+advancements.buildcraftfactory.oil_platform.description=§7Börja pumpa upp en oljekälla
+
+advancements.buildcraftfactory.heating_and_distilling.title=§7Uppvärmning och destillering
+advancements.buildcraftfactory.heating_and_distilling.description=§7Skapa ett fullständigt oljeraffinaderi med en destillatör och en värmeväxlare
+
+advancements.buildcraftfactory.black_gold.title=§7Det svarta guldet
+advancements.buildcraftfactory.black_gold.description=§7Pumpa ur en stor oljekälla helt och hållet
+
+advancements.buildcraftsilicon.laser_power.title=§7Laserkraft
+advancements.buildcraftsilicon.laser_power.description=§7Skapa en laser
+
+advancements.buildcraftsilicon.precision_crafting.title=§7Precisionstillverkning
+advancements.buildcraftsilicon.precision_crafting.description=§7Börja tillverka med en monteringsbänk
+
+advancements.buildcrafttransport.pipe_dream.title=§7Rördrömmen
+advancements.buildcrafttransport.pipe_dream.description=§7Placera ett rör
+
+advancements.buildcrafttransport.pipe_diversification.title=§7Rörvariation
+advancements.buildcrafttransport.pipe_diversification.description=§7Placera ett föremål, en vätska, ett kinesisrör och ett strukturrör
+
+advancements.buildcrafttransport.plugging_the_gap.title=§7Plugga igen hålet
+advancements.buildcrafttransport.plugging_the_gap.description=§7Plugga igen ett rör
+
+advancements.buildcrafttransport.logic_transportation.title=§7Logisk transport
+advancements.buildcrafttransport.logic_transportation.description=§7Anslut en rörkabel
+
+advancements.buildcrafttransport.extended_logic.title=§7Utvidgad logik
+advancements.buildcrafttransport.extended_logic.description=§7Använd en grund med extra platser
+
+advancements.buildcrafttransport.sealing_fluids.title=§7Förseglande vätskor
+advancements.buildcrafttransport.sealing_fluids.description=§7Smält en kaktus och tillverka färg ifrån den för att producera rörtätning
+
+advancements.buildcrafttransport.pipe_logic.title=§7Rörlogik
+advancements.buildcrafttransport.pipe_logic.description=§7Placera en grind på ett rör
+
+advancements.buildcrafttransport.all_plugged_up.title=§7Igenpluggat
+advancements.buildcrafttransport.all_plugged_up.description=§7Fäst en av varje unik plugg på ett rör
+
+advancements.buildcrafttransport.pipe_fanatic.title=§7Rörfanatiker
+advancements.buildcrafttransport.pipe_fanatic.description=§7Placera en av varje rörtyp någonstans
+
+advancements.buildcrafttransport.categorizing_with_colors.title=§7Kategorisering med färger
+advancements.buildcrafttransport.categorizing_with_colors.description=§7Bygg en sortering med hjälp av kraften hos färger
+
+advancements.buildcrafttransport.colorful_electrician.title=§7Färgglad elektriker
+advancements.buildcrafttransport.colorful_electrician.description=§7Använd 16 rörkablar av varje färg för att göra ditt rörsystem mer robust
+
+advancements.buildcraftbuilders.shaping_the_world.title=§7Formge världen
+advancements.buildcraftbuilders.shaping_the_world.description=§7Tillverka och placera ett stenbrott
+
+advancements.buildcraftbuilders.architect.title=§7Arkitekt
+advancements.buildcraftbuilders.architect.description=§7Skanna ett område med en arkitektbänk och rita det på en ritning/mall
+
+advancements.buildcraftbuilders.paving_the_way.title=§7Att belägga en väg
+advancements.buildcraftbuilders.paving_the_way.description=§7Använd byggaren med en vägmarkör för att skapa en väg
+
+advancements.buildcraftbuilders.diggy.title=§7Hej hå, hej hå
+advancements.buildcraftbuilders.diggy.description=§7Slutför ett stenbrott med en storlek på 64x64
+
+advancements.buildcraftbuilders.start_of_something_big.title=§7Början på någonting stort
+advancements.buildcraftbuilders.start_of_something_big.description=§7Bygg en extrastor struktur med byggaren
+
+advancements.buildcraftbuilders.building_for_the_future.title=§7Framtidens byggnationer
+advancements.buildcraftbuilders.building_for_the_future.description=§7Låt en ifyllare automatiskt loopa för en längre tid
+
+advancements.buildcraftbuilders.destroying_the_world.title=§7Världsförstörare
+advancements.buildcraftbuilders.destroying_the_world.description=§7Ha två eller fler stenbrott med en storlek på 64x64 igång samtidigt med full hastighet

@@ -1,0 +1,140 @@
+## General Stuff ##
+
+wp.hud.msg.yes=§7Да
+wp.hud.msg.no=§7Нет
+
+wailaplugins.config.title=§7Конфигурация WAILAPlugins
+wailaplugins.config.section.blood_magic=§7Настройки Blood Magic
+wailaplugins.config.section.plugins=§7Глобальные настройки плагинов
+
+
+## Blood Magic ##
+
+wp.hud.msg.currentLP=§7Текущая LP:
+wp.hud.msg.capacity=§7Ёмкость:
+wp.hud.msg.tier=§7Уровень:
+wp.hud.msg.progress=§7Прогресс:
+
+wp.hud.msg.owner=§7Владелец:
+
+wp.config.AWWayofTime.altar=§7Показывать алтарь
+wp.config.AWWayofTime.chemistrySet=§7Показывать химическую установку
+wp.config.AWWayofTime.masterStone=§7Показывать камень мастера
+wp.config.AWWayofTime.teleposer=§7Показывать телепозер
+
+
+## Flaxbeard's Steam Power ##
+
+wp.hud.msg.pressure=§7Давление
+wp.hud.msg.open=§7Открыта
+wp.hud.msg.closed=§7Закрыта
+
+wp.config.Steamcraft.crucible=§7Показывать тигель
+wp.config.Steamcraft.gauge=§7Показывать датчик
+wp.config.Steamcraft.tank=§7Показывать резервуар
+wp.config.Steamcraft.valve=§7Показывать клапан
+
+
+## Forestry ##
+
+wp.hud.msg.notAnalyzed=§7Не проанализировано
+wp.hud.msg.notOwner=§7Вы не владелец
+wp.hud.msg.pollen=§7Название пыльцы: %s
+wp.hud.msg.pollinated=§7Опылено: %s
+
+wp.hud.msg.mainbee=§7Текущ. %s: %s
+wp.hud.msg.secondarybee=§7Скрещивание %s: %s
+wp.hud.msg.breedProgress=§7Прогресс скрещивания: %s
+wp.hud.msg.breedError=§7Ошибка: %s
+
+wp.hud.msg.queen=§7Королева
+wp.hud.msg.princess=§7Принцесса
+wp.hud.msg.drone=§7Трутень
+
+wp.hud.msg.engineHeat=§7Нагрев: %s
+
+wp.config.Forestry.apiary=§7Показывать пасеку
+wp.config.Forestry.heat=§7Показывать нагрев двигателя
+wp.config.Forestry.leaves=§7Показывать листву
+wp.config.Forestry.power=§7Показывать энергию
+wp.config.Forestry.sapling=§7Показывать саженец
+
+## Gregtech 5U
+
+wp.config.Gregtech5U.fluidFilter=§7Показывать информацию о жидкостном фильтре
+wp.config.Gregtech5U.transformer=§7Показывать информацию о трансформаторе
+wp.config.Gregtech5U.solar=§7Показывать кальцификацию солнечного бойлера
+wp.config.Gregtech5U.machineFacing=§7Показывать лицевую сторону машины
+wp.config.Gregtech5U.basicmachine=§7Показывать информацию одноблочных  машин
+wp.config.Gregtech5U.multiblock=§7Показывать информацию мультиблочных машин
+
+## Magical Crops ##
+
+wp.config.magicalcrops.showHover=§7Показывать парящий предмет
+
+
+## Mekanism ##
+
+wp.config.Mekanism.salination=§7Показывать множитель опреснения
+wp.config.Mekanism.portableTank=§7Показывать жидкость резервуара
+wp.config.Mekanism.gas=§7Показывать газ
+wp.config.Mekanism.factoryType=§7Показывать тип фабрики
+wp.config.Mekanism.energy=§7Показывать энергию
+
+
+## Railcraft ##
+
+wp.hud.msg.formed=§7Сформировано: %s
+
+wp.hud.msg.generating=§7Генерируется: %d RF/t
+wp.hud.msg.engineTemp=§7Температура: %d / %d °C
+
+wp.hud.msg.charge=§7Заряд: %s
+wp.hud.msg.needMeter=§7Удерживайте измеритель заряда
+
+wp.config.Railcraft.charge=§7Показывать заряд
+wp.config.Railcraft.energy=§7Показывать RF-энергию
+wp.config.Railcraft.engines=§7Показывать информацию двигателя
+wp.config.Railcraft.heat=§7Показывать нагрев
+wp.config.Railcraft.locomotives=§7Показывать информацию локомотивов
+wp.config.Railcraft.multiblocks=§7Показывать сформированность
+wp.config.Railcraft.tanks=§7Показывать жидкость механизма
+
+
+## RedLogic ##
+
+wp.config.RedLogic.overlay=§7Показывать оверлей гейта
+wp.config.RedLogic.data=§7Показывать данные гейта
+wp.config.RedLogic.strength=§7Показывать силу провода
+
+# Flippable
+wp.hud.msg.flipped=§7Перевёрнуто: %s
+
+# Repeater
+wp.hud.msg.delay=§7Задержка: %d
+
+# TimedGateLogic
+wp.hud.msg.interval=§7Интервал: %s
+
+# Timer
+wp.hud.msg.currentTime=§7Время: %s
+
+# Counter
+wp.hud.msg.count=§7Count: %d
+wp.hud.msg.countMax=§7Max Count: %d
+wp.hud.msg.incrAmnt=§7Increment: %d
+wp.hud.msg.decrAmnt=§7Decrement: %d
+
+# Comparator
+wp.hud.msg.mode=§7Режим: %s
+wp.hud.msg.subtract=§7Вычитание
+wp.hud.msg.compare=§7Сравнение
+
+# Red Alloy Wire
+wp.hud.msg.strength=§7Сила: %s
+
+
+## Thermal Expansion ##
+
+wp.hud.msg.augments.hidden=§7Shift для информ. о расширении
+wp.hud.msg.augments.shown=§7Информация о расширении:

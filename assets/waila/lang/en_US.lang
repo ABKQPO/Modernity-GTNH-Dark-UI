@@ -1,0 +1,155 @@
+screen.button.waila=§7Waila
+screen.button.modules=§7Modules
+screen.label.scale=§7Scale
+screen.label.dragtuto=§7Drag the HUD to setup its position.
+
+screen.button.default=§7Default
+screen.button.cancel=§7Cancel
+screen.button.ok=§7Ok
+screen.button.yes=§7Yes
+screen.button.no=§7No
+screen.button.back=§7Back
+screen.button.hidden=§7Hidden
+screen.button.visible=§7Visible
+screen.button.maintained=§7Maintained
+screen.button.toggled=§7Toggled
+
+choice.showhidewaila=§7Show/Hide Waila
+choice.showhideidmeta=§7Show ID:Metadata
+choice.toggledmaintained=§7Toggled/Maintained
+choice.showliquids=§7Liquids
+choice.shifttoggledblock=§7Sneak toggle blocks
+choice.shifttoggledents=§7Sneak toggle entities
+choice.showicon=§7Show/Hide Icon
+screen.button.configureaspect=§7Configure aspect...
+
+enchant.title.name=§7Name
+enchant.title.minlvl=§7Min lvl
+enchant.title.maxlvl=§7Max lvl
+enchant.title.weight=§7Weight
+enchant.label.enchantability=§7Enchantability
+
+waila.keybind.wailaconfig=§7[Waila] Config screen
+waila.keybind.wailadisplay=§7[Waila] Show/Hide
+waila.keybind.liquid=§7[Waila] Show liquids
+waila.keybind.recipe=§7[Waila] Show recipe
+waila.keybind.usage=§7[Waila] Show usage
+waila.keybind.testing=§7[Waila] Testing
+
+client.msg.norecipe=§7No recipe found.
+client.msg.nousage=§7No usage found.
+
+hud.msg.none=§7<None>
+hud.msg.empty=§7<Empty>
+hud.msg.output=§7Output
+hud.msg.input=§7Input
+hud.msg.out=§7Out
+hud.msg.in=§7In
+hud.msg.power=§7Power
+hud.msg.storage=§7Storage
+hud.msg.stored=§7Stored
+hud.msg.any=§7Any
+hud.msg.mode=§7Mode
+hud.msg.maxpower=§7Max Power
+hud.msg.trigger=§7Trigger
+hud.msg.maxio=§7Max IO
+
+hud.msg.send=§7Send
+hud.msg.recv=§7Recv
+hud.msg.item=§7Item
+hud.msg.fluid=§7Fluid
+hud.msg.energ=§7Energy
+hud.msg.frequency=§7Frequency
+
+hud.msg.owner=§7Owner
+hud.msg.public=§7Public
+hud.msg.restricted=§7Restricted
+hud.msg.private=§7Private
+
+hud.msg.white=§7White
+hud.msg.orange=§7Orange
+hud.msg.magenta=§7Magenta
+hud.msg.lblue=§7LBlue
+hud.msg.yellow=§7Yellow
+hud.msg.lime=§7Lime
+hud.msg.pink=§7Pink
+hud.msg.gray=§7Gray
+hud.msg.lgray=§7LGray
+hud.msg.cyan=§7Cyan
+hud.msg.purple=§7Purple
+hud.msg.blue=§7Blue
+hud.msg.brown=§7Brown
+hud.msg.green=§7Green
+hud.msg.red=§7Red
+hud.msg.black=§7Black
+
+hud.msg.growth=§7Growth
+hud.msg.mature=§7Mature
+hud.msg.off=§7Off
+hud.msg.on=§7On
+hud.msg.state=§7State
+hud.msg.delay=§7Delay
+hud.msg.comparator=§7Comparator
+hud.msg.substractor=§7Substractor
+hud.msg.record=§7Record
+
+hud.msg.offers=§7Offers
+hud.msg.demands=§7Demands
+
+hud.msg.tcnodetotalsize=§7Total Size
+
+option.appeng.monitorcontent=§7Monitor's content
+option.bb.content=§7Barrel's content
+option.bc.tankamount=§7Liquid amount
+option.bc.tanktype=§7Liquid type
+option.enderstorage.colors=§7Colors
+option.ic2.inputeumach=§7Max EU input [Machines]
+option.ic2.inputeuother=§7Max EU input [Other]
+option.ic2.inputeu=§7Max EU input
+option.ic2.outputeu=§7Max EU output
+option.ic2.storage=§7Energy stored
+option.ic2.consump=§7Show consumption
+option.ic2.tradeomat=§7Show Trade-O-Mat request
+option.thaumcraft.storedvis=§7Capacitor storage
+option.thermalexpansion.energyhandler=§7Show RF storage
+option.thermalexpansion.energycell=§7Show ECell IN/OUT
+option.thermalexpansion.fluidtype=§7Show fluid type
+option.thermalexpansion.fluidamount=§7Show fluid amount
+option.thermalexpansion.tankmode=§7Show tank mode
+option.thermalexpansion.tesssendrecv=§7Tesseract mode
+option.thermalexpansion.tessfreq=§7Tesseract frequency
+option.thermalexpansion.owner=§7Show owner
+option.thermalexpansion.conditemmode=§7Show Itemduct mode
+option.vanilla.spawntype=§7Spawner type
+option.vanilla.growthvalue=§7Growth value
+option.vanilla.leverstate=§7Lever state
+option.vanilla.repeater=§7Repeater delay
+option.vanilla.comparator=§7Comparator mode
+option.vanilla.redstone=§7Redstone power
+option.vanilla.jukebox=§7Jukebox disk
+option.vanilla.silverfish=§7Hide silverfish
+option.etb.displaydata=§7Show socket data
+option.enderio.inout=§7Show input/output
+option.enderio.storage=§7Show stored MJ
+option.enderio.owner=§7Show block owner
+option.enderio.channel=§7Show hypercube channel
+option.bcapi.storage=§7Show stored MJ
+option.bcapi.consump=§7Show maximum power
+option.bcapi.trigger=§7Show triggering energy
+option.pr.showio=§7Show gates IO
+option.pr.showdata=§7Show gates data
+option.pr.showsignal=§7Show wire signal strength
+option.extrautilities.fluidamount=§7Show fluid amount
+option.openblocks.fluidamount=§7Show fluid amount
+option.railcraft.fluidamount=§7Show fluid amount
+option.secretrooms.hide=§7Hide camo blocks
+option.carpenters.hide=§7Hide camo blocks
+option.stevescarts.showall=§7Show data
+option.stevescarts.colorblind=§7Colorblind mode
+option.stevescarts.shifttoggle=§7Shift toggle
+option.general.showents=§7Show entities
+option.general.showhp=§7Show entities health
+option.general.showcrop=§7Show crop growth
+option.thaumcraft.aspects=§7Show aspects
+
+nei.options.keys.showenchant=§7Show enchanting values

@@ -1,0 +1,11 @@
+# Missing lang entries for Mystcraft
+myst.symbol.TerrainFlat.name=§7Monde Plat Normal
+myst.symbol.TerrainVoid.name=§7Monde Vide
+
+# Missing lang entries for Thaumcraft
+tile.blockCosmeticDoubleSlabStone.name=§7Dalle en pierre
+tile.blockCosmeticDoubleSlabWood.name=§7Dalle en bois
+
+# Missing lang entries for Extra Utilities
+tile.dirt.name=§7Terre
+tile.sand.name=§7Sable

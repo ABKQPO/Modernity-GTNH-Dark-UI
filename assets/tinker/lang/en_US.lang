@@ -1,0 +1,41 @@
+item.tconstruct.Fletching.raven_feather.name=§7Raven's Feather Fletching
+item.tconstruct.Fletching.steeleaf.name=§7Steeleaf Fletching
+
+item.tconstruct.Materials.FieryNugget.name=§7Fiery Nugget
+item.tconstruct.Materials.KnightlyNugget.name=§7Knightly Nugget
+
+item.tconstruct.bucket.FieryEssence.name=§7Fiery Essence Bucket
+item.tconstruct.bucket.FieryMetal.name=§7Molten Fiery Metal Bucket
+item.tconstruct.bucket.Knightmetal.name=§7Molten Knightmetal Bucket
+
+item.tconstruct.manual.twilightMaterials.name=§7Notes on the Twilight Materials
+manualTF.tooltip=§7By: A Forgotten Explorer
+
+fluid.fiery_essence=§7Fiery Essence
+fluid.fierymetal.molten=§7Molten Fiery Metal
+fluid.knightmetal.molten=§7Molten Knightmetal
+
+tile.fiery_essence.name=§7Fiery Essence
+tile.fluid.molten.fierymetal.name=§7Molten Fiery Metal
+tile.fluid.molten.knightmetal.name=§7Molten Knightmetal
+
+material.twilit.ability=§7Twilit
+material.raven_feather.ability=§7Veiled
+
+entity.TConstruct.Bolt.name=§7Bolt
+entity.TConstruct.Arrow.name=§7Arrow
+
+material.fierymetal=§7Fiery Metal
+material.fierymetal.display=§7Fiery
+
+material.knightmetal=§7Knightmetal
+material.knightmetal.display=§7Knightly
+material.knightmetal.ability=§7Stalwart
+
+material.nagascale=§7Naga Scale
+material.nagascale.display=§7Naga Scale
+material.nagascale.ability=§7Precipitate
+
+material.steeleaf=§7Steeleaf
+material.steeleaf.display=§7Steeleaf
+material.steeleaf.ability=§7Synergy

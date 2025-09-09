@@ -1,6 +1,21 @@
+# Items
+tile.architecturecraft:sawbench.name=§7Architect's Sawbench
+tile.architecturecraft:shape.name=§7Architectural Block
+tile.architecturecraft:shapeSE.name=§7Architectural Block(Glow)
+item.architecturecraft:largePulley.name=§7Large Pulley
+item.architecturecraft:sawblade.name=§7Circular Saw Blade
+item.architecturecraft:chisel.name=§7Architect's Chisel
+item.architecturecraft:hammer.name=§7Architect's Hammer
+item.architecturecraft:glowbrush.name=§7Architect's Glowbrush
+item.architecturecraft:cladding.name=§7Cladding
+
 # Container
 gui.architecturecraft.Sawbench=§7Sawbench
 gui.architecturecraft.Makes=§7makes
+
+# Gui Colors
+gui.architecturecraft.FontColor=§7404040
+gui.architecturecraft.SelectedBgColor=§766CCFF
 
 # Pages
 gui.architecturecraft.Roofing=§7Roofing

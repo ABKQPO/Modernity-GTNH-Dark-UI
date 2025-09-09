@@ -1,0 +1,14 @@
+options.search=§7Search
+options.showAll=§7Show All
+options.showConflicts=§7Show Conflicts
+options.showNone=§7Show Unbound
+options.availableKeys=§7Available Keys
+options.sort=§7Sort
+options.category=§7Category
+options.key=§7Key
+options.sortNone=§7Vanilla
+options.sortAZ=§7A->Z
+options.sortZA=§7Z->A
+options.toggleFree=§7Toggle Free
+options.confirmReset=§7Click to confirm reset!
+options.keyboardLayout=§7Default Layout :

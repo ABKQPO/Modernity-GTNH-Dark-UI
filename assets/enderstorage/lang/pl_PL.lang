@@ -1,0 +1,9 @@
+tile.enderchest|0.name=§7Międzywymiarowa skrzynia
+tile.enderchest|1.name=§7Międzywymiarowy zbiornik
+item.enderpouch.name=§7Międzywymiarowa skawa
+enderstorage.serverop=§7Operator
+
+enderstorage.command.usage=§7enderstorage <częstotliwość>|(<kolor> <kolor> <kolor>) [właściciel]
+enderstorage.command.no_arguments=§7Nieprawidłowa ilość argumentów
+enderstorage.command.no_freq=§7Niepraidłowa szęstotliwość
+enderstorage.command.no_colour=§7Nieprawidłwy kolor: %s

@@ -1,0 +1,10 @@
+tile.translocator.name=§7Translocator
+tile.translocator|0.name=§7Item Translocator
+tile.translocator|1.name=§7Liquid Translocator
+tile.craftingGrid.name=§7Crafting Grid
+item.translocator:diamondNugget.name=§7Diamond Nugget
+
+translocator.regulate=§7Regulate
+translocator.filter=§7Filter
+
+key.craftingGrid=§7Crafting Grid

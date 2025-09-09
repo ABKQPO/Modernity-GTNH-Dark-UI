@@ -1,0 +1,14 @@
+key.categories.craftingtweaks=§7合成辅助
+key.craftingtweaks.rotate=§7旋转
+key.craftingtweaks.clear=§7清空
+key.craftingtweaks.balance=§7均分
+key.craftingtweaks.toggleButtons=§7绑定按键
+key.craftingtweaks.compress=§7压缩物品
+key.craftingtweaks.decompress=§7拆分物品
+
+tooltip.craftingtweaks.rotate=§7旋转
+tooltip.craftingtweaks.balance=§7均分
+tooltip.craftingtweaks.spread=§7平铺
+tooltip.craftingtweaks.clear=§7清空
+tooltip.craftingtweaks.forceClear=§7强制清空
+tooltip.craftingtweaks.forceClearInfo=§7清空所有能清空的物品

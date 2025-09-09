@@ -1,0 +1,60 @@
+# Nature's Compass - Language File
+# UNITED STATES - ENGLISH
+
+# ITEMS
+item.naturescompass.NaturesCompass.name=§7Nature's Compass
+
+# STRINGS - BUTTONS
+string.naturescompass.back=§7Back
+string.naturescompass.info=§7Info
+string.naturescompass.search=§7Search
+string.naturescompass.selectBiome=§7Select Biome
+string.naturescompass.sortBy=§7Sort By
+string.naturescompass.teleport=§7Teleport
+string.naturescompass.foundOnly=§7Only found biomes
+
+# STRINGS - CLIMATES
+string.naturescompass.ocean=§7Ocean
+string.naturescompass.hellish=§7Hellish
+string.naturescompass.hot=§7Hot
+string.naturescompass.warm=§7Warm
+string.naturescompass.normal=§7Normal
+string.naturescompass.cold=§7Cold
+string.naturescompass.icy=§7Icy
+
+# STRINGS - HUMIDITY
+string.naturescompass.damp=§7Damp
+string.naturescompass.arid=§7Arid
+
+# STRINGS - RANGE
+string.naturescompass.none=§7None
+string.naturescompass.veryLow=§7Very Low
+string.naturescompass.low=§7Low
+string.naturescompass.average=§7Average
+string.naturescompass.high=§7High
+string.naturescompass.veryHigh=§7Very High
+
+# STRINGS - HUD
+string.naturescompass.biome=§7Biome
+string.naturescompass.coordinates=§7Coordinates
+string.naturescompass.distance=§7Distance
+string.naturescompass.found=§7Found
+string.naturescompass.notFound=§7Not Found
+string.naturescompass.radius=§7Radius
+string.naturescompass.searching=§7Searching
+string.naturescompass.status=§7Status
+
+# STRINGS - INFO
+string.naturescompass.baseHeight=§7Base Height
+string.naturescompass.climate=§7Climate
+string.naturescompass.heightVariation=§7Height Variation
+string.naturescompass.name=§7Name
+string.naturescompass.precipitation=§7Precipitation
+string.naturescompass.rainfall=§7Rainfall
+string.naturescompass.humidity=§7Humidity
+string.naturescompass.temperature=§7Temperature
+string.naturescompass.tags=§7Tags
+
+# STRINGS - PRECIPITATION
+string.naturescompass.snow=§7Snow
+string.naturescompass.rain=§7Rain

@@ -1,0 +1,417 @@
+language.name=§7Svenska
+language.region=§7SE
+language.code=§7sv_SE
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+itemGroup.BiblioCraftLights=§7BiblioCraft Ljus
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=§7Ringljud
+gui.clock.ticksound=§7Tickljud
+gui.clock.redstone=§7Rödsten
+gui.clock.chime=§7Ring
+gui.clock.presets=§7Förhandsinställningar
+
+screwgun.selected.painting1=§7Första målningen vald
+screwgun.selected.painting2=§7Andra målningen vald
+screwgun.selected.clock1=§7Första klockan vald
+screwgun.selected.clock2=§7Andra klockan vald
+drill.failed=§7Förbindelse misslyckades
+
+item.PaintingCanvas.name=§7Duk
+tile.BiblioPaintPress.name=§7Tryckpress för målning
+
+gui.paintpress.transfer=§7Överför
+gui.paintpress.vanilla=§7Standard
+gui.paintpress.custom=§7Egenvald
+
+gui.painting.scale=§7Skala
+gui.painting.resolution=§7Upplösning
+gui.painting.aspectRatio=§7Bildförhållande
+gui.painting.size=§7Storlek på målning
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Huvudhörn
+
+OakPaintingFrame.name=§7Ekram
+SprucePaintingFrame.name=§7Granram
+BirchPaintingFrame.name=§7Björkram
+JunglePaintingFrame.name=§7Djungelram
+AcaciaPaintingFrame.name=§7Akaciaram
+OldOakPaintingFrame.name=§7Mörk ekram
+
+paintingFrame.0tier=§7Kantlös
+paintingFrame.1tier=§7Enkel ram
+paintingFrame.2tier=§7Dubbel ram
+paintingFrame.3tier=§7Trippel ram
+paintingFrame.4tier=§7Kvadrupel ram
+
+OakClock.name=§7Klocka av ek
+SpruceClock.name=§7Klocka av gran
+BirchClock.name=§7Klocka av björk
+JungleClock.name=§7Klocka av djungelträ
+AcaciaClock.name=§7Klocka av akaciaträ
+OldOakClock.name=§7Klocka av mörk ek
+
+WhiteTypewriter.name=§7Vit skrivmaskin
+LightGrayTypewriter.name=§7Ljusgrå skrivmaskin
+GrayTypewriter.name=§7Grå skrivmaskin
+BlackTypewriter.name=§7Svart skrivmaskin
+RedTypewriter.name=§7Röd skrivmaskin
+OrangeTypewriter.name=§7Orange skrivmaskin
+YellowTypewriter.name=§7Gul skrivmaskin
+LimeTypewriter.name=§7Limegrön skrivmaskin
+GreenTypewriter.name=§7Grön skrivmaskin
+CyanTypewriter.name=§7Turkos skrivmaskin
+LightBlueTypewriter.name=§7Ljusblå skrivmaskin
+BlueTypewriter.name=§7Blå skrivmaskin
+PurpleTypewriter.name=§7Lila skrivmaskin
+MagentaTypewriter.name=§7Ljuslila skrivmaskin
+PinkTypewriter.name=§7Rosa skrivmaskin
+BrownTypewriter.name=§7Brun skrivmaskin
+// End of 1.8 additions and changes // 
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=§7Är du säker?
+gui.recipe.finalize=§7Väljer du Ja kommer boken låsas permanent från ändringar.
+gui.recipe.description=§7Lägg till en beskrivning.
+
+swordpedestal.name=§7Svärdsockel
+swordpedestal.white=§7Vit dekor
+swordpedestal.orange=§7Orange dekor
+swordpedestal.magenta=§7Ljuslila dekor
+swordpedestal.lightblue=§7Ljusblå dekor
+swordpedestal.yellow=§7Gul dekor
+swordpedestal.lime=§7Limegrön dekor
+swordpedestal.pink=§7Rosa dekor
+swordpedestal.gray=§7Grå dekor
+swordpedestal.lightgray=§7Ljusgrå dekor
+swordpedestal.cyan=§7Turkos dekor
+swordpedestal.purple=§7Lila dekor
+swordpedestal.blue=§7Blå dekor
+swordpedestal.brown=§7Brun dekor
+swordpedestal.green=§7Grön dekor
+swordpedestal.red=§7Röd dekor
+swordpedestal.black=§7Svart dekor
+
+OakSign.name=§7Snygg Ekskylt
+SpruceSign.name=§7Snygg Granskylt
+BirchSign.name=§7Snygg Björkskylt
+JungleSign.name=§7Snygg Djungelträskylt
+AcaciaSign.name=§7Snygg Akaciaskylt
+OldOakSign.name=§7Snygg Mörk Ekträskylt
+
+OakWorkbench.name=§7Avancerad arbetsbänk i ek
+SpruceWorkbench.name=§7Avancerad arbetsbänk av gran
+BirchWorkbench.name=§7Avancerad arbetsbänk av björk
+JungleWorkbench.name=§7Avancerad arbetsbänk av djungelträ
+AcaciaWorkbench.name=§7Avancerad arbetsbänk av akaciaträ
+OldOakWorkbench.name=§7Avancerad arbetsbänk av mörk ek
+
+tile.BiblioBell.name=§7Receptionsklocka
+
+item.RecipeBook.name=§7Tom receptbok
+item.SlottedBook.name=§7Bok med föremålsruta
+item.BigBook.name=§7Stor skrivbok
+item.HandDrill.name=§7Handborr
+
+book.bold=§7F
+book.italic=§7K
+book.underline=§7U
+book.strike=§7Genom
+book.obfuscated=§7O
+book.reset=§7Återställ
+book.save=§7Spara
+book.sign=§7Signera
+book.entertitle=§7Skriv In Boktitel:
+book.by=§7av
+book.signnotice=§7OBS! När du signerar boken kommer den inte kunna ändras. Inkluderar ändring av text, formatering, kapitel och extrasidor.
+book.textscale=§7Textstorlek
+book.lineselected=§7Vald rad
+book.cancel=§7Avbryt
+book.linenum=§7Radnummer =
+book.title=§7Titel
+book.description=§7Beskrivning
+book.ingredients=§7Nödvändiga ingredienser
+book.overwriterecipe=§7Skriv över nuvarande
+book.overwriterecipe2=§7receptbok.
+book.saverecipe=§7Spara recept till
+book.saverecipe2=§7tom bok.
+book.loadrecipe=§7Ladda beståndsdelar
+book.loadrecipe2=§7från inventory.
+book.areyousure=§7Är du säker?
+book.areyousure2=§7Väljer du att klicka ja låses boken permanent från ändringar.
+book.setrecipename=§7Recept:
+gui.fancyworkbench=§7Avancerad arbetsbänk
+
+gui.sign.left=§7Vänster
+gui.sign.center=§7Mitten
+gui.sign.right=§7Höger
+
+gui.sign.black=§7Svart
+gui.sign.darkblue=§7Mörkblå
+gui.sign.darkgreen=§7Mörkgrön
+gui.sign.darkaqua=§7Mörk turkos
+gui.sign.darkred=§7Mörkröd
+gui.sign.darkpurple=§7Mörklila
+gui.sign.gold=§7Guld
+gui.sign.gray=§7Grå
+gui.sign.darkgray=§7Mörkgrå
+gui.sign.blue=§7Blå
+gui.sign.green=§7Grön
+gui.sign.aqua=§7Turkos
+gui.sign.red=§7Röd
+gui.sign.lightpurple=§7Ljuslila
+gui.sign.yellow=§7Gul
+gui.sign.white=§7Vit
+
+gui.sign.tooltip1=§7Klicka i en ruta eller tryck på Tab för att välja en redigeringspanel. Tab växlar mellan paneler.
+gui.sign.tooltip2=§7Klicka i rutan ovan för att välja redigeringspanel för ruta 1. Ändra skala, position och rotation.
+gui.sign.tooltip3=§7Klicka i rutan ovan för att inställningar för redigering av text. Ändra skala och lägg till standard-formatering.
+gui.sign.tooltip4=§7Klicka i rutan ovan för att välja redigeringspanel för ruta 2. Ändra skala, position och rotation.
+gui.sign.tooltip5=§7Justera blockskala.
+gui.sign.tooltip6=§7Justera blockrotation. Block kan placeras mot vänster, mitten eller höger. Föremål kan endast placeras mot vänster eller höger.
+gui.sign.tooltip7=§7Justera blockposition. Positionen kan också justeras med piltangenterna eller WASD.
+gui.sign.tooltip8=§7Skriv en av följande nummer/bokstäver efter formatteringssymbolen:
+gui.sign.tooltip9=§7Klicka på knappen eller tryck på Alt-tangenten för att lägga till en formatteringssymbol på vald rad.
+
+gui.sign.bold=§7Fet
+gui.sign.strikethrough=§7Genomstruken
+gui.sign.underline=§7Understruken
+gui.sign.italic=§7Kursiv
+
+gui.sign.scale=§7Textstorlek
+gui.sign.format=§7Format
+gui.sign.linenum=§7Radnummer
+
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=§7Boktitel:
+gui.redbook.description.p1=§7Rödstensboken används tillsammans med en bokhylla för att skicka en rödstenssignal. När boken placeras i bokhyllan kommer signalen sändas från alla sidor förutom framsidan. Signalens styrka beror på vilken plats i bokhyllan boken står på.
+gui.redbook.description.p2=§7Bokhyllan har 16 platser, där den första platsen är högst upp till vänster och den 16e längst ned till höger. Om rödstensboken placeras på första platsen kommer inte bokhyllan skicka någon rödstenssignal. Om rödstensboken är placerad på plats 2 kommer bokhyllan skicka en signal med styrkan 1. Varje plats ökar styrkan med 1, hela vägen till plats 16, vilken skickar en signal med styrkan 15.
+
+
+
+AcaciaDesk.name=§7Akaciaskrivbord
+OldOakDesk.name=§7Mörkt ekskrivbord
+AcaciaBookcase.name=§7Akaciabokhylla
+OldOakBookcase.name=§7Mörk ekbokhylla
+AcaciaPotionShelf.name=§7Akaciabrygdhylla
+OldOakPotionShelf.name=§7Mörk ekbrygdhylla
+AcaciaShelf.name=§7Akaciahylla
+OldOakShelf.name=§7Mörk ekhylla
+AcaciaWeaponRack.name=§7Akaciaverktygsställning
+OldOakWeaponRack.name=§7Mörk ekverktygsställning
+AcaciaLabel.name=§7Akaciaetikett
+OldOakLabel.name=§7Mörk eketikett
+AcaciaTable.name=§7Akaciabord
+OldOakTable.name=§7Mörkt ekbord
+AcaciaMapFrame.name=§7Akaciakartram
+OldOakMapFrame.name=§7Mörk ekram
+AcaciaSeat.name=§7Akaciasäte
+OldOakSeat.name=§7Mörkt eksäte
+OakCase.name=§7Ekmonter
+SpruceCase.name=§7Granmonter
+BirchCase.name=§7Björkmonter
+JungleCase.name=§7Djungelmonter
+AcaciaCase.name=§7Akaciamonter
+OldOakCase.name=§7Mörk ekmonter
+item.seatBack.AcaciaSeatBack.name=§7Stolsrygg av akacia
+item.seatBack.OldOakSeatBack.name=§7Stolsrygg av mörk ek
+lighting.metalIron=§7Gjord av järn
+lighting.metalGold=§7Gjord av guld
+gui.typesetting.guiTitle=§7Bokpress: Organisering av böcker
+gui.typesetting.pageOfpages=§7av
+gui.typesetting.public=§7Allmän
+gui.typesetting.private=§7Privat
+gui.typesetting.delete=§7Radera
+gui.typesetting.select=§7Välj
+gui.typesetting.nextPage=§7Nästa Sida
+gui.typesetting.prevPage=§7Föregående Sida
+gui.typesetting.exit=§7Gå ut
+gui.typesetting.enableDiscard=§7Kassera
+
+
+
+
+// Gui stuff
+gui.armorstand=§7Rustningsställ
+gui.bookcase=§7Bokhylla
+gui.cookiejar=§7Kakburk
+gui.shelf=§7Trähylla
+gui.label=§7Träetikett
+gui.potionshelf=§7Brygdhylla
+gui.table=§7Träbord
+gui.case=§7Uppvisningsask
+gui.toolrack=§7Verktygsställning
+gui.desk=§7Träskrivbord
+gui.mapWaypoint.accept=§7Acceptera
+gui.mapWaypoint.remove=§7Ta bort
+gui.mapWaypoint.cancel=§7Avbryt
+gui.mapWaypoint.waypoint=§7Vägpunkt
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Tallrik
+gui.discRack=§7Skivställ
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=§7Läsning
+redbook.by=§7av
+plate.notValid=§7Ogiltig
+typesetting.requires=§7Kräver
+typesetting.levels=§7Nivåar
+typesetting.chase=§7Typer
+typesetting.bookSelect=§7Välj en bok.
+print.ink=§7Bläck
+print.book=§7Böcker
+screwgun.firstSeat=§7Första stolen vald.
+screwgun.secondSeat=§7Försöker montera/avmontera stolar.
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Mätning Nord/Syd =
+tape.measureeastwest=§7Mätning Öst/Väst =
+tape.measureheight=§7Mätning Höjd =
+tape.nomeasure=§7Ingen mätning.
+tape.measure=§7Mätning =
+tape.startmeasure=§7Påbörjar mätning.
+tape.mode0=§7Byter läge till Nord/Syd, Öst/Väst, och Höjd.
+tape.mode1=§7Byter läge till absolut mätning.
+lock.creativeonly=§7Endast Kreativt Läge
+lock.notowner=§7Du är inte ägare av detta block.
+lock.locked=§7Detta block har blivit låst.
+lock.unlocked=§7Detta block har blivit upplåst.
+
+// Blocks
+CookieJar.name=§7Kakburk
+MarkerPole.name=§7Markör
+tile.BiblioType.name=§7Typsättningsbord
+tile.BiblioPress.name=§7Tryckpress
+tile.BiblioArmorStand.name=§7Rustningsställ
+OakBookcase.name=§7Ekträbokhylla
+SpruceBookcase.name=§7Granträbokhylla
+BirchBookcase.name=§7Björkträbokhylla
+JungleBookcase.name=§7Djungelträbokhylla
+OakPotionShelf.name=§7Ekträbrygdhylla
+SprucePotionShelf.name=§7Granträbrygdhylla
+BirchPotionShelf.name=§7Björkträbrygdhylla
+JunglePotionShelf.name=§7Djungelträbrygdhylla
+OakShelf.name=§7Ekträhylla
+SpruceShelf.name=§7Granträhylla
+BirchShelf.name=§7Björkträhylla
+JungleShelf.name=§7Djungelträhylla
+OakWeaponRack.name=§7Verktygsställning av ek
+SpruceWeaponRack.name=§7Verktygsställning av gran
+BirchWeaponRack.name=§7Verktygsställning av björk
+JungleWeaponRack.name=§7Verktygsställning av djungelträ
+OakLabel.name=§7Ekträetikett
+SpruceLabel.name=§7Granträetikett
+BirchLabel.name=§7Björkträetikett
+JungleLabel.name=§7Djungelträetikett
+OakWritingDesk.name=§7Ekträskrivbord
+SpruceWritingDesk.name=§7Granträskrivbord
+BirchWritingDesk.name=§7Björkträskrivbord
+JungleWritingDesk.name=§7Djungelträskrivbord
+OakTable.name=§7Ekträbord
+SpruceTable.name=§7Granträbord
+BirchTable.name=§7Björkträbord
+JungleTable.name=§7Djungelträbord
+DiscRack.name=§7Skivhylla
+DinnerPlate.name=§7Tallrik
+OakMapFrame.name=§7Kartram av ek
+SpruceMapFrame.name=§7Kartram av gran
+BirchMapFrame.name=§7Kartram av björk
+JungleMapFrame.name=§7Kartram av djungelträ
+OakSeat.name=§7Eksäte
+SpruceSeat.name=§7Gransäte
+BirchSeat.name=§7Björksäte
+JungleSeat.name=§7Djungelträsäte
+
+//lights
+whiteLantern.name=§7Snygg Lykta
+lightGrayLantern.name=§7Snygg Lykta
+grayLantern.name=§7Snygg Lykta
+blackLantern.name=§7Snygg Lykta
+redLantern.name=§7Snygg Lykta
+orangeLantern.name=§7Snygg Lykta
+yellowLantern.name=§7Snygg Lykta
+limeLantern.name=§7Snygg Lykta
+greenLantern.name=§7Snygg Lykta
+cyanLantern.name=§7Snygg Lykta
+lightBlueLantern.name=§7Snygg Lykta
+blueLantern.name=§7Snygg Lykta
+purpleLantern.name=§7Snygg Lykta
+magentaLantern.name=§7Snygg Lykta
+pinkLantern.name=§7Snygg Lykta
+brownLantern.name=§7Snygg Lykta
+
+whiteLamp.name=§7Snygg Lampa
+lightGrayLamp.name=§7Snygg Lampa
+grayLamp.name=§7Snygg Lampa
+blackLamp.name=§7Snygg Lampa
+redLamp.name=§7Snygg Lampa
+orangeLamp.name=§7Snygg Lampa
+yellowLamp.name=§7Snygg Lampa
+limeLamp.name=§7Snygg Lampa
+greenLamp.name=§7Snygg Lampa
+cyanLamp.name=§7Snygg Lampa
+lightBlueLamp.name=§7Snygg Lampa
+blueLamp.name=§7Snygg Lampa
+purpleLamp.name=§7Snygg Lampa
+magentaLamp.name=§7Snygg Lampa
+pinkLamp.name=§7Snygg Lampa
+brownLamp.name=§7Snygg Lampa
+
+lamp.hood0=§7Vitt Lampskydd
+lamp.hood1=§7Ljusgrått Lampskydd
+lamp.hood2=§7Grått Lampskydd
+lamp.hood3=§7Svart Lampskydd
+lamp.hood4=§7Rött Lampskydd
+lamp.hood5=§7Orangefärgat Lampskydd
+lamp.hood6=§7Gult Lampskydd
+lamp.hood7=§7Limefärgat Lampskydd
+lamp.hood8=§7Grönt Lampskydd
+lamp.hood9=§7Cyanfärgat Lampskydd
+lamp.hood10=§7Ljusblått Lampskydd
+lamp.hood11=§7Blått Lampskydd
+lamp.hood12=§7Purple Lampskydd
+lamp.hood13=§7Ljuslila Lampskydd
+lamp.hood14=§7Rosa Lampskydd
+lamp.hood15=§7Brunt Lampskydd
+
+lantern.candle0=§7Vitt Stearinljus
+lantern.candle1=§7Ljusgrått Stearinljus
+lantern.candle2=§7Grått Stearinljus
+lantern.candle3=§7Svart Stearinljus
+lantern.candle4=§7Rött Stearinljus
+lantern.candle5=§7Orangefärgat Stearinljus
+lantern.candle6=§7Gult Stearinljus
+lantern.candle7=§7Limefärgat Stearinljus
+lantern.candle8=§7Grönt Stearinljus
+lantern.candle9=§7Cyanfärgat Stearinljus
+lantern.candle10=§7Ljusblått Stearinljus
+lantern.candle11=§7Blått Stearinljus
+lantern.candle12=§7Lila Stearinljus
+lantern.candle13=§7Ljuslila Stearinljus
+lantern.candle14=§7Rosa Stearinljus
+lantern.candle15=§7Brunt Stearinljus
+
+// Items
+item.tapeMeasure.name=§7Måttband
+item.tape.name=§7Måttbandsrulle
+item.BiblioChase.name=§7Tryckpressram
+item.PrintPlate.name=§7Tryckpressplåt
+item.EnchantedPlate.name=§7Förtrollad plåt
+item.BiblioRedBook.name=§7Rödsten: Volym I
+item.BiblioGlasses.readingglasses.name=§7Läsglasögon
+item.BiblioGlasses.tintedglasses.name=§7Solglasögon
+item.BiblioGlasses.monocle.name=§7Monokel
+item.BiblioDrill.name=§7Skruvdragare
+item.BiblioCreativeLock.name=§7Lås och nyckel
+item.BiblioClipboard.name=§7Skrivplatta
+item.seatBack.OakSeatBack.name=§7Stolsrygg av ek
+item.seatBack.SpruceSeatBack.name=§7Stolsrygg av gran
+item.seatBack.BirchSeatBack.name=§7Stolsrygg av björk
+item.seatBack.JungleSeatBack.name=§7Stolsrygg av djungelträ
+item.BiblioWayPointCompass.name=§7Vägpunktskompass
+item.BiblioMapTool.name=§7Passare

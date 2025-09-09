@@ -1,0 +1,49 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=§7Зажмите %s для статистики
+tictooltips.hold.key.for.materials=§7Зажмите %s для материалов
+tictooltips.hold.key.for.bow.stats=§7Зажмите %s для статистики стрелы
+tictooltips.hold.key.for.more=§7Зажмите %s для подробной информации
+
+# material tooltips
+tictooltips.material.shoddiness.modifier=§7[Модификатор: %s]
+tictooltips.material.arrow.weight=§7Вес стрелы:
+tictooltips.material.durability.modifier=§7Модификатор прочности:
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=§7Подходящие материалы:
+
+# tool tooltips
+tictooltips.tool.repair.material=§7Материал для ремонта:
+tictooltips.tool.effective.durability=§7Эффективная прочность:
+# uses: material.cactus.ability/material.stone.ability
+#tictooltips.tool.shoddiness.modifier=§7%s Modifier:
+# uncomment these if your language needs different syntax for jagged/stonebound 
+tictooltips.tool.jagged.modifier=§7Модификатор зазубренности:
+tictooltips.tool.stonebound.modifier=§7Модификатор силы камня:
+tictooltips.tool.burn.duration=§7Время сгорания:
+tictooltips.tool.bonus.vs.undead=§7Бонус против нежити:
+tictooltips.tool.bonus.vs.spiders=§7Бонус против пауков:
+tictooltips.tool.chance.to.behead=§7Шанс обезглавить:
+tictooltips.tool.modifiers=§7Модификаторы:
+tictooltips.tool.knockback=§7Отброс:
+tictooltips.tool.sprint.damage=§7Урон во время бега:
+tictooltips.tool.crit.damage=§7Бонус критического урона:
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=§7Потери из-за силы камня:
+tictooltips.tool.stonebound.bonus=§7Бонус из-за силы камня:
+tictooltips.tool.jagged.loss=§7Потери из-за зазубренности:
+tictooltips.tool.jagged.bonus=§7Бонус из-за зазубренности:
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=§7Макс. потери из-за силы камня:
+tictooltips.tool.max.stonebound.bonus=§7Макс. бонус из-за силы камня:
+tictooltips.tool.max.jagged.loss=§7Макс. потери из-за зазубренности:
+tictooltips.tool.max.jagged.bonus=§7Макс. бонус из-за зазубренности:
+
+# generic
+tictooltips.minimum=§7Мин.
+tictooltips.maximum=§7Макс.
+tictooltips.unknown.part=§7<Неизвестная часть>
+tictooltips.infinite=§7Бесконечная
+
+# things that should be in TiC
+tictooltips.unbreakable=§7Неразрушимость

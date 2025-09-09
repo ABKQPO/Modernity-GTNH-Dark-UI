@@ -1,0 +1,33 @@
+# Tooltip strings
+spiceoflife.tooltip.nutritional.value=§7Питательная ценность:
+spiceoflife.tooltip.eaten.recently=§7Съедено %s из последних %d
+spiceoflife.tooltip.eaten.recently.hunger=§7Eaten %s in the last %s hunger
+spiceoflife.tooltip.not.eaten.recently=§7Вы ещё не употребляли это
+spiceoflife.tooltip.food.until.enabled.1=§7Уменьшение питательности начинается после
+spiceoflife.tooltip.food.until.enabled.2=§7употребления любой пищи более %d %s
+spiceoflife.tooltip.times.singular=§7раза
+spiceoflife.tooltip.times.plural=§7раз
+spiceoflife.tooltip.hunger=§7голода
+spiceoflife.tooltip.food.group=§7Группа пищи:
+spiceoflife.tooltip.to.close.food.container=§7Используйте, сидя, чтобы закрыть
+spiceoflife.tooltip.to.open.food.container=§7Используйте, сидя, чтобы открыть
+spiceoflife.tooltip.can.spill.food=§7Еда может выпасть, когда открыто
+
+# Quantity descriptors
+spiceoflife.quantity.one.time=§7один раз
+spiceoflife.quantity.two.times=§7дважды
+spiceoflife.quantity.x.times=§7%d раз
+
+# Gui
+spiceoflife.gui.alltime.food.eaten=§7Пища, съеденная за всё время
+spiceoflife.gui.no.food.history.yet=§7История питания не записывается, пока не начнётся уменьшение питательности
+spiceoflife.gui.no.recent.food.eaten=§7Пища ещё не была съедена
+spiceoflife.gui.food_history.title=§7О моей пище
+spiceoflife.gui.food_history.worth_eaten=§7уникальных съедено:
+spiceoflife.gui.food_history.bonus_hearts=§7Бонусных сердец:
+spiceoflife.gui.food_history.next_heart=§7до следующего сердца:
+
+# Items
+item.spiceoflife.bookfoodjournal.name=§7Журнал питания
+item.spiceoflife.lunchbox.name=§7Коробка для ланча
+item.spiceoflife.lunchbag.name=§7Мешочек для ланча

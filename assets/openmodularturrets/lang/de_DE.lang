@@ -1,0 +1,178 @@
+item.bulletThrowable.name=§7Werfbare Gewehrkugel
+item.grenadeThrowable.name=§7Werfbare Granate
+item.bulletCraftable.name=§7Munition - Kugel
+item.grenadeCraftable.name=§7Munition - Granate
+item.rocketCraftable.name=§7Munition - Rakete
+item.ferroSlug.name=§7Munition - Ferro-Magnetisches Geschoss
+item.blazingClayCraftable.name=§7Munition - Glühender Ton
+item.upgFire.name=§7Upgrade - Feuerrate
+item.upgEff.name=§7Upgrade - Effizienz
+item.upgRan.name=§7Upgrade - Reichweite
+item.upgAcc.name=§7Upgrade - Genauigkeit
+item.upgScatter.name=§7Upgrade - Schrotschuss
+item.addonReactor.name=§7Addon - Redstone Reaktor
+item.addonDam.name=§7Addon - Schadens Boost
+item.addonSolar.name=§7Addon - Solar Panel
+item.addonPotentia.name=§7Addon - Potentia Konverter
+item.addonSerialPort.name=§7Addon - Serieller Port
+item.sensorOne.name=§7Sensor (Tier 1)
+item.sensorTwo.name=§7Sensor (Tier 2)
+item.sensorThree.name=§7Sensor (Tier 3)
+item.sensorFour.name=§7Sensor (Tier 4)
+item.sensorFive.name=§7Sensor (Tier 5)
+item.chamberTierOne.name=§7Kammer (Tier 1)
+item.chamberTierTwo.name=§7Kammer (Tier 2)
+item.chamberTierThree.name=§7Kammer (Tier 3)
+item.chamberTierFour.name=§7Kammer (Tier 4)
+item.chamberTierFive.name=§7Kammer (Tier 5)
+item.barrelTierOne.name=§7Lauf (Tier 1)
+item.barrelTierTwo.name=§7Lauf (Tier 2)
+item.barrelTierThree.name=§7Lauf (Tier 3)
+item.barrelTierFour.name=§7Lauf (Tier 4)
+item.barrelTierFive.name=§7Lauf (Tier 5)
+item.ioBus.name=§7IO Bus
+tile.baseTierWood.name=§7Turm Basis (Tier 1)
+tile.baseTierOneBlock.name=§7Turm Basis (Tier 2)
+tile.baseTierTwoBlock.name=§7Turm Basis (Tier 3)
+tile.baseTierThreeBlock.name=§7Turm Basis (Tier 4)
+tile.baseTierFourBlock.name=§7Turm Basis (Tier 5)
+
+tile.disposeItemTurret.name=§7Müll Turm
+tile.potatoCannonTurret.name=§7Kartoffelkanonen Turm
+tile.rocketTurret.name=§7Raketenwerfer Turm
+tile.teleporterTurret.name=§7Teleporter Turm
+tile.machineGunTurret.name=§7Gewehr Turm
+tile.incendiaryTurret.name=§7Feuer Turm
+tile.grenadeTurret.name=§7Granatwerfer Turm
+tile.relativisticTurret.name=§7Relativistischer Turm
+tile.laserTurret.name=§7Laser Turm
+tile.railGunTurret.name=§7Rail Gun Turm
+tile.leverBlock.name=§7Hebel für Tier 1 Turm Basis
+#for IGWMod
+tile.turretBase.name=§7Turm Basis
+
+itemGroup.openmodularturrets=§7Open Modular Turrets
+
+tooltip.tier=§7Tier
+tooltip.range=§7Reichweite (in Blocks)
+tooltip.accuracy=§7Genauigkeit
+tooltip.ammo=§7Munitionstyp
+tooltip.tierRequired=§7Basis Minimum Tier
+tooltip.damage.label=§7Schaden
+tooltip.damage.stat=§7Projektil Schaden
+tooltip.aoe=§7Flächenschaden Radius
+tooltip.firerate=§7Schüsse/s
+tooltip.energy.stat=§7Energieverbrauch pro Schuss
+tooltip.info=§7Info
+tooltip.health=§7Herzen
+
+tooptip.energy.label=§7Energie
+tooltip.rf.max=§7Max Energie
+tooltip.rf.io=§7Max Energiefluss
+tooltip.extras.label=§7Extras
+tooltip.extras.addons.0=§7Nichts
+tooltip.extras.addons.1=§71x Addon Slots
+tooltip.extras.addons.2=§72x Addon Slots
+tooltip.extras.upgrade.0=§7Nichts
+tooltip.extras.upgrade.1=§71x Upgrade Slots
+tooltip.extras.upgrade.2=§72x Upgrade Slots
+
+flavour.base.0=§7Bäume überall.
+flavour.base.1=§7Ich werd mit deinem Blut malen!
+flavour.base.2=§7Ich sagte guten Tag, Sir.
+flavour.base.3=§7Drücken sie Angriff!
+flavour.base.4a=§7Ich frag mich grad,
+flavour.base.4b=§7kann das nen Barrel-Roll?
+
+flavour.turret.0=§7Schlafhilfe für Arme!
+flavour.turret.1=§7TRRRAA!! TRRAATRRAA!!
+flavour.turret.2a=§7Ein anderes Beispiel ist die
+flavour.turret.2b=§7induktive Form des Pferdeparadox.
+flavour.turret.3=§7Roter Nebel.
+flavour.turret.4=§7Mach schon, Newton ist's egal.
+flavour.turret.5=§7BFG.
+flavour.turret.6=§7Ein Plastik Meisterwerk.
+flavour.turret.7=§7Loderndes Verbindungsstück.
+flavour.turret.8=§7Betrachtungsstandpunkt.
+flavour.turret.9a=§7Wie lange Spaghetties,
+flavour.turret.9b=§7aber in 11 Dimensionen.
+
+turret.accuracy.low=§7Niedrig
+turret.accuracy.medium=§7Mittel
+turret.accuracy.high=§7Hoch
+turret.accuracy.exact=§7Exakt
+
+turret.ammo.0=§7Jeder Block/Item
+turret.ammo.1=§7Gewehrkugel
+turret.ammo.2=§7Granate
+turret.ammo.3=§7Zielsuchende Rakete
+turret.ammo.4=§7Keine
+turret.ammo.5=§7Ferro-Magnetisches Geschoss
+turret.ammo.6=§7Kartoffel
+turret.ammo.7=§7Glühender Ton
+
+base.tier.1=§7Turm Basis (Tier 1)
+base.tier.2=§7Turm Basis (Tier 2)
+base.tier.3=§7Turm Basis (Tier 3)
+base.tier.4=§7Turm Basis (Tier 4)
+base.tier.5=§7Turm Basis (Tier 5)
+
+turret.addon.label=§7Turm Addon
+turret.addon.amp.a.label=§7Erhöht den
+turret.addon.amp.b.label=§7Schaden per Projektil.
+turret.addon.amp.flavour=§7Der Juggernaut.
+turret.addon.redstone.a=§7Erzeugt
+turret.addon.redstone.b=§7RF pro
+turret.addon.redstone.c=§7redstone staub im Munitionslager.
+turret.addon.redstone.flavour=§7Sublimation, verbessert.
+turret.addon.solar.a=§7Erzeugt
+turret.addon.solar.b=§7RF/t im Sonnenlicht.
+turret.addon.solar.flavour=§7Gutes Licht!
+turret.addon.potentia.a=§7Konvertiert eingespeiste Potentia
+turret.addon.potentia.b=§7in RF (RF pro Einheit).
+turret.addon.potentia.c=§7Fügt einen Potentia Speicher hinzu für
+turret.addon.potentia.d=§7Ordo Vis hinzuzufügen,
+turret.addon.potentia.e=§7multipliziert die RF Rate um 10.
+turret.addon.potentia.flavour=§7Weil RWE es nicht gebacken kriegt.
+turret.addon.serial.a=§7Erlaubt OpenComputers und ComputerCraft
+turret.addon.serial.b=§7Kompatabilität.
+turret.addon.serial.flavour=§7Wer braucht OOP?
+
+turret.upgrade.label=§7Turm Upgrade
+turret.upgrade.stacks=§7Stackt bis zu 4 mal.
+
+turret.upgrade.range=§7block Reichweite pro Upgrade.
+turret.upgrade.range.flavour=§7Kannst du mir die Gabel reichen?
+
+turret.upgrade.rof=§7Feuerrate pro Upgrade.
+turret.upgrade.rof.flavour=§7Zeitverbraucher, Zeit verbrauchend.
+
+turret.upgrade.eff=§7RF Verbrauch pro Schuss, pro Upgrade.
+turret.upgrade.eff.flavour=§7Eureka!
+
+turret.upgrade.acc=§7Genauigkeit pro Upgrade.
+turret.upgrade.acc.flavour.a=§7Scharfes Auge, Sniper,
+turret.upgrade.acc.flavour.b=§7Ich schiesse, du rennst.
+
+turret.upgrade.scatter.a=§7Fügt 2 Projektile zu jedem Schuss hinzu für
+turret.upgrade.scatter.b=§7+2 Munitionsverbrauch, weniger Genauigkeit, und mehr RF Verbrauch.
+turret.upgrade.scatter.flavour=§7Einfach mit mehr Kugeln schiessen.
+
+status.ownership=§7Du besitzt diesen Turm nicht, oder hast dazu keine Berechtigung.
+status.missingBase=§7Dort ist keine Turm Basis.
+status.warning=§7Du betrittst einen turmgesicherten Bereich. Weitergehen auf eigene Gefahr.
+
+gui.openmodularturrets:owner=§7Besitzer
+gui.openmodularturrets:invert=§7Invertiert
+gui.openmodularturrets:active=§7Aktiv
+gui.openmodularturrets:mode=§7Modus
+gui.openmodularturrets:true=§7ja
+gui.openmodularturrets:false=§7nein
+
+death.attack.disposable=§7Very %s, much dead, such wow...
+death.attack.bullet=§7%s aß zu viel leckeres Blei.
+death.attack.blazingclay=§7%s wurde medium-rare gebraten.
+death.attack.grenade=§7%s muss wieder zusammengesetzt werden.
+death.attack.rocket=§7%s fand die Rakete am ende des Regenbongens.
+death.attack.laser=§7%s wurde verdampft.
+death.attack.ferroslug=§7%s wurde von einer Railgun gelöchert..

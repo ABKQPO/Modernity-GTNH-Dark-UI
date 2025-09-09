@@ -1,0 +1,144 @@
+itemGroup.storageDrawers=§7Storage Drawers
+itemGroup.storageDrawersSorting=§7Storage Drawers - Сортировка
+
+# Items
+item.storagedrawers.upgradeTemplate.name=§7Шаблон улучшения
+item.storagedrawers.upgrade.iron.name=§7Улучшение хранилища (II)
+item.storagedrawers.upgrade.gold.name=§7Улучшение хранилища (III)
+item.storagedrawers.upgrade.obsidian.name=§7Улучшение хранилища (IV)
+item.storagedrawers.upgrade.diamond.name=§7Улучшение хранилища (V)
+item.storagedrawers.upgrade.emerald.name=§7Улучшение хранилища (VI)
+item.storagedrawers.upgradeStatus.level1.name=§7Улучшение «Индикатор» (I)
+item.storagedrawers.upgradeStatus.level1.description=§7Показывает, когда ящик заполнен
+item.storagedrawers.upgradeStatus.level2.name=§7Улучшение «Индикатор» (II)
+item.storagedrawers.upgradeStatus.level2.description=§7Показывает уровень заполнения
+item.storagedrawers.upgradeLock.name=§7Ключ от ящика
+item.storagedrawers.upgradeLock.description=§7Закрывает и открывает ящики
+item.storagedrawers.upgradeVoid.name=§7Пустотное улучшение
+item.storagedrawers.upgradeVoid.description=§7Уничтожает лишние предметы
+item.storagedrawers.upgradeSorting.name=§7Сортирующее улучшение
+item.storagedrawers.upgradeSorting.description=§7Для модификации Refined Relocation
+
+# Blocks
+tile.fullDrawers1.oak.name=§7Ящик из дуба
+tile.fullDrawers1.spruce.name=§7Ящик из ели
+tile.fullDrawers1.birch.name=§7Ящик из берёзы
+tile.fullDrawers1.jungle.name=§7Ящик из тропического дерева
+tile.fullDrawers1.acacia.name=§7Ящик из акации
+tile.fullDrawers1.big_oak.name=§7Ящик из тёмного дуба
+
+tile.fullDrawers2.oak.name=§7Ящик из дуба 1x2
+tile.fullDrawers2.spruce.name=§7Ящик из ели 1x2
+tile.fullDrawers2.birch.name=§7Ящик из берёзы 1x2
+tile.fullDrawers2.jungle.name=§7Ящик из тропического дерева 1x2
+tile.fullDrawers2.acacia.name=§7Ящик из акации 1x2
+tile.fullDrawers2.big_oak.name=§7Ящик из тёмного дуба 1x2
+
+tile.fullDrawers4.oak.name=§7Ящик из дуба 2x2
+tile.fullDrawers4.spruce.name=§7Ящик из ели 2x2
+tile.fullDrawers4.birch.name=§7Ящик из берёзы 2x2
+tile.fullDrawers4.jungle.name=§7Ящик из тропического дерева 2x2
+tile.fullDrawers4.acacia.name=§7Ящик из акации 2x2
+tile.fullDrawers4.big_oak.name=§7Ящик из тёмного дуба 2x2
+
+tile.halfDrawers2.oak.name=§7Компактный ящик из дуба 1x2
+tile.halfDrawers2.spruce.name=§7Компактный ящик из ели 1x2
+tile.halfDrawers2.birch.name=§7Компактный ящик из берёзы 1x2
+tile.halfDrawers2.jungle.name=§7Компактный ящик из тропического дерева 1x2
+tile.halfDrawers2.acacia.name=§7Компактный ящик из акации 1x2
+tile.halfDrawers2.big_oak.name=§7Компактный ящик из тёмного дуба 1x2
+
+tile.halfDrawers4.oak.name=§7Компактный ящик из дуба 2x2
+tile.halfDrawers4.spruce.name=§7Компактный ящик из ели 2x2
+tile.halfDrawers4.birch.name=§7Компактный ящик из берёзы 2x2
+tile.halfDrawers4.jungle.name=§7Компактный ящик из тропического дерева 2x2
+tile.halfDrawers4.acacia.name=§7Компактный ящик из акации 2x2
+tile.halfDrawers4.big_oak.name=§7Компактный ящик из тёмного дуба 2x2
+
+tile.compDrawers.name=§7Уплотняющий ящик
+tile.drawerController.name=§7Контроллер ящиков
+tile.controllerSlave.name=§7Подчинённый контроллера
+
+tile.trim.oak.name=§7Отделка из дуба
+tile.trim.spruce.name=§7Отделка из ели
+tile.trim.birch.name=§7Отделка из берёзы
+tile.trim.jungle.name=§7Отделка из тропического дерева
+tile.trim.acacia.name=§7Отделка из акации
+tile.trim.big_oak.name=§7Отделка из тёмного дуба
+
+storageDrawers.drawers.description=§7Хранит %d стака(-ов) в ящике
+storageDrawers.upgrade.description=§7Увеличивает хранилище в %d раз по сравнению с обычным
+storageDrawers.controller.description=§7Взаимодействует с несколькими соединёнными ящиками
+
+# Integration
+storageDrawers.waila.empty=§7Пусто
+storageDrawers.waila.level=§7Уровень улучшения: %s
+storageDrawers.waila.drawer=§7Ящик #%s: %s
+storageDrawers.waila.locked=§7Закрыт
+storageDrawers.waila.void=§7Пустота
+storageDrawers.waila.sorting=§7Сортировка
+
+# Configuration
+storageDrawers.config.title=§7Настройки Storage Drawers
+
+storageDrawers.config.general=§7Основные настройки
+storageDrawers.config.general.tooltip=§7Всякое-разное.
+
+storageDrawers.config.blocks=§7Настройки блоков
+storageDrawers.config.blocks.tooltip=§7Настройки для ящиков.
+
+storageDrawers.config.blocks.fullDrawers1=§7Ящики 1x1
+storageDrawers.config.blocks.fullDrawers2=§7Ящики 1x2
+storageDrawers.config.blocks.fullDrawers4=§7Ящики 2x2
+storageDrawers.config.blocks.halfDrawers2=§7Компактные ящики 1x2
+storageDrawers.config.blocks.halfDrawers4=§7Компактные ящики 2x2
+storageDrawers.config.blocks.compDrawers=§7Уплотняющий ящик
+storageDrawers.config.blocks.controller=§7Контроллер ящиков
+storageDrawers.config.blocks.trim=§7Отделка
+storageDrawers.config.blocks.controllerSlave=§7Подчинённый контроллера
+
+storageDrawers.config.upgrades=§7Настройки улучшений
+storageDrawers.config.upgrades.tooltip=§7Настройки улучшений для ящиков.
+
+storageDrawers.config.upgrades.level2Mult=§7Множитель хранилища (II)
+storageDrawers.config.upgrades.level3Mult=§7Множитель хранилища (III)
+storageDrawers.config.upgrades.level4Mult=§7Множитель хранилища (IV)
+storageDrawers.config.upgrades.level5Mult=§7Множитель хранилища (V)
+storageDrawers.config.upgrades.level6Mult=§7Множитель хранилища (VI)
+
+storageDrawers.config.prop.itemRenderType=§7Тип отрисовки предметов
+storageDrawers.config.prop.itemRenderType.tooltip=§7Отрисовывает предметы 3D или плоско.
+storageDrawers.config.prop.enableIndicatorUpgrades=§7Включить улучшения для индикаторов
+storageDrawers.config.prop.enableStorageUpgrades=§7Включить улучшения хранилищ
+storageDrawers.config.prop.enableLockUpgrades=§7Включить улучшение блокировки
+storageDrawers.config.prop.enableVoidUpgrades=§7Включить пустотное улучшение
+storageDrawers.config.prop.enableSortingUpgrades=§7Включить сортирующее
+storageDrawers.config.prop.enableSortingUpgrades.tooltip=§7Требуется модификация Refined Relocation.
+storageDrawers.config.prop.renderStorageUpgrades=§7Отрисовывать произведённые улучшения визуально
+storageDrawers.config.prop.creativeTabVanillaWoods=§7Деревья оригинала в творческой вкладке
+storageDrawers.config.prop.creativeTabVanillaWoods.tooltip=§7Добавляет все виды деревьев оригинального Minecraft в творческую вкладку.
+storageDrawers.config.prop.enabled=§7Включено
+storageDrawers.config.prop.enabled.tooltip=§7Включает блок в игре.
+storageDrawers.config.prop.baseStorage=§7Основное хранилище
+storageDrawers.config.prop.baseStorage.tooltip=§7Количество стаков предметов, хранимое ящиком.
+storageDrawers.config.prop.recipeOutput=§7Результат рецепта
+storageDrawers.config.prop.recipeOutput.tooltip=§7Количество предметов, получаемых при единичном создании.
+storageDrawers.config.prop.enableSidedInput=§7Включить приём предметов
+storageDrawers.config.prop.enableSidedInput.tooltip=§7Другие блоки могут помещать предметы в ящики.
+storageDrawers.config.prop.enableSidedOutput=§7Включить извлечение предметов
+storageDrawers.config.prop.enableSidedOutput.tooltip=§7Другие блоки могут извлекать предметы из ящиков.
+storageDrawers.config.prop.enableItemConversion=§7Включить преобразование предметов
+storageDrawers.config.prop.enableItemConversion.tooltip=§7Ящики автоматически преобразовывают совместимые по словарю руд предметы.
+storageDrawers.config.prop.invertShift=§7Инвертировать Shift
+storageDrawers.config.prop.invertShift.tooltip=§7Инвертирует поведение "нажатие" и shift+нажатие.
+storageDrawers.config.prop.enableDebugLogging=§7Включить отладку
+storageDrawers.config.prop.enableDebugLogging.tooltip=§7Отображает дополнительную информацию в журналах.
+
+storageDrawers.config.integration=§7Интеграция
+storageDrawers.config.integration.tooltip=§7Настройки интеграции с другими модами.
+
+storageDrawers.config.integration.enableAE2=§7Включить интеграцию с Applied Energistics 2
+storageDrawers.config.integration.enableWaila=§7Включить интеграцию с WAILA
+storageDrawers.config.integration.enableThaumcraft=§7Включить интеграцию с Thaumcraft
+storageDrawers.config.integration.enableMineTweaker=§7Включить интеграцию с MineTweaker
+storageDrawers.config.integration.enableRefinedRelocation=§7Включить интеграцию с Refined Relocation

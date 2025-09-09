@@ -1,0 +1,20 @@
+####################
+# APIARIST'S PIPE
+####################
+
+item.buildcraftPipe.pipeitemspropolis.name=§7养蜂员管道
+
+for.gui.pipe.filter.anything=§7任意物品
+for.gui.pipe.filter.bee=§7任意蜜蜂
+for.gui.pipe.filter.cave=§7穴居蜂
+for.gui.pipe.filter.closed=§7已关闭
+for.gui.pipe.filter.drone=§7雄蜂
+for.gui.pipe.filter.flyer=§7强壮飞蜂
+for.gui.pipe.filter.item=§7物品
+for.gui.pipe.filter.nocturnal=§7夜行蜜蜂
+for.gui.pipe.filter.princess=§7公主蜂
+for.gui.pipe.filter.pure_breed=§7纯种蜜蜂
+for.gui.pipe.filter.pure_cave=§7纯种穴居蜂
+for.gui.pipe.filter.pure_flyer=§7纯种飞蜂
+for.gui.pipe.filter.pure_nocturnal=§7纯种夜行蜜蜂
+for.gui.pipe.filter.queen=§7蜂后

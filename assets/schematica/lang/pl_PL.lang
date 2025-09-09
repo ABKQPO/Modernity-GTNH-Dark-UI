@@ -1,0 +1,54 @@
+# gui - general
+schematica.gui.openFolder=§7Otworz folder z schematami
+schematica.gui.done=§7Gotowe
+schematica.gui.title=§7Wybierz plik schematu
+schematica.gui.folderInfo=§7(Tutaj wrzucaj schematy)
+schematica.gui.noschematic=§7-- Nie ma schematu --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Schowaj
+schematica.gui.all=§7Wszystko
+schematica.gui.show=§7Pokarz
+schematica.gui.movehere=§7Przenies tutaj
+schematica.gui.flip=§7Odwroc
+schematica.gui.rotate=§7Obroc
+schematica.gui.save=§7Zapisz
+schematica.gui.moveschematic=§7Przenies schemat
+schematica.gui.layers=§7Warstwy
+schematica.gui.operations=§7Operacje
+schematica.gui.point.red=§7Czerwony znacznik
+schematica.gui.point.blue=§7Niebieski znacznik
+schematica.gui.saveselection=§7Zapisz zaznaczenie jako schemat
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Materialy
+schematica.gui.materialamount=§7Ilosc
+schematica.gui.printer=§7Drukarka
+
+# gui - config - categories
+
+# gui - config - debug
+
+# gui - config - render
+
+# gui - config - printer
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+
+# gui - config - server
+
+# keys
+schematica.key.load=§7Ladowanie schematu
+schematica.key.save=§7Zapisywanie schematu
+schematica.key.control=§7Manipulacja schematem
+
+# commands - save
+
+# commands - list
+
+# commands - remove
+
+# commands - download

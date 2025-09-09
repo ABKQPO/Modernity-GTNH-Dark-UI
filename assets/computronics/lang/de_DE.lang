@@ -1,0 +1,163 @@
+tile.computronics.ironNoteBlock.name=§7Eiserner Notenblock
+tile.computronics.tapeDrive.name=§7Kassettenspieler
+tile.computronics.camera.name=§7Kamera
+tile.computronics.chatBox.name=§7Chat-Box
+tile.computronics.chatBox.creative.name=§7Kreative Chat-Box
+tile.computronics.sorter.name=§7Sortierer
+tile.computronics.cipher.name=§7Chiffrierblock
+tile.computronics.cipher_advanced.name=§7Asymmetrischer Chiffrierblock
+tile.computronics.radar.name=§7Radarblock
+tile.computronics.colorfulLamp.name=§7Farbenfrohe Lampe
+tile.computronics.locomotiveRelay.name=§7Digitales Lokomotivenrelais
+tile.computronics.digitalControllerBox.name=§7Digitale Signalsteuerbox
+tile.computronics.digitalReceiverBox.name=§7Digitale Signalempfängerbox
+tile.computronics.detector.name=§7Detektor - Digital
+tile.computronics.ticketMachine.name=§7Ticketautomat
+tile.computronics.audiocable.name=§7Tonkabel
+tile.computronics.speaker.name=§7Lautsprecher
+tile.computronics.speechBox.name=§7Sprechbox
+
+tooltip.computronics.chatBox.creative=§7Die NSA für zu Hause!
+tooltip.computronics.cipher.advanced=§7Für die Starchaser!
+tooltip.computronics.sensor.bound=§7Gebunden an [%1$s,%2$s,%3$s]
+tooltip.computronics.sensor.desc1=§7Rechtsklicke schleichend auf ein\nLokomotivenrelais, um ihn an dieses zu binden
+tooltip.computronics.sensor.desc2=§7Linksklicke schleichend auf eine\nElektrische Lokomotive, um ihn anzubringen
+tooltip.computronics.tape.length=§7Länge: %s Minuten
+tooltip.computronics.tape.balanced=§7Welch ein ausgewogener Preis!
+tooltip.computronics.tape.unnamed=§7Unbenanntes Band
+tooltip.computronics.tape.none=§7Kein Band
+tooltip.computronics.tape.ig=§7Der Standard-CDVR für\nSchiffe von GregTech Intergalactical
+tooltip.computronics.ticket.print=§7Ticket Drucken
+tooltip.computronics.ticket.printLocked=§7§cManuelles Drucken deaktiviert
+tooltip.computronics.ticket.locked=§7Ist gesperrt von\n {owner}.\n Nur der Eigentümer oder\n ein Op kann ihn warten.
+tooltip.computronics.ticket.notmaintenance=§7Shift-rechtsklicke\n diesen Automaten mit\n nichts in der Hand, um\n ihn zu warten.
+tooltip.computronics.ticket.notowner=§7Du bist nicht der\n Eigentümer des Automats.\n Sie gehört\n {owner}.
+tooltip.computronics.ticket.unlocked=§7Klicken um zu sperren.\n Wenn gesperrt, kann er\n nur von Dir oder einem Op\n gewartet werden
+
+tooltip.computronics.gate.action.computer_start=§7Computer starten
+tooltip.computronics.gate.action.computer_stop=§7Computer stoppen
+tooltip.computronics.gate.action.tape_drive_start=§7Kassettenspieler starten
+tooltip.computronics.gate.action.tape_drive_stop=§7Kassettenspieler stoppen
+tooltip.computronics.gate.action.tape_drive_rewind=§7Kassettenspieler zurückspulen
+tooltip.computronics.gate.action.tape_drive_forward=§7Kassettenspieler vorspulen
+tooltip.computronics.gate.action.lamp_color_set=§7Lampenfarbe einstellen
+tooltip.computronics.gate.action.lamp_color_reset=§7Lampenfarbe zurücksetzen
+tooltip.computronics.gate.action.lamp_color.red=§7Rot: %s
+tooltip.computronics.gate.action.lamp_color.green=§7Grün: %s
+tooltip.computronics.gate.action.lamp_color.blue=§7Blau: %s
+
+tooltip.computronics.gate.trigger.computer_running=§7Computer angeschaltet
+tooltip.computronics.gate.trigger.computer_stopped=§7Computer ausgeschaltet
+tooltip.computronics.gate.trigger.tape_drive_playing=§7Kassettenspieler läuft
+tooltip.computronics.gate.trigger.tape_drive_stopped=§7Kassettenspieler gestoppt
+tooltip.computronics.gate.trigger.tape_drive_rewinding=§7Kassettenspieler spult zurück
+tooltip.computronics.gate.trigger.tape_drive_forwarding=§7Kassettenspieler spult vor
+
+tooltip.computronics.waila.base.bus=§7§aBus ID§f: %s
+tooltip.computronics.waila.relay.bound=§7Gebunden
+tooltip.computronics.waila.relay.notbound=§7Nicht Gebunden
+tooltip.computronics.waila.lamp.red=§7Rot: %s
+tooltip.computronics.waila.lamp.green=§7Grün: %s
+tooltip.computronics.waila.lamp.blue=§7Blau: %s
+
+tooltip.computronics.tape.tapeinserted=§7Enthält Kassette
+tooltip.computronics.tape.labeltapeinserted=§7Enthält Kassette "%s"
+tooltip.computronics.tape.notapeinserted=§7Enthält keine Kassette
+tooltip.computronics.tape.state=§7Status: %s
+tooltip.computronics.tape.state.stopped=§7Gestoppt
+tooltip.computronics.tape.state.playing=§7Laufend
+tooltip.computronics.tape.state.rewinding=§7Zurückspulend
+tooltip.computronics.tape.state.forwarding=§7Vorspulend
+
+tooltip.computronics.manual.oc.tab.blocks=§7Computronics: Blöcke
+tooltip.computronics.manual.oc.tab.items=§7Computronics: Items
+
+tooltip.computronics.manual.tis3d.tab.items=§7Computronics: Items
+tooltip.computronics.manual.tis3d.port.flamingo=§7Pinker Flamingo
+
+option.computronics.enableOCAddress=§7Komponentenaddresse
+option.computronics.enableTape=§7Enthaltene Kassette
+option.computronics.enableTapeName=§7Kassettenname
+option.computronics.enableDriveState=§7Kassettenspielerstatus
+option.computronics.enableRelayBound=§7Relaisbindung
+option.computronics.enableLampColor=§7Lampenfarbe
+
+item.computronics.reelChromoxide.name=§7Chromdioxidbandspur
+item.computronics.drone_upgrade_docking.name=§7Dronen-Docking-Upgrade
+item.computronics.dockingStation.name=§7Dronen-Dockingstation
+item.computronics.portableTapeDrive.name=§7Tragbarer Kassettenspieler
+item.computronics.robot_upgrade_camera.name=§7Kamera-Upgrade
+item.computronics.robot_upgrade_chatbox.name=§7Chat-Upgrade
+item.computronics.robot_upgrade_radar.name=§7Radar-Upgrade
+item.computronics.card_beep.name=§7Piepende Karte
+item.computronics.card_noise.name=§7Lärmende Karte
+item.computronics.card_fx.name=§7Partikeleffektkarte
+item.computronics.card_spoof.name=§7Spoofing-Karte
+item.computronics.card_spoof.tip=§7Funktioniert wie eine Netzwerkkarte, aber erlaubt es, die Sendeaddresse festzulegen
+item.computronics.card_boom.name=§7Selbstzerstörungskarte
+item.computronics.card_boom.tip=§7Jeder vernünftige Bösewicht braucht so etwas.
+item.computronics.robot_upgrade_colorful.name=§7Das Bunte Upgrade
+item.computronics.robot_upgrade_colorful.tip=§7Bunt, bunt, bunt, sind alle meine Kleider...
+item.computronics.rack_board_light.name=§7Serverschrank-Lichtpult
+item.computronics.rack_board_light.tip=§7Fast so sperrig wie ihr Name
+item.computronics.rack_board_boom.name=§7Server-Selbstzerstörer
+item.computronics.rack_board_boom.tip=§7Lass uns den Mond anzünden!
+item.computronics.rack_board_capacitor.name=§7Serverschrankkondensator
+item.computronics.rack_board_capacitor.tip=§7So viel Strom, wie du nur essen könntest.
+item.computronics.rack_board_switch.name=§7Serverschrank-Schaltpult
+item.computronics.rack_board_switch.tip=§7Nicht wirklich ein Pult, hat aber immerhin Schalter.
+item.computronics.robot_upgrade_speech.name=§7Sprech-Upgrade
+item.computronics.robot_upgrade_Speech.tip=§7Verwandelt Roboter in Nachrichtensprecher.
+item.computronics.magical_memory.name=§7Wundersamer Speicher (Kreativ)
+item.computronics.magical_memory.tip=§7So viele Erinnerungen!
+item.computronics.for.combAcid.name=§7Kaustische Wabe
+item.computronics.for.dropAcid.name=§7Kaustischer Tropfen
+item.computronics.relaySensor.name=§7Digitaler Relaissensor
+item.computronics.part_tape_track.name=§7Bandspur
+item.computronics.tape.ig.name=§7Intergalaktischer CDVR
+item.computronics.tape.name=§7Kasettenband
+item.computronics.module_colorful.name=§7Das Bunte Modul
+item.computronics.module_tape_reader.name=§7Kassettenlesemodul
+item.computronics.module_boom.name=§7Selbstzerstörungsmodul
+
+itemGroup.tabComputronics=§7Computronics
+
+entity.computronics.itemTape.name=§7Intergalaktischer CDVR
+entity.computronics.swarm.name=§7Schwarm
+
+death.attack.computronics.sting.1=§7%1$s fand die Ursache von Apiphobie
+death.attack.computronics.sting.2=§7%1$s konnte den Bienen doch nicht entkommen
+death.attack.computronics.sting.3=§7%1$s entdeckte, dass Bienen sehr wohl aggressiv sein können
+death.attack.computronics.sting.4=§7%1$s erlag einem anaphylaktischen Schock
+death.attack.computronics.sting.5=§7%1$s wurde Opfer eines Bienenattentats
+death.attack.computronics.sting.self=§7%1$s wurde vom eigenen Schwarm betrogen
+
+for.computronics.flowers.sea=§7Meer
+for.computronics.bees.species.scummy=§7Schmutzig
+for.description.computronics.speciesScummy=§7Kerosin, Propylen-Glykol, künstliche Süßstoffe, Schwefelsäure, Rum, Aceton, Rote Farbe, Scumm, Schmierfett, Batteriesäure und/oder Pepperonis|Seltsame Leute in einer Bar
+
+chat.computronics.cipher.locked=§7Dieser Chiffrierblock ist versperrt! Du darfst nicht darauf zugreifen.
+chat.computronics.colorful_upgrade.color=§7§6Farbe§f: %s
+chat.computronics.lamp.binary.on=§7RedNet wird nun binär verarbeitet
+chat.computronics.lamp.binary.off=§7RedNet wird nun gewöhnlich verarbeitet
+chat.computronics.relay.notBound=§7Relais ist momentan mit keiner Lokomotive verbunden!
+chat.computronics.relay.unbound=§7Relais wurde erfolgreich von der Lokomotive entbunden!
+chat.computronics.sensor.bound=§7Relais wurde erfolgreich mit der Lokomotive verbunden!
+chat.computronics.sensor.noRelay=§7Es gibt kein Relais an diesen Koordinaten!
+chat.computronics.sensor.noRelayDetected=§7Relais an diesen Koordinaten konnte nicht erkannt werden!
+chat.computronics.sensor.tooFarAway=§7Relais und Lokomotive sind zu weit voneinander entfernt!
+chat.computronics.sensor.wrongLoco=§7Sensor kann nur an Elektrische Lokomotiven angebracht werden!
+chat.computronics.sensor.wrongDim=§7Relais und Lokomotive sind in unterschiedlichen Dimensionen!
+
+achievement.computronics.gotTape=§7Musik für alle
+achievement.computronics.gotTape.desc=§7Mit Sicherheit besser als Klebeband
+achievement.computronics.gotStarTape=§7Over the Rainbow
+achievement.computronics.gotStarTape.desc=§7Du kannst auch gute Musik spielen
+achievement.computronics.gotIGTape=§7Erster Teil deines Raumschiffs
+achievement.computronics.gotIGTape.desc=§7Nicht, dass du eines bauen könntest
+achievement.computronics.droppedIGTape=§7MH370
+achievement.computronics.droppedIGTape.desc=§7Einfach verschwunden!?
+achievement.computronics.gotLoco=§7Elektrische Revolution
+achievement.computronics.gotLoco.desc=§7So beginnt es.
+achievement.computronics.gotRelay=§7Digitale Revolution
+achievement.computronics.gotRelay.desc=§7010010000100100101001100010001100100010100100001

@@ -1,0 +1,87 @@
+﻿tab.battle.title=§7M&B Battlegear 2
+
+item.battlegear2:heraldric.name=§7Blason
+item.battlegear2:chain.name=§7Chaine
+item.battlegear2:quiver.name=§7Carquois
+
+item.battlegear2:mb.arrow.ender.name=§7Flèche d'Ender
+item.battlegear2:mb.arrow.explosive.name=§7Flèche Explosive
+item.battlegear2:mb.arrow.flame.name=§7Flèche de Feu
+item.battlegear2:mb.arrow.piercing.name=§7Flèche Aiguisée
+item.battlegear2:mb.arrow.piercing.name=§7Flèche Empoisonnée
+item.battlegear2:mb.arrow.mystery.name=§7Flèche Mystère
+item.battlegear2:mb.arrow.mystery.name=§7Flèche Vampire
+
+item.battlegear2:dagger.wood.name=§7Dague en bois
+item.battlegear2:dagger.stone.name=§7Dague en pierre
+item.battlegear2:dagger.iron.name=§7Dague en fer
+item.battlegear2:dagger.diamond.name=§7Dague en diamant
+item.battlegear2:dagger.gold.name=§7Dague en or
+
+item.battlegear2:waraxe.wood.name=§7Hache de guerre en bois
+item.battlegear2:waraxe.stone.name=§7Hache de guerre en pierre
+item.battlegear2:waraxe.iron.name=§7Hache de guerre en fer
+item.battlegear2:waraxe.diamond.name=§7Hache de guerre en diamant
+item.battlegear2:waraxe.gold.name=§7Hache de guerre en or
+
+item.battlegear2:mace.wood.name=§7Massue en bois
+item.battlegear2:mace.stone.name=§7Massue en bois
+item.battlegear2:mace.iron.name=§7Massue en bois
+item.battlegear2:mace.diamond.name=§7Massue en bois
+item.battlegear2:mace.gold.name=§7Massue en or
+
+item.battlegear2:spear.wood.name=§7Lance en bois
+item.battlegear2:spear.stone.name=§7Lance en pierre
+item.battlegear2:spear.iron.name=§7Lance en fer
+item.battlegear2:spear.diamond.name=§7Lance en diamant
+item.battlegear2:spear.gold.name=§7Lance en or
+
+item.battlegear2:shield.wood.name=§7Bouclier de bois
+item.battlegear2:shield.hide.name=§7Bouclier en peau
+item.battlegear2:shield.iron.name=§7Bouclier de fer
+item.battlegear2:shield.diamond.name=§7Bouclier de diamant
+item.battlegear2:shield.gold.name=§7Bouclier en or
+
+item.battlegear2:knights_armour.helmet.name=§7Heaume de chevalier
+item.battlegear2:knights_armour.plate.name=§7Cuirasse de chevalier
+item.battlegear2:knights_armour.legs.name=§7Jambiere de chevalier
+item.battlegear2:knights_armour.boots.name=§7Bottes de chevalier
+
+item.battlegear2:cloak.name=§7Cape
+
+enchantment.bash.weightless=§7Retour de Frappe de Bouclier
+enchantment.bash.power=§7Puissance de Frappe de Bouclier
+enchantment.bash.damage=§7Bouclier d'Epines
+enchantment.shield.usage=§7Bouclier Efficace
+enchantment.shield.recover=§7Récupération de Bouclier
+enchantment.bow.loot=§7Chance
+enchantment.bow.charge=§7Souplesse
+
+tile.battlegear2:banner.name=§7Etendard
+
+sigil.pattern.title=§7Motif
+sigil.icon.title=§7Symbole
+sigil.icon_pos.title=§7Position du symbole
+sigil.colour1.title=§7Couleur 1
+sigil.colour2.title=§7Couleur 2
+sigil.icon_colour1.title=§7Symbole%nCouleur 1
+sigil.icon_colour2.title=§7Symbole%nCouleur 2
+sigil.banner.title=§7Banniere
+sigil.helm.title=§7Heaume
+sigil.colour.select=§7Selection
+
+gui.sigil.add=§7Ajout
+gui.sigil.remove=§7Enleve
+gui.sigil.crest=§7Cimier
+gui.sigil.pattern=§7Fond
+
+attribute.name.weapon.penetrateArmor=§7Pénétration d'armure
+attribute.name.weapon.extendedReach=§7Allonge
+attribute.name.weapon.daze=§7Etourdissement
+attribute.name.weapon.attackSpeed=§7Vitesse
+attribute.name.weapon.backstab=§7Coup en traitre
+attribute.name.weapon.mountedBonus=§7Dégat sur monture
+attribute.shield.block.time=§7%s s Block
+attribute.shield.arrow.count=§7%s Flèches
+attribute.quiver.arrow.empty=§7Vide
+attribute.quiver.arrow.count=§7Flèches

@@ -1,0 +1,14 @@
+key.categories.craftingtweaks=§7Gregory Tweaks For Crafting
+key.craftingtweaks.rotate=§7Rotate Grid
+key.craftingtweaks.clear=§7Clear Grid
+key.craftingtweaks.balance=§7Balance Grid
+key.craftingtweaks.toggleButtons=§7Toggle Buttons
+key.craftingtweaks.compress=§7Compress Item
+key.craftingtweaks.decompress=§7Decompress Item
+
+tooltip.craftingtweaks.rotate=§7Rotate Grid
+tooltip.craftingtweaks.balance=§7Balance Grid
+tooltip.craftingtweaks.spread=§7Spread Grid
+tooltip.craftingtweaks.clear=§7Clear Grid
+tooltip.craftingtweaks.forceClear=§7Force Clear Grid
+tooltip.craftingtweaks.forceClearInfo=§7Drops items if necessary

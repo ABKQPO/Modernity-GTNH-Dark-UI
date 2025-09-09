@@ -1,0 +1,41 @@
+# Key Config
+key.cat.tcnodetracker=§7神秘时代节点追踪器
+key.aspectMenu=§7节点列表
+# Thaumcraft Aspect Types
+nodetype.NORMAL.name=§7标准
+nodetype.UNSTABLE.name=§7震荡
+nodetype.DARK.name=§7凶险
+nodetype.PURE.name=§7纯净
+nodetype.TAINTED.name=§7污染
+nodetype.HUNGRY.name=§7饕餮
+nodemod.BRIGHT.name=§7明亮
+nodemod.PALE.name=§7苍白
+nodemod.FADING.name=§7凋零
+# Buttons
+btn.mark.name=§7标记
+btn.delete.name=§7删除
+btn.cleararrow.name=§7清除箭头
+btn.config.name=§7配置
+btn.up.name=§7上
+btn.down.name=§7下
+btn.left.name=§7左
+btn.right.name=§7右
+btn.reset.name=§7重置
+btn.arrowtype.name=§7箭头类别
+# Other
+str.distance.name=§7距离
+str.type.name=§7类型
+str.instruction.name=§7点击要素以获取节点列表
+str.configarrow.name=§7# 方块 - 下方
+str.above.name=§7你的上方
+str.below.name=§7你的下方
+str.level.name=§7级别
+str.blocks.name=§7方块
+
+tcnodetracker.node.deletehint=§7删除 %s
+tcnodetracker.button.nodes=§7显示灵气节点
+tcnodetracker.tracked=§7追踪: %s
+tcnodetracker.iswaypoint=§7作为导航点激活
+
+
+

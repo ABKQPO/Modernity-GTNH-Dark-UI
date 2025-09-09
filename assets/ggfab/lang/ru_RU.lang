@@ -1,0 +1,32 @@
+ggfab.recipe.toolcast=§7Литейная машина для инструментов
+
+ggfab.waila.advassline.slice=§7Срез #%s: %s с / %s с
+ggfab.waila.advassline.slice.small=§7Срез #%s: %s тик(ов) / %s тик(ов)
+ggfab.waila.advassline.slice.idle=§7Срез #%s: Бездействует
+ggfab.waila.advassline.slice.stuck=§7Срез #%s: §4ЗАСТРЯЛ
+ggfab.gui.advassline.slice.idle=§7Срез #%s: Бездействует
+ggfab.gui.advassline.slice.stuck=§7Срез #%s: §4ЗАСТРЯЛ
+ggfab.gui.advassline.slice.unknown=§7Срез #%s: ?
+ggfab.gui.advassline.shutdown=§7§4Последняя причина нештатного выключения:
+ggfab.gui.advassline.shutdown_clear=§7§6Очистить
+ggfab.gui.advassline.shutdown.input_busses=§7§4Слишком мало входных люков для поддержки текущего рецепта
+ggfab.gui.advassline.shutdown.recipe_null=§7§4Рецепт недействителен (сообщить автору)
+ggfab.gui.advassline.shutdown.fluid_null=§7§4Слив жидкости не удался (проверьте ваше МЭ жидкостное хранилище)
+ggfab.gui.advassline.shutdown.structure=§7§4Несовместимые структурные изменения
+ggfab.gui.advassline.shutdown.energy=§7§4Недостаточно энергии
+ggfab.gui.advassline.shutdown.load.energy=§7§4Загружена недействительная электрическая статистика
+ggfab.gui.advassline.shutdown.load.recipe=§7§4Несовместимое изменение рецепта
+
+ggfab.info.linked_input_bus.not_owned=§7§6Настройки были скопированы другим пользователем!
+ggfab.info.linked_input_bus.no_data=§7§6Данные конфигурации не найдены!
+ggfab.info.linked_input_bus.invalid_data=§7§6Данные конфигурации найдены, но они недействительны!
+ggfab.info.linked_input_bus.invalid_circuit=§7§6Данные конфигурации найдены, но они содержат схему недопустимую для этого люка!
+ggfab.info.linked_input_bus.data_pasted=§7§2Вставлен канал ("%s§2") и настройка схемы конфигурации!
+ggfab.info.linked_input_bus.data_copied=§7§2Скопирован канал ("%s§2") и настройка схемы конфигурации!
+ggfab.info.linked_input_bus.no_channel=§7§6Канал пока не указан!
+
+ggfab.info.biome=§7Биом:
+
+ggfab.tooltip.linked_input_bus.change_freq_warn=§7Если переключить канал, пока он последний, то все оставшиеся предметы выпадут!
+ggfab.tooltip.linked_input_bus.private=§7Приватный канал не передается другим пользователям.
+ggfab.tooltip.linked_input_bus.private.1=§7Если переключить канал, пока он последний, то все оставшиеся предметы выпадут!

@@ -1,0 +1,5 @@
+tile.openglassesterminal.name=§7Glasses Terminal
+item.openglasses.name=§7AR Glasses
+key.openglasses.interact=§7Free Cursor (Hold)
+key.openglasses.interactToggle=§7Free Cursor (Toggle)
+key.categories.openGlasses=§7OC Glasses

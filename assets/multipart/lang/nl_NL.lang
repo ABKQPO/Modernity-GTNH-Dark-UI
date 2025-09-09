@@ -1,0 +1,32 @@
+item.microblock:sawStone.name=§7Stenen Zaag
+item.microblock:sawIron.name=§7IJzeren Zaag
+item.microblock:sawDiamond.name=§7Diamanten Zaag
+item.microblock:stoneRod.name=§7Stenen Stok
+
+mcr_face.1.name=§7%s Bedekking
+mcr_face.1.subset=§7Bedekking
+mcr_face.2.name=§7%s Paneel
+mcr_face.2.subset=§7Paneel
+mcr_face.4.name=§7%s Plaat
+mcr_face.4.subset=§7Plaat
+
+mcr_hllw.1.name=§7Holle %s Bedekking
+mcr_hllw.1.subset=§7Holle Bedekking
+mcr_hllw.2.name=§7Hol %s Paneel
+mcr_hllw.2.subset=§7Hol Paneel
+mcr_hllw.4.name=§7Holle %s Plaat
+mcr_hllw.4.subset=§7Holle Plaat
+
+mcr_edge.1.name=§7%s Strook
+mcr_edge.1.subset=§7Strook
+mcr_edge.2.name=§7%s Paal
+mcr_edge.2.subset=§7Paal
+mcr_edge.4.name=§7%s Pilaar
+mcr_edge.4.subset=§7Pilaar
+
+mcr_cnr.1.name=§7%s Hoekje
+mcr_cnr.1.subset=§7Hoekje
+mcr_cnr.2.name=§7%s Hoek
+mcr_cnr.2.subset=§7Hoek
+mcr_cnr.4.name=§7%s Inkeping
+mcr_cnr.4.subset=§7Inkeping

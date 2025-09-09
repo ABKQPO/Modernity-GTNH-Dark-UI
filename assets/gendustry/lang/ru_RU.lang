@@ -1,0 +1,301 @@
+# =§7=== BLOCKS ====
+
+tile.gendustry.mutagen_producer.name=§7Мутагенный производитель
+tile.gendustry.mutatron.name=§7Мутатрон
+tile.gendustry.mutatron_adv.name=§7Продвинутый мутатрон
+tile.gendustry.apiary.name=§7Промышленная пасека
+tile.gendustry.imprinter.name=§7Генетический импринтер
+tile.gendustry.sampler.name=§7Генетический пробоотборник
+tile.gendustry.extractor.name=§7Экстрактор ДНК
+tile.gendustry.liquifier.name=§7Протеиновый разжижитель
+tile.gendustry.replicator.name=§7Генетический репликатор
+tile.gendustry.transposer.name=§7Генетический транспозер
+
+# =§7=== GENERAL ITEMS ====
+
+item.gendustry.MutagenTank.name=§7Резервуар для мутагена
+item.gendustry.BeeReceptacle.name=§7Сосуд для пчелы
+item.gendustry.PowerModule.name=§7Модуль энергии
+item.gendustry.GeneticsProcessor.name=§7Генетический процессор
+item.gendustry.EnvProcessor.name=§7Экологический процессор
+item.gendustry.UpgradeFrame.name=§7Рамка улучшения
+item.gendustry.ClimateModule.name=§7Модуль «Климатический контроль»
+item.gendustry.Labware.name=§7Генетическая лабораторная посуда
+item.gendustry.GeneSample.name=§7Образец гена
+item.gendustry.GeneTemplate.name=§7Генетический шаблон
+item.gendustry.GeneSampleBlank.name=§7Образец пустого гена
+item.gendustry.Waste.name=§7Генетические отходы
+item.gendustry.grafter.name=§7Промышленный садовый нож
+item.gendustry.scoop.name=§7Скупоратор MX200 турбо
+item.gendustry.ImportCover.name=§7Item Import Cover
+item.gendustry.EjectCover.name=§7Item Eject Cover
+item.gendustry.PollenKit.name=§7Набор для сбора пыльцы
+
+# =§7=== FLUIDS ====
+
+fluid.gendustry.mutagen=§7Мутаген
+fluid.gendustry.liquiddna=§7Жидкий ДНК
+fluid.gendustry.protein=§7Протеин
+
+tile.gendustry.mutagen.name=§7Мутаген
+tile.gendustry.liquiddna.name=§7Жидкий ДНК
+tile.gendustry.protein.name=§7Протеин
+
+# =§7=== FLUID CONTAINERS ====
+
+item.gendustry.mutagen.bucket.name=§7Ведро мутагена
+item.gendustry.mutagen.can.name=§7Банка мутагена
+item.gendustry.liquiddna.bucket.name=§7Ведро жидкого ДНК
+item.gendustry.liquiddna.can.name=§7Банка жидкого ДНК
+item.gendustry.protein.bucket.name=§7Ведро протеина
+item.gendustry.protein.can.name=§7Банка протеина
+
+
+# =§7=== UPGRADES ====
+
+gendustry.upgrades.prod.name=§7Улучшение «Производство»
+gendustry.upgrades.life.name=§7Улучшение «Продолжительность жизни»
+gendustry.upgrades.flowering.name=§7Улучшение «Цветение»
+gendustry.upgrades.territory.name=§7Улучшение «Территория»
+gendustry.upgrades.sealing.name=§7Улучшение «Уплотнение»
+gendustry.upgrades.light.name=§7Улучшение «Свет»
+gendustry.upgrades.sky.name=§7Улучшение «Открытое небо»
+gendustry.upgrades.hell.name=§7Улучшение «Эмуляция Ада»
+gendustry.upgrades.winter.name=§7Улучшение «Эмуляция зимы»
+gendustry.upgrades.auto.name=§7Улучшение «Автоматизация»
+gendustry.upgrades.humidifier.name=§7Улучшение «Увлажнение»
+gendustry.upgrades.dryer.name=§7Улучшение «Сушка»
+gendustry.upgrades.heater.name=§7Улучшение «Нагревание»
+gendustry.upgrades.sieve.name=§7Улучшение «Сито»
+gendustry.upgrades.cooler.name=§7Улучшение «Охлаждение»
+gendustry.upgrades.desert.name=§7Улучшение «Эмуляция пустыни»
+gendustry.upgrades.plains.name=§7Улучшение «Эмуляция равнин»
+gendustry.upgrades.jungle.name=§7Улучшение «Эмуляция джунглей»
+gendustry.upgrades.stabilizer.name=§7Улучшение «Генетическая стабилизация»
+
+# =§7=== GUI AND TOOLTIPS ====
+
+gendustry.label.template.crafting=§7Генетические образцы могут быть добавлены к шаблону. Объедините их в любом верстаке. Несколько образцов могут быть добавлены сразу.
+
+gendustry.label.charges=§7Заряды: %s
+gendustry.label.select=§7Выбрать:
+gendustry.label.status=§7Статус: %s
+gendustry.label.control=§7Контроль: %s
+
+gendustry.label.breeding=§7Размножение
+gendustry.label.working=§7Работа
+gendustry.label.maxinstall=§7Можно установить:
+gendustry.label.temperature=§7Температура: %s
+gendustry.label.humidity=§7Влажность: %s
+gendustry.label.energy=§7Требуется энергии: %s %s/т
+gendustry.label.lifespan=§7Модификатор срока жизни: %s
+gendustry.label.flowering=§7Шанс цветения: %s
+gendustry.label.production=§7Модификатор производства: %s
+gendustry.label.territory=§7Территория: %s
+
+gendustry.label.erase=§7Поместите в печь, чтобы стереть генетическое содержание
+gendustry.label.recipes=§7Нажмите, чтобы увидеть рецепты
+gendustry.label.consume=§7Шанс потребления: %s%%
+gendustry.label.mutatron.death=§7Шанс смерти (Низкая порода): %s%%
+gendustry.label.mutatron.degrade=§7Шанс смерти (Чистая порода): %s%%
+
+gendustry.label.mod.automated=§7* Автоматизация
+gendustry.label.mod.biome=§7* Замена биома: %s
+gendustry.label.mod.sealed=§7* Защита от дождя
+gendustry.label.mod.selflighted=§7* Внутреннее освещение
+gendustry.label.mod.sky=§7* Симуляция открытого неба
+gendustry.label.mod.energy=§7* Потребление энергии
+gendustry.label.mod.lifespan=§7* Продолжительность жизни
+gendustry.label.mod.flowering=§7* Цветение и опыление
+gendustry.label.mod.geneticDecay=§7* Генетический распад
+gendustry.label.mod.mutation=§7* Шанс мутации
+gendustry.label.mod.production=§7* Продуктивность
+gendustry.label.mod.territory=§7* Территория
+gendustry.label.mod.sieve=§7* Сбор пыльцы
+gendustry.label.mod.temperature=§7* Температура
+gendustry.label.mod.humidity=§7* Влажность
+
+gendustry.label.sample.rootBees=§7Взято из пчелы
+gendustry.label.sample.rootTrees=§7Взято из саженца
+gendustry.label.sample.rootButterflies=§7Взято из бабочки
+gendustry.label.sample.rootFlowers=§7Взято из цветка
+
+gendustry.label.template.rootBees=§7Может примениться к пчеле
+gendustry.label.template.rootTrees=§7Может примениться к саженцу
+gendustry.label.template.rootButterflies=§7Может примениться к бабочке
+gendustry.label.template.rootFlowers=§7Может примениться к цветку
+gendustry.label.template.blank=§7Образцы генов могут быть добавлены
+gendustry.label.template.missing=§7Отсутствует
+gendustry.label.template.chromosomes=§7Хромосомы: %s/%s
+
+gendustry.rsmode.always=§7Всегда ВКЛ.
+gendustry.rsmode.never=§7Отключен
+gendustry.rsmode.rs_on=§7Включен по сигналу красного камня
+gendustry.rsmode.rs_off=§7Выключен  по сигналу красного камня
+
+gendustry.label.shift=§7<Нажмите SHIFT для большей информации>
+
+# =§7=== CHROMOSOMES (should match forestry) ====
+
+gendustry.chromosome.FLOWER_PROVIDER=§7Цветы
+gendustry.chromosome.GIRTH=§7Область посадки
+gendustry.chromosome.SPEED=§7Скорость
+gendustry.chromosome.YIELD=§7Урожай
+gendustry.chromosome.HEIGHT=§7Высота
+gendustry.chromosome.GROWTH=§7Условие роста
+gendustry.chromosome.FLOWERING=§7Цветение
+gendustry.chromosome.METABOLISM=§7Метаболизм
+gendustry.chromosome.LIFESPAN=§7Срок жизни
+gendustry.chromosome.TERRITORY=§7Территория
+gendustry.chromosome.FERTILITY=§7Плодовитость
+gendustry.chromosome.SIZE=§7Размер
+gendustry.chromosome.HUMIDITY=§7Влажность
+gendustry.chromosome.SPECIES=§7Вид
+gendustry.chromosome.FIRE_RESIST=§7Сопротивление огню
+gendustry.chromosome.TEMPERATURE_TOLERANCE=§7Допустимая температура
+gendustry.chromosome.HUMIDITY_TOLERANCE=§7Допустимая влажность
+gendustry.chromosome.PLANT=§7Растение
+gendustry.chromosome.EFFECT=§7Эффект
+gendustry.chromosome.CAVE_DWELLING=§7Живёт в пещерах
+gendustry.chromosome.MATURATION=§7Созревание
+gendustry.chromosome.NOCTURNAL=§7Игнорирует день/ночь
+gendustry.chromosome.TOLERANT_FLYER=§7Летун
+gendustry.chromosome.FRUITS=§7Фрукты
+gendustry.chromosome.SAPPINESS=§7Жизнеспособность
+
+// Botany
+
+gendustry.chromosome.PRIMARY=§7Первичный
+gendustry.chromosome.SECONDARY=§7Вторичный
+gendustry.chromosome.PH_TOLERANCE=§7Допустимый pH
+gendustry.chromosome.STEM=§7Стебель
+
+gendustry.allele.false=§7Нет
+gendustry.allele.true=§7Да
+
+# =§7=== BC TRIGGERS ====
+
+gendustry.trigger.power0=§7Нет энергии
+gendustry.trigger.power25=§7Энергия >= 25%
+gendustry.trigger.power50=§7Энергия >= 50%
+gendustry.trigger.power75=§7Энергия >= 75%
+gendustry.trigger.power100=§7Энергия полная
+gendustry.trigger.working=§7Механизм работает
+
+# =§7=== COMMANDS ====
+gendustry.givetemplate.usage=§7/givetemplate <uid>
+gendustry.givetemplate.success=§7Дан генетический шаблон: %s игроку %s
+
+gendustry.givesample.usage=§7/givesample <вид> <хромосома> <аллель>
+gendustry.givesample.error.root=§7Вид не найден: %s
+gendustry.givesample.error.allele=§7Аллель не найден: %s
+gendustry.givesample.error.chromosome=§7Хромосома не найдена: %s
+gendustry.givesample.error.invalid=§7Неверная аллель для запрошенной хромосомы
+gendustry.givesample.success=§7Дан образец (Вид=%s, Хромосома=%s, Аллель=%s) игроку %s
+
+# =§7=== MUTATION REQUIREMENTS ====
+gendustry.req.temperature=§7Требуется температура: %s
+gendustry.req.humidity=§7Требуется влажность: %s
+gendustry.req.biome=§7Требуется биом: %s
+gendustry.req.block=§7Требуется блок: %s
+
+# =§7=== BEE SPECIES ====
+gendustry.bees.species.black=§7Чёрная
+gendustry.bees.species.red=§7Красная
+gendustry.bees.species.green=§7Зелёная
+gendustry.bees.species.brown=§7Коричневая
+gendustry.bees.species.blue=§7Синяя
+gendustry.bees.species.purple=§7Фиолетовая
+gendustry.bees.species.cyan=§7Бирюзовая
+gendustry.bees.species.silver=§7Светло-серая
+gendustry.bees.species.gray=§7Серая
+gendustry.bees.species.pink=§7Розовая
+gendustry.bees.species.lime=§7Лаймовая
+gendustry.bees.species.yellow=§7Жёлтая
+gendustry.bees.species.lightblue=§7Светло-синяя
+gendustry.bees.species.magenta=§7Сиреневая
+gendustry.bees.species.orange=§7Оранжевая
+gendustry.bees.species.white=§7Белая
+
+# =§7=== COMBS ====
+
+gendustry.honeycomb.black.name=§7Чёрная сота
+gendustry.honeycomb.red.name=§7Красная  сота
+gendustry.honeycomb.green.name=§7Зелёная сота
+gendustry.honeycomb.brown.name=§7Коричневая сота
+gendustry.honeycomb.blue.name=§7Синяя сота
+gendustry.honeycomb.purple.name=§7Фиолетовая сота
+gendustry.honeycomb.cyan.name=§7Бирюзовая сота
+gendustry.honeycomb.silver.name=§7Светло-серая сота
+gendustry.honeycomb.gray.name=§7Серая сота
+gendustry.honeycomb.pink.name=§7Розовая сота
+gendustry.honeycomb.lime.name=§7Лаймовая сота
+gendustry.honeycomb.yellow.name=§7Жёлтая сота
+gendustry.honeycomb.lightblue.name=§7Светло-синяя сота
+gendustry.honeycomb.magenta.name=§7Сиреневая сота
+gendustry.honeycomb.orange.name=§7Оранжевая сота
+gendustry.honeycomb.white.name=§7Белая сота
+
+gendustry.honeydrop.black.name=§7Чёрная капля мёда
+gendustry.honeydrop.red.name=§7Красная капля мёда
+gendustry.honeydrop.green.name=§7Зелёная капля мёда
+gendustry.honeydrop.brown.name=§7Коричневая капля мёда
+gendustry.honeydrop.blue.name=§7Синяя капля мёда
+gendustry.honeydrop.purple.name=§7Фиолетовая капля мёда
+gendustry.honeydrop.cyan.name=§7Бирюзовая капля мёда
+gendustry.honeydrop.silver.name=§7Светло-серая капля мёда
+gendustry.honeydrop.gray.name=§7Серая капля мёда
+gendustry.honeydrop.pink.name=§7Розовая капля мёда
+gendustry.honeydrop.lime.name=§7Лаймовая капля мёда
+gendustry.honeydrop.yellow.name=§7Жёлтая капля мёда
+gendustry.honeydrop.lightblue.name=§7Светло-синяя капля мёда
+gendustry.honeydrop.magenta.name=§7Сиреневая капля мёда
+gendustry.honeydrop.orange.name=§7Оранжевая капля мёда
+gendustry.honeydrop.white.name=§7Белая капля мёда
+
+itemGroup.bdew.gendustry=§7Gendustry
+itemGroup.bdew.templates=§7Генетические шаблоны
+itemGroup.bdew.samples=§7Генетические образцы
+
+for.gendustry.errorstate.disabled.description=§7Отключено
+for.gendustry.errorstate.disabled.help=§7Этот механизм отключен в настройках конфигурации
+
+#this will be moved to bdlib at some point
+bdlib.label.empty=§7Пусто
+
+# =§7=== CUSTOM BEE SPECIES ====
+for.bees.custom.drone.gendustry.black=§7Чёрный трутень
+for.bees.custom.drone.gendustry.red=§7Красный трутень
+for.bees.custom.drone.gendustry.green=§7Зелёный трутень
+for.bees.custom.drone.gendustry.brown=§7Коричневый трутень
+for.bees.custom.drone.gendustry.blue=§7Синий трутень
+for.bees.custom.drone.gendustry.purple=§7Фиолетовый трутень
+for.bees.custom.drone.gendustry.cyan=§7Бирюзовый трутень
+for.bees.custom.drone.gendustry.silver=§7Светло-серый трутень
+for.bees.custom.drone.gendustry.gray=§7Серый трутень
+for.bees.custom.drone.gendustry.pink=§7Розовый трутень
+for.bees.custom.drone.gendustry.lime=§7Лаймовый трутень
+for.bees.custom.drone.gendustry.yellow=§7Жёлтый трутень
+for.bees.custom.drone.gendustry.lightblue=§7Светло-синий трутень
+for.bees.custom.drone.gendustry.magenta=§7Сиреневый трутень
+for.bees.custom.drone.gendustry.orange=§7Оранжевый трутень
+for.bees.custom.drone.gendustry.white=§7Белый трутень
+
+# =§7=== CUSTOM BEEALYZER NAMES  ====
+
+for.bees.custom.beealyzer.drone.gendustry.black=§7Чёрный
+for.bees.custom.beealyzer.drone.gendustry.red=§7Красный
+for.bees.custom.beealyzer.drone.gendustry.green=§7Зелёный
+for.bees.custom.beealyzer.drone.gendustry.brown=§7Коричневый
+for.bees.custom.beealyzer.drone.gendustry.blue=§7Синий
+for.bees.custom.beealyzer.drone.gendustry.purple=§7Фиолетовый
+for.bees.custom.beealyzer.drone.gendustry.cyan=§7Бирюзовый
+for.bees.custom.beealyzer.drone.gendustry.silver=§7Светло-серый
+for.bees.custom.beealyzer.drone.gendustry.gray=§7Серый
+for.bees.custom.beealyzer.drone.gendustry.pink=§7Розовый
+for.bees.custom.beealyzer.drone.gendustry.lime=§7Лаймовый
+for.bees.custom.beealyzer.drone.gendustry.yellow=§7Жёлтый
+for.bees.custom.beealyzer.drone.gendustry.lightblue=§7Светло-синий
+for.bees.custom.beealyzer.drone.gendustry.magenta=§7Сиреневый
+for.bees.custom.beealyzer.drone.gendustry.orange=§7Оранжевый
+for.bees.custom.beealyzer.drone.gendustry.white=§7Белый

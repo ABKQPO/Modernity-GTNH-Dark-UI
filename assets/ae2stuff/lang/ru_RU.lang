@@ -1,0 +1,45 @@
+tile.ae2stuff.Encoder.name=§7Кодировщик шаблонов
+tile.ae2stuff.Grower.name=§7Камера для выращивания кристаллов
+tile.ae2stuff.Inscriber.name=§7Продвинутый высекатель
+tile.ae2stuff.Wireless.name=§7Беспроводной соединитель
+
+item.ae2stuff.WirelessKit.name=§7Набор для настройки беспроводного соединителя
+item.ae2stuff.Visualiser.name=§7Устройство визуализации Сети
+
+ae2stuff.error.not_connected=§7Нет соединения с сетью
+
+ae2stuff.waila.sleep.true=§7Отключено
+ae2stuff.waila.sleep.false=§7Работает
+ae2stuff.waila.power=§7%s / %s AE
+
+ae2stuff.waila.wireless.connected=§7Подключено к с %s,%s,%s
+ae2stuff.waila.wireless.notconnected=§7Не подключено
+ae2stuff.waila.wireless.channels=§7Кол-во каналов: %s
+ae2stuff.waila.wireless.power=§7Энергии используется : %s AE/t
+
+ae2stuff.gui.lock.on=§7Locked - Не может быть удалено автоматически
+ae2stuff.gui.lock.off=§7Unlocked - Может быть удалено автоматически
+ae2stuff.gui.lock.note=§7Если ничего не производит, а средний слот пуст
+
+ae2stuff.gui.recipes=§7Рецепты
+
+ae2stuff.wireless.tool.empty=§7Используйте на беспроводной соединитель для привязки
+ae2stuff.wireless.tool.bound1=§7Привязка на %s,%s,%s
+ae2stuff.wireless.tool.bound2=§7Используйте на другой беспроводной соединитель, чтобы подключить его к предыдущему
+ae2stuff.wireless.tool.connected=§7Подключено к %s,%s,%s
+ae2stuff.wireless.tool.failed=§7Соединение не состоялось
+ae2stuff.wireless.tool.dimension=§7Соединители не могут находиться в разных измерениях
+ae2stuff.wireless.tool.noexist=§7Привязанного соединителя больше не существует
+ae2stuff.wireless.tool.security.network=§7Ошибка безопасности - нельзя соединить сети
+ae2stuff.wireless.tool.security.player=§7Ошибка безопасности - Вы не можете изменять физическую конфигурацию сети
+
+ae2stuff.visualiser.bound=§7Визуализируем сеть, находящуюся на %s,%s,%s
+ae2stuff.visualiser.mode=§7Режим:
+ae2stuff.visualiser.set=§7Режим изменен на %s
+ae2stuff.visualiser.mode.full=§7Показывать Всё
+ae2stuff.visualiser.mode.nodes=§7Показывать Узлы Сети
+ae2stuff.visualiser.mode.channels=§7Показывать Каналы
+ae2stuff.visualiser.mode.nonum=§7Показывать Каналы и Узлы Сети
+ae2stuff.visualiser.mode.p2p=§7Показывать P2P-Соединения
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff

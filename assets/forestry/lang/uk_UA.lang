@@ -1,0 +1,1699 @@
+####################
+# CORE
+####################
+
+death.engine.clockwork.player=§7%1$s подвергся нападению со стороны свободной пружины. %2$s был небрежным часовщиком.
+death.engine.clockwork=§7%1$s подвергся нападению со стороны свободной пружины.
+
+for.beverage.effect.alcoholic=§7Спиртное
+for.beverage.effect.antidote=§7Противоядие
+
+for.chat.accesslocked=§7%s является владельцем этого механизма и заблокировал доступ.
+for.chat.cannotmemorizeagain=§7Вы уже запомнили эту информацию.
+
+for.chat.command.aliases=§7Aliases: %s
+for.chat.command.list=§7Доступные подкоманды:
+for.chat.command.permlevel=§7Уровень разрешений: %s
+for.chat.command.noperms=§7У Вас нет прав на использование этой команды.
+
+for.chat.command.forestry.help=§7Различные команды для Forestry
+for.chat.command.forestry.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.version.desc=§7- %s : Информация о версии
+for.chat.command.forestry.version.help=§7Показывает текущую версию
+for.chat.command.forestry.version.format=§7Формат: /%s
+
+for.chat.command.forestry.plugins.desc=§7- %s : Список плагинов Forestry
+for.chat.command.forestry.plugins.help=§7Показывает все плагины Forestry. Зелёные активны, красные неактивны.
+for.chat.command.forestry.plugins.format=§7Формат: /%s
+
+for.chat.command.forestry.plugins.info.desc=§7- %s : Информация о конкретном плагине
+for.chat.command.forestry.plugins.info.help=§7Показывает информацию о конкретном плагине
+for.chat.command.forestry.plugins.info.format=§7Формат: /%s <plugin-name>
+
+
+for.chat.help=§7Напишите '%s' для помощи.
+for.chat.memorizednote=§7Вы запоминаете записку и избавляетесь от мятого клочка бумаги.
+for.chat.plugins.error=§7Нет информации для плагина %s.
+for.chat.version=§7Forestry %1$s для Minecraft %2$s.
+
+for.circuit.dampener.1=§7Демпфер огня
+for.circuit.dampener.1.description.1=§7Уменьшает максимальную выходную мощность до 10 RF/тик
+for.circuit.dampener.1.description.2=§7Сохраняет выход топлива
+for.circuit.electric.boost.1=§7Добавочное напряжение I
+for.circuit.electric.boost.1.description.1=§7Увеличивает выходную мощность на 20 RF/тик
+for.circuit.electric.boost.1.description.2=§7Увеличивает потребление на 7 EU/тик
+for.circuit.electric.boost.2=§7Добавочное напряжение II
+for.circuit.electric.boost.2.description.1=§7Увеличивает выходную мощность на 40 RF/тик
+for.circuit.electric.boost.2.description.2=§7Увеличивает потребление энергии на 15 EU/тик
+for.circuit.electric.choke.1=§7Пониженное напряжение
+for.circuit.electric.choke.1.description.1=§7Снижает выходную мощность на 10 RF/тик
+for.circuit.electric.choke.1.description.2=§7Снижает потребление энергии на 2 EU/тик
+for.circuit.electric.efficiency.1=§7Электроэффективность
+for.circuit.electric.efficiency.1.description.1=§7Снижает потребление энергии на 1 EU/тик
+
+for.circuit.layout.dummy.name=§7Не доступен
+for.circuit.layout.dummy.usage=§7Ничего
+
+for.circuit.layout.engine.tin.name=§7Электродвигатель
+for.circuit.layout.engine.tin.usage=§7В электродвигателях
+
+for.circuit.layout.farms.managed.name=§7Управляемая ферма
+for.circuit.layout.farms.managed.usage=§7Управляемые фермы
+
+for.circuit.layout.farms.manual.name=§7Ручная ферма
+for.circuit.layout.farms.manual.usage=§7Ручные фермы
+
+for.errors.circuitMismatch.desc=§7Несоответствие макету
+for.errors.circuitMismatch.help=§7Количество ламп не совпадает с размером печатной платы.
+for.errors.forcedCooldown.desc=§7Принудительное охлаждение
+for.errors.forcedCooldown.help=§7Двигатель перегрелся, он остывает.
+for.errors.invalidBiome.desc=§7Неблагоприятная среда
+for.errors.invalidBiome.help=§7Механизм или жители не могут работать в данном биоме.
+for.errors.isRaining.desc=§7Дождь
+for.errors.isRaining.help=§7Работа возможна, только если не идёт дождь.
+for.errors.noCircuitBoard.desc=§7Плата отсутствует
+for.errors.noCircuitBoard.help=§7Вставьте плату, чтобы спаять выбранные лампы на неё.
+for.errors.noCircuitLayout.desc=§7Макеты не найдены
+for.errors.noCircuitLayout.help=§7Макеты не доступны в соответствии с текущими настройками игры.
+for.errors.noDisposal.desc=§7Нельзя выбросить отходы
+for.errors.noDisposal.help=§7Недостаточно свободного места для извлечения отходов.
+for.errors.noDrone.desc=§7Нет трутня
+for.errors.noDrone.help=§7Спаривание требует наличия трутня.
+for.errors.noEnergyNet.desc=§7Нет электричества
+for.errors.noEnergyNet.help=§7В Вашем мире любое электричество бесполезно. (Установите IndustrialCraft\u00b2.)
+for.errors.noPower.desc=§7Нет энергии
+for.errors.noPower.help=§7Этому механизму требуется энергия RF.
+for.errors.noFlower.desc=§7Нет цветов
+for.errors.noFlower.help=§7Пчелы улья не нашли подходящих для них цветов.
+for.errors.noFuel.desc=§7Нет топлива
+for.errors.noFuel.help=§7Пополните запас топлива этого механизма.
+for.errors.noHeat.desc=§7Не прогрет
+for.errors.noHeat.help=§7Заправьте нагревающий резервуар.
+for.errors.noHoney.desc=§7Требуется мёд
+for.errors.noHoney.help=§7Данному устройству для работы требуется капля мёда или медвяная роса.
+for.errors.noQueen.desc=§7Нет королевы
+for.errors.noQueen.help=§7Предоставьте данному улью королеву, или принцессу и трутня.
+for.errors.noRecipe.desc=§7Нет рецепта
+for.errors.noRecipe.help=§7Нет соответствующих рецептов для доставленных ресурсов.
+for.errors.noRecipient.desc=§7Нет адресата
+for.errors.noRecipient.help=§7Для отправки письма оно должно быть адресовано.
+for.errors.noResource.desc=§7Отсутствуют ресурсы
+for.errors.noResource.help=§7Требуется больше ресурсов для дальнейшей работы.
+for.errors.noSky.desc=§7Не видно неба
+for.errors.noSky.help=§7Очистите зону над механизмом.
+for.errors.noSpace.desc=§7Нет места в инвентаре
+for.errors.noSpace.help=§7Очистите инвентарь этого механизма.
+for.errors.noSpaceTank.desc=§7Нет места в резервуаре
+for.errors.noSpaceTank.help=§7Опустошите резервуар этого механизма.
+for.errors.noSpecimen.desc=§7Нечего анализировать
+for.errors.noSpecimen.help=§7Предоставьте образец для анализа.
+for.errors.noStamps.desc=§7Нужны марки
+for.errors.noStamps.help=§7Торговая станция требует больше марок для оплаты почтовых расходов.
+for.errors.noPaper.desc=§7Нужна бумага
+for.errors.noPaper.help=§7Торговая станция требует больше бумаги, чтобы отправлять письма.
+for.errors.noSupplies.desc=§7Нужны припасы
+for.errors.noSupplies.help=§7Торговая станция требует припасов для отправки.
+for.errors.noTrade.desc=§7Нет набора для торговли
+for.errors.noTrade.help=§7Торговая станция требует предметы, для отправки и получения.
+for.errors.notAlphaNumeric.desc=§7Только буквы и цифры
+for.errors.notAlphaNumeric.help=§7Данная строка должна состоять только из букв и цифр.
+for.errors.notDay.desc=§7Не дневное время
+for.errors.notDay.help=§7Работа возможна только в течении дня.
+for.errors.notGloomy.desc=§7Не достаточно темно
+for.errors.notGloomy.help=§7Для работы требуется меньший уровень освещения.
+for.errors.notLucid.desc=§7Не достаточно светло
+for.errors.notLucid.help=§7Для работы требуется больший уровень освещения.
+for.errors.notNight.desc=§7Не ночное время
+for.errors.notNight.help=§7Работа возможна только в течении ночи.
+for.errors.notPostpaid.desc=§7Требуется марки
+for.errors.notPostpaid.help=§7Добавьте больше марок для оплаты почтовых расходов.
+for.errors.notRaining.desc=§7Нет дождя
+for.errors.notRaining.help=§7Работа возможна только, когда идёт дождь.
+for.errors.notUnique.desc=§7Не уникальная
+for.errors.notUnique.help=§7Данная строка должна быть уникальной в этом мире. Выберете другую.
+for.errors.unknown.desc=§7Неизвестная ошибка
+for.errors.unknown.help=§7Поздравляем, Вы обнаружили неполадку.
+for.errors.wrongStacksize.desc=§7Слишком много предметов
+for.errors.wrongStacksize.help=§7Только отдельные предметы могут быть использованы здесь.
+
+for.flowers.cacti=§7Кактусы
+for.flowers.end=§7Край
+for.flowers.gourd=§7Бахчевые
+for.flowers.jungle=§7Лианы и папоротники
+for.flowers.mushrooms=§7Грибы
+for.flowers.nether=§7Нарост Нижнего мира
+for.flowers.vanilla=§7Цветы
+for.flowers.wheat=§7Пшеница
+for.flowers.snow=§7Зимние
+
+fluid.bioethanol=§7Этанол
+fluid.biomass=§7Биомасса
+fluid.glass=§7Жидкое стекло
+fluid.for.honey=§7Мёд
+fluid.ice=§7Молотый лёд
+fluid.juice=§7Фруктовый сок
+fluid.short.mead=§7Питный мёд
+fluid.milk=§7Молоко
+fluid.seedoil=§7Растительное масло
+tile.forestry.fluid.bioethanol.name=§7Этанол
+tile.forestry.fluid.biomass.name=§7Биомасса
+tile.forestry.fluid.glass.name=§7Жидкое стекло
+tile.forestry.fluid.for.honey.name=§7Мёд
+tile.forestry.fluid.ice.name=§7Молотый лёд
+tile.forestry.fluid.juice.name=§7Фруктовый сок
+tile.forestry.fluid.short.mead.name=§7Питный мёд
+tile.forestry.fluid.milk.name=§7Молоко
+tile.forestry.fluid.seedoil.name=§7Растительное масло
+
+for.gui.access=§7Доступ
+for.gui.active=§7Активно
+for.gui.addressee.player=§7Игрок
+for.gui.addressee.trader=§7Торговая станция
+
+for.gui.alyzer.authority=§7Говорит
+for.gui.alyzer.classification=§7Классификация
+for.gui.alyzer.extinct=§7Вымерший
+for.gui.alyzer.nodescription=§7Энциклопедия Minecraftia не может предоставить запись для этого образца.
+for.gui.alyzer.overview=§7Доступные анализы
+
+for.gui.area=§7Территория
+for.gui.arid=§7Сухая
+for.gui.beach=§7Пляж
+
+for.gui.beealyzer.artificial=§7Исскуственного происх.
+for.gui.beealyzer.behaviour=§7Поведение
+for.gui.beealyzer.generations=§7Поколений в неволе: %s
+for.gui.beealyzer.help=§7Положите пчелу и предоставьте мёд или нектар, в качестве успокоительного.
+for.gui.beealyzer.mutations=§7Возможные мутации
+for.gui.beealyzer.natural=§7Естественного происх.
+for.gui.beealyzer.produce=§7Возможная продукция
+for.gui.beealyzer.specialty=§7Возможная специальная продукция
+for.gui.beealyzer=§7Анализатор пчёл
+
+for.gui.blank=§7Пусто
+for.gui.cave=§7Пещерная
+for.gui.climate=§7Температура
+for.gui.cold=§7Холодная
+for.gui.crop=§7Жёрдочка
+for.gui.currentBiome=§7Текущий биом
+for.gui.currentOutput=§7Текущая мощность
+for.gui.damp=§7Сырая
+for.gui.derelict=§7Покинут
+for.gui.desert=§7Пустыня
+for.gui.didyouknow=§7А Вы знаете
+for.gui.diurnal=§7Дневная
+for.gui.drones=§7Трутней
+for.gui.effect=§7Эффект
+for.gui.empty=§7Пусто
+for.gui.emptysocket=§7Разъём для печатной платы
+for.gui.energy=§7Энергия
+for.gui.environment=§7Среда
+for.gui.evolution=§7Эволюция
+for.gui.fecundated=§7Соединяемый
+for.gui.fertility=§7Плодовитость
+for.gui.fireresist=§7Огнеупорность
+for.gui.flowers=§7Вид цветка
+for.gui.flyer=§7устойчивый летун
+for.gui.flyer.tooltip=§7устойчивый летун
+for.gui.general=§7Общий
+forestry.allele.gigantic=§7Гигантская
+for.gui.heat=§7Нагрев
+for.gui.hellish=§7Адский
+for.gui.hot=§7Горячая
+for.gui.humidity=§7Влажность
+for.gui.humidtol=§7Устойчивость к влажности
+for.gui.hybrid=§7Гибрид
+for.gui.icy=§7Ледяная
+for.gui.imprinter.cheater=§7(Вы жулик!)
+for.gui.imprinter.name=§7ИМПРИНТЕР ГЕНОМА
+for.gui.inactive=§7Неактивно
+for.gui.life=§7срок жизни
+for.gui.lifespan=§7Срок жизни
+for.gui.normal=§7Обычная
+
+for.gui.escritoire.probe=§7Изучить образцы
+for.gui.escritoire.instructions=§7Положите генетический образец в центр, чтобы начать. Также положите несколько в левые слоты и изучите их для помощи.
+
+# Write as many notes as you like, just set the count correctly.
+
+for.gui.escritoire.notes.level1.count=§73
+for.gui.escritoire.notes.level1.1=§7Я нашёл любопытный образец во время путешествия.
+for.gui.escritoire.notes.level1.2=§7Этот странный малый нуждается в дальнейшем исследовании.
+for.gui.escritoire.notes.level1.3=§7Ликуя, я решил сразу начать с моего исследования.
+
+for.gui.escritoire.notes.level2.count=§74
+for.gui.escritoire.notes.level2.1=§7Я был поражён дивной натурой этого образца.
+for.gui.escritoire.notes.level2.2=§7Образец дёрнулся, когда я осматривал его более внимательно.
+for.gui.escritoire.notes.level2.3=§7Странные знаки на нижней части удивили меня.
+for.gui.escritoire.notes.level2.4=§7Об этом будут говорить в обществе, когда я закончу исследование.
+
+for.gui.escritoire.notes.level3.count=§74
+for.gui.escritoire.notes.level3.1=§7После некоторых мыслей, я обнаружил новое интересное направление.
+for.gui.escritoire.notes.level3.2=§7Я почесал голову над этим открытием и подверг всё сомнению.
+for.gui.escritoire.notes.level3.3=§7Я думал, что мои глаза обманывают меня, но не тут-то было.
+for.gui.escritoire.notes.level3.4=§7Ранее недоступная точка привела меня к вопросу о классификации образца.
+
+for.gui.escritoire.notes.level4.count=§77
+for.gui.escritoire.notes.level4.1=§7Мои крики разочарования заставили домработника заглянуть в мой кабинет от беспокойства.
+for.gui.escritoire.notes.level4.2=§7В безумии и на грани отчаяния, я разорвал все заметки!
+for.gui.escritoire.notes.level4.3=§7Это... просто не имеет никакого смысла!
+for.gui.escritoire.notes.level4.4=§7Этого просто не может быть. Оно не делало этого раньше!
+for.gui.escritoire.notes.level4.5=§7Кувалда едва сделала вмятину, поэтому я отправился за пилой.
+for.gui.escritoire.notes.level4.6=§7Я клянусь, оно смотрит на меня, своими ужасными, маленькими, похожими на бусинки, глазами.
+for.gui.escritoire.notes.level4.7=§7Оно смеётся? Я слышал смех? Кто здесь смеётся?
+
+for.gui.escritoire.notes.success.count=§75
+for.gui.escritoire.notes.success.1=§7Эврика!
+for.gui.escritoire.notes.success.2=§7Чудо! Моё имя войдёт в историю!
+for.gui.escritoire.notes.success.3=§7Мои коллеги будут впечатлены!
+for.gui.escritoire.notes.success.4=§7Все будут завидовать мне!
+for.gui.escritoire.notes.success.5=§7Да!
+
+for.gui.escritoire.notes.failure.count=§75
+for.gui.escritoire.notes.failure.1=§7Всё потеряно.
+for.gui.escritoire.notes.failure.2=§7Я сжёг все мои заметки.
+for.gui.escritoire.notes.failure.3=§7Зачем? Поначалу я делал большие успехи...
+for.gui.escritoire.notes.failure.4=§7Неудача. Снова.
+for.gui.escritoire.notes.failure.5=§7О, мой...
+
+for.gui.mail.foreveryattached=§7за каждые прикреплённые
+for.gui.mail.from=§7От
+for.gui.mail.nametrader=§7Назовите Вашу торговую станцию
+for.gui.mail.nothingtotrade=§7Торговой станции нечем торговать.
+for.gui.mail.notrader=§7Торговая станция с данным именем не доступна.
+for.gui.mail.pleasesend=§7Пожалуйста пришлите
+for.gui.mail.to=§7Кому
+for.gui.mail.receive=§7Получать
+for.gui.mail.send=§7Отправлять
+
+for.gui.maxenergy=§7Максимальная энергия
+for.gui.maxenergyreceive=§7Максимальная вход. энергия
+for.gui.maxspeed=§7Максимальная
+for.gui.metabolism=§7Метаболизм
+for.gui.nether=§7Нижний мир
+for.gui.nocturnal=§7Ночная
+for.gui.noeffect=§7Нет эффекта
+for.gui.owner=§7Владелец
+for.gui.page=§7Страница
+
+for.gui.pipe.filter.anything=§7Всё
+for.gui.pipe.filter.bee=§7Любые пчелы
+for.gui.pipe.filter.cave=§7Пещерные
+for.gui.pipe.filter.closed=§7Закрыт
+for.gui.pipe.filter.drone=§7Трутни
+for.gui.pipe.filter.flyer=§7Летуны
+for.gui.pipe.filter.item=§7Предметы
+for.gui.pipe.filter.nocturnal=§7Ночные
+for.gui.pipe.filter.princess=§7Принцессы
+for.gui.pipe.filter.pure_breed=§7Чистопородные
+for.gui.pipe.filter.pure_cave=§7Породистые пещерные
+for.gui.pipe.filter.pure_flyer=§7Породистые летуны
+for.gui.pipe.filter.pure_nocturnal=§7Породистые ночные
+for.gui.pipe.filter.queen=§7Королевы
+
+for.gui.plains=§7Равнины
+for.gui.pollination=§7Скорость опыления
+for.gui.princesses=§7Принцесс
+for.gui.produce=§7Продукция
+for.gui.queens=§7Королев
+
+for.gui.rule.private=§7Приватный
+for.gui.rule.restricted=§7Ограниченный
+for.gui.rule.shared=§7Общий
+
+forestry.allele.normal=§7Обычный
+forestry.allele.average=§7Средний
+
+forestry.allele.slowest=§7Самый медленный
+forestry.allele.slower=§7Очень медленный
+forestry.allele.slow=§7Медленный
+forestry.allele.fast=§7Быстрый
+forestry.allele.faster=§7Очень быстрый
+forestry.allele.fastest=§7Быстрейший
+
+forestry.allele.smallest=§7Самый маленький
+forestry.allele.smaller=§7Очень маленький
+forestry.allele.small=§7Маленький
+forestry.allele.large=§7Большой
+forestry.allele.larger=§7Очень большой
+forestry.allele.largest=§7Крупнейший
+
+forestry.allele.lowest=§7Самый низкий
+forestry.allele.lower=§7Очень низкий
+forestry.allele.low=§7Низкий
+forestry.allele.high=§7Высокий
+forestry.allele.higher=§7Очень высокий
+forestry.allele.highest=§7Наивысший
+
+forestry.allele.tolerance.both1=§7Обе 1
+forestry.allele.tolerance.both2=§7Обе 2
+forestry.allele.tolerance.both3=§7Обе 3
+forestry.allele.tolerance.both4=§7Обе 4
+forestry.allele.tolerance.both5=§7Обе 5
+forestry.allele.tolerance.down1=§7Вниз 1
+forestry.allele.tolerance.down2=§7Вниз 2
+forestry.allele.tolerance.down3=§7Вниз 3
+forestry.allele.tolerance.down4=§7Вниз 4
+forestry.allele.tolerance.down5=§7Вниз 5
+forestry.allele.tolerance.none=§7Нет
+forestry.allele.tolerance.up1=§7Вверх 1
+forestry.allele.tolerance.up2=§7Вверх 2
+forestry.allele.tolerance.up3=§7Вверх 3
+forestry.allele.tolerance.up4=§7Вверх 4
+forestry.allele.tolerance.up5=§7Вверх 5
+
+forestry.allele.lifespan.shortest=§7Наикратчайший
+forestry.allele.lifespan.shorter=§7Кратчайший
+forestry.allele.lifespan.short=§7Краткий
+forestry.allele.lifespan.shortened=§7Короткий
+forestry.allele.lifespan.normal=§7Обычный
+forestry.allele.lifespan.elongated=§7Продлённый
+forestry.allele.lifespan.long=§7Длинный
+forestry.allele.lifespan.longer=§7Очень длинный
+forestry.allele.lifespan.longest=§7Длиннейший
+
+for.gui.size=§7Размер
+for.gui.slots=§7Слоты: %USED/%SIZE
+for.gui.species=§7Вид
+for.gui.speciescount=§7Видов
+for.gui.speed=§7Скорость производства
+for.gui.stored=§7Запасено
+for.gui.temperature=§7Температура
+for.gui.temptol=§7Устойчивость к темп.
+for.gui.tooltip.tmi=§7Зажмите Shift для подробностей
+for.gui.triple=§7Тройной
+for.gui.unknown=§7Неизвестный геном
+for.gui.warm=§7Жаркая
+for.gui.water=§7Вода
+for.gui.worker=§7рабочий
+
+for.hints.accesscontrol.desc=§7Владелец механизма может устанавливать три вида доступа: общий, ограниченный и приватный.
+for.hints.accesscontrol.tag=§7Контроль доступа
+for.hints.accesspipe.desc=§7Механизм с приватным доступом никаким образом не будет взаимодействовать с трубами и лампами.
+for.hints.accesspipe.tag=§7Ограничение доступа к трубам
+for.hints.accessrules.desc=§7Общий доступ - это когда любой может демонтировать механизм или взаимодействовать с ним. Ограниченный позволяет только взаимодействовать с ним.
+for.hints.accessrules.tag=§7Виды доступа
+for.hints.apiaristsuit.desc=§7Полный костюм пчеловода будет защищать Вас от всех негативных эффектов пчёл.
+for.hints.apiaristsuit.tag=§7Костюм от пчёл!
+for.hints.beebiomes.desc=§7Пчёлы работают только в тех биомах, что подходят их виду. Используйте анализатор пчёл и определитель ареала для их выяснения.
+for.hints.beebiomes.tag=§7Выберете Ваш биом!
+for.hints.beebreeding.desc=§7Скрещивайте трутней и принцесс разных видов, чтобы получить в потомстве новые виды.
+for.hints.beebreeding.tag=§7Разводите Ваших пчёл!
+for.hints.beeflowers.desc=§7Любой пчеле нужен определенный вид цветов поблизости. Некоторые виды цветов достаточно экзотичны.
+for.hints.beeflowers.tag=§7Пчелам нужны цветы
+for.hints.beejubilance.desc=§7Только довольные пчёлы будут производить свой спец.продукт. Убедитесь, что разместили их в предпочитаемом климате.
+for.hints.beejubilance.tag=§7Сделайте Ваших пчёл счастливыми!
+for.hints.cooldownloss.desc=§7Двигатели в режиме принудительно охлаждения теряют значительную часть запасенной ими энергии.
+for.hints.cooldownloss.tag=§7Охлаждение означает потерю энергии!
+for.hints.crating.desc=§7Главная задача плотника - сжимать ваши излишки ресурсов. Упаковывать можно большую часть блоков и предметов.
+for.hints.crating.tag=§7Упаковывайте ваши излишки!
+for.hints.energybuffer.desc=§7Двигатели способны запасать небольшое количество энергии, если она не может передана цели.
+for.hints.energybuffer.tag=§7Накопление энергии!
+for.hints.energyunit.desc=§7Выходная мощность двигателей измеряется в RF/тик, что означает "Redstone Flux на тик". В каждой секунде 20 тиков.
+for.hints.energyunit.tag=§7Скажите Redstone Flux!
+for.hints.enginebronzefuels.desc=§7Биогазовый двигатель имеет широкий выбор топлива: биомасса, растительное масло, мёд, молоко и даже вода!
+for.hints.enginebronzefuels.tag=§7Используйте все вида топлива!
+for.hints.enginebronzeheatloss.desc=§7Несмотря на то, что биогазовый двигатель может работать на воде, она ужасно неэффективна, и постоянно расходует лаву.
+for.hints.enginebronzeheatloss.tag=§7Внимательней с водой!
+for.hints.enginebronzeoutput.desc=§7Биогазовый двигатель, используя различные виды топлива, имеет различную выходную мощность, которая варьируется от 10 RF/тик до 50 RF/тик.
+for.hints.enginebronzeoutput.tag=§7Выбирайте используемое топливо!
+for.hints.enginebronzewaste.desc=§7В отличии от торфяных двигателей, отключенные биогазовые двигатели не расходует топливо, которое сейчас сгорает.
+for.hints.enginebronzewaste.tag=§7Сохранение топлива
+for.hints.enginecopperfuels.desc=§7Торфяной двигатель может работать на неочищенном торфе, но работа на смолистом торфе удвоит выходную мощность.
+for.hints.enginecopperfuels.tag=§7Используйте все вида топлива!
+for.hints.enginecopperwaste.desc=§7Отключенный торфяной двигатель будет продолжать сжигать остатки торфа, который он уже начал сжигать, но без генерирования энергии.
+for.hints.enginecopperwaste.tag=§7Остерегайтесь растраты энергии!
+for.hints.enginetinbatteries.desc=§7Вы можете использовать батареи для того, чтобы запустить Ваш электродвигатель, без необходимости подводить к нему провода.
+for.hints.enginetinbatteries.tag=§7Заряжайте эти батареи!
+for.hints.enginetinchoke.desc=§7Электродвигатели могут быть оснащены печатными платами, чтобы понизить их выходную мощность на 10 RF/тик и также уменьшить их потребность в энергии.
+for.hints.enginetinchoke.tag=§7Контролируйте выходную мощность
+for.hints.flowerjungle.desc=§7К цветам джунглей относится папоротник и лоза.
+for.hints.flowerjungle.tag=§7Что за цветы джунглей?
+for.hints.flowernether.desc=§7К цветам Нижнего мира относится нарост Нижнего мира.
+for.hints.flowernether.tag=§7Что за цветы Нижнего мира?
+for.hints.forcedcooldown.desc=§7Двигатели могут перегреться, если производимая ими энергия не потребляется. Достигнув температуры плавления, они войдут в режим принудительного охлаждения.
+for.hints.forcedcooldown.tag=§7Остерегайтесь перегрева!
+for.hints.generatorfuels.desc=§7Биогенераторы могут работать и на биомассе, и на биотопливе. Наиболее эффективным является биотопливо.
+for.hints.generatorfuels.tag=§7Используйте все вида топлива!
+for.hints.honeyfood.desc=§7Из меда и остальной продукции пчёл можно сделать множество видов еды.
+for.hints.honeyfood.tag=§7Получайте продовольствие!
+for.hints.manualpeat.desc=§7Торф можно добывать в автоматическом режиме с помощью торфяника, но до этого момента Вы можете добыть немного торфа вручную.
+for.hints.manualpeat.tag=§7Торфяник не обязателен!
+for.hints.moistenerproducts.tag=§7Хотите немного замшелого булыжника?
+for.hints.moistenerproducts.desc=§7Если предоставить нужные ингредиенты, Ваш увлажнитель может также создавать замшелый булыжник и каменный кирпич.
+for.hints.nopowerrequired.desc=§7Для работы данного устройства энергия не требуется.
+for.hints.nopowerrequired.tag=§7Не требует энергии
+for.hints.peatharvest.desc=§7Болотная земля, соприкасающаяся с водой (по диагонали тоже), со временем созреет до торфа. Используйте лопату для его сбора.
+for.hints.peatharvest.tag=§7Собирайте торф!
+for.hints.pipette.desc=§7Если Вам мешает остаток жидкости в резервуаре механизма, Вы можете очистить его, щёлкнув по нему пипеткой.
+for.hints.pipette.tag=§7Очищайте резервуары с помощью пипетки
+for.hints.postage.desc=§7Отправка писем требует оплату марками. Основная плата 1n, каждый прикрепленный стак предметов добавляет еще 1n к цене.
+for.hints.postage.tag=§7Платите перевозчику
+for.hints.powerraintank.desc=§7Даже обесточенный сборщик дождя будет собирать воду. Но для её разлива требуется энергия от двигателя.
+for.hints.powerraintank.tag=§7Разлив требует энергию!
+for.hints.powerrequired.desc=§7Это устройство требует энергию от двигателей для работы. Для начала производства разместите двигатель вплотную к устройству, а потом запустите его.
+for.hints.powerrequired.tag=§7Требует энергию!
+for.hints.shortmead.desc=§7Ваш бродильный аппарат может не только создавать биомассу, используйте медвяную росу и жидкий мёд для создания питного мёда.
+for.hints.shortmead.tag=§7Получите Ваш энергетический напиток!
+for.hints.usesofash.desc=§7Зола может быть использована для создания минерального удобрения, а также для создания смолистого торфа.
+for.hints.usesofash.tag=§7Используйте Вашу золу!
+
+for.item.crated.grammar=§7В ящике: %s
+for.item.crated.unknown=§7Ящик с неизвестным содержимым
+
+for.no=§7Нет
+
+for.researchNote.chance.highest=§7НАИВЫСШИЙ
+for.researchNote.chance.higher=§7ОЧЕНЬ ВЫСОКИЙ
+for.researchNote.chance.high=§7ВЫСОКИЙ
+for.researchNote.chance.normal=§7ОБЫЧНЫЙ
+for.researchNote.chance.low=§7НИЗКИЙ
+for.researchNote.chance.lowest=§7НАИНИЗШИЙ
+for.researchNote.error.0=§7Невозможно расшифровать размытые каракули.
+for.researchNote.error.1=§7Записка стала нечитаемой и теперь она бесполезна.
+for.researchNote.discovered.0=§7§aВиды исследованы!
+for.researchNote.discovered.1=§7§e'%1$s'§7 (%2$s)
+for.researchNote.discovery.0=§7§aМутация исследована!
+for.researchNote.discovery.1=§7§e'%SPEC1'§7 и §e'%SPEC2'§7.
+for.researchNote.discovery.2=§7Шанс на успех: §9%s§7.
+for.researchNote.discovery.3=§7Новые виды: §d'%s'§7.
+
+for.storage.backpack.mode.locked=§7(ЗАКРЫТ)
+for.storage.backpack.mode.receiving=§7(ПОЛУЧЕНИЕ)
+for.storage.backpack.mode.resupply=§7(ПОПОЛНЕНИЕ)
+
+for.trigger.hasMail=§7Есть письма
+for.trigger.hasWork=§7Есть работа
+for.trigger.lowFuel=§7Топливо
+for.trigger.lowGermlings=§7Рассада
+for.trigger.lowInput=§7Вход
+for.trigger.lowPaper=§7Бумага
+for.trigger.lowResources=§7Ресурсы
+for.trigger.lowStamps=§7Марки
+for.trigger.mailBuffer=§7Буфер
+for.trigger.missingDrone=§7Отсутствует трутень
+for.trigger.missingQueen=§7Отсутствует королева или принцесса
+for.trigger.noFrames=§7Нет рамок
+
+for.yes=§7Да
+
+item.for.adventurerBag.name=§7Рюкзак авантюриста
+item.for.adventurerBagT2.name=§7Тканный рюкзак авантюриста
+item.for.ambrosia.name=§7Амброзия
+item.for.apatite.name=§7Апатит
+
+item.for.apiaristBag.name=§7Рюкзак пчеловода
+item.for.apiaristBoots.name=§7Ботинки пчеловода
+item.for.apiaristChest.name=§7Куртка пчеловода
+item.for.apiaristHelmet.name=§7Защитная маска пчеловода
+item.for.apiaristLegs.name=§7Штаны пчеловода
+
+item.for.ash.name=§7Зола
+
+item.for.beealyzer.name=§7Анализатор пчёл
+item.for.habitatLocator.name=§7Определитель ареала
+
+item.for.beeCombs.cocoa.name=§7Какао-соты
+item.for.beeCombs.darkened.name=§7Потемневшие соты
+item.for.beeCombs.dripping.name=§7Капающие соты
+item.for.beeCombs.frozen.name=§7Морозные соты
+item.for.beeCombs.honey.name=§7Медовые соты
+item.for.beeCombs.irradiated.name=§7Облучённые соты
+item.for.beeCombs.mellow.name=§7Спелые соты
+item.for.beeCombs.mossy.name=§7Замшелые соты
+item.for.beeCombs.mysterious.name=§7Таинственные соты
+item.for.beeCombs.omega.name=§7Омега-соты
+item.for.beeCombs.parched.name=§7Пересохшие соты
+item.for.beeCombs.powdery.name=§7Рыхлые соты
+item.for.beeCombs.reddened.name=§7Покрасневшие соты
+item.for.beeCombs.silky.name=§7Шелковистые соты
+item.for.beeCombs.simmering.name=§7Кипящие соты
+item.for.beeCombs.stringy.name=§7Вязкие соты
+item.for.beeCombs.wheaten.name=§7Пшеничные соты
+
+item.for.beeswax.name=§7Пчелиный воск
+
+item.for.beverage.meadCurative.name=§7Целебный мёд
+item.for.beverage.meadShort.name=§7Питный мёд
+
+item.for.biomeFinder.name=§7Определитель ареала
+item.for.bituminousPeat.name=§7Смолистый торф
+item.for.brokenBronzePickaxe.name=§7Сломанная кирка
+item.for.brokenBronzeShovel.name=§7Сломанная лопата
+item.for.bronzePickaxe.name=§7Кирка выживающего
+item.for.bronzeShovel.name=§7Лопата выживающего
+item.for.builderBag.name=§7Рюкзак строителя
+item.for.builderBagT2.name=§7Тканный рюкзак строителя
+
+item.for.bucketEthanol.name=§7Ведро этанола
+item.for.bucketBiomass.name=§7Ведро биомассы
+item.for.bucketHoney.name=§7Ведро мёда
+item.for.bucketIce.name=§7Ведро молотого льда
+item.for.bucketJuice.name=§7Ведро фруктового сока
+item.for.bucketSeedOil.name=§7Ведро растительного масла
+item.for.bucketGlass.name=§7Ведро жидкого стекла
+item.for.bucketShortMead.name=§7Ведро питного мёда
+
+item.for.canEmpty.name=§7Банка
+item.for.canEthanol.name=§7Банка этанола
+item.for.canBiomass.name=§7Банка биомассы
+item.for.canFuel.name=§7Банка топлива
+item.for.canHoney.name=§7Банка мёда
+item.for.canIce.name=§7Банка льда
+item.for.canJuice.name=§7Банка сока
+item.for.canLava.name=§7Банка лавы
+item.for.canOil.name=§7Банка нефти
+item.for.canSeedOil.name=§7Банка растительного масла
+item.for.carton.name=§7Картон
+
+item.for.circuitboard.basic.name=§7Основная печатная плата
+item.for.circuitboard.enhanced.name=§7Продвинутая печатная плата
+item.for.circuitboard.intricate.name=§7Усложнённая печатная плата
+item.for.circuitboard.refined.name=§7Усовершенствованная печатная плата
+
+item.for.craftingMaterial.dissipationCharge.name=§7Рассеивающий заряд
+item.for.craftingMaterial.iceShard.name=§7Осколок льда
+item.for.craftingMaterial.pulsatingDust.name=§7Пульсирующая пыль
+item.for.craftingMaterial.pulsatingMesh.name=§7Пульсирующая сеть
+item.for.craftingMaterial.scentedPaneling.name=§7Пропитанная обшивка
+item.for.craftingMaterial.silkWisp.name=§7Клочок шёлка
+item.for.craftingMaterial.wovenSilk.name=§7Тканый шёлк
+
+item.for.crate.name=§7Ящик
+item.for.decayingWheat.name=§7Загнивающая пшеница
+item.for.diggerBag.name=§7Рюкзак землекопа
+item.for.diggerBagT2.name=§7Тканный рюкзак землекопа
+
+item.for.fertilizerBio.name=§7Компост
+item.for.fertilizerCompound.name=§7Минеральное удобрение
+item.for.foresterBag.name=§7Рюкзак лесника
+item.for.foresterBagT2.name=§7Тканный рюкзак лесника
+
+item.for.frameImpregnated.name=§7Пропитанная рамка
+item.for.frameProven.name=§7Проверенная рамка
+item.for.frameUntreated.name=§7Необработанная рамка
+
+item.for.fruits.cherry.name=§7Вишня
+item.for.fruits.chestnut.name=§7Каштан
+item.for.fruits.dates.name=§7Финик
+item.for.fruits.lemon.name=§7Лемон
+item.for.fruits.papaya.name=§7Папайя
+item.for.fruits.plum.name=§7Слива
+item.for.fruits.walnut.name=§7Грецкий орех
+
+item.for.gearBronze.name=§7Бронзовая шестерня
+item.for.gearCopper.name=§7Медная шестерня
+item.for.gearTin.name=§7Оловянная шестерня
+
+item.for.hardenedMachine.name=§7Укреплённый корпус
+
+item.for.honeydew.name=§7Медвяная роса
+
+item.for.honeyDrop.charged.name=§7Заряженная капля
+item.for.honeyDrop.honey.name=§7Капля мёда
+item.for.honeyDrop.omega.name=§7Омега-капля
+item.for.honeyedSlice.name=§7Бутерброд с мёдом
+
+item.for.honeyPot.name=§7Горшочек мёда
+item.for.hunterBag.name=§7Рюкзак охотника
+item.for.hunterBagT2.name=§7Тканный рюкзак охотника
+
+item.for.impregnatedCasing.name=§7Пропитанный корпус
+item.for.imprinter.name=§7Импринтер
+item.for.infuser.name=§7Наполнитель
+
+item.for.ingotBronze.name=§7Бронзовый слиток
+item.for.ingotCopper.name=§7Медный слиток
+item.for.ingotTin.name=§7Оловянный слиток
+
+item.for.iodineCapsule.name=§7Капсула йода
+item.for.kitPickaxe.name=§7Сборная кирка
+item.for.kitShovel.name=§7Сборная лопата
+item.for.letters.name=§7Письмо
+
+item.for.minerBag.name=§7Рюкзак шахтёра
+item.for.minerBagT2.name=§7Тканный рюкзак шахтёра
+
+item.for.mouldyWheat.name=§7Плесневелая пшеница
+item.for.mulch.name=§7Мульча
+item.for.naturalistHelmet.name=§7Очки
+item.for.oakStick.name=§7Полированная палка
+item.for.peat.name=§7Торф
+item.for.phosphor.name=§7Фосфор
+item.for.pipette.name=§7Пипетка
+
+item.for.pollen.crystalline.name=§7Скопление кристаллической пыльцы
+item.for.pollen.normal.name=§7Скопление пыльцы
+
+item.for.propolis.normal.name=§7Прополис
+item.for.propolis.sticky.name=§7Липкий прополис
+item.for.propolis.pulsating.name=§7Пульсирующий прополис
+item.for.propolis.silky.name=§7Шелковистый прополис
+
+item.for.refractoryEthanol.name=§7Капсула этанола
+item.for.refractoryBiomass.name=§7Капсула биомассы
+item.for.refractoryEmpty.name=§7Огнеупорная капсула
+item.for.refractoryFuel.name=§7Капсула топлива
+item.for.refractoryHoney.name=§7Капсула мёда
+item.for.refractoryIce.name=§7Капсула льда
+item.for.refractoryJuice.name=§7Капсула сока
+item.for.refractoryLava.name=§7Капсула лавы
+item.for.refractoryOil.name=§7Капсула нефти
+item.for.refractorySeedOil.name=§7Капсула растительного масла
+item.for.refractoryWater.name=§7Капсула воды
+item.for.refractoryWax.name=§7Огнеупорный воск
+
+item.for.researchNote.name=§7Записки игрока %s
+item.for.royalJelly.name=§7Маточное молочко
+item.for.scoop.name=§7Сачок
+item.for.solderingIron.name=§7Паяльник
+
+item.for.stamps.1n.name=§7Почтовая марка (1n)
+item.for.stamps.2n.name=§7Почтовая марка (2n)
+item.for.stamps.5n.name=§7Почтовая марка (5n)
+item.for.stamps.10n.name=§7Почтовая марка (10n)
+item.for.stamps.20n.name=§7Почтовая марка (20n)
+item.for.stamps.50n.name=§7Почтовая марка (50n)
+item.for.stamps.100n.name=§7Почтовая марка (100n)
+item.for.stamps.name=§7Почтовая марка
+
+item.for.sturdyMachine.name=§7Прочный корпус
+item.for.tent.name=§7Палатка выжившего
+
+item.for.thermionicTubes.ex-0.name=§7Медная электронная лампа
+item.for.thermionicTubes.ex-1.name=§7Оловянная электронная лампа
+item.for.thermionicTubes.ex-2.name=§7Бронзовая электронная лампа
+item.for.thermionicTubes.ex-3.name=§7Железная электронная лампа
+item.for.thermionicTubes.ex-4.name=§7Золотая электронная лампа
+item.for.thermionicTubes.ex-5.name=§7Алмазная электронная лампа
+item.for.thermionicTubes.ex-6.name=§7Обсидиановая электронная лампа
+item.for.thermionicTubes.ex-7.name=§7Огненная электронная лампа
+item.for.thermionicTubes.ex-8.name=§7Прорезиненная электронная лампа
+item.for.thermionicTubes.ex-9.name=§7Изумрудная электронная лампа
+item.for.thermionicTubes.ex-10.name=§7Апатитовая электронная лампа
+item.for.thermionicTubes.ex-11.name=§7Лазуритовая электронная лампа
+item.for.thermionicTubes.ex-12.name=§7Электронная лампа Края
+
+item.for.treealyzer.name=§7Анализатор деревьев
+
+item.for.canWater.name=§7Банка воды
+
+item.for.waxCapsule.name=§7Восковая капсула
+item.for.waxCapsuleEthanol.name=§7Капсула этанола
+item.for.waxCapsuleBiomass.name=§7Капсула биомассы
+item.for.waxCapsuleFuel.name=§7Капсула топлива
+item.for.waxCapsuleHoney.name=§7Капсула мёда
+item.for.waxCapsuleIce.name=§7Капсула льда
+item.for.waxCapsuleJuice.name=§7Капсула сока
+item.for.waxCapsuleOil.name=§7Капсула нефти
+item.for.waxCapsuleSeedOil.name=§7Капсула растительного масла
+item.for.waxCapsuleWater.name=§7Капсула воды
+item.for.waxCast.name=§7Восковая форма
+
+item.for.woodPulp.name=§7Древесная масса
+item.for.wrench.name=§7Гаечный ключ
+
+itemGroup.apiculture=§7Пчеловодство
+itemGroup.arboriculture=§7Лесоводство
+itemGroup.forestry=§7Forestry
+itemGroup.lepidopterology=§7Лепидоптерология
+
+tile.for.core.0.name=§7Анализатор
+tile.for.core.1.name=§7Секретер
+
+tile.for.engine.0.name=§7Электродвигатель
+tile.for.engine.1.name=§7Торфяной двигатель
+tile.for.engine.2.name=§7Биогазовый двигатель
+tile.for.engine.3.name=§7Биогенератор
+tile.for.engine.4.name=§7Заводной двигатель
+
+tile.for.factory.0.name=§7Разливочный механизм
+tile.for.factory.1.name=§7Плотник
+tile.for.factory.2.name=§7Центрифуга
+tile.for.factory.3.name=§7Бродильный аппарат
+tile.for.factory.4.name=§7Увлажнитель
+tile.for.factory.5.name=§7Соковыжималка
+tile.for.factory.6.name=§7Дистиллятор
+tile.for.factory.7.name=§7Вызыватель дождя
+tile.for.factory2.0.name=§7Электроламповый завод
+tile.for.factory2.1.name=§7Сборщик дождя
+tile.for.factory2.2.name=§7Рабочий стол
+
+tile.for.mail.0.name=§7Почтовый ящик
+tile.for.mail.1.name=§7Торговая станция
+tile.for.mail.2.name=§7Сборщик марок
+
+tile.for.resources.0.name=§7Апатитовая руда
+tile.for.resources.1.name=§7Медная руда
+tile.for.resources.2.name=§7Оловянная руда
+
+tile.for.resourceStorage.0.name=§7Апатитовый блок
+tile.for.resourceStorage.1.name=§7Медный блок
+tile.for.resourceStorage.2.name=§7Оловянный блок
+tile.for.resourceStorage.3.name=§7Бронзовый блок
+
+tile.for.soil.0.name=§7Гумус
+tile.for.soil.1.name=§7Болотная земля
+tile.for.soil.2.name=§7Торф
+
+tile.for.stained.0.name=§7Белое стекло
+tile.for.stained.1.name=§7Оранжевое стекло
+tile.for.stained.2.name=§7Сиреневое стекло
+tile.for.stained.3.name=§7Светло-синее стекло
+tile.for.stained.4.name=§7Жёлтое стекло
+tile.for.stained.5.name=§7Лаймовое стекло
+tile.for.stained.6.name=§7Розовое стекло
+tile.for.stained.7.name=§7Серое стекло
+tile.for.stained.8.name=§7Светло-серое стекло
+tile.for.stained.9.name=§7Бирюзовое стекло
+tile.for.stained.10.name=§7Фиолетовое стекло
+tile.for.stained.11.name=§7Синее стекло
+tile.for.stained.12.name=§7Коричневое стекло
+tile.for.stained.13.name=§7Зелёное стекло
+tile.for.stained.14.name=§7Красное стекло
+tile.for.stained.15.name=§7Чёрное стекло
+
+####################
+# APICULTURE
+####################
+
+death.bee.aggressive.player=§7%1$s столкнулся с роем пчёл. %2$s украл его костюм пчеловода.
+death.bee.aggressive=§7%1$s столкнулся с роем пчёл. Оно пришло, чтобы ужалить.
+death.bee.end.player=§7%1$s был прикончен недружественным жалом, когда боролся с %2$s.
+death.bee.end=§7%1$s был прикончен недружественным жалом.
+death.bee.radioactive.player=§7%1$s вошёл в Чернобыль без своего шлема. %2$s смотрел и хихикал.
+death.bee.radioactive=§7%1$s вошёл в Чернобыль без своего шлема.
+
+forestry.allele.effect.aggressive=§7Агресор.
+forestry.allele.effect.beatific=§7Блаженність
+forestry.allele.effect.creeper=§7Кріпер
+forestry.allele.effect.drunkard=§7П'яниця
+forestry.allele.effect.exploration=§7Дослідник
+forestry.allele.effect.glacial=§7Замерзання
+forestry.allele.effect.fertile=§7Плодородие
+forestry.allele.effect.heroic=§7Героїчність
+forestry.allele.effect.ignition=§7Легкозаймистий
+forestry.allele.effect.misanthrope=§7Кінець
+forestry.allele.effect.miasmic=§7Отруєння
+forestry.allele.effect.mycophilic=§7Mycophilic
+forestry.allele.effect.none=§7Немає
+forestry.allele.effect.radioactive=§7Радіоактив.
+forestry.allele.effect.reanimation=§7Реанімація
+forestry.allele.effect.repulsion=§7Огида
+forestry.allele.effect.resurrection=§7Воскресіння
+forestry.allele.effect.snowing=§7Сніг
+
+for.beemode.easy.desc=§7Упрощает пчеловодство за счёт резкого увеличения скорости мутаций и устранения возможности генетической усталости.
+for.beemode.hard.desc=§7Незначительное сокращение скорости мутаций при увеличении продолжительности жизни отдельных королев на 50%.
+for.beemode.hardcore.desc=§7Сокращает на половину скорость мутаций, увеличивает продолжительность жизни отдельных королев на 500% и снижает рождаемость на 20%.
+for.beemode.insane.desc=§7Снижает скорость мутации до 20%, десятикратно увеличивает продолжительность жизни и приводит к снижению рождаемости на 40%.
+for.beemode.normal.desc=§7Рекомендованный режим для обычного игрока.
+
+for.bees.grammar.drone.type=§7трутень
+for.bees.grammar.drone=§7%SPECIES %TYPE
+for.bees.grammar.larvae.type=§7личинка
+for.bees.grammar.larvae=§7%SPECIES %TYPE
+for.bees.grammar.princess.type=§7принцесса
+for.bees.grammar.princess=§7%SPECIES %TYPE
+for.bees.grammar.queen.type=§7королева
+for.bees.grammar.queen=§7%SPECIES %TYPE
+
+for.bees.hybrid=§7Гибрид: %PRIMARY-%SECONDARY
+
+for.bees.species.austere=§7Суровая
+for.bees.species.avenging=§7Мстящая
+for.bees.species.boggy=§7Болотистая
+for.bees.species.common=§7Обычная
+for.bees.species.cultivated=§7Культивированная
+for.bees.species.darkened=§7Тёмная
+for.bees.species.demonic=§7Демоническая
+for.bees.species.diligent=§7Добросовестная
+for.bees.species.edenic=§7Райская
+for.bees.species.ended=§7Края
+for.bees.species.exotic=§7Экзотическая
+for.bees.species.fiendish=§7Дьявольская
+for.bees.species.forest=§7Лесная
+for.bees.species.frugal=§7Бережливая
+for.bees.species.glacial=§7Ледниковая
+for.bees.species.hermitic=§7Отшельническая
+for.bees.species.heroic=§7Героическая
+for.bees.species.icy=§7Ледяная
+for.bees.species.imperial=§7Императорская
+for.bees.species.industrious=§7Трудолюбивая
+for.bees.species.leporine=§7Заячья
+for.bees.species.majestic=§7Величественная
+for.bees.species.marshy=§7Болотная
+for.bees.species.meadows=§7Луговая
+for.bees.species.merry=§7Весёлая
+for.bees.species.miry=§7Топкая
+for.bees.species.modest=§7Скромная
+for.bees.species.monastic=§7Монастырская
+for.bees.species.noble=§7Благородная
+for.bees.species.omega=§7Омега
+for.bees.species.phantasmal=§7Воображаемая
+for.bees.species.reddened=§7Покрасневшая
+for.bees.species.rural=§7Сельская
+for.bees.species.farmerly=§7Прошлая
+for.bees.species.agrarian=§7Земельная
+for.bees.species.secluded=§7Укромная
+for.bees.species.sinister=§7Зловещая
+for.bees.species.spectral=§7Призрачная
+for.bees.species.steadfast=§7Стойкая
+for.bees.species.tipsy=§7Пьяная
+for.bees.species.tricky=§7Хитрая
+for.bees.species.tropical=§7Тропическая
+for.bees.species.unweary=§7Неутомимая
+for.bees.species.valiant=§7Доблестная
+for.bees.species.vengeful=§7Мстительная
+for.bees.species.vindictive=§7Карательная
+for.bees.species.wintry=§7Зимняя
+
+for.bees.stock.ignoble=§7Низкая порода
+for.bees.stock.pristine=§7Чистая порода
+
+for.chat.command.forestry.bee.desc=§7- %s : Команды пчеловодства
+for.chat.command.forestry.bee.help=§7Команды, относящиеся к пчеловодству.
+for.chat.command.forestry.bee.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.bee.give.desc=§7- %s : Получение пчёл
+for.chat.command.forestry.bee.give.help=§7Даёт игроку трутней, принцесс, королев или личинок.
+for.chat.command.forestry.bee.give.format=§7Формат: /%s <название вида> <вид пчелы> [<имя игрока>]
+for.chat.command.forestry.bee.give.available=§7Доступные виды пчёл: %s
+for.chat.command.forestry.bee.give.given=§7%1$s получил %2$s %3$s.
+
+for.chat.command.forestry.bee.mode.desc=§7- %s : Команды режимов пчеловодства
+for.chat.command.forestry.bee.mode.help=§7Команды, относящиеся к режимам пчеловодства.
+for.chat.command.forestry.bee.mode.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.bee.mode.info.desc=§7- %s : Информацию по режиму пчеловодства
+for.chat.command.forestry.bee.mode.info.help=§7Информация о текущем и доступных режимах пчеловодства.
+for.chat.command.forestry.bee.mode.info.format=§7Формат: /%s <название режима>
+
+for.chat.command.forestry.bee.mode.set.desc=§7- %s : Установка режима пчеловодства
+for.chat.command.forestry.bee.mode.set.help=§7Устанавливает режим для пчеловодства.
+for.chat.command.forestry.bee.mode.set.format=§7Формат: /%s [<world-#>] <название режима>
+
+for.chat.command.forestry.bee.save.desc=§7- %s : Сохранение статистики пчеловодства
+for.chat.command.forestry.bee.save.help=§7Сохраняет статистику пчеловодства в файл.
+for.chat.command.forestry.bee.save.format=§7Формат: /%s [<имя игрока>]
+for.chat.command.forestry.bee.save.stats=§7Статистика пчеловодства для %s в %s:
+
+for.chat.command.forestry.mode.info.error=§7Режим '%s' не доступен.
+for.chat.command.forestry.mode.info.current=§7Текущий: %1$s (#%2$s)
+for.chat.command.forestry.mode.info.available=§7Доступные режимы: %s
+
+for.chat.command.forestry.mode.set.success=§7Режим установлен на %s.
+for.chat.command.forestry.mode.set.error=§7Режим под названием '%s' не доступен.
+
+for.chat.command.forestry.stats.save.error1=§7Не удалось создать файл журнала. Не удалось сохранить статистику.
+for.chat.command.forestry.stats.save.error2=§7Не удалось записать в файл журнала. Не удалось сохранить статистику.
+for.chat.command.forestry.stats.save.error3=§7Сбой во время операции записи. Не удалось сохранить статистику.
+for.chat.command.forestry.stats.save.error4=§7Статистика не найдена.
+for.chat.command.forestry.stats.save.saved=§7Статистика для игрока %s сохранена
+for.chat.command.forestry.stats.save.key.discovered=§7Обнаружено
+for.chat.command.forestry.stats.save.key.discovered.symbol=§7X
+for.chat.command.forestry.stats.save.key.blacklisted=§7Запрещено
+for.chat.command.forestry.stats.save.key.blacklisted.symbol=§7BL
+for.chat.command.forestry.stats.save.key.notCounted=§7Not counted for the species total
+for.chat.command.forestry.stats.save.key.notCounted.symbol=§7NC
+for.chat.command.forestry.stats.save.mode=§7Режим: %s
+
+for.description.speciesAgrarian=§7"Doesn't reek as much as the alternative. Gets the job done, eh?"|Myrathi, благоразумный пчеловод
+for.description.speciesAustere=§7Опасные и изменчивые; Пчеловодам рекомендуются находится в костюмах рядом с ними.|Пчеловодство 101
+for.description.speciesAvenging=§7"The walls of my house began to crumble and I heard the roof creaking over my head, but I cared not! I felt the stabs of a thousand little insects on my glove as I grabbed the new queen."|Аноним
+for.description.speciesBoggy=§7"Я видел как одна из них ужалила корову. Через несколько секунд, она стала зарастать грибами! ... Фотографию? Э-э, не успел сделать."|"Sir" Sengir, безумец
+for.description.speciesCommon=§7Считается значком участия начинающего пчеловода.|Пчеловодство 101
+for.description.speciesCultivated=§7Трудолюбивая пчела; Думает что она лучше всего и всех, кроме оперы.|Пчеловодство 101
+for.description.speciesDarkened=§7Привлечённые силой алхимического вещества, этот вид был могущественным источником энергии.|Лексикон пчеловода
+for.description.speciesDemonic=§7Рождены в пламени Нижнего мира и будучи потомками поколений пчёл Нижнего мира, этот вид превратился в настоящего демона.|Пчеловодство 101
+for.description.speciesDiligent=§7В основном отмечены ступенькой в списке трудолюбивых пчёл.|Пчеловодство 101
+for.description.speciesEdenic=§7"I furiously scribbled in my notebook, drawing sketches of the images I felt seeping into my brain while I was watching the insects perform their strange little dance."|Пчеловодство 101
+for.description.speciesEnded=§7"I found one of these seemingly hermitical insects in a villager's apiary. It was torpid, obviously ripped from its world and longing for a fragment from it."|Пчеловодство 101
+for.description.speciesExotic=§7"The fever shook me and my apiarist's suit was drenched with cold sweat, but with trembling hands I finally managed to pull one of these from my apiary."|Пчеловодство 101
+for.description.speciesFarmerly=§7Часто встречается на больших просторах прерий, кормилицы народов.|Пчеловодство 101
+for.description.speciesFiendish=§7Опытные пчеловоды Нижнего мира сообщали о нападениях этих пчёл на людей. Будьте осторожны.|Пчеловодство 101
+for.description.speciesForest=§7Один из наиболее распространённых лесных вредителей; В основном послушны.|Пчеловодство 101
+for.description.speciesFrugal=§7Целые поколения пчёл сгорели на солнце, чтобы произвести этот вид.|Пчеловодство 101
+for.description.speciesGlacial=§7"Зима близко!"|Эддард Старк, пчеловод
+for.description.speciesHermitic=§7"Дорогой коллега! Я заметил, что пчёлы, которых Вы мне послали, отказываются мыться и отращивают бороды. Не хотите объясниться?"|Binnie, пчеловод
+for.description.speciesHeroic=§7Продуманные легенды окружают этих пчёл. Они будут защищать свои улья до последнего вздоха от любых врагов.|Гримуар пчеловода
+for.description.speciesIcy=§7Температура внутри ульев, населённых этим видом, будет падать пока не сформируются осколки льда.|Пчеловодство 101
+for.description.speciesImperial=§7Высоко ценящаяся пчела; Специализируется на производстве драгоценного маточного молочка.|Пчеловодство 101
+for.description.speciesIndustrious=§7Высоко ценящаяся пчела; Специализируется на производстве изысканной пыльцы.|Пчеловодство 101
+for.description.speciesLeporine=§7"Я клянусь! Она была маленькой, с крыльями и я точно видел пушистые маленькие уши кролика! ... Нет! Я не пьян!"|"Sir" Sengir, безумец
+for.description.speciesMajestic=§7"Головы с плеч!"|Королева сердец
+for.description.speciesMarshy=§7"Серьёзно? Грибы? Валим отсюда!"|Пчеловодство 101
+for.description.speciesMeadows=§7Наводняет в основном равнины, в условиях умеренного климата; В основном послушна.|Пчеловодство 101
+for.description.speciesMerry=§7"Хо Хо Хо!"|Весёлая пчела
+for.description.speciesMiry=§7"Как пчёлы вообще опыляют грибы?"|Mezz, юный пчеловод
+for.description.speciesModest=§7Hot and arid climates have forced this species to adapt to a degree which will not allow it to survive in significantly friendlier climates.|Пчеловодство 101
+for.description.speciesMonastic=§7"I remained austere and said to him: 'Not only a princess, but also a whole pile of emeralds for a measly drone? That's extortion!'|Пчеловодство 101
+for.description.speciesNoble=§7"There is no more noble occupation in the world than to breed another bee."|Binnie, пчеловод
+for.description.speciesOmega=§7"I am Alpha and Omega, the beginning and the end, the first and the last."|Pahimar, пчеловод
+for.description.speciesPhantasmal=§7"Whatever you do, do not, I repeat, DO NOT drop the dragon e..."|"Sir" Sengir, последние слова
+for.description.speciesReddened=§7Requiring massive amounts of alchemically bound matter, these little fellows could flood a world in energy.|Лексикон пчеловода
+for.description.speciesRural=§7"Дождь в мае обещает многа сена."|M. Ages, сельский пчеловод
+for.description.speciesSecluded=§7"Crossbreeding with the desert kind was a mistake. My bees withdrew more and more from the outside world."|Пчеловодство 101
+for.description.speciesSinister=§7Not many bee species are able to survive in the nether. And even those are severly affected by their hellish environment.|Пчеловодство 101
+for.description.speciesSpectral=§7"I was unsure whether it was alive as it lay there in the palm of my hand, glimmering and pulsating, oozing a coldness I never felt before. Then I heard the pile of bones behind me rattle..."|Пчеловодство 101
+for.description.speciesSteadfast=§7Считались вымершими, пока некоторые не были найдены путешественниками в глубоком подземелье.|Гримуар пчеловода
+for.description.speciesTipsy=§7"Танцуйте мои красотульки! Тануцуйте!"|Пьяная ведьма востока
+for.description.speciesTricky=§7"Кошелёк или жизнь!"|Хитрая пчела
+for.description.speciesTropical=§7"My travels along the jungle river allowed me to catch many of these poisonous specimen. Unfortunately I had lost my only austere branch to crocodiles a while back."|Пчеловодство 101
+for.description.speciesUnweary=§7Неутомимые. Потом они умирают.|Пчеловодство 101
+for.description.speciesValiant=§7A rare subspecies rarely seen cohabiting in mundane hives.|Гримуар пчеловода
+for.description.speciesVengeful=§7"Veni, vidi, vici!"|Apinus Julius Caesar
+for.description.speciesVindictive=§7"Они съели моё лицо! Они съели моё лицо!"|K.M.
+for.description.speciesWintry=§7Common, but winter-hardened bee tribe; Cultivation in warmer climates is a challenge.|Пчеловодство 101
+
+for.genus.bees.agrarian=§7Agrarian
+for.genus.bees.austere=§7Austere
+for.genus.bees.boggy=§7Boggy
+for.genus.bees.common=§7Common
+for.genus.bees.end=§7End
+for.genus.bees.festive=§7Festive
+for.genus.bees.frozen=§7Frozen
+for.genus.bees.heroic=§7Heroic
+for.genus.bees.industrious=§7Industrious
+for.genus.bees.infernal=§7Infernal
+for.genus.bees.monastic=§7Monastic
+for.genus.bees.noble=§7Noble
+for.genus.bees.reddened=§7Reddened
+for.genus.bees.tropical=§7Tropical
+for.genus.bees.vengeful=§7Vengeful
+
+item.for.beePrincessGE.name=§7Принцесса
+item.for.beeQueenGE.name=§7Королева
+
+tile.for.alveary.0.name=§7Пчелиный улей
+tile.for.alveary.1.name=§7Вход улья
+tile.for.alveary.2.name=§7Роевня
+tile.for.alveary.3.name=§7Вентилятор улья
+tile.for.alveary.4.name=§7Обогреватель улья
+tile.for.alveary.5.name=§7Регулятор влажности улья
+tile.for.alveary.6.name=§7Стабилизатор улья
+tile.for.alveary.7.name=§7Сито улья
+
+tile.for.apiculture.0.name=§7Пасека
+tile.for.apicultureChest.0.name=§7Сундук пчеловода
+tile.for.apiculture.2.name=§7Пчелиный домик
+
+tile.for.beehives.1.name=§7Лесной улей
+tile.for.beehives.2.name=§7Луговой улей
+tile.for.beehives.3.name=§7Пустынный улей
+tile.for.beehives.4.name=§7Тропический улей
+tile.for.beehives.5.name=§7Улей Края
+tile.for.beehives.6.name=§7Снежный улей
+tile.for.beehives.7.name=§7Болотный улей
+tile.for.beehives.8.name=§7Улей роя
+
+tile.for.candle.dyed.lit.name=§7Светлая окрашенная свеча
+tile.for.candle.dyed.stump.name=§7Тёмная окрашенная свеча
+tile.for.candle.lit.name=§7Светлая свеча
+tile.for.candle.stump.name=§7Тёмная свеча
+
+tile.for.stump.0.name=§7Потухшая свеча
+
+####################
+# ARBORICULTURE
+####################
+
+for.arboriculture.effect.none=§7Нет
+
+for.chat.command.forestry.tree.desc=§7- %s : Команды лесоводства
+for.chat.command.forestry.tree.help=§7Команды, относящиеся к лесоводству.
+for.chat.command.forestry.tree.format=§7Формат:/%s <подкоманда>
+
+for.chat.command.forestry.tree.spawnTree.desc=§7- %s : Посадить дерево
+for.chat.command.forestry.tree.spawnTree.help=§7Сажает дерево рядом с игроком.
+for.chat.command.forestry.tree.spawnTree.format=§7Формат:/%s <название вида> [<имя игрока>]
+
+for.chat.command.forestry.tree.spawnForest.desc=§7- %s : Посадить лес
+for.chat.command.forestry.tree.spawnForest.help=§7Сажает маленький лес рядом с игроком.
+for.chat.command.forestry.tree.spawnForest.format=§7Формат:/%s <название вида> [<имя игрока>]
+
+for.chat.command.forestry.tree.mode.desc=§7- %s : Команды режимов лесоводства
+for.chat.command.forestry.tree.mode.help=§7Команды, относящиеся к режимам лесоводства.
+for.chat.command.forestry.tree.mode.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.tree.mode.info.desc=§7- %s : Информация по режиму лесоводства
+for.chat.command.forestry.tree.mode.info.help=§7Информация о текущем и доступных режимах лесоводства.
+for.chat.command.forestry.tree.mode.info.format=§7Формат: /%s <название режима>
+
+for.chat.command.forestry.tree.mode.set.desc=§7- %s : Установить режима лесоводства
+for.chat.command.forestry.tree.mode.set.help=§7Устанавливает режим лесоводства для мира.
+for.chat.command.forestry.tree.mode.set.format=§7Формат: /%s [<world-#>] <название режима>
+
+for.chat.command.forestry.tree.save.desc=§7- %s : Сохранить статистику лесоводства
+for.chat.command.forestry.tree.save.help=§7Сохраняет статистику по лесоводству в файл.
+for.chat.command.forestry.tree.save.format=§7Формат: /%s [<имя игрока>]
+
+for.chat.command.forestry.tree.save.stats=§7Статистика лесоводства для %s в %s:
+
+for.description.treeBirch=§7Широко распространённое берёзовое дерево, которое в среднем маленькой высоты.|Codex Lignum
+for.description.treeCherry=§7Небольшое дерево. В своей естественной форме оно принесёт вишни, которым нужно будет пройти период созревания.|Codex Lignum
+for.description.treeChestnut=§7Высокое, лиственное дерево с большым стволом. Встречающиеся в природе каштановые деревья несут плоды, которым требуется некоторое время, чтобы созреть.|Codex Lignum
+for.description.treeLime=§7Высокое, лиственное дерево. Недавно было переклассифицировано в семью мальвовых.|Codex Lignum
+for.description.treeOak=§7Распространённый вид деревьев, обладающий яблоко-несущими свойствами является предметом многочисленных песен и танцев.|Codex Lignum
+for.description.treeSipiri=§7Высокие, вечнозелёные деревья с ценной древесиной. Древесина и кора пахнет приятным ароматом. Будут процветать лишь в условиях тропиков.|Codex Lignum
+for.description.treeWalnut=§7Высокое, лиственное дерево с большым стволом. Встречающиеся в природе деревья грецкого ореха несут плоды, которым требуется некоторое время, чтобы созреть.|Codex Lignum
+for.description.treeWillow=§7Большое, лиственное дерево. Белая ива растёт быстро. Наблюдения показали, что они растут во влажных климатических условиях.|Codex Lignum
+
+for.family.jungle=§7Тропические
+for.family.nuts=§7Ореховые
+for.family.pomes=§7Фруктовые
+for.family.prunes=§7Лиственные
+
+for.fruits.apple=§7Яблоко
+for.fruits.cherry=§7Вишня
+for.fruits.chestnut=§7Каштан
+for.fruits.cocoa=§7Какао
+for.fruits.dates=§7Финики
+for.fruits.lemon=§7Лемон
+for.fruits.none=§7Нет
+for.fruits.papaya=§7Папайя
+for.fruits.plum=§7Слива
+for.fruits.walnut=§7Грецкий орех
+
+for.gui.family=§7Семейство
+for.gui.fireproof=§7Огнестойкость
+for.gui.fruits=§7Плоды
+for.gui.girth=§7Область посадки
+for.gui.growth=§7Условие роста
+for.gui.height=§7Высота
+for.gui.maturity=§7Созревание
+for.gui.native=§7"Родной" биом
+for.gui.saplings=§7Вид саженца
+for.gui.sappiness=§7Жизнеспособность
+for.gui.supports=§7Вид плодов
+for.gui.tolerated=§7Нужный биом
+for.gui.treealyzer.help=§7Положите саженец и предоставьте мёд или нектар, в качестве катализатора.
+for.gui.treealyzer=§7Анализатор деревьев
+for.gui.yield=§7Урожай
+
+for.growth.normal=§7Свет
+for.growth.tropical=§7Тропики
+
+for.trees.grammar.blossom.type=§7Расцвет
+for.trees.grammar.blossom=§7%TYPE %SPECIES
+for.trees.grammar.germling.type=§7Рассада
+for.trees.grammar.germling=§7%TYPE %SPECIES
+for.trees.grammar.pollen.type=§7Пыльца
+for.trees.grammar.pollen=§7%TYPE %SPECIES
+for.trees.grammar.sapling.type=§7Саженец
+for.trees.grammar.sapling=§7%TYPE %SPECIES
+for.trees.grammar.leaves.type=§7Листва
+for.trees.grammar.leaves=§7%TYPE %SPECIES
+
+for.trees.hybrid=§7Гибрид: %PRIMARY-%SECONDARY
+
+for.trees.species.acacia=§7акации
+for.trees.species.appleOak=§7яблочного дуба
+for.trees.species.balsa=§7бальзы
+for.trees.species.blueMahoe=§7синего гибискуса
+for.trees.species.bullPine=§7сосны жёлтой
+for.trees.species.coastSequoia=§7береговой секвойи
+for.trees.species.commonWalnut=§7обычного орехового дерева
+for.trees.species.darkOak=§7тёмного дуба
+for.trees.species.datePalm=§7финиковой пальмы
+for.trees.species.desertAcacia=§7пустынной акации
+for.trees.species.giantSequoia=§7гигантской секвойи
+for.trees.species.grandidierBaobab=§7Адансонии Грандидье
+for.trees.species.hillCherry=§7сакуры
+for.trees.species.jungle=§7дерева джунглей
+for.trees.species.kapok=§7хлопкового дерева
+for.trees.species.lemon=§7лимонного дерева
+for.trees.species.mundaneLarch=§7мировой лиственницы
+for.trees.species.myrtleEbony=§7мирта
+for.trees.species.papaya=§7дынного дерева
+for.trees.species.plum=§7сливового дерева
+for.trees.species.redSpruce=§7красной ели
+for.trees.species.silverBirch=§7белой берёзы
+for.trees.species.silverLime=§7липы пушистой
+for.trees.species.sipiri=§7Сипири
+for.trees.species.sugarMaple=§7сахарного клёна
+for.trees.species.sweetChestnut=§7каштана посевного
+for.trees.species.teak=§7тикового дерева
+for.trees.species.wenge=§7дерева Венге
+for.trees.species.whitePoplar=§7белого тополя
+for.trees.species.whiteWillow=§7белой ивы
+for.trees.species.yellowMeranti=§7жёлтого меранти
+for.trees.species.ipe=§7муравьиного дерева
+for.trees.species.padauk=§7падука
+for.trees.species.cocobolo=§7кокоболо
+for.trees.species.zebrawood=§7зебрано
+
+for.fences.grammar=§7Забор из %TYPE
+for.log.grammar=§7Древесина %TYPE
+for.planks.grammar=§7Доски из %TYPE
+for.slab.grammar=§7Плита из %TYPE
+for.stairs.grammar=§7Ступеньки из %TYPE
+
+for.trees.woodType.larch=§7лиственницы
+for.trees.woodType.teak=§7тикового дерева
+for.trees.woodType.acacia=§7акации
+for.trees.woodType.lime=§7липы
+for.trees.woodType.chestnut=§7каштана
+for.trees.woodType.wenge=§7дерева Венге
+for.trees.woodType.baobab=§7баобаба
+for.trees.woodType.sequoia=§7секвойи
+for.trees.woodType.kapok=§7хлопкового дерева
+for.trees.woodType.ebony=§7мирта
+for.trees.woodType.mahogany=§7красного дерева
+for.trees.woodType.balsa=§7бальзы
+for.trees.woodType.willow=§7ивы
+for.trees.woodType.walnut=§7орехового дерева
+for.trees.woodType.greenheart=§7гринхарта
+for.trees.woodType.cherry=§7вишнёвого дерева
+for.trees.woodType.mahoe=§7гибискуса
+for.trees.woodType.poplar=§7тополя
+for.trees.woodType.palm=§7пальмы
+for.trees.woodType.papaya=§7дынного дерева
+for.trees.woodType.pine=§7сосны
+for.trees.woodType.plum=§7сливового дерева
+for.trees.woodType.maple=§7клёна
+for.trees.woodType.citrus=§7цитрусового дерева
+for.trees.woodType.giganteum=§7гигантской секвойи
+for.trees.woodType.ipe=§7муравьиного дерева
+for.trees.woodType.padauk=§7падука
+for.trees.woodType.cocobolo=§7кокоболо
+for.trees.woodType.zebrawood=§7зебрано
+
+tile.for.fireproof=§7%s (Огнестойкость)
+
+item.for.grafter.name=§7Садовый нож
+item.for.grafterProven.name=§7Проверенный садовый нож
+
+tile.for.arboriculture.0.name=§7Сундук лесовода
+
+tile.for.saplingGE.0.name=§7Саженец
+tile.for.leaves.0.name=§7Листва
+tile.for.pods.0.name=§7Стручок
+
+####################
+# FARMING
+####################
+
+for.circuit.managedArboreal=§7Дендрарий
+for.circuit.managedCereal=§7Ферма зерновых
+for.circuit.managedInfernal=§7Адская ферма
+for.circuit.managedPeat=§7Торфяник
+for.circuit.managedShroom=§7Грибная ферма
+for.circuit.managedVegetable=§7Овощная ферма
+for.circuit.managedEnder=§7Ферма Края
+for.circuit.manualCereal=§7Ферма зерновых
+for.circuit.manualCocoa=§7Какао плантация
+for.circuit.manualGourd=§7Ферма бахчевых
+for.circuit.manualOrchard=§7Фруктовый сад
+for.circuit.manualPeat=§7Торфяник
+for.circuit.manualPoales=§7Тростниковая ферма
+for.circuit.manualRubber=§7Плантация резины
+for.circuit.manualShroom=§7Грибная ферма
+for.circuit.manualSucculent=§7Кактусовая ферма
+for.circuit.manualVegetable=§7Овощная ферма
+
+for.errors.noFarmland.desc=§7Нет рабочей зоны
+for.errors.noFarmland.help=§7Гладкий песчаник, кирпичи или каменные кирпичи создают платформу, где будет строиться ферма.
+for.errors.noFertilizer.desc=§7Нет удобрения
+for.errors.noFertilizer.help=§7Для работы фермы требуется удобрение. Компоста недостаточно.
+for.errors.noLiquid.desc=§7Нет воды
+for.errors.noLiquid.help=§7В зависимости от количества осадков, температуры и влажности фермы должны быть снабжены различным количеством воды.
+
+for.gui.farm.title=§7Ферма
+for.gui.hydr.heat=§7тепла
+for.gui.hydr.humid=§7влажности
+for.gui.hydr.overall=§7общего
+for.gui.hydr.rainfall=§7полива
+for.gui.hydration=§7Нужное увлажнение
+
+for.hints.circuitboard.desc=§7Пользуйтесь паяльником, чтобы превратить Вашу ферму деревьев в любую ферму, которую Вам захочется.
+for.hints.circuitboard.tag=§7Программируйте свои фермы!
+for.hints.farmgui.desc=§7Почва идёт в левые слоты, семяна или саженцы в правые слоты резервуара верхней правой части.
+for.hints.farmgui.tag=§7Почва идёт налево, семена идут направо!
+for.hints.farmland.desc=§7Гладкий песчаник, кирпичи или каменные кирпичи создают платформу, где будет строиться ферма.
+for.hints.farmland.tag=§7Выложите свою рабочую зону!
+for.hints.fertilizer.desc=§7Все фермы нуждаются в удобрении, чтобы работать. Компоста или мульчы недостаточно.
+for.hints.fertilizer.tag=§7Необходимо удобрение!
+for.hints.gearbox.desc=§7Используйте редукторы, чтобы приложить двигатели или линии энергии на свою ферму.
+for.hints.gearbox.tag=§7Источник энергии!
+for.hints.hatch.desc=§7Люки, труба или лампа лучшие друзья. Используйте их для автоматизации транспортировки.
+for.hints.hatch.tag=§7Задраить люки!
+for.hints.manualfarms.desc=§7Помимо управляемых ферм имеются ручные фермы, которые только поддерживают ферму, но не строят.
+for.hints.manualfarms.tag=§7Ручные фермы!
+for.hints.valve.desc=§7Почти все фермы нуждаются в воде. Используйте блоки вентилей для автоматизации.
+for.hints.valve.tag=§7Источник воды!
+
+
+for.trigger.lowFertilizer=§7Удобрение
+for.trigger.lowLiquid=§7Цистерна воды
+for.trigger.lowSoil=§7Почва
+
+tile.for.ffarm.0.name=§7Блок фермы
+tile.for.ffarm.2.name=§7Редуктор фермы
+tile.for.ffarm.3.name=§7Люк фермы
+tile.for.ffarm.4.name=§7Вентиль фермы
+tile.for.ffarm.5.name=§7Блок управления фермы
+
+tile.for.mushroom.0.name=§7Гриб
+tile.for.mushroom.1.name=§7Гриб
+
+####################
+# LEPIDOPTEROLOGY
+####################
+
+for.chat.command.forestry.butterfly.desc=§7- %s : Команды для бабочек
+for.chat.command.forestry.butterfly.help=§7Различные команды, относящиеся к бабочкам
+for.chat.command.forestry.butterfly.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.butterfly.kill.desc=§7- %s : Убивает всех бабочек
+for.chat.command.forestry.butterfly.kill.help=§7Убивает всех бабочек в загруженных чанках
+for.chat.command.forestry.butterfly.kill.format=§7Формат: /%s [<dimension#>]
+
+for.butterflies.hybrid=§7Гибрид: %PRIMARY-%SECONDARY
+
+for.butterflies.species.geometridae.brimstone=§7Бримстоун-мотылёк
+for.butterflies.species.geometridae.latticedHeath=§7Пяденица клеверная
+for.butterflies.species.nymphalidae.blueDuke=§7Blue Duke
+for.butterflies.species.nymphalidae.blueMorphoM=§7Морфо менелай
+for.butterflies.species.nymphalidae.blueMorphoP=§7Морфо Пелеида
+for.butterflies.species.nymphalidae.blueMorphoR=§7Синяя морфо
+for.butterflies.species.nymphalidae.blueWing=§7Синее крыло
+for.butterflies.species.nymphalidae.comma=§7Углокрыльница
+for.butterflies.species.nymphalidae.dianaFritillary=§7Diana Fritillary
+for.butterflies.species.nymphalidae.glasswing=§7Грета Ото
+for.butterflies.species.nymphalidae.glassyTiger=§7Стеклянный тигр
+for.butterflies.species.nymphalidae.leopardLacewing=§7Цетозия циане
+for.butterflies.species.nymphalidae.malachite=§7Малахит
+for.butterflies.species.nymphalidae.monarch=§7Данаида монарх
+for.butterflies.species.nymphalidae.paintedBeauty=§7Нимфалида виргинская
+for.butterflies.species.nymphalidae.postman=§7Почтальон
+for.butterflies.species.nymphalidae.speckledWood=§7Краеглазка эгерия
+for.butterflies.species.nymphalidae.speckledWoodC=§7Канарская краеглазка эгерия
+for.butterflies.species.nymphalidae.speckledWoodM=§7Мадейрская краеглазка эгерия
+for.butterflies.species.papilionidae.emeraldPeacock=§7Изумрудный павлин
+for.butterflies.species.papilionidae.swallowtailB=§7Чёрный парусник
+for.butterflies.species.papilionidae.swallowtailC=§7Цитрусовый парусник
+for.butterflies.species.papilionidae.swallowtailS=§7Каликант-парусник
+for.butterflies.species.papilionidae.swallowtailT=§7Парусник тоас
+for.butterflies.species.papilionidae.swallowtailZ=§7Полосатый парусник
+for.butterflies.species.pieridae.brimstone=§7Бримстоун
+for.butterflies.species.pieridae.cabbageWhite=§7Капустница
+for.butterflies.species.pieridae.gozoraAzure=§7Gozora Azure
+for.butterflies.species.pieridae.orangeTip=§7Белянка
+for.butterflies.species.pieridae.palaenoSulphur=§7Желтушка торфяниковая
+for.butterflies.species.pieridae.postillion=§7Желтушка шафрановая
+for.butterflies.species.pieridae.reseda=§7Белянка рапсовая
+for.butterflies.species.pieridae.springAzure=§7Голубянка весенняя
+for.butterflies.species.saturniidae.atlas=§7Атлас-мотылёк
+
+for.gui.flutterlyzer=§7Анализатор бабочек
+for.gui.flutterlyzer.help=§7Положите бабочку и предоставьте мёд или нектар, в качестве успокаивающего.
+for.gui.loot.butterfly=§7Возможная добыча бабочки
+for.gui.loot.caterpillar=§7Возможная добыча гусеницы
+
+for.lepidopterology.effect.none=§7Нет
+
+item.for.butterfly.name=§7Бабочка
+item.for.flutterlyzer.name=§7Анализатор бабочек
+item.for.lepidopteristBag.name=§7Рюкзак лепидоптеролога
+item.for.moth.name=§7Мотылёк
+tile.for.lepidopterology.0.name=§7Сундук лепидоптеролога
+
+####################
+# MAIL
+####################
+
+for.chat.mail.already_mailed=§7Не удалось переслать письмо.
+
+for.chat.command.forestry.mail.desc=§7- %s : Команды почтовой системы
+for.chat.command.forestry.mail.help=§7Различные команды, относящиеся к почтовой системе
+for.chat.command.forestry.mail.format=§7Формат: /%s <подкоманда>
+
+for.chat.command.forestry.mail.trades.desc=§7- %s : Список всех торговых станций.
+for.chat.command.forestry.mail.trades.help=§7Показывает все торговые станции и их сделки.
+for.chat.command.forestry.mail.trades.format=§7Формат: /%s
+
+for.chat.command.forestry.mail.virtualize.desc=§7- %s : Переключить виртуальный режим на определённой торговой станции.
+for.chat.command.forestry.mail.virtualize.help=§7Переключает виртуальный режим на определённой торговой станции. Этот режим не использует предметы.
+for.chat.command.forestry.mail.virtualize.format=§7Формат: /%s <название торговой станции>
+for.chat.command.forestry.mail.virtualize.no_tradestation=§7Торговая станция, с названием '%s', не найдена.
+for.chat.command.forestry.mail.virtualize.set=§7Установить виртуализацию для '%s' к %s.
+
+for.chat.mail.insufficient_buffer=§7Торговая станция переполнена.
+for.chat.mail.insufficient_offer=§7Торговая станция запрашивает больше.
+for.chat.mail.insufficient_paper=§7Торговая станция израсходовала бумагу.
+for.chat.mail.insufficient_stamps=§7Торговая станция израсходовала марки.
+for.chat.mail.insufficient_trade_good=§7Торговая станция израсходовала припасы.
+for.chat.mail.mailbox_full=§7Почтовый ящик адресата переполнен.
+for.chat.mail.not_mailable=§7Письмо нельзя отправить.
+for.chat.mail.not_postpaid=§7На письме недостаточно марок.
+for.chat.mail.no_mailbox=§7Адресат не имеет почтового ящика.
+for.chat.mail.ok=§7Торговля доступна
+for.chat.mail.response_not_mailable=§7Торговая станция не может отправить ответное письмо. Вы должны иметь почтовый ящик, чтобы отправить его.
+for.chat.mail.wrongstacksize=§7Можно написать только одно письмо за раз.
+
+for.gui.mail.address.copy=§7Использовать
+for.gui.mail.catalogue.close=§7Закрыть
+for.gui.mail.catalogue.trade=§7Торговать
+for.gui.mail.filter.all=§7Все
+for.gui.mail.filter.offline=§7Оффлайн
+for.gui.mail.filter.online=§7Онлайн
+for.gui.mail.notrades=§7Нет доступных сделок.
+for.gui.mail.tradefor=§7для
+for.gui.mail.willtrade=§7%s будет торговать
+
+item.for.catalogue.name=§7Каталог
+
+####################
+# PIPES
+####################
+
+item.PipeItemsPropolis.name=§7Труба пчеловода
+
+####################
+# PLUGINS
+####################
+for.plugin.core.description=§7Основная механика для Forestry. Требуется для всех других плагинов.
+for.plugin.fluids.description=§7Добавляет жидкости, жидкостные блоки и жидкостные контейнеры.
+for.plugin.apiculture.description=§7Добавляет пчёл, пчеловодство и продукты пчёл. Влияет на генерацию мира.
+for.plugin.arboriculture.description=§7Добавляет дополнительные виды деревьев и продуктов.
+for.plugin.energy.description=§7Добавляет несколько двигателей, работающих на RF.
+for.plugin.factory.description=§7Добавление широкий спектр механизмов, которые производят и перерабатывают продукты.
+for.plugin.farming.description=§7Добавляет автоматические фермы и сборщиков для широкого спектра продуктов.
+for.plugin.food.description=§7Добавляет еду.
+for.plugin.lepidopterology.description=§7Бабочки. Яркие.
+for.plugin.mail.description=§7Добавляет системы почты и торговли Forestry.
+for.plugin.storage.description=§7Добавляет рюкзаки и ящики.
+
+for.plugin.buildcraft6.description=§7Плагин совместимости для BuildCraft 6.
+for.plugin.pipes.description=§7Добавляет трубу пчеловода для пчеловодства, если пчеловодство включено и BuildCraft 6 установлен.
+for.plugin.ic2.description=§7Плагин совместимости для IC2. Добавляет электрический двигатель и генератор для преобразования энергии.
+for.plugin.natura.description=§7Плагин совместимости для Natura. Позволяет выращивать саженцы Natura.
+for.plugin.ee2.description=§7Плагин совместимости для Equivalent Exchange 2. Включает Омега пчёл. Пчеловодство должно быть включено.
+for.plugin.farmcraftory.description=§7Включает совместимость с FarmCraftory. Добавляет растения и овощи в фермы.
+for.plugin.biomesoplenty.description=§7Плагин совместимости для Biomes O Plenty. Позволяет выращивать саженцы BoP.
+for.plugin.extrautilities.description=§7Плагин совместимости для Extra Utilities. Позволяет выращивать лилии Края.
+for.plugin.harvestcraft.description=§7Плагин совместимости для HarvestCraft. Позволяет выращивать растения и деревья HarvestCraft.
+for.plugin.magicalcrops.description=§7Плагин совместимости для Magical Crops.
+for.plugin.chisel.description=§7Плагин совместимости для Chisel. Добавляет генерируемые блоки в рюкзаки.
+for.plugin.plantmegapack.description=§7Плагин совместимости для Plant Mega Pack.
+for.plugin.witchery.description=§7Плагин совместимости для Witchery.
+for.plugin.agricraft.description=§7Плагин совместимости для AgriCraft.
+
+###################################
+# CUSTOM BEE AND TREE SPECIES NAMES
+###################################
+# Syntax:
+# for.bees.custom.<type>.<species>=§7New custom bee name
+# for.trees.custom.<type>.<species>=§7New custom tree name
+# Examples:
+# for.bees.custom.drone.forest=§7Forest Drone
+# for.trees.custom.pollen.darkOak=§7New Dark Oak Pollen Name
+# Beealyzer/Treealyzer syntax:
+# for.bees.custom.beealyzer.<type>.<species>=§7New custom bee species name
+# for.trees.custom.treealyzer.<type>.<species>=§7New custom tree species name
+# Examples:
+# for.bees.custom.beealyzer.drone.forest=§7New Forest drone species name when used in a beealyzer
+# for.trees.custom.treealyzer.pollen.darkOak=§7New Dark Oak pollen species name when used in a treealyzer
+
+###################################
+# CUSTOM ALLELE ADJECTIVES
+###################################
+# Replaces forestry.allele.<adjective>
+#
+# Syntax:
+# forestry.allele.<category>.<adjective>=§7New custom adjective
+#
+# Available categories and [adjectives]:
+# speed: 		[slowest, slower, slow, normal, fast, faster, fastest]
+# maturation: 	[slowest, slower, slow, normal, fast, faster, fastest]
+# flowering:	[slowest, slower, slow, normal, fast, faster, fastest, maximum]
+#
+# size: 		[smallest, smaller, average, large, larger, largest]
+# height: 		[smallest, smaller, average, large, larger, largest, gigantic]
+# territory:	[average, large, larger, largest]
+#
+# saplings: 	[lowest, lower, low, average, high, higher, highest]
+# yield: 		[lowest, lower, low, average, high, higher, highest]
+# sappiness:	[lowest, lower, low, average, high, higher, highest]
+#
+# Examples:
+# forestry.allele.speed.slowest=§7New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+# forestry.allele.flowering.slowest=§7New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+# forestry.allele.yield.low=§7New custom adjective for low yield, replacing forestry.allele.low
+
+###################################
+# CUSTOM TOOLTIPS
+###################################
+# Available custom tooltips:
+# for.tooltip.worker.<speed adjective> for bee worker speed.
+#
+# Example:
+# for.tooltip.worker.slowest=§7Slowest Worker
+
+###################################
+# CUSTOM WOOD NAMES
+###################################
+#
+# Examples:
+# tile.for.stairs.4.name=§7Chestnut Stairs
+# tile.for.planks.8.name=§7Kapok Wood Planks
+# tile.for.slab.5.name=§7Wenge Wood Slab
+# tile.for.log.10.name=§7Mahogany Wood
+# tile.for.fences.0.name=§7Larch Fence
+
+###################################
+# CUSTOM BEES NAMES
+###################################
+
+for.bees.custom.drone.forest=§7Лесной трутень
+for.bees.custom.drone.meadows=§7Луговой трутень
+for.bees.custom.drone.boggy=§7Болотистый трутень
+for.bees.custom.drone.miry=§7Топкий трутень
+for.bees.custom.drone.agrarian=§7Земельный трутень
+for.bees.custom.drone.farmerly=§7Прошлый трутень
+for.bees.custom.drone.common=§7Обычный трутень
+for.bees.custom.drone.cultivated=§7Культивированный трутень
+for.bees.custom.drone.noble=§7Благородный трутень
+for.bees.custom.drone.majestic=§7Величественный трутень
+for.bees.custom.drone.imperial=§7Императорский трутень
+for.bees.custom.drone.diligent=§7Добросовестный трутень
+for.bees.custom.drone.unweary=§7Неутомимый трутень
+for.bees.custom.drone.industrious=§7Трудолюбивый трутень
+for.bees.custom.drone.steadfast=§7Стойкий трутень
+for.bees.custom.drone.valiant=§7Доблестный трутень
+for.bees.custom.drone.heroic=§7Героический трутень
+for.bees.custom.drone.sinister=§7Зловещий трутень
+for.bees.custom.drone.fiendish=§7Дьявольский трутень
+for.bees.custom.drone.demonic=§7Демонический трутень
+for.bees.custom.drone.modest=§7Скромный трутень
+for.bees.custom.drone.frugal=§7Бережливый трутень
+for.bees.custom.drone.austere=§7Суровый трутень
+for.bees.custom.drone.tropical=§7Тропический трутень
+for.bees.custom.drone.exotic=§7Экзотический трутень
+for.bees.custom.drone.edenic=§7Райский трутень
+for.bees.custom.drone.ended=§7Трутень Края
+for.bees.custom.drone.wintry=§7Зимний трутень
+for.bees.custom.drone.icy=§7Ледяной трутень
+for.bees.custom.drone.glacial=§7Ледниковый трутень
+for.bees.custom.drone.vindictive=§7Карательный трутень
+for.bees.custom.drone.vengeful=§7Мстительный трутень
+for.bees.custom.drone.avenging=§7Мстящий трутень
+for.bees.custom.drone.darkened=§7Тёмный трутень
+for.bees.custom.drone.reddened=§7Покрасневший трутень
+for.bees.custom.drone.omega=§7Омега трутень
+for.bees.custom.drone.leporine=§7Заячий трутень
+for.bees.custom.drone.tricky=§7Хитрый трутень
+for.bees.custom.drone.rural=§7Сельский трутень
+for.bees.custom.drone.marshy=§7Болотный трутень
+for.bees.custom.drone.merry=§7Весёлый трутень
+for.bees.custom.drone.tipsy=§7Пьяный трутень
+for.bees.custom.drone.monastic=§7Монастырский трутень
+for.bees.custom.drone.secluded=§7Укромный трутень
+for.bees.custom.drone.hermitic=§7Отшельнический трутень
+for.bees.custom.drone.spectral=§7Призрачный трутень
+for.bees.custom.drone.phantasmal=§7Воображаемый трутень
+
+for.bees.custom.larvae.ended=§7Личинка Края
+for.bees.custom.princess.ended=§7Принцесса Края
+for.bees.custom.queen.ended=§7Королева Края
+
+###################################
+# CUSTOM Beealyzer/Treealyzer NAMES
+###################################
+
+for.bees.custom.beealyzer.drone.forest=§7Лесной
+for.bees.custom.beealyzer.drone.meadows=§7Луговой
+for.bees.custom.beealyzer.drone.boggy=§7Болотистый
+for.bees.custom.beealyzer.drone.miry=§7Топкий
+for.bees.custom.beealyzer.drone.agrarian=§7Земельный
+for.bees.custom.beealyzer.drone.farmerly=§7Прошлый
+for.bees.custom.beealyzer.drone.common=§7Обычный
+for.bees.custom.beealyzer.drone.cultivated=§7Культивированный
+for.bees.custom.beealyzer.drone.noble=§7Благородный
+for.bees.custom.beealyzer.drone.majestic=§7Величественный
+for.bees.custom.beealyzer.drone.imperial=§7Императорский
+for.bees.custom.beealyzer.drone.diligent=§7Добросовестный
+for.bees.custom.beealyzer.drone.unweary=§7Неутомимый
+for.bees.custom.beealyzer.drone.industrious=§7Трудолюбивый
+for.bees.custom.beealyzer.drone.steadfast=§7Стойкий
+for.bees.custom.beealyzer.drone.valiant=§7Доблестный
+for.bees.custom.beealyzer.drone.heroic=§7Героический
+for.bees.custom.beealyzer.drone.sinister=§7Зловещий
+for.bees.custom.beealyzer.drone.fiendish=§7Дьявольский
+for.bees.custom.beealyzer.drone.demonic=§7Демонический
+for.bees.custom.beealyzer.drone.modest=§7Скромный
+for.bees.custom.beealyzer.drone.frugal=§7Бережливый
+for.bees.custom.beealyzer.drone.austere=§7Суровый
+for.bees.custom.beealyzer.drone.tropical=§7Тропический
+for.bees.custom.beealyzer.drone.exotic=§7Экзотический
+for.bees.custom.beealyzer.drone.edenic=§7Райский
+for.bees.custom.beealyzer.drone.ended=§7из Края
+for.bees.custom.beealyzer.drone.wintry=§7Зимний
+for.bees.custom.beealyzer.drone.icy=§7Ледяной
+for.bees.custom.beealyzer.drone.glacial=§7Ледниковый
+for.bees.custom.beealyzer.drone.vindictive=§7Карательный
+for.bees.custom.beealyzer.drone.vengeful=§7Мстительный
+for.bees.custom.beealyzer.drone.avenging=§7Мстящий
+for.bees.custom.beealyzer.drone.darkened=§7Тёмный
+for.bees.custom.beealyzer.drone.reddened=§7Покрасневший
+for.bees.custom.beealyzer.drone.omega=§7Омега
+for.bees.custom.beealyzer.drone.leporine=§7Заячий
+for.bees.custom.beealyzer.drone.tricky=§7Хитрый
+for.bees.custom.beealyzer.drone.rural=§7Сельский
+for.bees.custom.beealyzer.drone.marshy=§7Болотный
+for.bees.custom.beealyzer.drone.merry=§7Весёлый
+for.bees.custom.beealyzer.drone.tipsy=§7Пьяный
+for.bees.custom.beealyzer.drone.monastic=§7Монастырский
+for.bees.custom.beealyzer.drone.secluded=§7Укромный
+for.bees.custom.beealyzer.drone.hermitic=§7Отшельнический
+for.bees.custom.beealyzer.drone.spectral=§7Призрачный
+for.bees.custom.beealyzer.drone.phantasmal=§7Воображаемый
+
+for.bees.custom.beealyzer.larvae.ended=§7из Края
+for.bees.custom.beealyzer.princess.ended=§7из Края
+for.bees.custom.beealyzer.queen.ended=§7из Края
+
+for.trees.custom.treealyzer.pollen.acacia=§7Акация
+for.trees.custom.treealyzer.pollen.appleOak=§7Яблочный дуб
+for.trees.custom.treealyzer.pollen.balsa=§7Бальза
+for.trees.custom.treealyzer.pollen.blueMahoe=§7Синий гибискус
+for.trees.custom.treealyzer.pollen.bullPine=§7Сосна жёлтая
+for.trees.custom.treealyzer.pollen.coastSequoia=§7Береговая секвойя
+for.trees.custom.treealyzer.pollen.commonWalnut=§7Обычное ореховое дерево
+for.trees.custom.treealyzer.pollen.darkOak=§7Тёмный дуб
+for.trees.custom.treealyzer.pollen.datePalm=§7Финиковая пальма
+for.trees.custom.treealyzer.pollen.desertAcacia=§7Пустынная акация
+for.trees.custom.treealyzer.pollen.giantSequoia=§7Гигантская секвойя
+for.trees.custom.treealyzer.pollen.grandidierBaobab=§7Адансония Грандидье
+for.trees.custom.treealyzer.pollen.hillCherry=§7Сакура
+for.trees.custom.treealyzer.pollen.jungle=§7Дерево джунглей
+for.trees.custom.treealyzer.pollen.kapok=§7Хлопковое дерево
+for.trees.custom.treealyzer.pollen.lemon=§7Лимонное дерево
+for.trees.custom.treealyzer.pollen.mundaneLarch=§7Мировая лиственница
+for.trees.custom.treealyzer.pollen.myrtleEbony=§7Мирт
+for.trees.custom.treealyzer.pollen.papaya=§7Дынное дерево
+for.trees.custom.treealyzer.pollen.plum=§7Сливовое дерево
+for.trees.custom.treealyzer.pollen.redSpruce=§7Красная ель
+for.trees.custom.treealyzer.pollen.silverBirch=§7Белая берёза
+for.trees.custom.treealyzer.pollen.silverLime=§7Липа пушистая
+for.trees.custom.treealyzer.pollen.sipiri=§7Сипири
+for.trees.custom.treealyzer.pollen.sugarMaple=§7Сахарный клён
+for.trees.custom.treealyzer.pollen.sweetChestnut=§7Каштан посевной
+for.trees.custom.treealyzer.pollen.teak=§7Тиковое дерево
+for.trees.custom.treealyzer.pollen.wenge=§7Дерево Венге
+for.trees.custom.treealyzer.pollen.whitePoplar=§7Белый тополь
+for.trees.custom.treealyzer.pollen.whiteWillow=§7Белая ива
+for.trees.custom.treealyzer.pollen.yellowMeranti=§7Жёлтое меранти
+for.trees.custom.treealyzer.pollen.ipe=§7Муравьиное дерево
+for.trees.custom.treealyzer.pollen.padauk=§7Падук
+for.trees.custom.treealyzer.pollen.cocobolo=§7Кокоболо
+for.trees.custom.treealyzer.pollen.zebrawood=§7Зезбрано
+
+for.trees.custom.treealyzer.sapling.acacia=§7Акация
+for.trees.custom.treealyzer.sapling.appleOak=§7Яблочный дуб
+for.trees.custom.treealyzer.sapling.balsa=§7Бальза
+for.trees.custom.treealyzer.sapling.blueMahoe=§7Синий гибискус
+for.trees.custom.treealyzer.sapling.bullPine=§7Сосна жёлтая
+for.trees.custom.treealyzer.sapling.coastSequoia=§7Береговая секвойя
+for.trees.custom.treealyzer.sapling.commonWalnut=§7Обычное ореховое дерево
+for.trees.custom.treealyzer.sapling.darkOak=§7Тёмный дуб
+for.trees.custom.treealyzer.sapling.datePalm=§7Финиковая пальма
+for.trees.custom.treealyzer.sapling.desertAcacia=§7Пустынная акация
+for.trees.custom.treealyzer.sapling.giantSequoia=§7Гигантская секвойя
+for.trees.custom.treealyzer.sapling.grandidierBaobab=§7Адансония Грандидье
+for.trees.custom.treealyzer.sapling.hillCherry=§7Сакура
+for.trees.custom.treealyzer.sapling.jungle=§7Дерево джунглей
+for.trees.custom.treealyzer.sapling.kapok=§7Хлопковое дерево
+for.trees.custom.treealyzer.sapling.lemon=§7Лимонное дерево
+for.trees.custom.treealyzer.sapling.mundaneLarch=§7Мировая лиственница
+for.trees.custom.treealyzer.sapling.myrtleEbony=§7Мирт
+for.trees.custom.treealyzer.sapling.papaya=§7Дынное дерево
+for.trees.custom.treealyzer.sapling.plum=§7Сливовое дерево
+for.trees.custom.treealyzer.sapling.redSpruce=§7Красная ель
+for.trees.custom.treealyzer.sapling.silverBirch=§7Белая берёза
+for.trees.custom.treealyzer.sapling.silverLime=§7Липа пушистая
+for.trees.custom.treealyzer.sapling.sipiri=§7Сипири
+for.trees.custom.treealyzer.sapling.sugarMaple=§7Сахарный клён
+for.trees.custom.treealyzer.sapling.sweetChestnut=§7Каштан посевной
+for.trees.custom.treealyzer.sapling.teak=§7Тиковое дерево
+for.trees.custom.treealyzer.sapling.wenge=§7Дерево Венге
+for.trees.custom.treealyzer.sapling.whitePoplar=§7Белый тополь
+for.trees.custom.treealyzer.sapling.whiteWillow=§7Белая ива
+for.trees.custom.treealyzer.sapling.yellowMeranti=§7Жёлтое меранти
+for.trees.custom.treealyzer.sapling.ipe=§7Муравьиное дерево
+for.trees.custom.treealyzer.sapling.padauk=§7Падук
+for.trees.custom.treealyzer.sapling.cocobolo=§7Кокоболо
+for.trees.custom.treealyzer.sapling.zebrawood=§7Зезбрано
+
+forestry.allele.height.smallest=§7Самая низкая
+forestry.allele.height.smaller=§7Очень низкая
+forestry.allele.height.small=§7Низкая
+forestry.allele.height.average=§7Средняя
+forestry.allele.height.large=§7Большая
+forestry.allele.height.larger=§7Очень большая
+forestry.allele.height.largest=§7Наибольшая
+forestry.allele.height.gigantic=§7Гигантская
+
+forestry.allele.sappiness.lowest=§7Самая низкая
+forestry.allele.sappiness.lower=§7Очень низкая
+forestry.allele.sappiness.low=§7Низкая
+forestry.allele.sappiness.average=§7Средняя
+forestry.allele.sappiness.high=§7Высокая
+forestry.allele.sappiness.higher=§7Очень высокая
+forestry.allele.sappiness.highest=§7Наивысшая
+
+forestry.allele.maturation.slowest=§7Очень медленное
+forestry.allele.maturation.slower=§7Медленное
+forestry.allele.maturation.slow=§7Неторопливое
+forestry.allele.maturation.normal=§7Обычное
+forestry.allele.maturation.average=§7Среднее
+forestry.allele.maturation.fast=§7Быстрое
+forestry.allele.maturation.faster=§7Очень быстрое
+forestry.allele.maturation.fastest=§7Наибыстрейшее
+
+forestry.allele.speed.slowest=§7Очень медленная
+forestry.allele.speed.slower=§7Медленная
+forestry.allele.speed.slow=§7Неторопливая
+forestry.allele.speed.normal=§7Обычная
+forestry.allele.speed.fast=§7Быстрая
+forestry.allele.speed.faster=§7Очень быстрая
+forestry.allele.speed.fastest=§7Наибыстрейшая
+
+forestry.allele.flowering.slowest=§7Очень медленная
+forestry.allele.flowering.slower=§7Медленная
+forestry.allele.flowering.slow=§7Неторопливая
+forestry.allele.flowering.normal=§7Обычная
+forestry.allele.flowering.fast=§7Быстрая
+forestry.allele.flowering.faster=§7Очень быстрая
+forestry.allele.flowering.fastest=§7Наибыстрейшая
+forestry.allele.flowering.maximum=§7Максимально быстрая
+
+for.tooltip.worker.slowest=§7Очень медленный рабочий
+for.tooltip.worker.slower=§7Медленный рабочий
+for.tooltip.worker.slow=§7Неторопливый рабочий
+for.tooltip.worker.normal=§7Обычный рабочий
+for.tooltip.worker.fast=§7Быстрый рабочий
+for.tooltip.worker.faster=§7Очень быстрый рабочий
+for.tooltip.worker.fastest=§7Наибыстрейший рабочий

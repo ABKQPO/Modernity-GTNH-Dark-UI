@@ -1,0 +1,93 @@
+#fr_FR
+
+#death.attack.pyrotheum=§7%1$s mistook Pyrotheum for Water!
+#death.attack.pyrotheum.player=§7%1$s burned alive trying to escape %2$s!
+#death.attack.cryotheum=§7%1$s froze to death!
+#death.attack.cryotheum.player=§7%1$s froze to death trying to escape %2$s!
+#death.attack.mana=§7%1$s was torn apart by raw Mana!
+#death.attack.mana.player=§7%1$s ran into another state of being attempting to escape %2$s!
+death.attack.flux=§7%1$s ont vu leur réalité détruite par le Flux!
+death.attack.flux.player=§7%1$s a été Fluxé à mort par %2$s!
+
+info.cofh.access=§7Accès
+info.cofh.accessMode=§7Mode d'accès
+info.cofh.accessPublic=§7Public
+info.cofh.accessRestricted=§7Restreint
+info.cofh.accessPrivate=§7Propriétaire Seulement
+info.cofh.all=§7Tous
+info.cofh.amount=§7Montant
+#info.cofh.augmentation
+info.cofh.blank=§7Vierge
+info.cofh.charge=§7Charge
+info.cofh.configuration=§7Configuration
+info.cofh.contents=§7Contenu
+info.cofh.controlStatus=§7Statut de Control
+info.cofh.damageAttack=§7Dommage d'attaque
+info.cofh.damageFlux=§7Dommage de Flux
+info.cofh.disabled=§7Désactivé
+info.cofh.empty=§7Vide
+info.cofh.enabled=§7Activé
+info.cofh.energy=§7Énergie
+info.cofh.energyConsume=§7Consommation d'énergie
+info.cofh.energyProduce=§7Énergie produite
+info.cofh.energyStored=§7Énergie Stockée
+info.cofh.fluid=§7Fluide
+info.cofh.frequency=§7Fréquence
+info.cofh.friendsList=§7Liste d'amis
+info.cofh.high=§7État Haut
+info.cofh.ignored=§7Ignoré
+info.cofh.information=§7Information
+info.cofh.infinite=§7Infini
+info.cofh.item=§7Objet
+info.cofh.items=§7Objets
+info.cofh.level=§7Niveau
+info.cofh.locked=§7Fermé
+info.cofh.low=§7État Bas
+info.cofh.maxEnergyPerTick=§7Énergie Maximale
+info.cofh.none=§7Aucune
+info.cofh.owner=§7Propriétaire
+info.cofh.press=§7Presser
+info.cofh.receive=§7Recevoir
+info.cofh.receiving=§7Reçoit
+info.cofh.redstoneControl=§7Contrôle de Redstone
+info.cofh.security=§7Sécurité
+info.cofh.send=§7Envoyer
+info.cofh.sending=§7Envoie
+info.cofh.signal=§7Signal
+info.cofh.signalRequired=§7Signal nécessaire
+info.cofh.source=§7Source
+info.cofh.tutorial=§7Tutoriel
+info.cofh.unlocked=§7Déverrouillé
+
+info.cofh.tutorial.fluxRequired=§7A besoin d'un signal de redstone pour fonctionner.
+info.cofh.tutorial.tabConfiguration.0=§7L'onglet de configuration détermine la façon dont les objets entrent et sortent de cette machine.
+info.cofh.tutorial.tabConfiguration.2=§7L'onglet de configuration détermine les modes de fonctionnement de cette machine.
+info.cofh.tutorial.tabRedstone=§7L'onglet de Contrôle Redstone configure la façon dont cette machine réagit à la Redstone.
+
+item.invalid.name=§7Objet Invalide (Détruire)
+
+message.cofh.holdShift1=§7Maintenez
+message.cofh.holdShift2=§7Maj. (Shift)
+message.cofh.holdShift3=§7pour obtenir des détails.
+message.cofh.secure1=§7Ceci est privé et appartient à
+message.cofh.secure2=§7Vous auriez pû y perdre une main !
+message.cofh.secureWarning=§7Info: Les opérateurs du serveur peuvent accéder aux blocs "sécurisés".
+message.cofh.receiveConfig=§7Réception de la configuration du serveur...
+message.cofh.restoreConfig=§7Restauration de la configuration du client...
+
+#Fluid Name Fixes
+
+#fluid.tile.water=§7
+#fluid.tile.lava=§7
+#fluid.fuel=§7
+#fluid.oil=§7
+
+#CoFHLexicon
+
+info.cofh.lexicon1=§7Converti les objets dans leurs formes équivalentes.
+info.cofh.lexicon2=§7Clic-droit (ouvrir) pour étudier.
+info.cofh.lexicon3=§7Utilisez lorsque vous êtes accroupi pour gagner du savoir !
+info.cofh.lexicon4=§7Clic-droit (ouvrir) pour transformer des objets.
+info.cofh.lexicon5=§7Utilisez lorsque vous êtes accroupi pour oublier ce que vous avez appris.
+item.cofh.tool.lexicon.name=§7Lexique de Forge
+item.cofh.tool.lexiconActive.name=§7Lexique de Forge (Actif)

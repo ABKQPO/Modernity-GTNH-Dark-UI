@@ -1,0 +1,189 @@
+﻿# Estonian language file
+# Created by tambry
+
+nei.load=§7Lae
+nei.save=§7Salvesta
+
+nei.enchant=§7Enchant
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Lukustatud
+nei.enchant.unlocked=§7Lukustamata
+
+nei.inventory.options=§7Valikud
+nei.inventory.prev=§7Eelmine
+nei.inventory.next=§7Järgmine
+nei.inventory.item_subsets=§7Item SubSets
+nei.inventory.delete.inv=§7KUSTUTA KÕIK ASJAD hetke seljakoti aknast
+nei.inventory.delete.one=§7Kustuta %s
+nei.inventory.delete.all=§7Kustuta KÕIK %s
+nei.inventory.delete.enable=§7Lülita kustutamis moodi
+nei.inventory.delete.1=§7Lülita kustutamis mood välja
+nei.inventory.delete.0=§7Lülita kustutamis mood sisse
+nei.inventory.rain.enable=§7Luba vihm
+nei.inventory.rain.1=§7Lülita vihm välja
+nei.inventory.rain.0=§7Lülita vihm sisse
+nei.inventory.magnet.enable=§7Lülita magneti moodi
+nei.inventory.magnet.1=§7Lülita magneti mood sisse
+nei.inventory.magnet.0=§7Lülita magneti mood välja
+nei.inventory.dawn.enable=§7Lülita hommik-keskpäev
+nei.inventory.dawn.set=§7Pane aeg hommikuks
+nei.inventory.noon.enable=§7Lülita keskpäev-õhtu
+nei.inventory.noon.set=§7Pane aeg keskpäevaks
+nei.inventory.dusk.enable=§7Lülita õhtu-ööpäev
+nei.inventory.dusk.set=§7Pane aeg õhtuks
+nei.inventory.midnight.enable=§7Lülita ööpäev-hommik
+nei.inventory.midnight.set=§7Pane aeg ööpäevaks
+nei.inventory.heal=§7Ravi mängijat
+nei.inventory.gamemode.0=§7Pane mängumood ellujäämiseks
+nei.inventory.gamemode.1=§7Pane mängumood loovaks
+nei.inventory.gamemode.2=§7Pane mängumood loovaks+
+nei.inventory.gamemode.3=§7Pane mängumood seikluseks
+
+nei.chat.gamemode.0=§7Sa mängid nüüd ellujäämises
+nei.chat.gamemode.1=§7Sa mängid nüüd loovas
+nei.chat.gamemode.2=§7Sa mängid nüüd loovas+
+nei.chat.gamemode.3=§7Sa mängid nüüd seikluses
+nei.chat.rain.on=§7Vihm sisse lülitatud
+nei.chat.rain.off=§7Vihm välja lülitatud
+nei.chat.time=§7Päev %d. %d:00
+nei.chat.give.noitem=§7Pole sellist asja olemas.
+nei.chat.chunkoverlay.0=§7Chunk Overlay: Off
+nei.chat.chunkoverlay.1=§7Chunk Overlay: Chunk Corners
+nei.chat.chunkoverlay.2=§7Chunk Overlay: Chunks
+nei.chat.chunkoverlay.3=§7Chunk Overlay: GT Ore Veins
+
+nei.options=§7NEI Valikud
+nei.options.back=§7Tagasi
+nei.options.world=§7Maailm
+nei.options.global=§7Globaalne
+nei.options.global.tip.0=§7Valikud mõjutavad kõiki maailmi
+nei.options.global.tip.1=§7Vajuta W kõrval:valiku, et ületeh:ületeha see maailm
+nei.options.wbutton.tip.0=§7Kasutab globaalseid seadeid
+nei.options.wbutton.tip.1=§7Globaalsete seadmete ületegemine
+
+nei.options.keys=§7Klahviseosed
+nei.options.keys.gui=§7Seljakott
+nei.options.keys.gui.recipe=§7Retsept
+nei.options.keys.gui.usage=§7Kasutus
+nei.options.keys.gui.enchant=§7Loitsud
+nei.options.keys.gui.potion=§7Joogid
+nei.options.keys.gui.back=§7Eel. Retsept
+nei.options.keys.gui.prev=§7Eel. Leht
+nei.options.keys.gui.next=§7Järg. Leht
+nei.options.keys.gui.hide=§7Lülita NEI nähtavust
+nei.options.keys.gui.search=§7Fokuseeri otsingu riba
+nei.options.keys.world=§7Maailm
+nei.options.keys.world.chunkoverlay=§7Chunk'i ääre ülekate
+nei.options.keys.world.moboverlay=§7Koletiste sündimis ülekate
+nei.options.keys.world.highlight_tips=§7Highlight Tooltips
+nei.options.keys.world.dawn=§7Hommik
+nei.options.keys.world.noon=§7Keskpäev
+nei.options.keys.world.dusk=§7Õhtu
+nei.options.keys.world.midnight=§7Kesköö
+nei.options.keys.world.rain=§7Vihm
+nei.options.keys.world.heal=§7Ravi
+nei.options.keys.world.creative=§7Mängumööd
+nei.options.keys.world.creative.tip=§7Tsükli mängumoodi
+
+nei.options.inventory=§7Seljakott
+nei.options.inventory.widgetsenabled.true=§7NEI lubatud
+nei.options.inventory.widgetsenabled.false=§7NEI keelatud
+nei.options.inventory.cheatmode.0=§7Retsepti mood
+nei.options.inventory.cheatmode.1=§7Utiliidi mood
+nei.options.inventory.cheatmode.2=§7Petmis mood
+nei.options.inventory.guirecipe.profile=§7Profileeri retsepte
+nei.options.inventory.guirecipe.profile.true=§7Tõene
+nei.options.inventory.guirecipe.profile.false=§7Väär
+nei.options.inventory.itemsort=§7Item Panel Sorting
+nei.options.inventory.itemIDs=§7Asja ID-d
+nei.options.inventory.itemIDs.0=§7Peidetud
+nei.options.inventory.itemIDs.1=§7Auto
+nei.options.inventory.itemIDs.2=§7Näidatud
+nei.options.inventory.search.patternMode=§7Otsimis mood
+nei.options.inventory.search.patternMode.0=§7Plain
+nei.options.inventory.search.patternMode.1=§7Extended
+nei.options.inventory.search.patternMode.2=§7Regex
+nei.options.inventory.utilities=§7Utiliidid
+nei.options.inventory.utilities.tip=§7Vali funktsioonid utiliidi moodi jaoks
+nei.options.inventory.utilities.time=§7Aeg
+nei.options.inventory.utilities.rain=§7Vihm
+nei.options.inventory.utilities.heal=§7Ravi
+nei.options.inventory.utilities.delete=§7Kustuta
+nei.options.inventory.utilities.magnet=§7Magnet
+nei.options.inventory.utilities.gamemode=§7Gamemode
+nei.options.inventory.utilities.enchant=§7Enchanting
+nei.options.inventory.utilities.potion=§7Joogid
+nei.options.inventory.utilities.item=§7Asja
+nei.options.inventory.gamemodes=§7Mängumoodid
+nei.options.inventory.gamemodes.tip=§7Vali mängumoodid millest läbi tsüklida
+nei.options.inventory.gamemodes.creative=§7Loov
+nei.options.inventory.gamemodes.creative+=§7Loov+
+nei.options.inventory.gamemodes.adventure=§7Seiklus
+
+nei.options.command=§7Käsud
+nei.options.command.creative=§7Mängumood
+nei.options.command.creative.tip=§7{0} = 1 loova jaoks, 0 ellujäämis jaoks, {1} = mängija
+nei.options.command.item=§7Item
+nei.options.command.item.tip=§7{0} = mängija, {1} = id, {2} = kogus, {3} = kahju, {4} = nbt, {5} = nimi
+nei.options.command.time=§7Time
+nei.options.command.time.tip=§7{0} = maailmaaeg
+nei.options.command.rain=§7Rain
+nei.options.command.rain.tip=§7{0} = 1 sisse jaoks, 0 välja jaoks
+nei.options.command.heal=§7Heal
+nei.options.command.heal.tip=§7{0} = mängija
+
+nei.options.world.highlight_tips=§7Tõsta esile vihjed
+nei.options.world.highlight_tips.hide=§7Peidetud
+nei.options.world.highlight_tips.show=§7Näidatud
+
+nei.options.tools=§7Töövahendid
+nei.options.tools.dump=§7Data Dumps
+nei.options.tools.dump.dump=§7Dump
+nei.options.tools.dump.dumped=§7%s IDs dumped to %s
+nei.options.tools.dump.mode.0=§7Kasutatud
+nei.options.tools.dump.mode.1=§7Vaba
+nei.options.tools.dump.mode.2=§7Kõik
+nei.options.tools.dump.item=§7Asi
+nei.options.tools.dump.items=§7Asjad
+nei.options.tools.dump.block=§7Blokk
+nei.options.tools.dump.blocks=§7Blokkid
+nei.options.tools.dump.potion=§7Jook
+nei.options.tools.dump.potions=§7Joogid
+nei.options.tools.dump.enchantment=§7Enchantment
+nei.options.tools.dump.enchantments=§7Enchantments
+nei.options.tools.dump.biome=§7Biome
+nei.options.tools.dump.biomes=§7Biomes
+nei.options.tools.dump.itempanel=§7Item Panel
+nei.options.tools.dump.itempanel.dumped=§7Item Panel contents were dumped to %s
+nei.options.tools.dump.itempanel.mode.0=§7CSV
+nei.options.tools.dump.itempanel.mode.1=§7NBT
+nei.options.tools.dump.itempanel.mode.2=§7Json
+
+
+
+
+nei.recipe.page=§7Leht %s/%s
+nei.recipe.shaped=§7Kujuga Valmistamine
+nei.recipe.shapeless=§7Kujutu Valmistamine
+nei.recipe.furnace=§7Sulatamine
+nei.recipe.fuel=§7Kütus
+nei.recipe.fuel.required=§7%s vajatud
+nei.recipe.fuel.processed=§7%s protsessitud
+nei.recipe.fuel.produced=§7%s valmistatud
+nei.recipe.firework=§7Ilutulestik
+nei.recipe.firework.tooltip0=§7Dyes add colours to the charges
+nei.recipe.firework.tooltip1=§7Recolouring adds fade colours to the charge
+nei.recipe.firework.tooltip2=§7Multiple charges can be spawned from one rocket
+nei.recipe.brewing=§7Keetmine
+nei.recipe.profiler.crafting=§7Crafting Profiling
+nei.recipe.profiler.usage=§7Usage Profiling
+
+nei.itemsort.minecraft=§7Minecraft
+nei.itemsort.minecraft.tip=§7Sorts items from vanilla minecraft first
+nei.itemsort.mod=§7Mod
+nei.itemsort.mod.tip=§7Groups items in the same mod, sorted by mod name
+nei.itemsort.id=§7Item ID
+nei.itemsort.default=§7Vaikimisi
+nei.itemsort.default.tip=§7Leave the natural ordering of each item unchanged
+nei.itemsort.damage=§7Item Damage
+nei.itemsort.name=§7Display Name

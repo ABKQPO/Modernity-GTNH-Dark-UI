@@ -1,0 +1,193 @@
+# Galacticraft Mars Language File =§7CZECH REPUBLIC CZECH
+
+# GENERAL ITEMS
+item.rawDesh.name=§7Nezpracovaný frikcní kov
+item.deshStick.name=§7Tycka z frikcního kovu
+item.ingotDesh.name=§7Ingot frikcního kovu
+item.spaceshipTier2.t2Rocket.name=§7Raketa typ 2
+item.reinforcedPlateT2.name=§7Plech pro težký provoz
+item.tier2.desc=§7Typ 2
+item.slimelingCargo.name=§7Batoh pro slizouna
+item.key.T2.name=§7Klíc typ 2
+item.compressedDesh.name=§7Válcovaný frikcní kov
+item.spaceshipTier2.cargoRocket.name=§7Nákladní raketa
+item.fluidManip.name=§7Kapalinový manipulator
+item.bucketSludge.name=§7Kyblík infikovaného bláta
+fluid.bacterialsludge=§7Infikované bláto
+
+# TOOLS
+item.deshPick.name=§7Krumpác z frikcního kovu
+item.deshPickSlime.name=§7Lepivý krumpác z frikcního kovu
+item.deshAxe.name=§7Sekera z frikcního kovu
+item.deshHoe.name=§7Motyka z frikcního kovu
+item.deshSpade.name=§7Lopata z frikcního kovu
+item.deshSword.name=§7Mec z frikcního kovu
+
+# ARMOR
+item.deshHelmet.name=§7Helma z frikcního kovu
+item.deshChestplate.name=§7Hrudní chránic z frikcního kovu
+item.deshLeggings.name=§7Kalhoty z frikcního kovu
+item.deshBoots.name=§7Boty z frikcního kovu
+
+# BLOCKS
+tile.mars.deshmars.name=§7Ruda frikcního kovu
+tile.mars.coppermars.name=§7Medená ruda
+tile.mars.tinmars.name=§7Cínová ruda
+tile.mars.ironmars.name=§7Železná ruda
+tile.mars.marscobblestone.name=§7Dlažební kámen
+tile.mars.marsstone.name=§7Kámen
+tile.mars.marsdirt.name=§7Podpovrchový kámen
+tile.mars.marsgrass.name=§7Povrchový kámen
+tile.mars.marsdeco.name=§7Blok z frikcního kovu
+tile.mars.marsdungeon.name=§7Zed dungeonu
+tile.treasureT2.name=§7Pokladnice typ 2
+tile.slimelingEgg.redEgg.name=§7Cervené vejce slizouna
+tile.slimelingEgg.blueEgg.name=§7Modré vejce slizouna
+tile.slimelingEgg.yellowEgg.name=§7Žluté vejce slizouna
+tile.marsMachine.0.name=§7Terraformer
+tile.marsMachine.1.name=§7Stázová komora
+tile.marsMachine.2.name=§7Odpalovac
+tile.marsMachine.4.name=§7Zkapalnovac
+tile.marsMachine.5.name=§7Syntetizér metanu
+tile.marsMachine.6.name=§7Vodní electrolyzér
+tile.hydrogenPipe.name=§7Vodíková trubka
+tile.sludge.name=§7Infikované bláto
+tile.creeperEgg.name=§7Vejce creepra
+tile.cavernVines.name=§7Jeskyní réva
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7Schody z dlažebního kamene
+tile.wallGC.mars.name=§7Stěna z dlažebního kamene
+tile.slabGCHalf.marsSlab.name=§7Podlaha z dlažebního kamene
+tile.marsDungeonBricksStairs.name=§7Zděné schody (dungeon)
+tile.wallGC.marsBricks.name=§7Zděná stěna (dungeon)
+tile.slabGCHalf.marsBricksSlab.name=§7Zděná podlaha (dungeon)
+
+# GUI
+gui.choosePlanet.desc.mars=§7Obyvatelný#Žádný kyslík#Gravitace: 38%
+item.deshPickSlime.description.name=§7Muže sbírat vejce slizouna
+gui.message.noEnergy.name=§7Nedostatek energie
+gui.message.noWater.name=§7Nedostatek vody
+gui.message.noBonemeal.name=§7Nedostatek kostní drene
+gui.message.noSeeds.name=§7Nedostatek obylí
+gui.message.noSaplings.name=§7Nedostatek rostlin
+gui.message.bubbleExp.name=§7Bublina se zvetšuje
+gui.message.noValidBlocks.name=§7Špatné bloky v bubline
+gui.message.terraforming.name=§7Terraformuje
+gui.message.enableTrees.name=§7Povolit stromy
+gui.message.enableGrass.name=§7Povolit trávu
+gui.message.trees.name=§7Stromy
+gui.message.grass.name=§7Tráva
+gui.message.invalidFreq.name=§7Neplatná frekvence
+gui.message.frequency.name=§7Frekvence
+gui.message.destFrequency.name=§7Cílová frekvence
+gui.message.removePad.name=§7Odstranit
+gui.message.launchWhen.name=§7Odstartovat když
+gui.message.cargoUnloaded.name=§7Náklad vyložen
+gui.message.cargoFull.name=§7Plne naloženo
+gui.message.fullyFueled.name=§7Plná nádrž
+gui.message.instant.name=§7Okamžite
+gui.message.tenSec.name=§710 sekund
+gui.message.thirtySec.name=§730 sekund
+gui.message.oneMin.name=§71 minuta
+gui.message.redstoneSig.name=§7Signál
+gui.message.notSet.name=§7Nenastaveno
+gui.message.notEnough.name=§7Nedostatek
+gui.message.success.name=§7Úspech
+gui.message.zeroWater.name=§7Chybí voda!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7Unikátní frekvence$tohoto odpalovace
+gui.launchController.desc.1=§7Frekvence pro vypuštení rakety na
+gui.launchController.desc.2=§7Má býd odstranen$po odpálení rakety
+gui.launchController.desc.3=§7Po splnení kritérií$bude vypuštena raketa
+gui.launchController.desc.4=§7Skrýt cílové frekvence$ostatních hráčů
+gui.terraformer.desc.0=§7Nadrž na vodu
+
+gui.gasTank.desc.0=§7Plynová nádrž
+gui.gasTankCompressed.desc.0=§7Zásobárna stlačeného plynu
+gui.liquidTank.desc.0=§7Nádrž na kapaliny
+gui.status.nogas.name=§7Žádný plyn
+gui.status.liquefying.name=§7Zkapalnuje
+gui.status.processing.name=§7Syntetizuje
+gui.status.needsCarbon.name=§7Potrebuje uhlík
+gui.status.tankfull.name=§7Lahev plná
+gui.status.tanksfull.name=§7Lahve plné
+gui.message.lowEnergy.name=§7Málo energie
+gui.button.liquefy.name=§7Proces
+gui.button.liquefyStop.name=§7Stop
+gui.gasInput.desc.0=§7Zkuste sem vložit$lahev s plynem
+gui.gasInput.desc.1=§7(poprípadne,$atmosferický ventil)
+gui.hydrogenInput.desc.0=§7Toto vyžaduje lahev vodíku
+gui.hydrogenInput.desc.1=§7nebo atmosferický ventil
+gui.liquidOutput.desc.2=§7nádoba se zkapalneným plynem
+gui.methaneOutput.desc.2=§7nádoba na metan
+gui.message.withAtmosphere0.name=§7na planete s velkým obsahem metanu
+gui.message.withAtmosphere1.name=§7v atmosfére
+item.carbonFragments.name=§7Drcený uhlík
+gui.carbonSlot.desc.0=§7Patří sem drcený uhlík
+gui.waterBucketSlot.desc=§7Vložte sem kbelíky vody
+
+gui.cargorocket.status.waiting.0=§7Cekám na odpalovací
+gui.cargorocket.status.waiting.1=§7sekvenci.
+gui.cargorocket.status.launched.0=§7Již
+gui.cargorocket.status.launched.1=§7odpáleno.
+
+gas.carbondioxide.name=§7Oxid uhlicitý
+gas.oxygen.name=§7Kyslík
+gas.nitrogen.name=§7Dusík
+
+gui.desc.reinforcedPlateT2.name=§7Typ 2
+dimension.Mars.name=§7Mars
+planet.mars=§7Mars
+
+tile.treasureT2.description=§7Pokladnice typu 2 jsou k nalezení v dungeonech na Marsu. Lze je odemknout po zabití bosse.
+tile.cavernVines.description=§7Jeskyní réva je nebezpecný živý organismus, který omotá hráce a táhne ho nahoru.
+tile.slimelingEgg.description=§7Vejce slizouna, pokud jsou rozbita hrácovou rukou, tak se z nich vylíhne brzy mazlícek.
+tile.cryoChamber.description=§7Kryogenická komora dovolí hráci spát pres den, uzdravovat se ze zranení, ale vyžaduje cas pro znovu nabití.
+tile.launchController.description=§7Odpalovace se využívají pro úpravu chování startu, tím, že umožnují nastavení kritérií pro odpálení a cíl, tak se nabízí možnost využití pro automatické starty.
+tile.terraformer.description=§7Terraformery umožnují premenit cásti cizích planet na prostredí podobné zemi. Vytvárí trávu, stromy a vodu pokud dostane správné suroviny.
+tile.creeperEgg.description=§7Vejce creepera je k nalezení v dungeonech na Marsu, vylíhne se z nej predátor pripravený explodovat.
+tile.gasLiquefier.description=§7Zkapalnené plyny, budto z atmosféry nebo tlakových lahví. Kapalný metan je dobré raketové palivo!
+tile.methaneSynthesizer.description=§7Se zdrojem vodíku a uhlíku vyrábí Metan pro další zpracování ve zkapalnovaci.
+tile.electrolyzer.description=§7Vyrábí z vody kyslík a vodík (používá se v syntetizéru metanu).
+tile.hydrogenPipe.description=§7Vodíková trubka dopravuje vodík mezi stroji.
+
+gui.slimeling.chat.wrongPlayer=§7Tohle není muj slizoun!
+gui.cryogenic.chat.cantUse=§7Nemohu to použít dalších %d vterin.
+gui.slimeling.name=§7Jméno
+gui.slimeling.owner=§7Vlastník
+gui.slimeling.kills=§7Zabil
+gui.slimeling.scale=§7Merítko
+gui.slimeling.button.sit=§7Sedni!
+gui.slimeling.button.follow=§7Následuj me!
+gui.slimeling.sitting=§7Sedí
+gui.slimeling.following=§7Sleduje
+gui.slimeling.damage=§7Poškození
+gui.slimeling.food=§7Oblíbené jídlo
+
+# SCHEMATICS
+schematic.rocketT3.name=§7Raketa typ 3
+schematic.cargoRocket.name=§7Automatická nákladní raketa
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Nákladní raketa
+entity.GalacticraftMars.CreeperBoss.name=§7Vyvinutý creeper - Boss
+entity.GalacticraftMars.LandingBalloons.name=§7Přistávací balóny
+entity.GalacticraftMars.Slimeling.name=§7Slizoun
+entity.GalacticraftMars.Sludgeling.name=§7Bahenní vcela
+entity.GalacticraftMars.SpaceshipT2.name=§7Raketa typ 2
+
+# CONTAINERS
+container.launchcontroller.name=§7Odpalovací zarízení
+container.tileTerraformer.name=§7Terraformer
+container.marsLander.name=§7Přistávací balóny
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7Císlo dimenze Marsu
+gc.configgui.idSchematicRocketT2=§7Císlo schématu rakety typu 2
+gc.configgui.idSchematicCargoRocket=§7Císlo schématu nákladní rakety
+gc.configgui.launchControllerChunkLoad=§7Nacítání oblasti odpalovace
+gc.configgui.launchControllerAllDims=§7Odpalovace ve všech dimenzích
+
+gc.configgui.planets.title=§7Nastavení planet Galacticraftu

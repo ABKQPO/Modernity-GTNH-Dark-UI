@@ -1,0 +1,190 @@
+nei.load=§7Wczytaj
+nei.save=§7Zapisz
+
+nei.enchant=§7Zaklęcie
+nei.enchant.level=§7Poziom
+nei.enchant.locked=§7Zablokowane
+nei.enchant.unlocked=§7Odblokowane
+
+nei.inventory.options=§7Opcje
+nei.inventory.prev=§7Poprzednie
+nei.inventory.next=§7Następne
+nei.inventory.item_subsets=§7Podzestawy przedmiotów
+nei.inventory.delete.inv=§7USUŃ WSZYSTKE PRZEDMIOTY z obecnego ekranu ekwipunku
+nei.inventory.delete.one=§7Usuń %s
+nei.inventory.delete.all=§7Usuń WSZYSTKIE %s
+nei.inventory.delete.enable=§7Zezwól na tryb usuwania
+nei.inventory.delete.1=§7Włącz tryb usuwania
+nei.inventory.delete.0=§7Wyłącz tryb usuwania
+nei.inventory.rain.enable=§7Zezwól na deszcz
+nei.inventory.rain.1=§7Włącz deszcz
+nei.inventory.rain.0=§7Wyłącz deszcz
+nei.inventory.magnet.enable=§7Zezwól na tryb magnesu
+nei.inventory.magnet.1=§7Włącz tryb magnesu
+nei.inventory.magnet.0=§7Wyłącz tryb magnesu
+nei.inventory.dawn.enable=§7Zezwól na świt-południe
+nei.inventory.dawn.set=§7Ustaw czas na świt
+nei.inventory.noon.enable=§7Zezwól na południe-wieczór
+nei.inventory.noon.set=§7Ustaw czas na południe
+nei.inventory.dusk.enable=§7Zezwól na wieczór-północ
+nei.inventory.dusk.set=§7Ustaw czas na wieczór
+nei.inventory.midnight.enable=§7Zezwól na północ-świt
+nei.inventory.midnight.set=§7Ustaw czas na północ
+nei.inventory.heal=§7Wylecz gracza
+nei.inventory.gamemode.0=§7Ustaw tryb gry na przetrwanie
+nei.inventory.gamemode.1=§7Ustaw tryb gry na kreatywny
+nei.inventory.gamemode.2=§7Ustaw tryb gry na kreatywny+
+nei.inventory.gamemode.3=§7Ustaw tryb gry na przygody
+
+nei.chat.gamemode.0=§7Grasz teraz w trybie przetrwania
+nei.chat.gamemode.1=§7Grasz teraz w trybie kreatywnym
+nei.chat.gamemode.2=§7Grasz teraz w trybie kreatywnym+
+nei.chat.gamemode.3=§7Grasz teraz w trybie przygody
+nei.chat.rain.on=§7Deszcz włączony
+nei.chat.rain.off=§7Deszcz wyączony
+nei.chat.time=§7Dzień %d. %d:00
+nei.chat.give.noitem=§7Nie ma takego przedmiotu.
+nei.chat.chunkoverlay.0=§7Chunk Overlay: Off
+nei.chat.chunkoverlay.1=§7Chunk Overlay: Chunk Corners
+nei.chat.chunkoverlay.2=§7Chunk Overlay: Chunks
+nei.chat.chunkoverlay.3=§7Chunk Overlay: GT Ore Veins
+
+nei.options=§7Opcje NEI
+nei.options.back=§7Wstecz
+nei.options.world=§7Światowe
+nei.options.global=§7Globalne
+nei.options.global.tip.0=§7Opcje działają we wszystkich światach
+nei.options.global.tip.1=§7Naciśnij 'W' obok opcji by włączyć nadpis dla tego świata
+nei.options.wbutton.tip.0=§7Używanie ustawień globalnych
+nei.options.wbutton.tip.1=§7Nadpisywanie ustawienia globalnego
+
+nei.options.keys=§7Ustawienia klawiszy
+nei.options.keys.gui=§7Ekwipunek
+nei.options.keys.gui.recipe=§7Recepta
+nei.options.keys.gui.usage=§7Użytek
+nei.options.keys.gui.enchant=§7Zaklęcia
+nei.options.keys.gui.potion=§7Eleksiry
+nei.options.keys.gui.back=§7Poprzednia recepta
+nei.options.keys.gui.prev=§7Poprzednia strona
+nei.options.keys.gui.next=§7Następna strona
+nei.options.keys.gui.hide=§7Przełącz widzialność NEI
+nei.options.keys.gui.search=§7Ustaw ostrość na pasek wyszukiwania
+nei.options.keys.world=§7Świat
+nei.options.keys.world.chunkoverlay=§7Nakładka granic chunków
+nei.options.keys.world.moboverlay=§7Nakładka pojawiania się mobów
+nei.options.keys.world.highlight_tips=§7Podpowiedzi podświetleń
+nei.options.keys.world.dawn=§7Świt
+nei.options.keys.world.noon=§7Południe
+nei.options.keys.world.dusk=§7Zmierzch
+nei.options.keys.world.midnight=§7Północ
+nei.options.keys.world.rain=§7Deszcz
+nei.options.keys.world.heal=§7Uleczenie
+nei.options.keys.world.creative=§7Tryb gry
+nei.options.keys.world.creative.tip=§7Przecykluj tryb gry
+
+nei.options.inventory=§7Ekwipunek
+nei.options.inventory.widgetsenabled.true=§7NEI włączone
+nei.options.inventory.widgetsenabled.false=§7NEI wyłączone
+nei.options.inventory.cheatmode.0=§7Tryb recept
+nei.options.inventory.cheatmode.1=§7Tryb użytku
+nei.options.inventory.cheatmode.2=§7Tryb oszukiwania
+
+nei.options.inventory.guirecipe.profile=§7Profiluj recepty
+nei.options.inventory.guirecipe.profile.true=§7Tak
+nei.options.inventory.guirecipe.profile.false=§7Nie
+nei.options.inventory.itemsort=§7Sortowanie paelu przedmiotów
+nei.options.inventory.itemIDs=§7ID przedmiotów
+nei.options.inventory.itemIDs.0=§7Ukryte
+nei.options.inventory.itemIDs.1=§7Automatyczne
+nei.options.inventory.itemIDs.2=§7Pokazane
+nei.options.inventory.search.patternMode=§7Tryb wyszukiwania
+nei.options.inventory.search.patternMode.0=§7Prosty
+nei.options.inventory.search.patternMode.1=§7Rozszerzony
+nei.options.inventory.search.patternMode.2=§7Wyrażenia regularne
+nei.options.inventory.utilities=§7Narzędzia
+nei.options.inventory.utilities.tip=§7Wybierz cechy trybu użytkowego
+nei.options.inventory.utilities.time=§7Czas
+nei.options.inventory.utilities.rain=§7Deszcz
+nei.options.inventory.utilities.heal=§7Leczenie
+nei.options.inventory.utilities.delete=§7Usuwanie
+nei.options.inventory.utilities.magnet=§7Magnes
+nei.options.inventory.utilities.gamemode=§7Tryb gry
+nei.options.inventory.utilities.enchant=§7Zaklinanie
+nei.options.inventory.utilities.potion=§7Elikiry
+nei.options.inventory.utilities.item=§7Przedmioty
+nei.options.inventory.gamemodes=§7Tryby gry
+nei.options.inventory.gamemodes.tip=§7Ustaw tryby gry przez które przecyklowywać
+nei.options.inventory.gamemodes.creative=§7Kreatywny
+nei.options.inventory.gamemodes.creative+=§7Kreatywny+
+nei.options.inventory.gamemodes.adventure=§7Przygodowy
+
+nei.options.command=§7Komendy
+nei.options.command.creative=§7Tryb gry
+nei.options.command.creative.tip=§7{0} = 1 - kreatywny, 0 - przetrwania, {1} = gracz
+nei.options.command.item=§7Przedmiot
+nei.options.command.item.tip=§7{0} = gracz, {1} = id, {2} = ilość, {3} = obrażenia, {4} = NBT, {5} = nazwa
+nei.options.command.time=§7Czas
+nei.options.command.time.tip=§7{0} = czas świata
+nei.options.command.rain=§7Deszcz
+nei.options.command.rain.tip=§7{0} = 1 - włączony, 0 - wyłączony
+nei.options.command.heal=§7Leczenie
+nei.options.command.heal.tip=§7{0} = gracz
+
+nei.options.world.highlight_tips=§7Podpowiedzi podświetleń
+nei.options.world.highlight_tips.hide=§7Ukryte
+nei.options.world.highlight_tips.show=§7Pokazane
+
+nei.options.tools=§7Narzędzia
+nei.options.tools.dump=§7Zrzuty danych
+nei.options.tools.dump.dump=§7Zrzuć
+nei.options.tools.dump.dumped=§7Zrzucono %s ID do %s
+nei.options.tools.dump.mode.0=§7Użyte
+nei.options.tools.dump.mode.1=§7Wolne
+nei.options.tools.dump.mode.2=§7Wszystkie
+nei.options.tools.dump.item=§7Przedmiot
+nei.options.tools.dump.items=§7Przedmioty
+nei.options.tools.dump.block=§7Blok
+nei.options.tools.dump.blocks=§7Bloki
+nei.options.tools.dump.potion=§7Mikstura
+nei.options.tools.dump.potions=§7Mikstury
+nei.options.tools.dump.enchantment=§7Zaklęcie
+nei.options.tools.dump.enchantments=§7Zaklęcia
+nei.options.tools.dump.biome=§7Biom
+nei.options.tools.dump.biomes=§7Biomy
+nei.options.tools.dump.itempanel=§7Panel przedmiotów
+nei.options.tools.dump.itempanel.dumped=§7Zawartość panela przedmiotów zrzucone do %s
+nei.options.tools.dump.itempanel.mode.0=§7CSV
+nei.options.tools.dump.itempanel.mode.1=§7NBT
+nei.options.tools.dump.itempanel.mode.2=§7Json
+nei.options.tools.dump.itempanel.mode.3=§7PNG
+nei.options.tools.dump.itempanel.icon.dumped=§7Ikony panelu przedmiotów zrzucone do %s
+nei.options.tools.dump.itempanel.icon.cancelled=§7Zrzut anulowany
+
+
+
+
+nei.recipe.page=§7Strona %s/%s
+nei.recipe.shaped=§7Kształtne wytwarzanie
+nei.recipe.shapeless=§7Bezkształtne wytwarzanie
+nei.recipe.furnace=§7Wytapianie
+nei.recipe.fuel=§7Paliwo
+nei.recipe.fuel.required=§7%s wymagane
+nei.recipe.fuel.processed=§7%s przetowrzone
+nei.recipe.fuel.produced=§7%s wytworzone
+nei.recipe.firework=§7Fajerwerki
+nei.recipe.firework.tooltip0=§7Barwniki dodają kolorów do ładunków
+nei.recipe.firework.tooltip1=§7Przekolorowywanie dodaje ładunkowi kolory zanikania
+nei.recipe.firework.tooltip2=§7Wiele ładunków może zostać przywołanych z jednej rakiety
+nei.recipe.brewing=§7Warzenie
+nei.recipe.profiler.crafting=§7Profilowanie wytwarzania
+nei.recipe.profiler.usage=§7Użyj profilowania
+
+nei.itemsort.minecraft=§7Minecraft
+nei.itemsort.minecraft.tip=§7Sortuje najpierw przedmioty z Minecraft'a
+nei.itemsort.mod=§7Mod
+nei.itemsort.mod.tip=§7Grupuje przedmioty z tego samego moda, sotrowanie przez nazwę moda
+nei.itemsort.id=§7ID przedmiotów
+nei.itemsort.default=§7Domyślne
+nei.itemsort.default.tip=§7Zostaw naturalny porządek przedmiotów niezmieniony
+nei.itemsort.damage=§7Obrażenia przedmiotu
+nei.itemsort.name=§7nazwa pokazywana

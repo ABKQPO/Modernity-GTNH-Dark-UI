@@ -1,0 +1,758 @@
+# =§7=====================================
+				BLOCK GUI
+# =§7=====================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Kar Assemblage
+gui.SC2:basicAssembleInstruction=§7Om de assemblage te starten plaats je de Kar Frame in het Kar Frame Slot.
+gui.SC2:invalidHullError=§7De ingevoerde Kar Frame is niet geldig. Dit zou niet mogelijk moeten zijn dus je hebt waarschijnlijk iets fout gedaan.
+gui.SC2:hullCapacity=§7Frame capaciteit
+gui.SC2:complexityCap=§7Complexiteit cap
+gui.SC2:totalCost=§7Totale kosten
+gui.SC2:totalTime=§7Totale Tijd
+gui.SC2:readyMessage=§7Klaar om de assemblage te starten!
+gui.SC2:assembleProgress=§7Voortgang
+gui.SC2:timeLeft=§7Tijd resterend
+gui.SC2:idleAssemblerMessage=§7De Kar Assemblage staat te wachten
+gui.SC2:modifyCart=§7Modificeer kar
+gui.SC2:assembleCart=§7Assembleer kar
+gui.SC2:fuelLevel=§7Hoeveelheid brandstof
+
+gui.SC2:noHullError=§7Je hebt geen Frame
+gui.SC2:invalidHullErrorShort=§7Ingevoerde Frame is geen Frame!
+gui.SC2:busyAssemblerError=§7De Assemblage is bezig!
+gui.SC2:departureBayError=§7Er staat een Kar in het Vertrek ruim.
+
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Beheerder
+gui.SC2:currentSetting=§7Huidig
+gui.SC2:changeTransferDirection=§7Verander overdracht richting
+gui.SC2:directionToCart=§7Naar de kar
+gui.SC2:directionFromCart=§7Van de kar
+gui.SC2:changeTurnBack=§7Verander terug komst instellingen
+gui.SC2:turnBackDisabled=§7Geen zijde geselecteerd
+gui.SC2:turnBack=§7Kom terug na overdracht
+gui.SC2:continueForward=§7Ga verder na overdracht
+gui.SC2:changeTransferSize=§7Verander overdracht zijde
+gui.SC2:changeSide=§7Verander zijde
+gui.SC2:currentSide=§7Huidig
+gui.SC2:sideRed=§7Rood
+gui.SC2:sideBlue=§7Blauw
+gui.SC2:sideYellow=§7Geel
+gui.SC2:sideGreen=§7Groen
+gui.SC2:sideDisabled=§7Uitgeschakeld
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Vracht
+gui.SC2:changeSlotLayout=§7Verander slot indeling
+gui.SC2:layoutShared=§7Alle slots worden gedeeld door alle zijdes
+gui.SC2:layoutSide=§7Elke zijde heeft zijn eigen slots
+gui.SC2:layoutColor=§7Elke kleur heeft zijn eigen slots
+gui.SC2:transferAll=§7Zo veel mogelijk overdragen
+gui.SC2:transferItems=§7Maximaal [%1] [%2:item|items] overdragen
+gui.SC2:transferStacks=§7Maximaal [%1] [%2:stack|stacks] overdragen
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Verander de module van de kar
+gui.SC2:unknownAreaMessage=§7Niet bekende instelling
+gui.SC2:cartAreaAll=§7Alle sloten
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Spoor legger
+gui.SC2:cartAreaStorage=§7Opslag slot
+gui.SC2:cartAreaTorches=§7Fakkels
+gui.SC2:cartAreaExplosives=§7Explosieven
+gui.SC2:cartAreaArrows=§7Pijlen
+gui.SC2:cartAreaBridge=§7Brug materiaal
+gui.SC2:cartAreaSeeds=§7Zaden
+gui.SC2:cartAreaFertilizer=§7Bemesting
+gui.SC2:cartAreaSaplings=§7Kiemplant
+gui.SC2:cartAreaFirework=§7Vuurwerk
+gui.SC2:cartAreaBuckets=§7Emmers (for melker)
+gui.SC2:cartAreaCakes=§7Taarten
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Vloeistof
+gui.SC2:changeTankLayout=§7Verander reservoir indeling
+gui.SC2:layoutSharedTanks=§7Alle reservoir worden gedeeld door alle zijdes
+gui.SC2:layoutSidedTanks=§7Elke zijde heeft zijn eigen reservoir
+gui.SC2:layoutColorTanks=§7Elke kleur heeft zijn eigen reservoir(s)
+gui.SC2:transferAllLiquid=§7Zo veel mogelijk overdragen
+gui.SC2:transferBuckets=§7Maximaal [%1] overdragen
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Module schakelaar
+gui.SC2:optionDrill=§7Boor
+gui.SC2:optionShield=§7Schild
+gui.SC2:optionInvisibility=§7Onzichtbaarheid
+gui.SC2:optionChunk=§7Chunk laden
+gui.SC2:optionCageAuto=§7Pak kooi automatisch op
+gui.SC2:optionCage=§7Pak kooi op
+gui.SC2:settingDisabled=§7Uitgeschakeld
+gui.SC2:settingOrange=§7Richting oranje
+gui.SC2:settingBlue=§7Richting blauw
+gui.SC2:stateActivate=§7Activeer
+gui.SC2:stateDeactivate=§7Deactiveer
+gui.SC2:stateToggle=§7Schakel
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Externe Verdeler
+gui.SC2:distributorNotConnected=§7Niet verbonden aan een Beheerder!
+gui.SC2:sideName=§7[%1] zijde
+gui.SC2:dropInstruction=§7Hier neer zetten om instelling toe te voegen
+gui.SC2:removeInstruction=§7Klik rechts om te verwijderen
+gui.SC2:distributorAll=§7Alles
+gui.SC2:distributorRed=§7Rood
+gui.SC2:distributorBlue=§7Blauw
+gui.SC2:distributorYellow=§7Geel
+gui.SC2:distributorGreen=§7Groen
+gui.SC2:distributorTopLeft=§7Links Boven
+gui.SC2:distributorTopRight=§7Rechts Boven
+gui.SC2:distributorBottomLeft=§7Links Onder
+gui.SC2:distributorBottomRight=§7Rechts Onder
+gui.SC2:distributorToCart=§7Naar Kar
+gui.SC2:distributorFromCart=§7Van Kar
+gui.SC2:managerTop=§7Beheerder Boven
+gui.SC2:managerBot=§7Beheerder Onder
+gui.SC2:distributorSideOrange=§7Oranje
+gui.SC2:distributorSidePurple=§7Paars
+gui.SC2:distributorSideYellow=§7Geel
+gui.SC2:distributorSideGreen=§7Groen
+gui.SC2:distributorSideBlue=§7Blauw
+gui.SC2:distributorSideRed=§7Rood
+gui.SC2:sideToolTip=§7Zijde: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7UITVOER
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Eenheid Boven
+gui.SC2:operatorBotUnit=§7Eenheid Onder
+gui.SC2:operatorNorthUnit=§7Eenheid Noord
+gui.SC2:operatorWestUnit=§7Eenheid West
+gui.SC2:operatorSouthUnit=§7Eenheid Zuid
+gui.SC2:operatorEastUnit=§7Eenheid Oost
+gui.SC2:operatorRedstone=§7Redstone Invoer
+gui.SC2:operatorRedstoneTop=§7Redstone Invoer Boven
+gui.SC2:operatorRedstoneBot=§7Redstone Invoer Onder
+gui.SC2:operatorRedstoneNorth=§7Redstone Invoer Noord
+gui.SC2:operatorRedstoneWest=§7Redstone Invoer West
+gui.SC2:operatorRedstoneSouth=§7Redstone Invoer Zuid
+gui.SC2:operatorRedstoneEast=§7Redstone Invoer Oost
+gui.SC2:stateRails=§7Heeft spoor benodigdheden
+gui.SC2:stateTorches=§7Heeft fakkel benodigdheden
+gui.SC2:stateSaplings=§7Heeft kiemplant benodigdheden
+gui.SC2:sateSeeds=§7Heeft zaad benodigdheden
+gui.SC2:stateBridge=§7Heeft brug benodigdheden
+gui.SC2:stateProjectiles=§7Heeft projectiel benodigdheden
+gui.SC2:stateFertilizing=§7Heeft bemesting benodigdheden
+gui.SC2:stateShield=§7Is schild actief
+gui.SC2:stateChunk=§7Is chunk lader actief
+gui.SC2:stateInvisibility=§7Is onzichtbaarheids kern actief
+gui.SC2:stateDrill=§7Is boor actief
+gui.SC2:stateCage=§7Is automatisch oppakken actief
+gui.SC2:stateStorageFull=§7Is opslag compleet vol
+gui.SC2:stateStorageEmpty=§7Is opslag compleet leeg
+gui.SC2:statePassenger=§7Heeft passagier
+gui.SC2:stateAnimal=§7Heeft dierlijke passagier
+gui.SC2:stateTameable=§7Heeft tembare passagier
+gui.SC2:stateBreedable=§7Heeft broedbare passagier
+gui.SC2:stateHostile=§7Heeft vijandige passagier
+gui.SC2:stateCreeper=§7Heeft creeper als passagier
+gui.SC2:stateSkeleton=§7Heeft skelet als passagier
+gui.SC2:stateSpider=§7Heeft spin als passagier
+gui.SC2:stateZombie=§7Heeft zombie als passagier
+gui.SC2:stateZombiePigMan=§7Heeft zombievarken als passagier
+gui.SC2:stateSilverFish=§7Heeft zilvervis als passagier
+gui.SC2:stateBlaze=§7Heeft blaze als passagier
+gui.SC2:stateBat=§7Heeft vleermuis als passagier
+gui.SC2:stateWitch=§7Heeft heks als passagier
+gui.SC2:statePig=§7Heeft varken als passagier
+gui.SC2:stateSheep=§7Heeft schaap als passagier
+gui.SC2:stateCow=§7Heeft koe als passagier
+gui.SC2:stateMooshroom=§7Heeft loeizwam als passagier
+gui.SC2:stateChicken=§7Heeft kip als passagier
+gui.SC2:stateWolf=§7Heeft wolf als passagier
+gui.SC2:stateSnowGolem=§7Heeft sneeuwman als passagier
+gui.SC2:stateOcelot=§7Heeft ocelot als passagier
+gui.SC2:stateVillager=§7Heeft dorpeling als passagier
+gui.SC2:statePlayer=§7Heeft speler als passagier
+gui.SC2:stateZombieVillager=§7Heeft zombie dorpeling als passagier
+gui.SC2:stateChild=§7Heeft kind als passagier
+gui.SC2:stateTamed=§7Heeft tamme passagier
+gui.SC2:statePowerRed=§7Is Kracht Waarnemer[Rood] actief
+gui.SC2:statePowerBlue=§7Is Kracht Waarnemer[Blauw] actief
+gui.SC2:statePowerGreen=§7Is Kracht Waarnemer[Groen] actief
+gui.SC2:statePowerYellow=§7Is Kracht Waarnemer[Geel] actief
+gui.SC2:stateTanksFull=§7Zijn de reservoirs volledig vol
+gui.SC2:stateTanksEmpty=§7Zijn de reservoirs volledig leeg
+gui.SC2:stateTankEmpty=§7Is er een volledig lege reservoir
+
+
+# =§7=====================================
+				ITEMS
+# =§7=====================================
+
+# Carts
+item.SC2:ModularCart.name=§7Module kar
+
+# Modules
+item.SC2:unknownmodule.name=§7Onbekende SC2 module
+item.SC2:coal_engine.name=§7Kool Motor
+item.SC2:solar_engine.name=§7Zonne Motor
+item.SC2:side_chests.name=§7Zijkant Kisten
+item.SC2:top_chest.name=§7Bovenkant Kist
+item.SC2:front_chest.name=§7Voorkant Kist
+item.SC2:internal_storage.name=§7Interne Opslag
+item.SC2:extracting_chests.name=§7Uittrekkende Kist
+item.SC2:torch_placer.name=§7Fakkel Zetter
+item.SC2:basic_drill.name=§7Basis Boor
+item.SC2:galgadorian_drill.name=§7Galgadorian Boor
+item.SC2:railer.name=§7Spoor Legger
+item.SC2:large_railer.name=§7Grote Spoor Legger
+item.SC2:bridge_builder.name=§7Brug Bouwer
+item.SC2:track_remover.name=§7Spoor Verwijderaar
+item.SC2:basic_farmer.name=§7Basis Landbouwer
+item.SC2:basic_wood_cutter.name=§7Basis Hout Hakker
+item.SC2:hydrator.name=§7Bevochtiger
+item.SC2:height_controller.name=§7Hoogte Controller
+item.SC2:fertilizer.name=§7Bemester
+item.SC2:entity_detector_animal.name=§7Entiteit Detector: Dier
+item.SC2:liquid_sensors.name=§7Vloeistof Sensors
+item.SC2:entity_detector_villager.name=§7Entiteit Detector: Dorpeling
+item.SC2:entity_detector_player.name=§7Entiteit Detector: Speler
+item.SC2:seat.name=§7Stoel
+item.SC2:entity_detector_monster.name=§7Entiteit Detector: Monster
+item.SC2:advanced_control_system.name=§7Geavanceerd Controle System
+item.SC2:brake_handle.name=§7Rem Hendel
+item.SC2:advanced_shooter.name=§7Geavanceerde Schieter
+item.SC2:shooter.name=§7Schieter
+item.SC2:dynamite_carrier.name=§7Dynamiet Drager
+item.SC2:cleaning_machine.name=§7Reinigings Machine
+item.SC2:extreme_melter.name=§7Uiterst Hete Smelter
+item.SC2:divine_shield.name=§7Goddelijk Schild
+item.SC2:melter.name=§7Smelter
+item.SC2:standard_hull.name=§7Standard Frame
+item.SC2:reinforced_hull.name=§7Versterkt Frame
+item.SC2:invisibility_core.name=§7Onzichtbaarheids Kern
+item.SC2:wooden_hull.name=§7Houten Frame
+item.SC2:iron_drill.name=§7Ijzeren Boor
+item.SC2:hardened_drill.name=§7Verharde Boor
+item.SC2:note_sequencer.name=§7Noot Arrangeerder
+item.SC2:colorizer.name=§7Verkleuring
+item.SC2:pumpkin_chariot.name=§7Pompoen Strijdwagen
+item.SC2:tiny_coal_engine.name=§7Kleine Kool Motor
+item.SC2:basic_solar_engine.name=§7Basis Zonne Motor
+item.SC2:projectile_potion.name=§7Projectiel: Drank
+item.SC2:gift_storage.name=§7Kado Opslag
+item.SC2:chunk_loader.name=§7Chunk Lader
+item.SC2:entity_detector_bat.name=§7Entiteit Detector: Vleermuis
+item.SC2:freezer.name=§7Bevriezer
+item.SC2:projectile_snowball.name=§7Projectiel: Sneeuwbal
+item.SC2:projectile_egg.name=§7Projectiel: Ei
+item.SC2:projectile_fire_charge.name=§7Projectiel: Vuurbal
+item.SC2:firework_display.name=§7Vuurwerk Demonstratie
+item.SC2:crop_nether_wart.name=§7Gewas: Netherkruid
+item.SC2:cage.name=§7Kooi
+item.SC2:compact_solar_engine.name=§7Compacte Zonne Motor
+item.SC2:internal_tank.name=§7Intern Reservoir
+item.SC2:mechanical_pig.name=§7Mechanisch Varken
+item.SC2:creative_engine.name=§7Creative Motor
+item.SC2:incinerator.name=§7Verbrander
+item.SC2:thermal_engine.name=§7Thermische Motor
+item.SC2:advanced_thermal_engine.name=§7Geavanceerde Thermische Motor
+item.SC2:liquid_cleaner.name=§7Vloeistof Reiniger
+item.SC2:side_tanks.name=§7Zijkant Reservoirs
+item.SC2:top_tank.name=§7Bovenkant Reservoir
+item.SC2:advanced_tank.name=§7Geavanceerde Reservoir
+item.SC2:front_tank.name=§7Voorkant Reservoir
+item.SC2:creative_hull.name=§7Creative Frame
+item.SC2:power_observer.name=§7Kracht Waarnemer
+item.SC2:steves_arcade.name=§7Steve's Arcade
+item.SC2:hardened_wood_cutter.name=§7Verharde Hout Hakker
+item.SC2:creative_tank.name=§7Creative Reservoir
+item.SC2:open_tank.name=§7Open Reservoir
+item.SC2:egg_basket=§7Ei Mand
+item.SC2:drill_intelligence.name=§7Boor Intelligentie
+item.SC2:lawn_mower.name=§7Grasmaaier
+item.SC2:galgadorian_farmer.name=§7Galgadorian Landbouwer
+item.SC2:crafter.name=§7Handwerker
+item.SC2:milker.name=§7Melker
+item.SC2:galgadorian_hull.name=§7Galgadorian Frame
+item.SC2:galgadorian_wood_cutter.name=§7Galgadorian Hout Hakker
+item.SC2:ore_extractor.name=§7Erts Uittrekker
+item.SC2:enchanter.name=§7Magiër
+item.SC2:advanced_smelter.name=§7Geavanceerde Smelter
+item.SC2:advanced_crafter.name=§7Geavanceerde Handwerker
+item.SC2:experience_bank.name=§7Betoveringskosten Bank
+item.SC2:information_provider.name=§7Informatie Gever
+item.SC2:planter_range_extender.name=§7Planter Bereik Vergroter
+item.SC2:tree_exotic.name=§7Boom: Exotisch
+item.SC2:smelter.name=§7Smelter
+item.SC2:projectile_cake.name=§7Projectiel: Taart
+item.SC2:trick_or_treat_cake_server.name=§7Trick-or-Treat Taart Serveerder
+item.SC2:cake_server.name=§7Projectiel Serveerder
+item.SC2:creative_incinerator.name=§7Creative Verbrander
+item.SC2:creative_supplies.name=§7Creative Bevoorrading
+
+# Components
+item.SC2:unknowncomponent.name=§7Onbekende SC2 Component
+item.SC2:wooden_wheels.name=§7Houten Wielen
+item.SC2:iron_wheels.name=§7Ijzeren Wielen
+item.SC2:red_pigment.name=§7Rode Pigment
+item.SC2:green_pigment.name=§7Groene Pigment
+item.SC2:blue_pigment.name=§7Blauwe Pigment
+item.SC2:glass_o'magic.name=§7Magisch Glas
+item.SC2:dynamite.name=§7Dynamiet
+item.SC2:simple_pcb.name=§7Eenvoudige PCB
+item.SC2:graphical_interface.name=§7Grafische Interface
+item.SC2:raw_handle.name=§7Onbewerkte Hendel
+item.SC2:refined_handle.name=§7Elegante Hendel
+item.SC2:speed_handle.name=§7Snelheids Hendel
+item.SC2:wheel.name=§7Stuur
+item.SC2:saw_blade.name=§7Zaagblad
+item.SC2:advanced_pcb.name=§7Geavanceerde PCB
+item.SC2:wood_cutting_core.name=§7Hout Hakker Kern
+item.SC2:raw_hardener.name=§7Onbewerkte Verharder
+item.SC2:refined_hardener.name=§7Elegante Verharder
+item.SC2:hardened_mesh.name=§7Geharde Sporen
+item.SC2:stabilized_metal.name=§7Gestabiliseerd Metaal
+item.SC2:reinforced_metal.name=§7Versterkt Metaal
+item.SC2:reinforced_wheels.name=§7Versterkt Wielen
+item.SC2:pipe.name=§7Pijp
+item.SC2:shooting_station.name=§7Shiet Station
+item.SC2:entity_scanner.name=§7Entiteit Scanner
+item.SC2:entity_analyzer.name=§7Entiteit Analyse
+item.SC2:empty_disk.name=§7Lege Schijf
+item.SC2:tri-torch.name=§7Drie-Fakkel
+item.SC2:chest_pane.name=§7Kist Schot
+item.SC2:large_chest_pane.name=§7Grote Kist Schot
+item.SC2:huge_chest_pane.name=§7Enorme Kist Schot
+item.SC2:chest_lock.name=§7Kist Slot
+item.SC2:iron_pane.name=§7Ijzeren Schot
+item.SC2:large_iron_pane.name=§7Grote Ijzeren Schot
+item.SC2:huge_iron_pane.name=§7Enorme Ijzeren Schot
+item.SC2:dynamic_pane.name=§7Dynamisch Schot
+item.SC2:large_dynamic_pane.name=§7Grote Dynamisch Schot
+item.SC2:huge_dynamic_pane.name=§7Enorme Dynamisch Schot
+item.SC2:cleaning_fan.name=§7Reinigings Fan
+item.SC2:cleaning_core.name=§7Reinigings Kern
+item.SC2:cleaning_tube.name=§7Reinigings Slang
+item.SC2:fuse.name=§7Zekering
+item.SC2:solar_panel.name=§7Zonnepaneel
+item.SC2:eye_of_galgador.name=§7Oog van Galgador
+item.SC2:lump_of_galgador.name=§7Klont van Galgador
+item.SC2:galgadorian_metal.name=§7Galgadorian Metaal
+item.SC2:large_lump_of_galgador.name=§7Grote Klont van Galgador
+item.SC2:enhanced_galgadorian_metal.name=§7Verbeterd Galgadorian Metaal
+item.SC2:stolen_present.name=§7Gestolen Kado
+item.SC2:green_wrapping_paper.name=§7Groen Kado Papier
+item.SC2:red_wrapping_paper.name=§7Rood Kado Papier
+item.SC2:warm_hat.name=§7Warme hoed
+item.SC2:red_gift_ribbon.name=§7Rood Kado Lint
+item.SC2:yellow_gift_ribbon.name=§7Geel Kado Lint
+item.SC2:sock.name=§7Sok
+item.SC2:stuffed_sock.name=§7Gevulde Sok
+item.SC2:advanced_solar_panel.name=§7Geavanceerde Zonnepaneel
+item.SC2:blank_upgrade.name=§7Onbedrukte Upgrade
+item.SC2:tank_valve.name=§7Reservoir Kraan
+item.SC2:tank_pane.name=§7Reservoir Schot
+item.SC2:large_tank_pane.name=§7Grote Reservoir Schot
+item.SC2:huge_tank_pane.name=§7Enorme Reservoir Schot
+item.SC2:liquid_cleaning_core.name=§7Vloeistof Reinigings Kern
+item.SC2:liquid_cleaning_tube.name=§7Vloeistof Reinigings Slang
+item.SC2:explosive_easter_egg.name=§7Explosieve Paas Ei
+item.SC2:burning_easter_egg.name=§7Bandende Paas Ei
+item.SC2:glistering_easter_egg.name=§7Glinsterende Paas Ei
+item.SC2:chocolate_easter_egg.name=§7Chocolade Paas Ei
+item.SC2:painted_easter_egg.name=§7Beschilderde Paas Ei
+item.SC2:basket.name=§7Mand
+item.SC2:oak_log.name=§7Eiken Stam
+item.SC2:oak_twig.name=§7Eiken Tak
+item.SC2:spruce_log.name=§7Sparren Stam
+item.SC2:spruce_twig.name=§7Sparren Tak
+item.SC2:birch_log.name=§7Berk Stam
+item.SC2:birch_twig.name=§7Berk Tak
+item.SC2:jungle_log.name=§7Tropische Stam
+item.SC2:jungle_twig.name=§7Tropischt Tak
+item.SC2:hardened_saw_blade.name=§7Verharde Zaagblad
+item.SC2:galgadorian_saw_blade.name=§7Galgadorian Zaagblad
+item.SC2:galgadorian_wheels.name=§7Galgadorian Wielen
+item.SC2:iron_blade.name=§7Ijzeren Lemmet
+item.SC2:blade_arm.name=§7Lemmet Arm
+
+
+
+# =§7=====================================
+				BLOCKS
+# =§7=====================================
+
+tile.SC2:BlockCargoManager.name=§7Vracht Beheerder
+tile.SC2:BlockJunction.name=§7Wissel Spoor
+tile.SC2:BlockAdvDetector.name=§7Geavanceerde Detector Spoor
+tile.SC2:BlockCartAssembler.name=§7Kar Assemblage
+tile.SC2:BlockActivator.name=§7Module schakelaar
+tile.SC2:BlockDistributor.name=§7Externe Verdeler
+tile.SC2:BlockLiquidManager.name=§7Vloeistof Beheerder
+
+# Storage
+item.SC2:BlockStorage0.name=§7Versterkt Metalen Blok
+item.SC2:BlockStorage1.name=§7Galgadorian Blok
+item.SC2:BlockStorage2.name=§7Verbeterd Galgadorian Blok
+
+# Upgrades
+item.SC2:batteries.name=§7Upgrade: Batterijen
+item.SC2:power_crystal.name=§7Upgrade: Stroom Kristal
+item.SC2:module_knowledge.name=§7Upgrade: Module Kennis
+item.SC2:industrial_espionage.name=§7Upgrade: Bedrijfsspionage
+item.SC2:experienced_assembler.name=§7Upgrade: Ervaren assemblage
+item.SC2:new_era.name=§7Upgrade: Nieuw Tijdperk
+item.SC2:co2_friendly.name=§7Upgrade: CO2 vriendelijk
+item.SC2:generic_engine.name=§7Upgrade: Generieke motor
+item.SC2:module_input.name=§7Upgrade: Module invoer
+item.SC2:production_line.name=§7Upgrade: Productie lijn
+item.SC2:cart_deployer.name=§7Upgrade: Kar Opsteller
+item.SC2:cart_modifier.name=§7Upgrade: Kar Modificatie
+item.SC2:cart_crane.name=§7Upgrade: Kar Kraan
+item.SC2:redstone_control.name=§7Upgrade: Redstone Beheersing
+item.SC2:creative_mode.name=§7Upgrade: Creative Mode
+item.SC2:quick_demolisher.name=§7Upgrade: Snel Sloper
+item.SC2:manager_bridge.name=§7Upgrade: Brug Beheerder
+item.SC2:entropy.name=§7Upgrade: Entropie
+item.SC2:solar_panel_upgrade.name=§7Upgrade: Zonnepaneel
+item.SC2:thermal_engine_upgrade.name=§7Upgrade: Thermische Motor
+
+# Detector Units
+item.SC2:BlockDetector0.name=§7Detector Beheerder
+item.SC2:BlockDetector1.name=§7Detector Eenheid
+item.SC2:BlockDetector2.name=§7Detector Station
+item.SC2:BlockDetector3.name=§7Detector Wissel
+item.SC2:BlockDetector4.name=§7Detector Redstone Eenheid
+
+
+
+# =§7=====================================
+				MODULE MISC
+# =§7=====================================
+
+# Categories
+info.SC2:moduleCategoryHull=§7Frame
+info.SC2:moduleCategoryEngine=§7Motor
+info.SC2:moduleCategoryTool=§7Gereedschap
+info.SC2:moduleCategoryStorage=§7Opslag
+info.SC2:moduleCategoryAddon=§7Addon
+info.SC2:moduleCategoryAttachment=§7Bevestiging
+
+# Groups
+info.SC2:moduleGroupEngine=§7[%1:Motor|Motoren]
+info.SC2:moduleGroupDrill=§7[%1:Boor|Boren]
+info.SC2:moduleGroupFarmer=§7[%1:Landbouwer|Landbouwers]
+info.SC2:moduleGroupCutter=§7[%1:Hout Hakker|Hout Hakkers]
+info.SC2:moduleGroupTank=§7[%1:Reservoir|Reservoirs]
+info.SC2:moduleGroupEntity=§7[%1:Entiteit Detector|Entiteit Detectoren]
+info.SC2:moduleGroupShooter=§7[%1:Shieter|Shieters]
+info.SC2:moduleGroupTool=§7[%1:Gereedschap|Gereedschappen]
+info.SC2:moduleGroupToolShooter=§7[%1:Gereedschap|Gereedschappen] or [%1:Schieter|Schieters]
+
+# Messages
+info.SC2:pigExtraMessage=§7Ter nagedachtenis aan Vswe's Thunderpig arena overwinning. Iedereen bedankt voor de donatie tijdens de Minecraft Marathon in 2013
+info.SC2:oceanExtraMessage=§7Een oceaan aan ruimte
+info.SC2:alphaExtraMessage=§71 jaar in alpha
+info.SC2:storageEmpty=§7Leeg
+info.SC2:storageFull=§7Vol
+info.SC2:giftStorageFull=§7Kan een kado bevatten
+info.SC2:eggStorageFull=§7Vol met eieren
+
+# Labels
+info.SC2:modularCost=§7Module kosten
+info.SC2:cartSideTop=§7Bovenkant
+info.SC2:cartSideCenter=§7Midden
+info.SC2:cartSideBottom=§7Onderkant
+info.SC2:cartSideBack=§7Achterkant
+info.SC2:cartSideLeft=§7Links
+info.SC2:cartSideRight=§7Rechts
+info.SC2:cartSideFront=§7Voorkant
+info.SC2:occupiedSides=§7Zal [%1] [%2:zijde|zijdes] in beslag nemen
+info.SC2:sidesAnd=§7en
+info.SC2:noSides=§7Neemt geen zijde in beslag
+info.SC2:moduleConflictHowever=§7Gaat een probleem opleveren met
+info.SC2:moduleConflictAlso=§7Gaat ook een probleem opleveren met
+info.SC2:moduleRequirement=§7Vereist
+info.SC2:moduleCount1=§7een
+info.SC2:moduleCount2=§7twee
+info.SC2:moduleCount3=§7drie
+info.SC2:allowDuplicates=§7Duplicaten zijn toegestaan
+info.SC2:moduleType=§7Type
+info.SC2:capacityOverloadError=§7De kosten zijn hoger dan de capaciteit van het Frame.
+info.SC2:impossibleCombinationError=§7De combinatie van de module types van de opgegeven modules zijn niet toegestaan. Dit zou niet mogelijk moeten zijn.
+info.SC2:complexityOverloadError=§7[%1] is te complex voor dit Frame.
+info.SC2:missingParentError=§7[%1] vereist [%2] om te werken!
+info.SC2:presentNemesisError=§7[%1] werkt niet samen met [%2]
+info.SC2:presentDuplicateError=§7[%1] mag niet twee keer worden toegepast.
+info.SC2:sideClashError=§7[%1] en [%2] geven een conflict op [%3]
+
+info.SC2:toolUnbreakable=§7Onbreekbaar
+info.SC2:toolDurability=§7Duurzaamheid: [%1]%
+info.SC2:modularCapacity=§7Module capaciteit: [%1]
+info.SC2:complexityCap=§7Module complexiteit cap: [%1]
+info.SC2:maxEngineCount=§7Max aantal Motoren: [%1]
+info.SC2:maxAddonCount=§7Max aantal Addons: [%1]
+
+
+# =§7=====================================
+				UPGRADES
+# =§7=====================================
+
+info.SC2:effectBlueprint=§7Schakel het gebruik van Blauwdruk karren in.
+info.SC2:effectCombustionFuel=§7Schakel het gebruik van standaard brandstoffen in.
+info.SC2:effectDeployer=§7Schakel het inzetten van kant en klare karren in.
+info.SC2:effectDisassemble=§7Maakt het mogelijk om karren te ontmantelen en te modificeren.
+info.SC2:effectFuelCapacity=§7Brandstof capaciteit [%1].
+info.SC2:effectFuelCost=§7Brandstof kosten [%1]%.
+info.SC2:effectInputChest=§7Invoer Kist met [%1] sloten.
+info.SC2:effectManagerBridge=§7Verbind de Assemblage met een Beheerder.
+info.SC2:effectGenerator=§7Genereerd [%1] [%2:eenheid|eenheden] stroom per minuut.
+info.SC2:effectRedstone=§7Schakel redstone bedient assembleren in.
+info.SC2:effectSolar=§7Genereerd stroom in de zon.
+info.SC2:effectThermal=§7Drijf de Kar Assembage aan met lava in een intern resorvoir.
+info.SC2:effectTimeFlat=§7Module assembage tijd [%1] [%1:seconde|seconden].
+info.SC2:effectTimeFlatCart=§7Kar assembage tijd [%1] [%1:seconde|seconden].
+info.SC2:effectTimeFlatRemove=§7Module ontmantel tijd [%1] [%1:seconde|seconden].
+info.SC2:effectTransposer=§7Kan karren oppakken om te modificeren
+info.SC2:effectEfficiency=§7Assembage effectiviteit [%1]%.
+
+
+# =§7=====================================
+				MODULES
+# =§7=====================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=§7Dieren
+modules.addons.SC2:detectorBats=§7Vleermuizen
+modules.addons.SC2:detectorMonsters=§7Monsters
+modules.addons.SC2:detectorPlayers=§7Spelers
+modules.addons.SC2:detectorVillagers=§7Dorpelingen
+modules.addons.SC2:planterRangeExtenderTitle=§7Planter Bereik
+modules.addons.SC2:saplingPlantAmount=§7Huidige kiemplant hoevellheid
+modules.addons.SC2:controlLeverTitle=§7Controle hendel
+modules.addons.SC2:leverStartCart=§7Start de kar
+modules.addons.SC2:leverStopCart=§7Stop de kar
+modules.addons.SC2:leverTurnAroundCart=§7Draai kar om
+modules.addons.SC2:colorizerRgbRed=§7Rood
+modules.addons.SC2:colorizerRgbGreen=§7Groen
+modules.addons.SC2:colorizerRgbBlue=§7Blauw
+modules.addons.SC2:intelligenceLockedBlock=§7De boor verwijderd altijd dit blok
+modules.addons.SC2:intelligenceChange=§7Verander boor intelligentie
+modules.addons.SC2:intelligenceCurrent=§7Mementeel: [%1->Ingeschakeld|Uitgeschakeld]
+modules.addons.SC2:enchanterInstruction=§7Voeg een Betoverd Boek to aan het linkr slot.
+modules.addons.SC2:invisibilityToggle=§7[%1->Activeer|Deactiveer] onzichtbaarheids kern
+modules.addons.SC2:informationProviderLabelName=§7Naam
+modules.addons.SC2:informationProviderLabelDistance=§7Afstand
+modules.addons.SC2:informationProviderMessageDistance=§7Afstand: [%1]m
+modules.addons.SC2:informationProviderLabelPosition=§7Positie
+modules.addons.SC2:informationProviderMessagePosition=§7X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=§7Brandstof over
+modules.addons.SC2:informationProviderMessageFuel=§7Brandstof tijd over
+modules.addons.SC2:informationProviderMessageNoConsumption=§7Geen consumptie
+modules.addons.SC2:informationProviderLabelStorage=§7Gebruikte Opslag
+modules.addons.SC2:informationProviderLabelDurability=§7Duurzaamheid
+modules.addons.SC2:informationProviderMessageToolBroken=§7Gereedschap is kapot
+modules.addons.SC2:informationProviderMessageToolNotBroken=§7Gereedschap is niet kapot. Verwijder het materiaal
+modules.addons.SC2:informationProviderMessageRepair=§7Gereedschap wordt gerepareerd
+modules.addons.SC2:informationProviderMessageUnbreakable=§7Gereedschap is onbreekbaar
+modules.addons.SC2:informationProviderLabels=§7Labels
+modules.addons.SC2:powerThousandSuffix=§7K
+modules.addons.SC2:powerObserverInstruction=§7Klik en sleep naar gewenste ruimte.
+modules.addons.SC2:powerObserverRemoveInstruction=§7Klik rechts om te verwijderen.
+modules.addons.SC2:powerObserverDropInstruction=§7Stop hier de motor.
+modules.addons.SC2:powerObserverChangeInstruction=§7Klik om stroom limiet te wijzigen
+modules.addons.SC2:powerObserverChangeInstruction10=§7Shift klik om te wijzigen met 10K
+modules.addons.SC2:recipeOutput=§7Verander de uitgang locatie
+modules.addons.SC2:recipeCurrentSelection=§7Momenteel
+modules.addons.SC2:recipeInvalidOutput=§7Onbekend
+modules.addons.SC2:recipeChangeMode=§7Verander huidige modus
+modules.addons.SC2:recipeNoLimit=§7Geen boven limiet
+modules.addons.SC2:recipeLimit=§7Limiteer huidige voorraad
+modules.addons.SC2:recipeDisabled=§7Produceer niets
+modules.addons.SC2:recipeChangeLimit=§7[%1->Verhoog|Verlaag] artikelen voorradig houden.
+modules.addons.SC2:recipeChangeLimit10=§7Shift klik om te wijzigen met 10.
+modules.addons.SC2:recipeChangeLimit64=§7Ctrl klik om te wijzigen met 64.
+modules.addons.SC2:shieldToggle=§7[%1->Activeer|Deactiveer] schild
+
+# Engines
+modules.engines.SC2:creativePowerLevel=§7Vermogen: [%1]
+modules.engines.SC2:coalEngineTitle=§7Kool Motor
+modules.engines.SC2:outOfFuel=§7Geen brandstof
+modules.engines.SC2:fuelLevel=§7Brandstof: [%1]
+modules.engines.SC2:solarEngineTitle=§7Zonne Motor
+modules.engines.SC2:outOfPower=§7Geen stroom
+modules.engines.SC2:powerLevel=§7Stroom: [%1]
+modules.engines.SC2:thermalEngineTitle=§7Thermische Motor
+modules.engines.SC2:thermalPowered=§7Aangedreven
+modules.engines.SC2:outOfWater=§7Geen Water
+modules.engines.SC2:outOfLava=§7Geen Lava
+
+modules.engines.SC2:engineDisabledMessage=§7Uitgeschakeld
+modules.engines.SC2:enginePriorityMessage=§7[%1->Hoge|Middelmatige|Lage] prioriteit
+
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=§7Huidige creative modus: [%1][%2->Normaal|Altijd vol|Altijd leeg|Altijd half]
+modules.tanks.SC2:creativeTankChangeMode=§7Klik rechts om te wijzigen
+modules.tanks.SC2:creativeTankResetMode=§7Shift en klik rechts om terug naar normaal te gaan
+modules.tanks.SC2:tankLocked=§7Vergrendeld voor deze vloeistof
+modules.tanks.SC2:tankLock=§7Klik om te vergrendelen voor deze vloeistof
+modules.tanks.SC2:tankUnlock=§7Klik om te ontgrendelen
+modules.tanks.SC2:tankEmpty=§7Leeg
+modules.tanks.SC2:tankInvalidFluid=§7Onbekend
+
+# Tools
+modules.tools.SC2:toolDurability=§7Duurzaamheid
+modules.tools.SC2:toolBroken=§7Kapot
+modules.tools.SC2:toolRepairing=§7Bezig met repareren van gereedschap
+modules.tools.SC2:toolDecent=§7Verwijder de reparatie materialen, dit gereedschap ziet er nog goed uit.
+modules.tools.SC2:toolRepairInstruction=§7Gereedschap repareren met [%1]
+modules.tools.SC2:toolUnbreakable=§7Dit gereedschap zal nooit kapot gaan.
+modules.tools.SC2:toolUnbreakableRepairError=§7Verwijder de reparatie materialen.
+modules.tools.SC2:drillTitle=§7Boor
+modules.tools.SC2:drillToggle=§7[%1->Activeer|Deactiveer] boor
+modules.tools.SC2:repairDiamonds=§7Diamanten
+modules.tools.SC2:repairIron=§7Ijzerstaven
+modules.tools.SC2:farmerTitle=§7Landbouwer
+modules.tools.SC2:cutterTitle=§7Hout hakker
+
+# Attachments
+modules.attachments.SC2:fertilizers=§7Bemesters
+modules.attachments.SC2:railerTitle=§7Spoor Legger
+modules.attachments.SC2:controlSystemTitle=§7Adv Controle Sys
+modules.attachments.SC2:controlSystemDistanceUnits=§7[%1->|k|M|G|T|P]m
+modules.attachments.SC2:controlSystemOdoMeter=§7ODO
+modules.attachments.SC2:controlSystemTripMeter=§7TRIP
+modules.attachments.SC2:cageAutoPickUp=§7[%1->Activeer|Deactiveer] automatisch oppakken
+modules.attachments.SC2:cagePickUp=§7[%1->Vang wezen|Laat gevangen wezen vrij]
+modules.attachments.SC2:cakeServerTitle=§7Taart Server
+modules.attachments.SC2:cakesLabel=§7Taarten: [%1] / [%2]
+modules.attachments.SC2:slicesLabel=§7Stukken: [%1] / [%2]
+modules.attachments.SC2:explosivesTitle=§7Explosieven
+modules.attachments.SC2:experienceTitle=§7XP
+modules.attachments.SC2:experienceLevel=§7Hoeveelheid betoveringskosten: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=§7Klik om 50xp te verkrijgen
+modules.attachments.SC2:experiencePlayerLevel=§7Jouw huidige Betoveringskosten zijn [%1]
+modules.attachments.SC2:shooterTitle=§7Schieter
+modules.attachments.SC2:shooterFrequency=§7#/s
+modules.attachments.SC2:shooterSeconds=§7s
+modules.attachments.SC2:shooterDelay=§7Delay
+modules.attachments.SC2:notePiano=§7Piano
+modules.attachments.SC2:noteBassDrum=§7Bass Drum
+modules.attachments.SC2:noteSnareDrum=§7Snare Drum
+modules.attachments.SC2:noteSticks=§7Drumsticks
+modules.attachments.SC2:noteBassGuitar=§7Bass Gitaar
+modules.attachments.SC2:noteCreateTrack=§7Creeer nieuwe track
+modules.attachments.SC2:noteRemoveTrack=§7Verwijder onderste track
+modules.attachments.SC2:noteActivateInstrument=§7Activeer [%1]
+modules.attachments.SC2:noteDeactivateInstrument=§7Verwijder Nootblok instelling
+modules.attachments.SC2:noteDelay=§7Wijzig Vertraging. Huidige Vertraging: [%1]
+modules.attachments.SC2:noteAdd=§7Voeg noot toe aan track #[%1]
+modules.attachments.SC2:noteRemove=§7Verwijder meest rechtse noot van track #[%1]
+modules.attachments.SC2:noteVolume=§7Track volume: [%1->Gedempt|Laag|Middel|Hoog]
+
+modules.attachments.SC2:seatStateMessage=§7[%1->Deze kar is bezet|Ga zitten|Sta op]
+modules.attachments.SC2:controlSystemReset=§7Herstel afstands meter
+
+
+# =§7=====================================
+				Steve's Arcade 
+# =§7=====================================
+
+# Ghast Invaders
+arcade.SC2:ghastInvaders=§7Ghast Invaders
+arcade.SC2:ghastLives=§7Extra levens
+arcade.SC2:highScore=§7High Score: [%1]
+arcade.SC2:score=§7Score: [%1]
+arcade.SC2:instructionShoot=§7Schiet
+arcade.SC2:instructionLeft=§7Beweeg links
+arcade.SC2:instructionRight=§7Beweeg rechts
+arcade.SC2:instructionRestart=§7Herstart
+arcade.SC2:creeperSweeper=§7Creeper Sweeper
+arcade.SC2:creeperMapName1=§7Klein
+arcade.SC2:creeperMapName2=§7Middel
+arcade.SC2:creeperMapName3=§7groot
+arcade.SC2:creepersLeft=§7Creepers over:  [%1]
+arcade.SC2:creeperTime=§7Tijd bezig: [%1]s
+arcade.SC2:instructionChangeMap=§7Verander map grootte
+arcade.SC2:creeperCurrentMap=§7Huidig [%1]
+arcade.SC2:creeperHighScores=§7High Scores
+arcade.SC2:creeperHighScore=§7[%1]: [%2]s
+arcade.SC2:mobStacker=§7Mob Stacker
+arcade.SC2:stackerRemovedLines=§7Verwijderde lijnen: [%1]
+arcade.SC2:stackerRemovedLinesCombo=§7[%1->Enkele|Dubbele|Tripel|Quadrupel] lijnen verwijderd: [%2]
+arcade.SC2:instructionRotate=§7Roteer
+arcade.SC2:instructionDrop=§7Laat vallen
+arcade.SC2:trackOperator=§7Spoor regelaar
+arcade.SC2:operatorSaveError=§7Fout bij opslaan
+arcade.SC2:operatorSave=§7Opslaan
+arcade.SC2:operatorUserCreatedMaps=§7Gebruiker gemaakte mappen
+arcade.SC2:operatorStories=§7Verhalen
+arcade.SC2:operatorHelp=§7Voor informatie over hoe te spelen, Start de Verhaal modus en begin met het 'Het Begin' verhaal. Om je eigen map te maken gaat u naar de map editor. Verdere instructies worden daar gegeven. Klik op een detector rail en vervolgens op een kruispunt als je wilt dat ze worden aangesloten. Als je meer info wilt, bekijk dan de wiki.
+arcade.SC2:instructionTrackShape=§7Selecteer vorm van spoor
+arcade.SC2:instructionRotateTrack=§7Roteer spoor
+arcade.SC2:instructionFlipTrack=§7Spiegel spoor
+arcade.SC2:instructionDefaultDirection=§7Verander standaard richting
+arcade.SC2:instructionTrackType=§7Verander spoor type
+arcade.SC2:instructionDeleteTrack=§7Verwijder spoor
+arcade.SC2:instructionCopyTrack=§7Kopieer spoor
+arcade.SC2:instructionMoveSteve=§7Verplaats of roteer Steve
+arcade.SC2:instructionMoveMap=§7Verplaats map
+arcade.SC2:instructionPlaceTrack=§7Plaats spoor
+arcade.SC2:instructionDeselectTrack=§7Deselecteer spoor
+arcade.SC2:leftMouseButton=§7LMuis
+arcade.SC2:rightMouseButton=§7RMuis
+arcade.SC2:buttonStart=§7Start
+arcade.SC2:buttonMenu=§7Menu
+arcade.SC2:buttonStop=§7Stop
+arcade.SC2:buttonNextLevel=§7Volgend Level
+arcade.SC2:buttonStartLevel=§7Start Level
+arcade.SC2:buttonSelectStory=§7Selecteer Verhaal
+arcade.SC2:buttonSelectStoryOther=§7Selecter ander Verhaal
+arcade.SC2:buttonCreateLevel=§7Creeer Level
+arcade.SC2:buttonEditLevel=§7Verander Level
+arcade.SC2:buttonRefreshList=§7Vernieuw lijst
+arcade.SC2:buttonSave=§7Opslaan
+arcade.SC2:buttonSaveAs=§7Opslaan als...
+arcade.SC2:buttonCancel=§7Annuleren
+#This one is slightly ugly, will probably be re-named later
+stories.beginning.SC2:mapEditor=§7Map Bewerker
+
+# Story - The beginning
+stories.beginning.SC2:title=§7Het begin
+stories.beginning.SC2:mission=§7Steve heeft een missie, hij moet de kaart vinden om verder te gaan naar het volgende level.
+stories.beginning.SC2:start=§7Druk op de Start knop an de rechter kant.
+stories.beginning.SC2:stop=§7Als je wilt stoppen druk je op de Stop knop.
+stories.beginning.SC2:map=§7Steve heeft de kaart gevonden, druk op Volgend Level om verder the gaan.
+stories.beginning.SC2:trackOperator=§7Jij bent de Spoor Regelaar, Jouw taak is om ervoor te zorgen dat het spoor goed staat ingesteld. Klik op de wissels om the richting te veranderen. Als alles goed staat druk je op Start.
+stories.beginning.SC2:goodJob=§7Goed gedaan. Dat was de juiste oplossing.
+stories.beginning.SC2:changeJunctions=§7Je kan altijd op Stop drukken om de wissles te veranderen.
+stories.beginning.SC2:blast=§7Steve vind het geweldig om in zijn Mijnkar te rijden maar soms heeft hij er genoeg van. Bijvoorbeeld als hij rondjes blijft rijden. Succes.
+stories.beginning.SC2:steel=§7Er zitten altijd addertjes onder het gras, voor een Spoor Regelaar is dat het Stalen Spoor. Stalen Spoor Wissels kunnen niet veranderd worden, Succes.
+stories.beginning.SC2:detector=§7Detector sporen kunnen zowel je vrienden als vijanden zijn. Als Steve over een detector Spoor rijdt kunnen er een aantal wissels veranderen, ook de stalen wissels. Beweeg je cursor over een detector spoor om te zien welke.
+stories.beginning.SC2:outOfReach=§7Net buiten bereik...
+stories.beginning.SC2:outOfReach2=§7...maar dat is voor jou geen probleem.
+stories.beginning.SC2:longJourney=§7Na een lange tocht ziet Steve licht aan het eind van de tunnel...
+stories.beginning.SC2:end=§7...maar niet alls gaat zoals gepland. Terwijl je wacht op meer verhalen kun je ook jouw eigen map maken. Ga naar de map bewerker in het menu om een eigen map te maken.
+stories.beginning.SC2:thanks=§7Bedankt voor het spelen! :)
+stories.beginning.SC2:level1=§7Een nieuwe dag
+stories.beginning.SC2:level2=§7De Regelaar
+stories.beginning.SC2:level3=§7Rondje om de kerk
+stories.beginning.SC2:level4=§7Zo hard als staal
+stories.beginning.SC2:level5=§7Bewegende wereld
+stories.beginning.SC2:level6=§7Het code slot
+stories.beginning.SC2:level7=§7We zijn er bijna
+stories.beginning.SC2:level8=§7Gekkenhuis
+stories.beginning.SC2:level9=§7Taart

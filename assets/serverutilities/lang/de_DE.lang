@@ -1,0 +1,249 @@
+# Gui
+## Buttons
+gui.accept=§7Akzeptieren
+gui.add=§7Hinzufügen
+gui.added=§7Hinzugefügt
+gui.remove=§7Entfernen
+gui.removed=§7Entfernet
+gui.close=§7Schließen
+gui.open=§7Öffnen
+gui.saved=§7Gespeichert
+gui.loaded=§7Geladen
+gui.info=§7Info
+gui.collapse_all=§7Alle schließen
+gui.expand_all=§7Alle öffnen
+gui.download=§7Herunterladen
+gui.downloaded=§7Heruntergelanden
+gui.update=§7Aktualisieren
+gui.updated=§7Aktualisiert
+gui.active=§7Aktiv
+gui.inactive=§7Inaktiv
+gui.settings=§7Einstellungen
+gui.rename=§7Umbennen
+gui.search_box=§7Suchen...
+
+## Labels
+gui.other=§7Weitere
+gui.server_forced=§7Server Forced: %s
+gui.online=§7Online
+gui.offline=§7Offline
+gui.whitelist=§7Whitelist
+gui.blacklist=§7Blacklist
+gui.color=§7Farbe
+gui.downloading=§7Herunterladen...
+gui.infinite=§7Unendlich
+
+## Sides
+facing.north=§7Norden
+facing.south=§7Süden
+facing.west=§7Westen
+facing.east=§7osten
+
+relative_facing.bottom=§7Unten
+relative_facing.top=§7Oben
+relative_facing.back=§7Hinten
+relative_facing.front=§7Vorne
+relative_facing.left=§7Links
+relative_facing.right=§7Rechts
+
+# ServerUtilitiesLib Lang
+serverutilities=§7Server Utilities Library
+wip=§7In Arbeit!
+deprecated=§7Diese Methode ist veraltet, bitte benutze: %s
+example=§7Beispiel:
+click_here=§7[Hier klicken]
+feature_disabled=§7Diese Funktion ist deaktiviert!
+feature_disabled_server=§7Diese Funktion ist auf Servern deaktiviert!
+error=§7Fehler: %s
+owner=§7Besitze: %s
+delete_item=§7Möchtest du '%s' löschen?
+server_forced=§7Durch den Server zu '%s' überschrieben
+commands=§7Befehle
+my_permissions=§7Meine Berechtigungen
+all_permissions=§7Alle Berechtigungen
+key.categories.serverutilitiesmods=§7Server Utilities Mods
+stand_still=§7Bitte warte für %d Sekunden.
+stand_still_failed=§7Du hast dich bewegt. Teleport abgebrochen.
+teleporting=§7Teleportieren...
+cooldown=§7Wartezeit
+cant_use_now=§7Kann dies gerade nicht benutzen!
+cant_use_now_cooldown=§7Kann dies nicht benutzen! Wartezeit: %d
+action_bar=§7Aktionsleiste
+nothing_changed=§7Nichts geändert!
+player_must_be_online=§7Spieler muss online sein!
+
+serverutilities.lang.reload_server_button=§7Server neuladen!
+serverutilities.lang.reload_server=§7ServerUtilitiesLib: Server neugeladen in: %s
+serverutilities.lang.reload_client=§7Du kannst %s drücken um den Client neuzuladen.
+serverutilities.lang.reload_failed=§7Diese IDs konnten nicht neugeladen werden.
+
+serverutilities.lang.config_command.invalid_key=§7Kann Einstellungs-Wert '%s' nicht finden!
+serverutilities.lang.config_command.set=§7'%s' wird zu %s eingestellt
+
+serverutilities.lang.add_fake_player.invalid_uuid=§7Ungültige UUID!
+serverutilities.lang.add_fake_player.player_exists=§7Spieler existiert bereits!
+serverutilities.lang.add_fake_player.added=§7Fake-Spieler %s hinzugefügt!
+
+serverutilities.select_fluid.gui=§7Flüssigkeit auswählen
+serverutilities.select_fluid.none=§7Keine
+serverutilities.select_item.list_mode=§7Listenmodus: %s
+serverutilities.select_item.list_mode.all=§7Alle Items
+serverutilities.select_item.list_mode.inv=§7Inventar
+serverutilities.select_item.count=§7Größe einstellen
+serverutilities.select_item.meta=§7Metadaten einstellen
+serverutilities.select_item.nbt=§7NBT bearbeiten
+serverutilities.select_item.caps=§7Fähigkeiten bearbeiten
+serverutilities.select_item.display_name=§7Anzeige-Name einstellen
+serverutilities.select_team.gui=§7Team auswählen
+
+# Config
+serverutilities.general.clientless_mode=§7Clientloser Modus
+serverutilities.general.replace_reload_command=§7/reload Befehl ersetzen
+serverutilities.general.merge_offline_mode_players=§7Offline-Modus-Spieler zusammenführen
+
+serverutilities.teams=§7Teams
+serverutilities.teams.autocreate_sp=§7Automatisches Erstellen im Einzelspieler
+serverutilities.teams.autocreate_mp=§7Automatisches Erstellen im Mehrspieler
+
+serverutilities.debugging=§7Debuggen
+serverutilities.debugging.special_commands=§7Spezielle Befehle
+serverutilities.debugging.print_more_info=§7Mehr Info ausgeben
+serverutilities.debugging.print_more_errors=§7Mehr Fehler ausgeben
+serverutilities.debugging.log_network=§7Netzwerk E/A loggen
+serverutilities.debugging.log_teleport=§7Teleports loggen
+serverutilities.debugging.log_config_editing=§7Einstellungen-Bearbeitungen loggen
+serverutilities.debugging.dev_sidebar_buttons=§7Nur-Entwickler Seitenleisten-Schaltflächen
+serverutilities.debugging.gui_widget_bounds=§7GUI-Widgetgrenzen
+serverutilities.debugging.log_events=§7Ereignisse loggen
+
+# Client Config
+serverutilities_client.item_ore_names=§7Item OreDictionary-Namen anzeigen
+serverutilities_client.item_ore_names.item_tooltip=§7OreDictionary Namen:
+serverutilities_client.item_nbt=§7Item NBT anzeigen
+serverutilities_client.replace_vanilla_status_messages=§7Ersetze Vanilla Statusmeldungen
+serverutilities_client.debug_helper=§7Debug Helfer
+serverutilities_client.collapse_sidebar_buttons=§7Seitenleisten-Schaltflächen schließen
+serverutilities_client.sidebar_button_collapse_speed=§7Seitenleisten-Schaltflächen Schließtempo
+
+# Player Settings
+player_config=§7My Server Settings
+player_config.serverutilities.hide_team_notification=§7Verstecke Team-Benachrichtigung beim Login
+
+# Team Settings
+team_config.serverutilities.display=§7Anzeige
+team_config.serverutilities.display.color=§7Farbe
+team_config.serverutilities.display.fake_player_status=§7Fake-Spieler Status
+team_config.serverutilities.display.title=§7Titel
+team_config.serverutilities.display.title.tooltip=§7Anzeigen, wenn ein beanspruchter Chunk betreten wird.
+team_config.serverutilities.display.desc=§7Beschreibung
+team_config.serverutilities.display.desc.tooltip=§7Anzeige unter dem Titel
+team_config.serverutilities.free_to_join=§7Freies Beitreten
+team_config.serverutilities.free_to_join.tooltip=§7Jeder kann ohne Einladung beitreten.
+
+# Teams
+serverutilities.lang.team.created=§7Team '%s' erstellt
+serverutilities.lang.team.id_already_exists=§7ID bereits registriert.
+serverutilities.lang.team.id_invalid=§7Eine ID kann die die kleingeschriebenen Buchstaben a-z, _ und | beinhalten!
+serverutilities.lang.team.deleted=§7Team '%s' gelöscht
+serverutilities.lang.team.member_left=§7%s hat dein Team verlassen!
+serverutilities.lang.team.member_joined=§7%s ist deinem Team beigetreten!
+serverutilities.lang.team.transferred_ownership=§7Der neue Besitze ist nun %s
+serverutilities.lang.team.invited=§7%s zu '%s' eingeladen
+serverutilities.lang.team.invited_you=§7Du wurdest zu '%s' von %s eingeladen
+serverutilities.lang.team.cancel_invite=§7Einladungen abbrechen
+serverutilities.lang.team.error.not_found=§7Team '%s' nicht gefunden!
+serverutilities.lang.team.error.no_team=§7Du musst in einem Team sein, um das zu tun!
+serverutilities.lang.team.error.must_leave=§7Du musst dein Team verlassen, um das zu tun!
+serverutilities.lang.team.error.not_owner=§7Du bist nicht der Besitzer dieses Teams!
+serverutilities.lang.team.error.not_member=§7%s ist kein Mitglied diese Teams!
+serverutilities.lang.team.error.must_transfer_ownership=§7Du musst die Leitung übertragen!
+serverutilities.lang.team.error.already_invited=§7%s ist bereits eingeladen!
+serverutilities.lang.team.error.failed_to_join=§7Kann diesem Team nicht beitreten!
+serverutilities.lang.team.permission.set=§7Erlaubnis für '%s' von %s wurde zu %s gesetzt
+serverutilities.lang.team.permission.owner=§7Kann Leitung nicht ändern.
+serverutilities.lang.team.notification=§7Du bist keinen Team beigetreten oder hast eins erstellt. %s um die TeamsGUI zu öffen oder %s um diese Nachricht auszublenden.
+serverutilities.lang.team.notification.hide=§7Nachricht ausblenden
+serverutilities.lang.team.chat_message=§7[Team %s] %s
+
+team_action.serverutilities.select_team=§7Team zum Beitreten auswählen
+team_action.serverutilities.create_team=§7Neues Team erstellen.
+team_action.serverutilities.members=§7Mitglieder
+team_action.serverutilities.allies=§7Verbündete
+team_action.serverutilities.moderators=§7Moderatoren
+team_action.serverutilities.enemies=§7Gegner
+team_action.serverutilities.leave=§7Team verlassen
+team_action.serverutilities.transfer_ownership=§7Leitung übertragen
+
+serverutilities.lang.team.gui.join_team=§7Klicke um '%s' beizutreten
+serverutilities.lang.team.gui.request_invite=§7Klicke um eine Einladung zu '%s' erfragen
+serverutilities.lang.team.gui.members.invite=§7Klicke um dein Team einzuladen
+serverutilities.lang.team.gui.members.requesting_invite=§7Dieser Spieler fragt nach einer Einladung
+serverutilities.lang.team.gui.members.deny_request=§7Rechts-Klick um Anfrage abzulehnen
+serverutilities.lang.team.gui.members.cancel_invite=§7Rechts-Klicke um Einladung abzubrechen
+serverutilities.lang.team.gui.members.kick=§7Rechts-Klicke um Mitglied rauszuwerfen
+
+serverutilities.lang.team_status.enemy=§7Gegner
+serverutilities.lang.team_status.none=§7Keiner
+serverutilities.lang.team_status.requesting_invite=§7Einladung anfragen
+serverutilities.lang.team_status.invited=§7Eingeladen
+serverutilities.lang.team_status.ally=§7Verbündeter
+serverutilities.lang.team_status.member=§7Mitglied
+serverutilities.lang.team_status.mod=§7Moderator
+serverutilities.lang.team_status.owner=§7Besitzer
+
+# Sidebar Buttons
+sidebar_button=§7Seitenleisten-Schaltflächen
+sidebar_button.serverutilities.my_team=§7Mein Team
+sidebar_button.serverutilities.my_team.tooltip=§7Öffnet eine GUI, wo du dein Team verwalten kannst.
+sidebar_button.serverutilities.settings=§7Client Einstellungen
+sidebar_button.serverutilities.settings.tooltip=§7Bearbeite nur Client-Seitige Einstellungen
+sidebar_button.serverutilities.notifications=§7Benachrichtigungen
+sidebar_button.serverutilities.admin_panel=§7Admin Tafel
+
+# Privacy Level
+privacy=§7Privatsphäre
+privacy.public=§7Öffentlich
+privacy.private=§7Privat
+privacy.team=§7Team
+
+# Redstone Mode
+redstone_mode=§7Redstone Modus
+redstone_mode.disabled=§7Deaktivert
+redstone_mode.active_high=§7Aktiv hoch
+redstone_mode.active_low=§7Aktiv niedrig
+redstone_mode.pulse=§7Impuls
+
+# IO Mode
+io_mode=§7EA Modus
+io_mode.io=§7EA
+io_mode.in=§7Nur Eingang
+io_mode.out=§7Nur Ausgang
+io_mode.none=§7Deaktivert
+
+# Click Actions
+click_action.cmd=§7Befehl
+click_action.show_cmd=§7Befehl anzeigen
+click_action.url=§7URL öffnen
+click_action.file=§7Datei öffen
+click_action.gui=§7GUI öffen
+
+# Commands
+commands.reload.usage=§7/reload [*|domain:*|domain:id]
+commands.my_settings.usage=§7/my_settings <config id> [Wert]
+commands.team.usage=§7/team
+commands.team.settings.usage=§7/team settings <config id> [Wert]
+commands.team.create.usage=§7/team create <id> [Farbe]
+commands.team.leave.usage=§7/team leave
+commands.team.transfer_ownership.usage=§7/team transfer_ownership <Spieler>
+commands.team.kick.usage=§7/team kick <Spieler>
+commands.team.join.usage=§7/team join <team>
+commands.team.status.usage=§7/team status <Spieler> [set_status]
+commands.team.status.set=§7Status von %s wurde zu %s gesetzt
+commands.team.status.cant_set=§7Status kann nicht gesetzt werden!
+commands.team.msg.usage=§7/team msg <Nachricht...>
+commands.team.delete.usage=§7/team delete <team>
+commands.team.request_invite.usage=§7/team request_invite <team>
+commands.add_fake_player.usage=§7/add_fake_player <uuid> <name>
+
+# Client Commands
+commands.client_config.usage=§7/client_config

@@ -1,0 +1,104 @@
+# gui - general
+schematica.gui.openFolder=§7Schematic 폴더 열기
+schematica.gui.done=§7완료
+schematica.gui.title=§7Schematic 파일 선택
+schematica.gui.folderInfo=§7(여기에 schematic 파일을 놓으세요)
+schematica.gui.noschematic=§7-- Schematic 없음 --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7숨기기
+schematica.gui.all=§7모두
+schematica.gui.show=§7표시
+schematica.gui.movehere=§7여기에 옮기기
+schematica.gui.flip=§7뒤집기
+schematica.gui.rotate=§7회전
+schematica.gui.save=§7저장
+schematica.gui.moveschematic=§7Schematic 이동
+schematica.gui.layers=§7레이어
+schematica.gui.operations=§7동작
+schematica.gui.point.red=§7빨간 점
+schematica.gui.point.blue=§7푸른 점
+schematica.gui.saveselection=§7선택 영역을 schematic으로 저장
+schematica.gui.on=§7켜기
+schematica.gui.off=§7끄기
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7재료
+schematica.gui.materialname=§7재료
+schematica.gui.materialamount=§7양
+schematica.gui.printer=§7프린터
+
+# gui - config - categories
+schematica.config.category.render=§7렌더링
+schematica.config.category.render.tooltip=§7렌더링 관련 설정.
+schematica.config.category.printer=§7프린터
+schematica.config.category.printer.tooltip=§7프린터 관련 설정.
+schematica.config.category.general=§7일반
+schematica.config.category.general.tooltip=§7일반 설정.
+schematica.config.category.server=§7서버
+schematica.config.category.server.tooltip=§7서버 측 설정.
+
+# gui - config - debug
+
+# gui - config - render
+schematica.config.alphaEnabled=§7알파 활성화됨
+schematica.config.alphaEnabled.tooltip=§7투명한 텍스쳐 활성화.
+schematica.config.alpha=§7알파
+schematica.config.alpha.tooltip=§7알파 값은 schematic을 렌더링할 때 사용됩니다(1.0 = 불투명, 0.5 = 반투명, 0.0 = 투명).
+schematica.config.highlight=§7블럭 표시
+schematica.config.highlight.tooltip=§7놓아질 블럭과 잘못 놓아진 블럭을 표시합니다.
+schematica.config.highlightAir=§7공기 표시
+schematica.config.highlightAir.tooltip=§7공기여야 하는 블럭을 표시합니다.
+schematica.config.blockDelta=§7블럭 델타
+schematica.config.blockDelta.tooltip=§7표시에 쓰이는 델타 값 (만약 z-fighting 이 생기면 높이세요).
+schematica.config.drawQuads=§7표면 그리기
+schematica.config.drawQuads.tooltip=§7블럭 표면을 보여줍니다.
+schematica.config.drawLines=§7선 그리기
+schematica.config.drawLines.tooltip=§7외곽선을 보여줍니다.
+
+# gui - config - printer
+schematica.config.placeDelay=§7놓기 지연시간
+schematica.config.placeDelay.tooltip=§7놓기 시도간의 지연시간 (틱 단위).
+schematica.config.timeout=§7시간 제한
+schematica.config.timeout.tooltip=§7실패한 블럭을 재시도하기 전의 시간 제한.
+schematica.config.placeInstantly=§7즉시 놓기
+schematica.config.placeInstantly.tooltip=§71틱 안에 가능한 모든 블럭을 놓기.
+schematica.config.destroyBlocks=§7블럭 부수기
+schematica.config.destroyBlocks.tooltip=§7프린터가 블럭을 부숩니다 (크리에이티브 모드 전용).
+schematica.config.destroyInstantly=§7즉시 부수기
+schematica.config.destroyInstantly.tooltip=§71틱안에 가능한 모든 블럭을 부수기.
+schematica.config.placeAdjacent=§7접촉된 블럭만 놓기
+schematica.config.placeAdjacent.tooltip=§7접촉된 블럭이 있을 경우에만 블럭을 놓습니다.
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+schematica.config.schematicDirectory=§7Schematic 디렉토리
+schematica.config.schematicDirectory.tooltip=§7Schematic 디렉토리.
+
+# gui - config - server
+schematica.config.printerEnabled=§7프린터 허용
+schematica.config.printerEnabled.tooltip=§7플레이어가 프린터를 쓰는 것을 허용.
+schematica.config.saveEnabled=§7저장 허용
+schematica.config.saveEnabled.tooltip=§7플레이어가 schematic을 저장하는 것을 허용.
+schematica.config.loadEnabled=§7불러오기 허용
+schematica.config.loadEnabled.tooltip=§7플레이어가 schematic을 불러오는 것을 허용.
+
+# keys
+schematica.key.category=§7Schematica
+schematica.key.load=§7Schematic 불러오기
+schematica.key.save=§7Schematic 저장
+schematica.key.control=§7Schematic 조작
+
+# commands - save
+schematica.command.save.usage=§7/schematicaSave <X시작> <Y시작> <Z시작> <X끝> <Y끝> <Z끝> <이름>
+schematica.command.save.playersOnly=§7이 커맨드는 오직 플레이어만 사용할 수 있습니다.
+schematica.command.save.saveSucceeded=§7%s을(를) 성공적으로 저장하였습니다.
+schematica.command.save.saveFailed=§7Schematic %s을(를) 저장하는데 문제가 발생하였습니다.
+
+# commands - list
+
+# commands - remove
+
+# commands - download

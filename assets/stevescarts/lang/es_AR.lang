@@ -1,0 +1,742 @@
+# =§7=====================================
+                                BLOCK GUI
+# =§7=====================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Ensamblador de carros
+gui.SC2:basicAssembleInstruction=§7Para comenzar a hacer un carro, añade un casco de carro en el espacio para cascos.
+gui.SC2:invalidHullError=§7El casco en el espacio para cascos no es válido. Esto no debería ser posible, probablemente has hecho algo extraño.
+gui.SC2:hullCapacity=§7Capacidad del casco
+gui.SC2:complexityCap=§7Tope de complejidad
+gui.SC2:totalCost=§7Costo total
+gui.SC2:totalTime=§7Tiempo total
+gui.SC2:readyMessage=§7Listo para ensamblar el carro!
+gui.SC2:assembleProgress=§7Progreso
+gui.SC2:timeLeft=§7Tiempo restante
+gui.SC2:idleAssemblerMessage=§7El ensamblador esta actualmente en reposo
+gui.SC2:modifyCart=§7Modificar carro
+gui.SC2:assembleCart=§7Ensamblar carro
+gui.SC2:fuelLevel=§7Nivel de combustible
+
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Manager
+gui.SC2:currentSetting=§7Actualmente
+gui.SC2:changeTransferDirection=§7Cambiar dirección de transferencia
+gui.SC2:directionToCart=§7Al carro
+gui.SC2:directionFromCart=§7Desde el carro
+gui.SC2:changeTurnBack=§7Cambiar ajustes de vuelta
+gui.SC2:turnBackDisabled=§7Ningún lado seleccionado
+gui.SC2:turnBack=§7Dar la vuelta luego de la transferencia
+gui.SC2:continueForward=§7Continuar luego de la transferencia
+gui.SC2:changeTransferSize=§7Cambiar lado de transferencia
+gui.SC2:changeSide=§7Cambiar lado
+gui.SC2:currentSide=§7Lado actual
+gui.SC2:sideRed=§7Rojo
+gui.SC2:sideBlue=§7Azul
+gui.SC2:sideYellow=§7Amarillo
+gui.SC2:sideGreen=§7Verde
+gui.SC2:sideDisabled=§7Inactivo
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Cargamento
+gui.SC2:changeSlotLayout=§7Cambiar dispocisión de espacios
+gui.SC2:layoutShared=§7Todos los espacios son compartidos por todos los lados
+gui.SC2:layoutSide=§7Cada lado tiene su espacio
+gui.SC2:layoutColor=§7Cada color tiene su espacio
+gui.SC2:transferAll=§7Transferir tanto como se pueda
+gui.SC2:transferItems=§7Transferir un máximo de [%1] [%2:item|items]
+gui.SC2:transferStacks=§7Transferir un máximo de [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Cambiar parte del carro
+gui.SC2:unknownAreaMessage=§7Opción desconocida
+gui.SC2:cartAreaAll=§7Todos los espacios
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Colocadores de vías
+gui.SC2:cartAreaStorage=§7Espacios de almacenamiento
+gui.SC2:cartAreaTorches=§7Antorchas
+gui.SC2:cartAreaExplosives=§7Explosivos
+gui.SC2:cartAreaArrows=§7Flechas
+gui.SC2:cartAreaBridge=§7Material para puentes
+gui.SC2:cartAreaSeeds=§7Semillas
+gui.SC2:cartAreaFertilizer=§7Fertilizante
+gui.SC2:cartAreaSaplings=§7Brotes
+gui.SC2:cartAreaFirework=§7Fuegos artificiales
+gui.SC2:cartAreaBuckets=§7Baldes (para la ordeñadora)
+gui.SC2:cartAreaCakes=§7Tortas
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Liquido
+gui.SC2:changeTankLayout=§7Cambiar dispocisión del tanque
+gui.SC2:layoutSharedTanks=§7Todos los tanques son compartidos por todos los lados
+gui.SC2:layoutSidedTanks=§7Cada lado tiene su tanque
+gui.SC2:layoutColorTanks=§7Cada color tiene su(s) tanque(s)
+gui.SC2:transferAllLiquid=§7Transferir la mayor cantidad posible
+gui.SC2:transferBuckets=§7Transferir un máximo de [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7B
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Interruptor de módulos
+gui.SC2:optionDrill=§7Taladro
+gui.SC2:optionShield=§7Escudo
+gui.SC2:optionInvisibility=§7Invisibilidad
+gui.SC2:optionChunk=§7Carga de chunks
+gui.SC2:optionCageAuto=§7Jaula auto-recogedora
+gui.SC2:optionCage=§7Jaula recogedora
+gui.SC2:settingDisabled=§7Inhabilitado
+gui.SC2:settingOrange=§7Dirección naranja
+gui.SC2:settingBlue=§7Dirección azul
+gui.SC2:stateActivate=§7Activar
+gui.SC2:stateDeactivate=§7Desactivar
+gui.SC2:stateToggle=§7Palanca
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Distribuidor externo
+gui.SC2:distributorNotConnected=§7No está conectado a ningún administrador de cargamento!
+gui.SC2:sideName=§7[%1] lado
+gui.SC2:dropInstruction=§7Poner aquí para añadir este ajuste
+gui.SC2:removeInstruction=§7Click derecho para remover
+gui.SC2:distributorAll=§7Todo
+gui.SC2:distributorRed=§7Rojo
+gui.SC2:distributorBlue=§7Azul
+gui.SC2:distributorYellow=§7Amarillo
+gui.SC2:distributorGreen=§7Verde
+gui.SC2:distributorTopLeft=§7Arriba a la izquierda
+gui.SC2:distributorTopRight=§7Arriba a la derecha
+gui.SC2:distributorBottomLeft=§7Debajo a la izquierda
+gui.SC2:distributorBottomRight=§7Debajo a la derecha
+gui.SC2:distributorToCart=§7Al carro
+gui.SC2:distributorFromCart=§7Desde el carro
+gui.SC2:managerTop=§7Administrador superior
+gui.SC2:managerBot=§7Administrador inferior
+gui.SC2:distributorSideOrange=§7Naranja
+gui.SC2:distributorSidePurple=§7Púrpura
+gui.SC2:distributorSideYellow=§7Amarillo
+gui.SC2:distributorSideGreen=§7Verde
+gui.SC2:distributorSideBlue=§7Azul
+gui.SC2:distributorSideRed=§7Rojo
+gui.SC2:sideToolTip=§7Side: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7SALIDA
+gui.SC2:operatorAnd=§7Y
+gui.SC2:operatorOr=§7O
+gui.SC2:operatorNot=§7NO
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Unidad superior
+gui.SC2:operatorBotUnit=§7Unidad inferior
+gui.SC2:operatorNorthUnit=§7Unidad del norte
+gui.SC2:operatorWestUnit=§7Unidad del oeste
+gui.SC2:operatorSouthUnit=§7Unidad del sur
+gui.SC2:operatorEastUnit=§7Unidad del este
+gui.SC2:operatorRedstone=§7Corriente de Redstone
+gui.SC2:operatorRedstoneTop=§7Corriente de Redstone arriba
+gui.SC2:operatorRedstoneBot=§7Corriente de Redstone debajo
+gui.SC2:operatorRedstoneNorth=§7Corriente de Redstone del lado norte
+gui.SC2:operatorRedstoneWest=§7Corriente de Redstone del lado oeste
+gui.SC2:operatorRedstoneSouth=§7Corriente de Redstone del lado sur
+gui.SC2:operatorRedstoneEast=§7Corriente de Redstone del lado este
+gui.SC2:stateRails=§7Tiene suministro de vías
+gui.SC2:stateTorches=§7Tiene suministro de antorchas
+gui.SC2:stateSaplings=§7Tiene suministro de brotes
+gui.SC2:sateSeeds=§7Tiene suministro de semillas
+gui.SC2:stateBridge=§7Tiene suministros para hacer un puente
+gui.SC2:stateProjectiles=§7Tiene suministro de proyectiles
+gui.SC2:stateFertilizing=§7Tiene suministro de fertilizante
+gui.SC2:stateShield=§7Está activo es escudo
+gui.SC2:stateChunk=§7Está activo el cargador de chunks
+gui.SC2:stateInvisibility=§7Está activo el núcleo de invisibilidad
+gui.SC2:stateDrill=§7Está activo el taladro
+gui.SC2:stateCage=§7Está activo el auto-recogedor
+gui.SC2:stateStorageFull=§7El almacenamiento está completamente lleno
+gui.SC2:stateStorageEmpty=§7El almacenamiento está completamente vacío
+gui.SC2:statePassenger=§7Tiene pasajero
+gui.SC2:stateAnimal=§7Tiene pasajero animal
+gui.SC2:stateTameable=§7Tiene pasajero domable
+gui.SC2:stateBreedable=§7Tiene pasajero reproducible
+gui.SC2:stateHostile=§7Tiene pasajero hostil
+gui.SC2:stateCreeper=§7Tiene de pasajero a un creeper
+gui.SC2:stateSkeleton=§7Tiene de pasajero a un esqueleto
+gui.SC2:stateSpider=§7Tiene de pasajero a una araña
+gui.SC2:stateZombie=§7Tiene de pasajero a un zombi
+gui.SC2:stateZombiePigMan=§7Tiene de pasajero a un cerdo-zombi
+gui.SC2:stateSilverFish=§7Tiene de pasajero a unpez de plata
+gui.SC2:stateBlaze=§7Tiene de pasajero a un blaze
+gui.SC2:stateBat=§7Tiene de pasajero a un murciélago
+gui.SC2:stateWitch=§7Tiene de pasajero a una bruja
+gui.SC2:statePig=§7Tiene de pasajero a un cerdo
+gui.SC2:stateSheep=§7Tiene de pasajero a una oveja
+gui.SC2:stateCow=§7Tiene de pasajero a una vaca
+gui.SC2:stateMooshroom=§7Tiene de pasajero a un Vacongo
+gui.SC2:stateChicken=§7Tiene de pasajero a un pollo
+gui.SC2:stateWolf=§7Tiene de pasajero a un lobo
+gui.SC2:stateSnowGolem=§7Tiene de pasajero a un golem de nieve
+gui.SC2:stateOcelot=§7Tiene de pasajero a un ocelote
+gui.SC2:stateVillager=§7Tiene de pasajero a un aldeano
+gui.SC2:statePlayer=§7Tiene de pasajero a un jugador
+gui.SC2:stateZombieVillager=§7Tiene de pasajero a un aldeano zombie
+gui.SC2:stateChild=§7Tiene de pasajero a un niño
+gui.SC2:stateTamed=§7Tiene un pasajero domado
+gui.SC2:statePowerRed=§7El observador de enregía rojo está activo
+gui.SC2:statePowerBlue=§7El observador de enregía azul está activo
+gui.SC2:statePowerGreen=§7El observador de enregía verde está activo
+gui.SC2:statePowerYellow=§7El observador de enregía amarillo está activo
+gui.SC2:stateTanksFull=§7Los tanques están completamente llenos
+gui.SC2:stateTanksEmpty=§7Los tanques están completamente vacíos
+gui.SC2:stateTankEmpty=§7Hay algún tanque completamente vacío
+
+
+# =§7=====================================
+                                ITEMS
+# =§7=====================================
+
+# Carts
+item.SC2:ModularCart.name=§7Carro modular
+
+# Modules
+item.SC2:unknownmodule.name=§7Modulo de SC2 desconocido
+item.SC2:coal_engine.name=§7Motor a carbón
+item.SC2:solar_engine.name=§7Motor solar
+item.SC2:side_chests.name=§7Cofres laterales
+item.SC2:top_chest.name=§7Cofre superior
+item.SC2:front_chest.name=§7Cofre frontal
+item.SC2:internal_storage.name=§7Almacenamiento interno
+item.SC2:extracting_chests.name=§7Cofres de extracción
+item.SC2:torch_placer.name=§7Colocador de antorchas
+item.SC2:basic_drill.name=§7Taladro básico
+item.SC2:galgadorian_drill.name=§7Taladro Galgadoriano
+item.SC2:railer.name=§7Colocador de vías
+item.SC2:large_railer.name=§7Colocador de vías grande
+item.SC2:bridge_builder.name=§7Constructor de puentes
+item.SC2:track_remover.name=§7Removedor de vías
+item.SC2:basic_farmer.name=§7Cultivador básico
+item.SC2:basic_wood_cutter.name=§7Sierra básica
+item.SC2:hydrator.name=§7Hidratador
+item.SC2:height_controller.name=§7Controlador de altura
+item.SC2:fertilizer.name=§7Fertilizante
+item.SC2:entity_detector_animal.name=§7Detector de entidades: Animal
+item.SC2:liquid_sensors.name=§7Sensores de líquido
+item.SC2:entity_detector_villager.name=§7Detector de entidades: Aldeano
+item.SC2:entity_detector_player.name=§7Detector de entidades: Jugador
+item.SC2:seat.name=§7Asiento
+item.SC2:entity_detector_monster.name=§7Detector de entidades: Monstruo
+item.SC2:advanced_control_system.name=§7Sistema de control avanzado
+item.SC2:brake_handle.name=§7Manija para el freno
+item.SC2:advanced_shooter.name=§7Disparador avanzado
+item.SC2:shooter.name=§7Disparador
+item.SC2:dynamite_carrier.name=§7Acarreador de dinamita
+item.SC2:cleaning_machine.name=§7Máquina de limpieza
+item.SC2:extreme_melter.name=§7Derretidor extremo
+item.SC2:divine_shield.name=§7Escudo divino
+item.SC2:melter.name=§7Derretidor
+item.SC2:standard_hull.name=§7Casco estándar
+item.SC2:reinforced_hull.name=§7Casco reforzado
+item.SC2:invisibility_core.name=§7Núcleo de invisibilidad
+item.SC2:wooden_hull.name=§7Casco de madera
+item.SC2:iron_drill.name=§7Casco de hierro
+item.SC2:hardened_drill.name=§7Taladro reforzado
+item.SC2:note_sequencer.name=§7Secuenciador de notas
+item.SC2:colorizer.name=§7Colorizador
+item.SC2:pumpkin_chariot.name=§7Carro de calabaza
+item.SC2:tiny_coal_engine.name=§7Motor de carbón pequeño
+item.SC2:basic_solar_engine.name=§7Motor solar básico
+item.SC2:projectile_potion.name=§7Proyectil: Poción
+item.SC2:gift_storage.name=§7Almacenamiento de regalos
+item.SC2:chunk_loader.name=§7Cargador de chunks
+item.SC2:entity_detector_bat.name=§7Detector de entidad: Murciélago
+item.SC2:freezer.name=§7Congelador
+item.SC2:projectile_snowball.name=§7Proyectil: Bola de nieve
+item.SC2:projectile_egg.name=§7Proyectil: Huevo
+item.SC2:projectile_fire_charge.name=§7Proyectil: Carga de fuego
+item.SC2:firework_display.name=§7Pantalla de fuegos artificiales
+item.SC2:crop_nether_wart.name=§7Cultivo: Berruga del inframundo
+item.SC2:cage.name=§7Jaula
+item.SC2:compact_solar_engine.name=§7Motor solar compacto
+item.SC2:internal_tank.name=§7Tanque interno
+item.SC2:mechanical_pig.name=§7Cerdo mecánico
+item.SC2:creative_engine.name=§7Motor creativo
+item.SC2:incinerator.name=§7Incinerador
+item.SC2:thermal_engine.name=§7Motor termal
+item.SC2:advanced_thermal_engine.name=§7Motor termal avanzado
+item.SC2:liquid_cleaner.name=§7Limpiador de líquido
+item.SC2:side_tanks.name=§7Tanques laterales
+item.SC2:top_tank.name=§7Tanque superior
+item.SC2:advanced_tank.name=§7Tanque avanzado
+item.SC2:front_tank.name=§7Tanque frontal
+item.SC2:creative_hull.name=§7Casco creativo
+item.SC2:power_observer.name=§7Observador de energía
+item.SC2:steves_arcade.name=§7El Arcade de Steve
+item.SC2:hardened_wood_cutter.name=§7Sierra reforzada
+item.SC2:creative_tank.name=§7Tanque creativo
+item.SC2:open_tank.name=§7Tanque abierto
+item.SC2:egg_basket=§7Canasta para huevos
+item.SC2:drill_intelligence.name=§7Inteligencia del taladro
+item.SC2:lawn_mower.name=§7Podadora
+item.SC2:galgadorian_farmer.name=§7Cultivador de Galgadorio
+item.SC2:crafter.name=§7Crafteador
+item.SC2:milker.name=§7Ordeñador
+item.SC2:galgadorian_hull.name=§7Casco de Galgadorio
+item.SC2:galgadorian_wood_cutter.name=§7Sierra de Galgadorio
+item.SC2:ore_extractor.name=§7Extractor de minerales
+item.SC2:enchanter.name=§7Encantador
+item.SC2:advanced_smelter.name=§7Derretidor avanzado
+item.SC2:advanced_crafter.name=§7Crafteador avanzado
+item.SC2:experience_bank.name=§7Banco de experiencia
+item.SC2:information_provider.name=§7Proveedor de información
+item.SC2:planter_range_extender.name=§7Extendedor de alcance del plantador
+item.SC2:tree_exotic.name=§7Árbol: Exótico
+item.SC2:smelter.name=§7Derretidor
+item.SC2:projectile_cake.name=§7Proyectil: Torta
+item.SC2:trick_or_treat_cake_server.name=§7Servidor de torta de Truco o Trato
+item.SC2:cake_server.name=§7Servidor de torta
+item.SC2:creative_incinerator.name=§7Incinerador creativo
+item.SC2:creative_supplies.name=§7Suministros creativos
+
+# Components
+item.SC2:unknowncomponent.name=§7Componente desconocido de SC2
+item.SC2:wooden_wheels.name=§7Ruedas de madera
+item.SC2:iron_wheels.name=§7Ruedas de hierro
+item.SC2:red_pigment.name=§7Pigmento rojo
+item.SC2:green_pigment.name=§7Pigmento verde
+item.SC2:blue_pigment.name=§7Pigmento Azul
+item.SC2:glass_o'magic.name=§7Vidrio mágico
+item.SC2:dynamite.name=§7Dinamita
+item.SC2:simple_pcb.name=§7PCB simple
+item.SC2:graphical_interface.name=§7Interfaz gráfica
+item.SC2:raw_handle.name=§7Manija en crudo
+item.SC2:refined_handle.name=§7Manija refinada
+item.SC2:speed_handle.name=§7Manija de velocidad
+item.SC2:wheel.name=§7Rueda
+item.SC2:saw_blade.name=§7Filo de la sierra
+item.SC2:advanced_pcb.name=§7PCB avanzado
+item.SC2:wood_cutting_core.name=§7Núcleo de la sierra
+item.SC2:raw_hardener.name=§7Endurecedor en crudo
+item.SC2:refined_hardener.name=§7Endurecedor refinado
+item.SC2:hardened_mesh.name=§7Malla endurecida
+item.SC2:stabilized_metal.name=§7Metal estabilizado
+item.SC2:reinforced_metal.name=§7Metal reforzado
+item.SC2:reinforced_wheels.name=§7Ruedas reforzadas
+item.SC2:pipe.name=§7Tubería
+item.SC2:shooting_station.name=§7Estación de tiro
+item.SC2:entity_scanner.name=§7Scanner de entidades
+item.SC2:entity_analyzer.name=§7Analizador de entidades
+item.SC2:empty_disk.name=§7Disco vacío
+item.SC2:tri-torch.name=§7Antorcha triple
+item.SC2:chest_pane.name=§7Panel para cofres
+item.SC2:large_chest_pane.name=§7Panel grande para cofres
+item.SC2:huge_chest_pane.name=§7Panel enorme para cofres
+item.SC2:chest_lock.name=§7Cerradura de cofres
+item.SC2:iron_pane.name=§7Panel de hierro
+item.SC2:large_iron_pane.name=§7Panel grande de hierro
+item.SC2:huge_iron_pane.name=§7Panel enorme de hierro
+item.SC2:dynamic_pane.name=§7Panel dinámico
+item.SC2:large_dynamic_pane.name=§7Panel dinámico grande
+item.SC2:huge_dynamic_pane.name=§7Panel dinámico enorme
+item.SC2:cleaning_fan.name=§7Ventilador de limpieza
+item.SC2:cleaning_core.name=§7Núcleo de limpieza
+item.SC2:cleaning_tube.name=§7Tubo de limpieza
+item.SC2:fuse.name=§7Detonador
+item.SC2:solar_panel.name=§7Panel solar
+item.SC2:eye_of_galgador.name=§7Ojo del Galgador
+item.SC2:lump_of_galgador.name=§7Pedazo de Galgador
+item.SC2:galgadorian_metal.name=§7Metal de Galgador
+item.SC2:large_lump_of_galgador.name=§7Pedazo grande de Galgador
+item.SC2:enhanced_galgadorian_metal.name=§7Metal de Galgador perfeccionado
+item.SC2:stolen_present.name=§7Regalo robado
+item.SC2:green_wrapping_paper.name=§7Papel de envoltura verde
+item.SC2:red_wrapping_paper.name=§7Papel de envoltura rojo
+item.SC2:warm_hat.name=§7Gorra cálida
+item.SC2:red_gift_ribbon.name=§7Lazo rojo para regalos
+item.SC2:yellow_gift_ribbon.name=§7Lazo amarillo para regalos
+item.SC2:sock.name=§7Media
+item.SC2:stuffed_sock.name=§7Media llena
+item.SC2:advanced_solar_panel.name=§7Panel solar avanzado
+item.SC2:blank_upgrade.name=§7Mejora en blanco
+item.SC2:tank_valve.name=§7Válvula del tanque
+item.SC2:tank_pane.name=§7Cristal del tanque
+item.SC2:large_tank_pane.name=§7Cristal del tanque grande
+item.SC2:huge_tank_pane.name=§7Cristal del tanque enorme
+item.SC2:liquid_cleaning_core.name=§7Núcleo del limpiador de líquidos
+item.SC2:liquid_cleaning_tube.name=§7Tubo limpiador de líquidos
+item.SC2:explosive_easter_egg.name=§7Huevo de Pascua explosivo
+item.SC2:burning_easter_egg.name=§7Huevo de Pascua ardiendo
+item.SC2:glistering_easter_egg.name=§7Huevo de Pascua brillante
+item.SC2:chocolate_easter_egg.name=§7Huevo de Pascua de chocolate
+item.SC2:painted_easter_egg.name=§7Huevo de Pascua pintado
+item.SC2:basket.name=§7Canasta
+item.SC2:oak_log.name=§7Tronco de roble
+item.SC2:oak_twig.name=§7Rama de roble
+item.SC2:spruce_log.name=§7Tronco de Abeto
+item.SC2:spruce_twig.name=§7Rama de Abeto
+item.SC2:birch_log.name=§7Tronco de abedul
+item.SC2:birch_twig.name=§7Rama de abedul
+item.SC2:jungle_log.name=§7Tronco de selva
+item.SC2:jungle_twig.name=§7Rama de selva
+item.SC2:hardened_saw_blade.name=§7Filo de sierra reforzado
+item.SC2:galgadorian_saw_blade.name=§7Filo de sierra de Galgadorio
+item.SC2:galgadorian_wheels.name=§7Ruedas de Galgadorio
+item.SC2:iron_blade.name=§7Filo de hierro
+item.SC2:blade_arm.name=§7Brazo del filo
+
+
+
+# =§7=====================================
+                                BLOCKS
+# =§7=====================================
+
+tile.SC2:BlockCargoManager.name=§7Administrador de carga
+tile.SC2:BlockJunction.name=§7Vía de intersección
+tile.SC2:BlockAdvDetector.name=§7Vía detectora avanzada
+tile.SC2:BlockCartAssembler.name=§7Ensamblador de carros
+tile.SC2:BlockActivator.name=§7Activador de módulos
+tile.SC2:BlockDistributor.name=§7Distribuidor externo
+tile.SC2:BlockLiquidManager.name=§7Administrador de líquidos
+
+# Storage
+item.SC2:BlockStorage0.name=§7Bloque de metal reforzado
+item.SC2:BlockStorage1.name=§7Bloque de galgadorio
+item.SC2:BlockStorage2.name=§7Bloque de Galgadorio perfeccionado
+
+# Upgrades
+item.SC2:batteries.name=§7Mejora: Baterías
+item.SC2:power_crystal.name=§7Mejora: Cristal de enregía
+item.SC2:module_knowledge.name=§7Mejora: Conocimiento de los módulos
+item.SC2:industrial_espionage.name=§7Mejora: Espionaje industial
+item.SC2:experienced_assembler.name=§7Mejora: Ensamblador experimentado
+item.SC2:new_era.name=§7Mejora: Nueva era
+item.SC2:co2_friendly.name=§7Mejora: Eficiencia en CO2
+item.SC2:generic_engine.name=§7Mejora: Motor genérico
+item.SC2:module_input.name=§7Mejora: Entrada de módulo
+item.SC2:production_line.name=§7Mejora: Cadena de producción
+item.SC2:cart_deployer.name=§7Mejora: Expendedor de carros
+item.SC2:cart_modifier.name=§7Mejora: Modificador de carros
+item.SC2:cart_crane.name=§7Mejora: Grúa de carros
+item.SC2:redstone_control.name=§7Mejora: Controlable por Redstone
+item.SC2:creative_mode.name=§7Mejora: Modo creativo
+item.SC2:quick_demolisher.name=§7Mejora: Demoledor rápido
+item.SC2:manager_bridge.name=§7Mejora: Administrador de puentes
+item.SC2:entropy.name=§7Mejora: Entropía
+item.SC2:solar_panel_upgrade.name=§7Mejora: Panel solar
+item.SC2:thermal_engine_upgrade.name=§7Motor termal
+
+# Detector Units
+item.SC2:BlockDetector0.name=§7Administrador de detectores
+item.SC2:BlockDetector1.name=§7Detector de Unidad
+item.SC2:BlockDetector2.name=§7Detector de Estación
+item.SC2:BlockDetector3.name=§7Detector de Intersección
+item.SC2:BlockDetector4.name=§7Detector de unidad de redstone
+
+
+
+# =§7=====================================
+                                MODULE MISC
+# =§7=====================================
+
+# Categories
+info.SC2:moduleCategoryHull=§7Casco
+info.SC2:moduleCategoryEngine=§7Motor
+info.SC2:moduleCategoryTool=§7Herramienta
+info.SC2:moduleCategoryStorage=§7Almacenamiento
+info.SC2:moduleCategoryAddon=§7Adicional
+info.SC2:moduleCategoryAttachment=§7Accesorio
+
+# Groups
+info.SC2:moduleGroupEngine=§7[%1:Motor|Motores]
+info.SC2:moduleGroupDrill=§7[%1:Taladro|Taladros]
+info.SC2:moduleGroupFarmer=§7[%1:Cultivador|Cultivadores]
+info.SC2:moduleGroupCutter=§7[%1:Sierra|Sierras]
+info.SC2:moduleGroupTank=§7[%1:Tanque|Tanques]
+info.SC2:moduleGroupEntity=§7[%1:Detector de entidades|Detectores de entidades]
+info.SC2:moduleGroupShooter=§7[%1:Disparador|Disparadores]
+info.SC2:moduleGroupTool=§7[%1:Herramienta|Herramientas]
+info.SC2:moduleGroupToolShooter=§7[%1:Herramienta|Herramientas] o [%1:Disparador|Disparadores]
+
+# Messages
+info.SC2:pigExtraMessage=§7En memoria a la victoria de Vswe en la arena del Puerco-trueno. Gracias a todos los que donaron en la maratón de Minecraft 2013.
+info.SC2:oceanExtraMessage=§7Espacio para un océano tamaño promedio.
+info.SC2:alphaExtraMessage=§71 año en Alfa
+info.SC2:storageEmpty=§7Vacío
+info.SC2:storageFull=§7Lleno
+info.SC2:giftStorageFull=§7Puede tener una sorpresa.
+info.SC2:eggStorageFull=§7Lleno de huevos.
+
+# Labels
+info.SC2:modularCost=§7Costo modular
+info.SC2:cartSideTop=§7Superior
+info.SC2:cartSideCenter=§7Centro
+info.SC2:cartSideBottom=§7Inferior
+info.SC2:cartSideBack=§7Detrás
+info.SC2:cartSideLeft=§7Izquierda
+info.SC2:cartSideRight=§7Derecha
+info.SC2:cartSideFront=§7Frente
+info.SC2:occupiedSides=§7Ocupará [%2:el lado|los lados] [%1]
+info.SC2:sidesAnd=§7y
+info.SC2:noSides=§7No ocupará ningún lado
+info.SC2:moduleConflictHowever=§7No es compatible, de todos modos, con
+info.SC2:moduleConflictAlso=§7No es compatible con
+info.SC2:moduleRequirement=§7Requiere
+info.SC2:moduleCount1=§7un
+info.SC2:moduleCount2=§7dos
+info.SC2:moduleCount3=§7tres
+info.SC2:allowDuplicates=§7Se permite más de uno
+info.SC2:moduleType=§7Tipo
+info.SC2:capacityOverloadError=§7El costo es más grande que la capacidad del casco.
+info.SC2:impossibleCombinationError=§7La combinación de estos módulos no es válida. Esto no debería ser posible.
+info.SC2:complexityOverloadError=§7[%1] es demasidado complejo para este casco.
+info.SC2:missingParentError=§7[%1] requiere [%2] para funcionar!
+info.SC2:presentNemesisError=§7[%1] no funcionará con [%2]
+info.SC2:presentDuplicateError=§7[%1] no tiene permitido ser añadido dos veces.
+info.SC2:sideClashError=§7[%1] y [%2] no irá junto a [%3]
+info.SC2:toolUnbreakable=§7Indestructible
+info.SC2:toolDurability=§7Durabilidad: [%1]%
+info.SC2:modularCapacity=§7Capacidad modular: [%1]
+info.SC2:complexityCap=§7Tope de complejidad modular: [%1]
+info.SC2:maxEngineCount=§7Máximo de motores: [%1]
+info.SC2:maxAddonCount=§7Máximo de adicionales: [%1]
+
+
+# =§7=====================================
+                                UPGRADES
+# =§7=====================================
+
+info.SC2:effectBlueprint=§7Habilita el uso de carros de proyectos.
+info.SC2:effectCombustionFuel=§7Habilita fuentes de combustible estándar.
+info.SC2:effectDeployer=§7Habilita el dispensador de carros terminados
+info.SC2:effectDisassemble=§7Te permite desensamblar y modificar carros.
+info.SC2:effectFuelCapacity=§7Capacidad de combustible: [%1].
+info.SC2:effectFuelCost=§7Costo en combustible [%1]%.
+info.SC2:effectInputChest=§7El cofre de entrada tiene [%1] espacios.
+info.SC2:effectManagerBridge=§7Conecta el ensamblador con un administrador.
+info.SC2:effectGenerator=§7Genera [%1] [%2:unidad|unidades] de energía por minuto.
+info.SC2:effectRedstone=§7Permite que el ensamblaje se controle con Redstone.
+info.SC2:effectSolar=§7Genera energía cuando está bajo el sol.
+info.SC2:effectThermal=§7Corre el ensamblador con lava.
+info.SC2:effectTimeFlat=§7Tiempo de ensamblaje para el módulo: [%1] [%1:segundo|segundos].
+info.SC2:effectTimeFlatCart=§7Tiempo de ensamblaje del carro: [%1] [%1:segundo|segundos].
+info.SC2:effectTimeFlatRemove=§7Tiempo de desensamble del módulo: [%1] [%1:segundo|segundos].
+info.SC2:effectTransposer=§7Puede tomar carros para modificarlos.
+info.SC2:effectEfficiency=§7Eficiencia del ensamblaje: [%1]%.
+
+
+# =§7=====================================
+                                MODULES
+# =§7=====================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=§7Animales
+modules.addons.SC2:detectorBats=§7Murciélagos
+modules.addons.SC2:detectorMonsters=§7Monstruos
+modules.addons.SC2:detectorPlayers=§7Jugadores
+modules.addons.SC2:detectorVillagers=§7Aldeanos
+modules.addons.SC2:planterRangeExtenderTitle=§7Alcance del plantador
+modules.addons.SC2:saplingPlantAmount=§7Actual cantidad de brotes
+modules.addons.SC2:controlLeverTitle=§7Palanca de control
+modules.addons.SC2:leverStartCart=§7Iniciar el carro
+modules.addons.SC2:leverStopCart=§7Detener el carro
+modules.addons.SC2:leverTurnAroundCart=§7Dar la vuelta al carro
+modules.addons.SC2:colorizerRgbRed=§7Rojo
+modules.addons.SC2:colorizerRgbGreen=§7Verde
+modules.addons.SC2:colorizerRgbBlue=§7Azul
+modules.addons.SC2:intelligenceLockedBlock=§7El taladro siempre removerá este bloque
+modules.addons.SC2:intelligenceChange=§7Cambiar la inteligencia del taladro
+modules.addons.SC2:intelligenceCurrent=§7Actualmente: [%1->Activado|Desactivado]
+modules.addons.SC2:enchanterInstruction=§7Añadir un libro encantado en la ranura izquierda.
+modules.addons.SC2:invisibilityToggle=§7[%1->Activar|Desactivar] núcleo de invisibilidad.
+modules.addons.SC2:informationProviderLabelName=§7Nombre
+modules.addons.SC2:informationProviderLabelDistance=§7Distancia
+modules.addons.SC2:informationProviderMessageDistance=§7Distancia: [%1]m
+modules.addons.SC2:informationProviderLabelPosition=§7Posición
+modules.addons.SC2:informationProviderMessagePosition=§7X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=§7Combustible restante
+modules.addons.SC2:informationProviderMessageFuel=§7Tiempo restante de combustible
+modules.addons.SC2:informationProviderMessageNoConsumption=§7Sin consumo
+modules.addons.SC2:informationProviderLabelStorage=§7Almacenamiento utilizado
+modules.addons.SC2:informationProviderLabelDurability=§7Durabilidad
+modules.addons.SC2:informationProviderMessageToolBroken=§7Herramienta rota
+modules.addons.SC2:informationProviderMessageToolNotBroken=§7La herramienta no está dañada. Remueve el material.
+modules.addons.SC2:informationProviderMessageRepair=§7La herramienta está siendo utilizada
+modules.addons.SC2:informationProviderMessageUnbreakable=§7La herramienta es indestructible
+modules.addons.SC2:informationProviderLabels=§7Etiquetas
+modules.addons.SC2:powerThousandSuffix=§7K
+modules.addons.SC2:powerObserverInstruction=§7Click y arrastre para colocar en el área deseada.
+modules.addons.SC2:powerObserverRemoveInstruction=§7Click derecho para remover.
+modules.addons.SC2:powerObserverDropInstruction=§7Coloque el motor aquí.
+modules.addons.SC2:powerObserverChangeInstruction=§7Click para cambiar el límite de energía
+modules.addons.SC2:powerObserverChangeInstruction10=§7Shift+click para cambiar por 10K
+modules.addons.SC2:recipeOutput=§7Cambie la ubicación de la salida
+modules.addons.SC2:recipeCurrentSelection=§7Actualmente
+modules.addons.SC2:recipeInvalidOutput=§7Desconocido
+modules.addons.SC2:recipeChangeMode=§7Cambiar el modo actual
+modules.addons.SC2:recipeNoLimit=§7Sin límite.
+modules.addons.SC2:recipeLimit=§7Limitar la cantidad disponible
+modules.addons.SC2:recipeDisabled=§7No produzca nada
+modules.addons.SC2:recipeChangeLimit=§7[%1->Incrementar|Decrecer] la cantidad de items para mantener disponible.
+modules.addons.SC2:recipeChangeLimit10=§7Shift+click para cambiar por 10.
+modules.addons.SC2:recipeChangeLimit64=§7Ctrl+click para cambiar por 64.
+modules.addons.SC2:shieldToggle=§7[%1->Activar|Desactivar] escudo
+
+# Engines
+modules.engines.SC2:creativePowerLevel=§7Nivel de energía: [%1]
+modules.engines.SC2:coalEngineTitle=§7Motor de carbón
+modules.engines.SC2:outOfFuel=§7Sin combustible
+modules.engines.SC2:fuelLevel=§7Combustible: [%1]
+modules.engines.SC2:solarEngineTitle=§7Motor solar
+modules.engines.SC2:outOfPower=§7Sin energía
+modules.engines.SC2:powerLevel=§7Energía: [%1]
+modules.engines.SC2:thermalEngineTitle=§7Motor termal
+modules.engines.SC2:thermalPowered=§7Con energía
+modules.engines.SC2:outOfWater=§7Sin Agua
+modules.engines.SC2:outOfLava=§7Sin Lava
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=§7Actual modo creativo: [%1][%2->Normal|Siempre lleno|Siempre vacío|Siempre a la mitad]
+modules.tanks.SC2:creativeTankChangeMode=§7Click derecho para cambiar
+modules.tanks.SC2:creativeTankResetMode=§7Shift+Click derecho para volver a lo normal
+modules.tanks.SC2:tankLocked=§7Trabado a este fluido
+modules.tanks.SC2:tankLock=§7Click para trabar a este fluido
+modules.tanks.SC2:tankUnlock=§7Click para destrabar
+modules.tanks.SC2:tankEmpty=§7Vacío
+modules.tanks.SC2:tankInvalidFluid=§7Desconocido
+
+# Tools
+modules.tools.SC2:toolDurability=§7Durabilidad
+modules.tools.SC2:toolBroken=§7Roto
+modules.tools.SC2:toolRepairing=§7Reparando herramienta
+modules.tools.SC2:toolDecent=§7Remueva los materiales de reparación, esta herramienta todavía está bastante decente.
+modules.tools.SC2:toolRepairInstruction=§7Repare esta herramienta con [%1]
+modules.tools.SC2:toolUnbreakable=§7Esta herramienta nunca se romperá.
+modules.tools.SC2:toolUnbreakableRepairError=§7Remueva los materiales de reparación.
+modules.tools.SC2:drillTitle=§7Taladro
+modules.tools.SC2:drillToggle=§7[%1->Activar|Desactivar] taladro
+modules.tools.SC2:repairDiamonds=§7Diamantes
+modules.tools.SC2:repairIron=§7Lingotes de hierro
+modules.tools.SC2:farmerTitle=§7Cultivador
+modules.tools.SC2:cutterTitle=§7Sierra
+
+# Attachments
+modules.attachments.SC2:fertilizers=§7Fertilizadores
+modules.attachments.SC2:railerTitle=§7Colocador de vías
+modules.attachments.SC2:controlSystemTitle=§7Sistema de control avanzado
+modules.attachments.SC2:controlSystemDistanceUnits=§7[%1->|k|M|G|T|P]m
+modules.attachments.SC2:controlSystemOdoMeter=§7ODO
+modules.attachments.SC2:controlSystemTripMeter=§7VIAJE
+modules.attachments.SC2:cageAutoPickUp=§7[%1->Activar|Desactivar] el auto-levantamiento
+modules.attachments.SC2:cagePickUp=§7[%1->Agarrar un mob cercano|Dejar ir al mob]
+modules.attachments.SC2:cakeServerTitle=§7Servidor de torta
+modules.attachments.SC2:cakesLabel=§7Tortas: [%1] / [%2]
+modules.attachments.SC2:slicesLabel=§7Rodajas: [%1] / [%2]
+modules.attachments.SC2:explosivesTitle=§7Explosivos
+modules.attachments.SC2:experienceTitle=§7Experiencia
+modules.attachments.SC2:experienceLevel=§7Nivel de xp: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=§7Click para extraer 50xp
+modules.attachments.SC2:experiencePlayerLevel=§7Tu nivel de xp actal es de [%1]
+modules.attachments.SC2:shooterTitle=§7Disparador
+modules.attachments.SC2:shooterFrequency=§7#/s
+modules.attachments.SC2:shooterSeconds=§7s
+modules.attachments.SC2:shooterDelay=§7Retraso
+modules.attachments.SC2:notePiano=§7Piano
+modules.attachments.SC2:noteBassDrum=§7Tambor Bajo
+modules.attachments.SC2:noteSnareDrum=§7tambor
+modules.attachments.SC2:noteSticks=§7Palos
+modules.attachments.SC2:noteBassGuitar=§7Bajo
+modules.attachments.SC2:noteCreateTrack=§7Crear nuevo track
+modules.attachments.SC2:noteRemoveTrack=§7Remover el track de abajo
+modules.attachments.SC2:noteActivateInstrument=§7Activar [%1]
+modules.attachments.SC2:noteDeactivateInstrument=§7Remover la opción de bloque de notas.
+modules.attachments.SC2:noteDelay=§7Cambiar retraso. Retraso actual: [%1]
+modules.attachments.SC2:noteAdd=§7Añadir nota al track #[%1]
+modules.attachments.SC2:noteRemove=§7Remover la última nota del track #[%1]
+modules.attachments.SC2:noteVolume=§7Volumen del track: [%1->Mudo|Bajo|Medio|Alto]
+# =§7=====================================
+         Steve's Arcade 
+# =§7=====================================
+
+# Ghast Invaders
+arcade.SC2:ghastInvaders=§7Invasores Ghast
+arcade.SC2:ghastLives=§7Vidas extra
+arcade.SC2:highScore=§7Puntuación máxima: [%1]
+arcade.SC2:score=§7Puntuación: [%1]
+arcade.SC2:instructionShoot=§7Disparar
+arcade.SC2:instructionLeft=§7Mover a la izquierda
+arcade.SC2:instructionRight=§7Mover a la derecha
+arcade.SC2:instructionRestart=§7Reiniciar
+arcade.SC2:creeperSweeper=§7Barredora de creepers
+arcade.SC2:creeperMapName1=§7Pequeño
+arcade.SC2:creeperMapName2=§7Mediano
+arcade.SC2:creeperMapName3=§7Grande
+arcade.SC2:creepersLeft=§7Creepers restantes:  [%1]
+arcade.SC2:creeperTime=§7Tiempo dedicado: [%1]s
+arcade.SC2:instructionChangeMap=§7Cambiar tamaño de mapa
+arcade.SC2:creeperCurrentMap=§7Actual [%1]
+arcade.SC2:creeperHighScores=§7Puntuaciones máximas
+arcade.SC2:creeperHighScore=§7[%1]: [%2]s
+arcade.SC2:mobStacker=§7Apilador de mobs
+arcade.SC2:stackerRemovedLines=§7Líneas removidas: [%1]
+arcade.SC2:stackerRemovedLinesCombo=§7Líneas [%1->únicas|dobles|triples|cuádruples] removidas: [%2]
+arcade.SC2:instructionRotate=§7Rotar
+arcade.SC2:instructionDrop=§7Soltar
+arcade.SC2:trackOperator=§7Operador de vía
+arcade.SC2:operatorSaveError=§7Fallo al guardar
+arcade.SC2:operatorSave=§7Guardar
+arcade.SC2:operatorUserCreatedMaps=§7Mapas creados por el usuario
+arcade.SC2:operatorStories=§7Historias
+arcade.SC2:operatorHelp=§7Para más info sobre cómo jugar, véte a modo Historia y comienza la historia "El comienzo". Para hacer tu propio mapa, ve al editor y crea uno nuevo. Allí habrá más instrucciones. Haz click en una vía detectora y después en una vía de intersección si quieres que se conecten. Para aún más información, entrá a la wiki de SC2.
+arcade.SC2:instructionTrackShape=§7Seleccione la forma de la vía
+arcade.SC2:instructionRotateTrack=§7Rotar la vía
+arcade.SC2:instructionFlipTrack=§7Voltear la vía
+arcade.SC2:instructionDefaultDirection=§7Cambiar dirección por defecto
+arcade.SC2:instructionTrackType=§7Cambiar tipo de vía
+arcade.SC2:instructionDeleteTrack=§7Eliminar vía
+arcade.SC2:instructionCopyTrack=§7Copiar vía
+arcade.SC2:instructionMoveSteve=§7Mover o rotar a Steve
+arcade.SC2:instructionMoveMap=§7Mover mapa
+arcade.SC2:instructionPlaceTrack=§7Colocar vía
+arcade.SC2:instructionDeselectTrack=§7Deseleccionar vía
+arcade.SC2:leftMouseButton=§7LMouse
+arcade.SC2:rightMouseButton=§7RMouse
+arcade.SC2:buttonStart=§7Comenzar
+arcade.SC2:buttonMenu=§7Menú
+arcade.SC2:buttonStop=§7Parar
+arcade.SC2:buttonNextLevel=§7Siguiente nivel
+arcade.SC2:buttonStartLevel=§7Comenzar nivel
+arcade.SC2:buttonSelectStory=§7Seleccionar historia
+arcade.SC2:buttonSelectStoryOther=§7Seleccionar otra historia
+arcade.SC2:buttonCreateLevel=§7Crear nivel
+arcade.SC2:buttonEditLevel=§7Editar nivel
+arcade.SC2:buttonRefreshList=§7Refrescar lista
+arcade.SC2:buttonSave=§7Guardar
+arcade.SC2:buttonSaveAs=§7Guardar como...
+arcade.SC2:buttonCancel=§7Cancelar
+stories.beginning.SC2:mapEditor=§7Editor de mapas
+
+# Story - The beginning
+stories.beginning.SC2:title=§7El comienzo
+stories.beginning.SC2:mission=§7Steve tiene una misión, necesita encontrar el mapa para el siguiente nivel.
+stories.beginning.SC2:start=§7Presioná el boton de Comenzar a tu derecha.
+stories.beginning.SC2:stop=§7Si querés, podés presionar el boton de Parar para detenerlo
+stories.beginning.SC2:map=§7Steve ahora tiene el mapa, apretá el botón de Siguiente nivel para continuar.
+stories.beginning.SC2:trackOperator=§7Sos el operador de vías, tu trabajo es asegurarte de que las vías estén correctamente puestas. Haz click en las intersecciones antes de presionar el botón de comenzar.
+stories.beginning.SC2:goodJob=§7Buen trabajo! Así se hace.
+stories.beginning.SC2:changeJunctions=§7Siempre podés presionar el botón de parar y cambiar cómo están configuradas las intersecciones.
+stories.beginning.SC2:blast=§7Steve piensa que es muy divertido montar su carro, pero a veces demasiado divertido. Por ejemplo, si va en círculos. Buena suerte.
+stories.beginning.SC2:steel=§7Siempre hay bultos en el camino, para un operador de vías se llaman vías de acero. Las intersecciones de acero no pueden ser cambiadas, buena suerte.
+stories.beginning.SC2:detector=§7Las vías detectoras pueden ser tus amigas o enemigas. Cuando Steve pasa sobre una vía detectora, un numero de intersecciones puede cambiar, inclusive intersecciones de acero. Para ver cuáles serán afectadas, poné el mouse sobre la vía detectora.
+stories.beginning.SC2:outOfReach=§7Fuera de alcance...
+stories.beginning.SC2:outOfReach2=§7...pero eso no te detiene.
+stories.beginning.SC2:longJourney=§7Después de un largo viaje Steve puede ver el fin de este largo comino...
+stories.beginning.SC2:end=§7...pero no todo siempre sale como fue planeado. Mientras esperás por más historias para jugar podés crear y compartir tus propios mapas.Andá a la pestaña del editor de mapas en el menú para empezar a hacer uno.
+stories.beginning.SC2:thanks=§7Gracias por jugar! :)
+stories.beginning.SC2:level1=§7Un nuevo día
+stories.beginning.SC2:level2=§7El operador
+stories.beginning.SC2:level3=§7Escapá del círculo
+stories.beginning.SC2:level4=§7Duro como el acero
+stories.beginning.SC2:level5=§7Mundo en movimiento
+stories.beginning.SC2:level6=§7El candado con contraseña
+stories.beginning.SC2:level7=§7Tan cerca
+stories.beginning.SC2:level8=§7Una locura
+stories.beginning.SC2:level9=§7La torta

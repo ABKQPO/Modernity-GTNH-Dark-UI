@@ -1,0 +1,153 @@
+# Galacticraft Asteroids Language File =§7THAILAND
+
+# GENERAL ITEMS
+item.itemTier3Rocket.t3Rocket.name=§7จรวด เทียร์ 3
+item.itemAstroMiner.name=§7แอสโทรไมน์เนอร์
+item.heavyNoseCone.name=§7กรวยจรวดแบบทนทาน
+item.compressedTitanium.name=§7แผ่นไทเทเนียม
+item.ingotTitanium.name=§7แท่งไทเทเนียม
+item.shardTitanium.name=§7สะเก็ดไทเทเนียม
+item.shardIron.name=§7สะเก็ดเหล็ก
+item.rocketFinsT2.name=§7ปีกจรวดแบบทนทาน
+item.engineT2.name=§7เครื่องยนต์จรวดแบบทนทาน
+item.reinforcedPlateT3.name=§7แผ่นโลหะแบบทนทาน
+item.grapple.name=§7ตะขอ
+item.atmosphericValve.name=§7วาล์วเก็บก๊าซ
+item.thermalCloth.name=§7ผ้ากันความร้อน
+item.beamCore.name=§7แกนลำแสง
+item.orionDrive.name=§7เครื่องยนต์ตรวจสอบแร่
+item.tier3.desc=§7เทียร์ 3
+
+# TOOLS
+item.titanium_pickaxe.name=§7อีเต้อไทเทเนียม
+item.titanium_axe.name=§7ขวานไทเทเนียม
+item.titanium_hoe.name=§7จอบไทเทเนียม
+item.titanium_shovel.name=§7พลั่วไทเทเนียม
+item.titanium_sword.name=§7ดาบไทเทเนียม
+
+# ARMOR
+item.thermalHelm.name=§7หมวกกันความร้อน
+item.thermalChestplate.name=§7เสื้อเกราะกันความร้อน
+item.thermalLeggings.name=§7กางเกงกันความร้อน
+item.thermalBoots.name=§7รองเท้ากันความร้อน
+item.titanium_helmet.name=§7หมวกไทเทเนียม
+item.titanium_chestplate.name=§7เสื้อเกราะไทเทเนียม
+item.titanium_leggings.name=§7กางเกงไทเทเนียม
+item.titanium_boots.name=§7รองเท้าไทเทเนียม
+
+# CANISTERS ETC
+item.methaneCanisterPartial.name=§7กระป๋องมีเทน
+item.methaneCanister.name=§7กระป๋องที่เต็มไปด้วยมีเทน
+item.canister.gas.name=§7ก๊าซ
+item.canister.LOX.partial.name=§7กระป๋องออกซิเจนเหลว
+item.canister.LOX.full.name=§7กระป๋องที่เต็มไปด้วยออกซิเจนเหลว
+item.canister.LOX.name=§7ออกซิเจนเหลว
+item.canister.liquidNitrogen.partial.name=§7กระป๋องไนโตรเจนเหลว
+item.canister.liquidNitrogen.full.name=§7กระป๋องที่เต็มไปด้วยไนโตรเจนเหลว
+item.canister.liquidNitrogen.name=§7ไนโตรเจนเหลว
+item.canister.liquidArgon.partial.name=§7กระป๋องอาร์กอนเหลว
+item.canister.liquidArgon.full.name=§7กระป๋องที่เต็มไปด้วยอาร์กอนเหลว
+item.canister.liquidArgon.name=§7อาร์กอนเหลว
+item.emptyGasCanister.name=§7กระป๋องก๊าซเปล่า
+
+# FLUIDS AND GASES
+fluid.methane=§7ก๊าซมีเทน
+fluid.oxygen=§7ก๊าซออกซิเจน
+fluid.nitrogen=§7ก๊าซไนโตรเจน
+fluid.hydrogen=§7ก๊าซไฮโดรเจน
+fluid.carbondioxide=§7ก๊าซคาร์บอนไดออกไซด์
+fluid.helium=§7ก๊าซฮีเลียม
+fluid.argon=§7ก๊าซอาร์กอน
+fluid.atmosphericgases=§7ก๊าซชั้นบรรยากาศ
+fluid.liquidmethane=§7มีเทนเหลว
+fluid.liquidoxygen=§7ออกซิเจนเหลว
+fluid.liquidnitrogen=§7ไนโตรเจนเหลว
+fluid.liquidargon=§7อาร์กอนเหลว
+fluid.fuel=§7เชื้อเพลิง
+
+# BLOCKS
+tile.asteroidsBlock.asteroid0.name=§7หินดาวเคราะห์น้อย
+tile.asteroidsBlock.asteroid1.name=§7หินดาวเคราะห์น้อย
+tile.asteroidsBlock.asteroid2.name=§7หินดาวเคราะห์น้อย
+tile.asteroidsBlock.oreIron.name=§7แร่เหล็ก
+tile.asteroidsBlock.oreIlmenite.name=§7แร่อิลเมไนท์
+tile.asteroidsBlock.oreAluminum.name=§7แร่อลูมิเนียม
+tile.beamReflector.name=§7เครื่องสะท้อนลำแสง
+tile.beamReceiver.name=§7เครื่องรับลำแสง
+tile.telepadShort.name=§7เครื่องเทเลพอร์ตระยะใกล้
+tile.walkway.name=§7ทางเดิน
+tile.walkwayWire.name=§7ทางเดิน
+tile.walkwayOxygenPipe.name=§7ทางเดิน
+tile.treasureT3.name=§7กล่องสมบัติ เทียร์ 3
+tile.denseIce.name=§7ก้อนน้ำแข็งหนาทึบ
+tile.minerBase.name=§7ฐานแอสโทรไมน์เนอร์
+
+# GUI
+planet.asteroids=§7ดาวเคราะห์น้อย
+
+	# Dollar sign ($) will split text onto a new line
+	# Do not remove %s or %d, since that will be replaced in-game
+gui.telepad.desc.0=§7นี่คือที่อยู่ของเครื่องเทเลพอร์ต
+gui.telepad.desc.1=§7ที่อยู่ของเครื่องเทเลพอร์ตอื่นๆ$สิ่งมีชีวิตจะถูกส่งไปยังเป้าหมาย
+gui.message.address.name=§7ที่อยู่
+gui.message.destAddress.name=§7เป้าหมายของที่อยู่
+gui.message.invalidAddress.name=§7ที่อยู่ผิดพลาด
+gui.message.invalidTargetAddress.name=§7ที่อยู่ของเป้าหมายผิดพลาด
+gui.message.receivingActive.name=§7รับข้อมูลการทำงาน
+gui.message.telepadTooFar.name=§7เป้าหมายไกลเกินไป! (สูงสุด %d)
+gui.message.telepadWrongDim.name=§7เป้าหมายผิดมิติ!
+gui.message.telepadNotFound.name=§7ไม่เจอเครื่องเทเลพอร์ต!
+gui.message.sendingActive.name=§7กำลังส่งการทำงาน
+gui.message.range.name=§7ระยะ: %d บล็อก
+gui.message.notEnoughEnergy.name=§7พลังงานไม่พอ!
+gui.message.targetNoEnergy.name=§7เป้าหมายพลังงานไม่พอ!
+gui.message.grapple.fail=§7ฉันต้องการเส้นเชือกจำนวนเล็กน้อย ถ้าต้องการที่จะโยนตะขอออกไป!
+gui.message.astroMiner.fail=§7ฐานนี้มีแอสโทรไมน์เนอร์แล้ว!
+gui.message.astroMiner1.fail=§7พื้นที่โรงจอดถูกปิดกั้นโดย:
+gui.message.astroMiner1A.fail=§7เส้นทางของแอสโทรไมน์เนอร์ถูกบล็อกโดย:
+gui.message.astroMiner2.fail=§7มีแอสโทรไมน์เนอร์มากเกินไป!
+gui.message.astroMiner3.fail=§7ฐานแอสโทรไมน์เนอร์ถูกลบออกไป!
+gui.message.astroMiner4.fail=§7แอสโทรไมน์เนอร์พลังงานหมดและไม่สามารถกลับไปยังฐานได้!
+gui.message.astroMiner5.fail=§7เส้นทางของแอสโทรไมน์เนอร์ที่ไปยังฐาน ดูเหมือนว่าจะถูกปิดกั้น!
+gui.message.astroMiner6.fail=§7แอสโทรไมน์เนอร์ทำเหมืองเสร็จเรียบร้อย และจะหยุดทำงาน!
+gui.message.astroMiner7.fail=§7แอสโทรไมน์เนอร์ไม่สามารถทำงานได้บนสถานีอวกาศ!
+gui.message.astroMiner8.fail=§7แอสโทรไมน์เนอร์คันที่สองถูกตรวจพบในฐานแรก, แอสโทรไมน์เนอร์คันแรกจะหยุดทำงาน
+gui.button.recall.name=§7เรียกกลับ
+gui.miner.outOfRange=§7ออกจากระยะที่กำหนด
+gui.miner.offline=§7ออฟไลน์
+gui.miner.stuck=§7ติดอยู่ที่:
+gui.miner.docked=§7จอดแล้ว
+gui.miner.travelling=§7กำลังเดินทาง
+gui.miner.mining=§7กำลังขุด
+gui.miner.returning=§7กำลังกลับ
+gui.miner.docking=§7กำลังจอด
+gui.miner.mined=§7ขุดแล้ว
+
+tile.treasureT3.description=§7ยังไม่ใช้ตอนนี้
+tile.walkway.description=§7ใช้สำหรับการตกแต่งที่คล้ายกับสภาพภายใน ยานอวกาศ
+tile.walkwayAluminumWire.description=§7ใช้สำหรับเป็นทางเดินและใช้เชื่อมต่อ กับแหล่งเก็บพลังงานได้ ด้วยสายไฟอลูมิเนียมที่อยู่ข้างใต้
+tile.walkwayOxygenPipe.description=§7ใช้สำหรับเป็นทางเดินและใช้เชื่อมต่อ กับแหล่งเก็บออกซิเจนได้ ด้วยท่อออกซิเจนที่อยู่ข้างใต้
+tile.beamReflector.description=§7ใช้สำหรับเปลี่ยนทิศทางของพลังงานลำแสง จากเป้าหมายไปยังทิศทางอื่นๆ คลิ๊กขวาเพื่อเปลี่ยนทิศทางการสะท้อนแสง ไปยังเป้าหมายอื่นๆ
+tile.beamReceiver.description=§7ใช้เชื่อมต่อไปยังเครื่องมือต่างๆ ทั้งส่งเข้าและส่งออก พลังงานจะถูกส่งโดยใช้พลังงานลำแสง
+tile.telepadShort.description=§7ใช้สำหรับเทเลพอร์ทผู้เล่นหรือสิ่งมีชีวิต อื่นๆ ในระยะ 256 บล็อก และต้องเชื่อมต่อกับเครื่องเทเลพอร์ตอื่นๆ ด้วย
+tile.minerBase.description=§7ใช้สำหรับเป็นฐานจอดของแอสโทรไมน์เนอร์ วางฐานเป็น 2x2x2 เพื่อทำให้ฐานสมบูรณ์
+
+# SCHEMATICS
+schematic.astroMiner.name=§7แอสโทรไมน์เนอร์
+
+# ENTITIES
+entity.GalacticraftMars.SmallAsteroidGC.name=§7ดาวเคราะห์น้อยขนาดเล็ก
+entity.GalacticraftMars.GrappleHookGC.name=§7ตะขอ
+entity.GalacticraftMars.Tier3RocketGC.name=§7จรวด เทียร์ 3
+entity.GalacticraftMars.EntryPodAsteroids.name=§7ยานลงจอด
+entity.GalacticraftMars.AstroMiner.name=§7แอสโทรไมน์เนอร์
+
+# CONTAINERS
+container.shortRangeTelepad.name=§7เครื่องเทเลพอร์ตระยะใกล้
+container.entryPod.name=§7ยานลงจอด
+
+# CONFIG GUI
+gc.configgui.dimensionIDAsteroids=§7ID มิติดาวเคราะห์น้อย
+gc.configgui.idSchematicRocketT3=§7ID แผนผังจรวด เทียร์ 3
+gc.configgui.disableGalacticraftHelium=§7ปิดใช้งานก๊าซฮีเลียมบนดาวเคราะห์
+gc.configgui.astroMinersMax=§7ค่าสูงสุดของแอสโทรไมน์เนอร์ต่อผู้เล่น

@@ -1,0 +1,186 @@
+#it_IT
+
+# Config GUI Tooltips
+config.Client.tooltip=§7Configura solo le opzioni a livello di client.
+config.Common.tooltip=§7Configura le opzioni generali.
+config.Core.tooltip=§7Configura le opzioni del modulo Core.
+config.Loot.tooltip=§7Configura le opzioni del modulo Loot.
+
+chat.cofh.secure=§7Questo è privato e appartiene a te %s! Potevi perdere una mano!
+chat.cofh.secureItem=§7Questo oggetto ora ti appartiene.
+chat.cofh.secureNotice=§7Nota: Op del Server possono accedere a blocchi "sicuri" su questo server.
+
+enchant.cofh.holding=§7Spazio
+enchant.cofh.multishot=§7Multi-tiro
+
+info.cofh.access=§7Accesso
+info.cofh.accessMode=§7Modalità accesso
+info.cofh.accessPublic=§7Accesso pubblico
+info.cofh.accessRestricted=§7Ristretto
+info.cofh.accessPrivate=§7Solo proprietario
+info.cofh.all=§7Tutto
+info.cofh.amount=§7Quantità
+info.cofh.angle=§7Angolo
+info.cofh.anotherplayer=§7Altro giocatore
+info.cofh.augmentation=§7Potenziamento
+info.cofh.blank=§7Vuoto
+info.cofh.capacity=§7Capacità
+info.cofh.charge=§7Carica
+info.cofh.cheater=§7Imbroglione!
+info.cofh.configuration=§7Configurazioni
+info.cofh.contents=§7Contenuto
+info.cofh.controlStatus=§7Controllo stato
+info.cofh.damageAttack=§7Danni per colpo
+info.cofh.damageFlux=§7Danni per flux
+info.cofh.disabled=§7Disabilitato
+info.cofh.distance=§7Distanza
+info.cofh.dry=§7Asciutto
+info.cofh.duration=§7Durata
+info.cofh.empty=§7Vuoto
+info.cofh.enabled=§7Attiva
+info.cofh.energy=§7Energia
+info.cofh.energyConsume=§7Uso di corrente
+info.cofh.energyProduce=§7Corrente uscita
+info.cofh.energyStored=§7Corrente immag.
+info.cofh.fluid=§7Fluido
+info.cofh.fluids=§7Fluidi
+info.cofh.force=§7Forza
+info.cofh.forDetails=§7per dettagli
+info.cofh.frequency=§7Frequenza
+info.cofh.friendsList=§7Lista degli amici
+info.cofh.hasInfo=§7Ha informazioni
+info.cofh.high=§7Alto
+info.cofh.hold=§7Tieni premuto
+info.cofh.ignored=§7Ignorato
+info.cofh.information=§7Informazioni
+info.cofh.infinite=§7Infinito
+info.cofh.item=§7Oggetto
+info.cofh.items=§7Oggetti
+info.cofh.level=§7Livello
+info.cofh.locked=§7Bloccato
+info.cofh.low=§7Basso
+info.cofh.maxEnergyPerTick=§7Corrente massima
+info.cofh.modeChange=§7per cambiare modalità
+info.cofh.none=§7Niente
+info.cofh.owner=§7Proprietario
+info.cofh.perUse=§7per uso
+info.cofh.press=§7Premi
+info.cofh.receive=§7Riceve
+info.cofh.receiving=§7Ricevendo
+info.cofh.redstoneControl=§7Controllo pietrar.
+info.cofh.security=§7Sicurezza
+info.cofh.send=§7Manda
+info.cofh.sending=§7Mandando
+info.cofh.shift=§7Shift
+info.cofh.signal=§7Segnale
+info.cofh.signalRequired=§7Segnale richiesto
+info.cofh.soaked=§7Fradicio
+info.cofh.source=§7Fonte
+info.cofh.stored=§7Contenuto
+info.cofh.strength=§7Forza
+info.cofh.transfer=§7Trasferisci
+info.cofh.tutorial=§7Tutorial
+info.cofh.unlocked=§7Sblocca
+info.cofh.success=§7Successo!
+
+info.cofh.command.friend=§7Il comando per aggiungere e rimuovere amici dalla tua lista.
+info.cofh.command.help=§7Il comando per aiutarti con altri comandi!
+info.cofh.command.syntax=§7Il comando per aiutarti con la sintassi degli altri comandi!
+info.cofh.command.killall=§7Uccidi tutte le entità con questo nome, e come predefinito uccide tutti i mob ostili.
+info.cofh.command.tps=§7Ottiene i Ticks Per Second del server. Su un server perfetto dovrebbero essere 20.
+info.cofh.command.tpx=§7Una versione migliorata del comando /tp che funziona tra dimensioni.
+info.cofh.command.version=§7Ti dice la versione di questa mod.
+info.cofh.command.enchant=§7/enchant migliorata. Non ha alcun limite di livello o di applicazione.
+info.cofh.command.clearblocks=§7Elimina i blocchi specificati da una parte specifica del mondo.
+info.cofh.command.countblocks=§7Conta i blocchi specificati in una parte specifica del mondo.
+info.cofh.command.replaceblocks=§7Rimpiazza i blocchi specificati in una parte specifica del mondo.
+info.cofh.command.reloadworldgen=§7Ricarica la generazione del mondo dal disco.
+info.cofh.command.unloadchunk=§7Smette di caricare i chunk che il giocatore sta guardando.
+
+info.cofh.command.friend.syntax=§7/cofh friend {gui | add <giocatore> | remove <giocatore>}
+info.cofh.command.help.syntax=§7/cofh help [comando]
+info.cofh.command.syntax.syntax=§7/cofh syntax [comando]
+info.cofh.command.killall.syntax=§7/cofh killall [nome parziale]
+info.cofh.command.tps.syntax=§7/cofh tps [{o | a | <ID dim>}]
+info.cofh.command.tpx.syntax=§7/cofh tpx [gicatore] {(<gicatore> | <dimensione>) | <x> <y> <z> [dimensione]}
+info.cofh.command.version.syntax=§7/cofh version
+info.cofh.command.enchant.syntax=§7/cofh enchant [gicatore] <ID incantesimo> [livello]
+info.cofh.command.clearblocks.syntax=§7/cofh clearblocks {<utilizzatore> <raggio x> <raggio y> <raggio z> | <Inizio x> <Inizio y> <Inizio z> <Fine x> <Fine y> <Fine z>} [blocco#meta] [blocco#meta] ...
+info.cofh.command.countblocks.syntax=§7/cofh countblocks {<utilizzatore> <raggio x> <raggio y> <raggio z> | <Inizio x> <Inizio y> <Inizio z> <Fine x> <Fine y> <Fine z>} [blocco#meta] [blocco#meta] ...
+info.cofh.command.replaceblocks.syntax=§7/cofh replaceblocks {<utilizzatore> <raggio x> <raggio y> <raggio z> | <Inizio x> <Inizio y> <Inizio z> <Fine x> <Fine y> <Fine z>} <rimpiazzaBlocco#meta> [blocco#meta] [blocco#meta] ...
+info.cofh.command.reloadworldgen.syntax=§7/cofh reloadworldgen
+info.cofh.command.unloadchunk.syntax=§7/cofh unloadchunk
+
+info.cofh.command.syntaxError=§7Sintassi invalida.
+info.cofh.command.notFound=§7Unknown command. Prova /cofh help per la lista di comandi
+info.cofh.command.world.notFound=§7Il mondo non esiste.
+
+info.cofh.command.friend.0=§7aggiunto con successo alla tua lista di amici.
+info.cofh.command.friend.1=§7Scusa, c'è stato un problema nell' aggiungere
+info.cofh.command.friend.2=§7alla tua lista.
+info.cofh.command.friend.3=§7Scusa, questa non è una username valida.
+info.cofh.command.friend.4=§7rimosso con successo dalla tua lista di amici.
+info.cofh.command.friend.5=§7non era un tuo amico.
+
+info.cofh.command.help.0=§7Comandi avviabili sono:
+info.cofh.command.version.0=§7Questa mod è sulla versione
+
+info.cofh.command.killall.success=§7Rimossi %d entità. (%s)
+info.cofh.command.killall.successHostile=§7Rimossi %d mob ostili. (%s)
+info.cofh.command.killall.noMatch=§7Nessuna entità trovata che combaciava!
+info.cofh.command.killall.noHostile=§7Nessun mob ostile trovato!
+
+info.cofh.command.tpx.snark.0=§7Teletrasportato con successo te da te stesso!
+info.cofh.command.tpx.snark.1=§7Teletrasportato con successo %s da lui stesso!
+info.cofh.command.tpx.self=§7Teletrasportato con successo a %.2f %.2f %.2f
+info.cofh.command.tpx.dimensionSelf=§7Teletrasportato con successo nel %1$s a %2$.2f %3$.2f %4$.2f
+info.cofh.command.tpx.other=§7Teletrasportato con successo %s a %.2f %.2f %.2f
+info.cofh.command.tpx.otherTo=§7Teletrasportato con successo %s nel %s a %.2f %.2f %.2f
+info.cofh.command.tpx.dimensionOther=§7Teletrasportato con successo %s nel %2$s a %3$.2f %4$.2f %5$.2f
+info.cofh.command.tpx.dimensionOtherTo=§7Teletrasportato con successo %s da %s nel %3$s a %4$.2f %5$.2f %6$.2f
+info.cofh.command.tpx.otherToSelf=§7Teletrasportato con successo %s da se stesso a %.2f %.2f %.2f
+info.cofh.command.tpx.dimensionOtherToSelf=§7Teletrasportato con successo %s a se stesso nel %2$s a %3$.2f %4$.2f %5$.2f
+
+info.cofh.command.reloadworldgen.success=§7Ricaricata con successo la Generazione del mondo.
+
+info.cofh.command.replaceblocks.failure=§7Nessun blocco da rimpiazzare.
+info.cofh.command.replaceblocks.start=§7Rimpiazzando %s blocchi da %s:%s:%s a %s:%s:%s con %s.
+info.cofh.command.replaceblocks.success=§7Rimpiazzati con successo %s blocchi da %s:%s:%s a %s:%s:%s con %s.
+
+info.cofh.command.clearblocks.failure=§7Nessun blocco da eliminare.
+info.cofh.command.clearblocks.start=§7Eliminando %s blocchi da %s:%s:%s a %s:%s:%s.
+info.cofh.command.clearblocks.success=§7Eliminati con successo %s blocchi da %s:%s:%s a %s:%s:%s.
+
+info.cofh.command.countblocks.failure=§7Nessun blocco esiste nell'area.
+info.cofh.command.countblocks.start=§7Contando %s blocchi da %s:%s:%s a %s:%s:%s.
+info.cofh.command.countblocks.success=§7Trovati %s blocchi da %s:%s:%s a %s:%s:%s.
+
+info.cofh.command.unloadchunk.success=§7Smettendo di caricare Chunk in %s:%s
+
+info.cofh.updater.download=§7Scarica
+info.cofh.updater.tooltip=§7Clicca per scaricare l'ultima versione
+info.cofh.updater.version=§7Una nuova versione è disponibile
+
+info.cofh.tutorial.fluxRequired=§7Richiede Redstone Flux per funzionare.
+info.cofh.tutorial.tabAugment=§7Il tab Potenziamento permette aggiunte modulari.
+info.cofh.tutorial.tabConfiguration.0=§7Il tab Configurazioni determina come gli oggetti entrano e escono da questo dispositivo.
+info.cofh.tutorial.tabConfiguration.1=§7Il tab Configurazioni determina come l'energia è traferita a e da questo dispositivo.
+info.cofh.tutorial.tabConfiguration.2=§7Il tab Configurazioni determina le modalità di operazione di questo dispositivo.
+info.cofh.tutorial.tabRedstone=§7Il tab Controllo pietrarossa configura come quest dispositivo reagisce a segnali di pietrarossa.
+info.cofh.tutorial.tabSecurity=§7Il tab Sicurezza permette al proprietario di controllare chi ha accesso a quest dispositivo.
+
+item.invalid.name=§7Oggetto invalido (elimina)
+
+key.cofh.category=§7Comandi CoFH
+key.cofh.empower=§7Attiva/disattiva oggetto
+key.cofh.multimode=§7Cicla modalità dell'oggetto
+
+tab.cofh.friend.0=§7Aggiungi/Rimuovi amici!
+tab.cofh.friend.1=§7Amici non aggiunti.
+
+#Fluid Name Fixes
+
+fluid.tile.water=§7Acqua
+fluid.tile.lava=§7Lava
+fluid.fuel=§7Carburante
+fluid.oil=§7Petrolio

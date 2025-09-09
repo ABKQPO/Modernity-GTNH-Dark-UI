@@ -1,0 +1,649 @@
+# =§7=====================================
+				BLOCK GUI
+# =§7=====================================
+
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Assemblatore di carrelli
+gui.SC2:basicAssembleInstruction=§7Per iniziare a costruire un carrello, inserisci una carena di tua scelta nello slot carena carrello.
+gui.SC2:invalidHullError=§7La carena che hai aggiunto nello slot non e' valida. Normalmente non sarebbe possibile, quindi devi aver fatto qualcosa di strano.
+gui.SC2:hullCapacity=§7Capienza carena
+gui.SC2:complexityCap=§7Tetto di complessita'
+gui.SC2:totalCost=§7Costo totale
+gui.SC2:totalTime=§7Tempo totale
+gui.SC2:readyMessage=§7Pronto a costruire il carrello!
+gui.SC2:assembleProgress=§7Progresso
+gui.SC2:timeLeft=§7Tempo rimanente
+gui.SC2:idleAssemblerMessage=§7L'assemblatore e' in stato di inattivita'
+gui.SC2:modifyCart=§7Modifica carrello
+gui.SC2:assembleCart=§7Assembla carrello
+gui.SC2:fuelLevel=§7Livello carburante
+
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Gestore
+gui.SC2:currentSetting=§7Impostazione corrente
+gui.SC2:changeTransferDirection=§7Cambia direzione di trasferimento
+gui.SC2:directionToCart=§7Al carrello
+gui.SC2:directionFromCart=§7Dal carrello
+gui.SC2:changeTurnBack=§7Cambia le impostazioni di ritorno
+gui.SC2:turnBackDisabled=§7Nessun lato selezionato
+gui.SC2:turnBack=§7Torna indietro dopo il trasferimento
+gui.SC2:continueForward=§7Continua diritto dopo il trasferimento
+gui.SC2:changeTransferSize=§7Cambia lato di trasferimento
+gui.SC2:changeSide=§7Cambia lato
+gui.SC2:currentSide=§7Lato corrente
+gui.SC2:sideRed=§7Rosso
+gui.SC2:sideBlue=§7Blu
+gui.SC2:sideYellow=§7Giallo
+gui.SC2:sideGreen=§7Verde
+gui.SC2:sideDisabled=§7Disabilitato
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Carico
+gui.SC2:changeSlotLayout=§7Cambia la disposizione dello slot
+gui.SC2:layoutShared=§7Tutti gli slot sono condivisi da tutti i lati
+gui.SC2:layoutSide=§7Ogni lato ha i propri slot
+gui.SC2:layoutColor=§7Ogni colore ha i propri slot
+gui.SC2:transferAll=§7Trasferisci quanto piu' possibile
+gui.SC2:transferItems=§7Trasferisci al massimo [%1] [%2:oggetto|oggetti]
+gui.SC2:transferStacks=§7Trasferisci al massimo [%1] [%2:pila|pile]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7O
+gui.SC2:transferStacksShort=§7P
+gui.SC2:changeTransferCartArea=§7Trasferisci parte del carrello
+gui.SC2:unknownAreaMessage=§7Opzione sconosciuta
+gui.SC2:cartAreaAll=§7Tutti gli slot
+gui.SC2:cartAreaEngine=§7Motore
+gui.SC2:cartAreaRailer=§7Posiziona-rotaie
+gui.SC2:cartAreaStorage=§7Spazi di carico
+gui.SC2:cartAreaTorches=§7Torce
+gui.SC2:cartAreaExplosives=§7Esplosivi
+gui.SC2:cartAreaArrows=§7Frecce
+gui.SC2:cartAreaBridge=§7Materiali per il ponte
+gui.SC2:cartAreaSeeds=§7Semi
+gui.SC2:cartAreaFertilizer=§7Fertilizzante
+gui.SC2:cartAreaSaplings=§7Arboscelli
+gui.SC2:cartAreaFirework=§7Fuochi d'artificio
+gui.SC2:cartAreaBuckets=§7Secchi (per la mungitrice)
+gui.SC2:cartAreaCakes=§7Torte
+
+
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Liquidi
+gui.SC2:changeTankLayout=§7Cambia la disposizione del serbatoio
+gui.SC2:layoutSharedTanks=§7Tutti i serbatoi sono condivisi da tutti i lati
+gui.SC2:layoutSidedTanks=§7Ogni lato ha il suo serbatoio
+gui.SC2:layoutColorTanks=§7Ogni colore ha i suoi serbatoi
+gui.SC2:transferAllLiquid=§7Trasferisci quanto piu' possibile
+gui.SC2:transferBuckets=§7Trasferisci un massimo di [%1] secchi
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7S
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Selettore dei moduli
+gui.SC2:optionDrill=§7Trivella
+gui.SC2:optionShield=§7Scudo
+gui.SC2:optionInvisibility=§7Invisibilita'
+gui.SC2:optionChunk=§7Carica-settori
+gui.SC2:optionCageAuto=§7Raccogliere gabbia automaticamente
+gui.SC2:optionCage=§7Raccogliere gabbia
+gui.SC2:settingDisabled=§7Disabilitato
+gui.SC2:settingOrange=§7Direzione arancione
+gui.SC2:settingBlue=§7Direzione blu
+gui.SC2:stateActivate=§7Attivare
+gui.SC2:stateDeactivate=§7Disattivare
+gui.SC2:stateToggle=§7On/Off
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Distributore esterno
+gui.SC2:distributorNotConnected=§7Non connesso a nessun Manager!
+gui.SC2:sideName=§7lato [%1]
+gui.SC2:dropInstruction=§7Trascina qui per aggiungere questa impostazione
+gui.SC2:removeInstruction=§7Clic destro per rimuovere
+gui.SC2:distributorAll=§7Tutti
+gui.SC2:distributorRed=§7Rosso
+gui.SC2:distributorBlue=§7Blu
+gui.SC2:distributorYellow=§7Giallo
+gui.SC2:distributorGreen=§7Verde
+gui.SC2:distributorTopLeft=§7Alto a sinistra
+gui.SC2:distributorTopRight=§7Alto a destra
+gui.SC2:distributorBottomLeft=§7Basso a sinistra
+gui.SC2:distributorBottomRight=§7Basso a destra
+gui.SC2:distributorToCart=§7Al carrello
+gui.SC2:distributorFromCart=§7Dal carrello
+gui.SC2:managerTop=§7Gestore sopra
+gui.SC2:managerBot=§7Gestore sotto
+gui.SC2:distributorSideOrange=§7Arancione
+gui.SC2:distributorSidePurple=§7Viola
+gui.SC2:distributorSideYellow=§7Giallo
+gui.SC2:distributorSideGreen=§7Verde
+gui.SC2:distributorSideBlue=§7Blu
+gui.SC2:distributorSideRed=§7Rosso
+gui.SC2:sideToolTip=§7Lato: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7USCITA
+gui.SC2:operatorAnd=§7AND
+gui.SC2:operatorOr=§7OR
+gui.SC2:operatorNot=§7NOT
+gui.SC2:operatorXor=§7XOR
+gui.SC2:operatorTopUnit=§7Unita' sopra
+gui.SC2:operatorBotUnit=§7Unita' sotto
+gui.SC2:operatorNorthUnit=§7Unita' nord
+gui.SC2:operatorWestUnit=§7Unita' ovest
+gui.SC2:operatorSouthUnit=§7Unita' sud
+gui.SC2:operatorEastUnit=§7Unita' est
+gui.SC2:operatorRedstone=§7Entrata pietrarossa
+gui.SC2:operatorRedstoneTop=§7Entrata pietrarossa superiore
+gui.SC2:operatorRedstoneBot=§7Entrata pietrarossa inferiore
+gui.SC2:operatorRedstoneNorth=§7Entrata pietrarossa nord
+gui.SC2:operatorRedstoneWest=§7Entrata pietrarossa est
+gui.SC2:operatorRedstoneSouth=§7Entrata pietrarossa sud
+gui.SC2:operatorRedstoneEast=§7Entrata pietrarossa est
+gui.SC2:stateRails=§7Ha rifornimenti di rotaie
+gui.SC2:stateTorches=§7Ha rifornimenti di torce
+gui.SC2:stateSaplings=§7Ha rifornimenti di arboscelli
+gui.SC2:sateSeeds=§7Ha rifornimenti di semi
+gui.SC2:stateBridge=§7Ha rifornimenti di materiale per il ponte
+gui.SC2:stateProjectiles=§7Ha rifornimenti di proiettili
+gui.SC2:stateFertilizing=§7Ha rifornimenti di fertilizzante
+gui.SC2:stateShield=§7Lo scudi e' attivo
+gui.SC2:stateChunk=§7Il carica-settori e' attivo
+gui.SC2:stateInvisibility=§7Il nucleo dell'invisibilita' e' attivo
+gui.SC2:stateDrill=§7La trivella e' attiva
+gui.SC2:stateCage=§7L'auto raccoglitore e' attivo
+gui.SC2:stateStorageFull=§7Lo spazio e' pieno
+gui.SC2:stateStorageEmpty=§7Lo spazio e' vuoto
+gui.SC2:statePassenger=§7Ha passeggero
+gui.SC2:stateAnimal=§7Ha passeggero animale
+gui.SC2:stateTameable=§7Ha passeggero addomesticabile
+gui.SC2:stateBreedable=§7Ha passeggero che si puo' riprodurre
+gui.SC2:stateHostile=§7Ha passeggero ostile
+gui.SC2:stateCreeper=§7Passeggero: creeper
+gui.SC2:stateSkeleton=§7Passeggero: scheletro
+gui.SC2:stateSpider=§7Passeggero: ragno
+gui.SC2:stateZombie=§7Passeggero: zombi
+gui.SC2:stateZombiePigMan=§7Passeggero: uomo-maiale zombie
+gui.SC2:stateSilverFish=§7Passeggero: pesciolino d'argento
+gui.SC2:stateBlaze=§7Passeggero: blaze
+gui.SC2:stateBat=§7Passeggero: pipistrello
+gui.SC2:stateWitch=§7Passeggero: strega
+gui.SC2:statePig=§7Passeggero: maiale
+gui.SC2:stateSheep=§7Passeggero: pecora
+gui.SC2:stateCow=§7Passeggero: mucca
+gui.SC2:stateMooshroom=§7Passeggero: mooshroom
+gui.SC2:stateChicken=§7Passeggero: gallina
+gui.SC2:stateWolf=§7Passeggero: lupo
+gui.SC2:stateSnowGolem=§7Passeggero: golem di neve
+gui.SC2:stateOcelot=§7Passeggero: ocelot
+gui.SC2:stateVillager=§7Passeggero: villico
+gui.SC2:statePlayer=§7Passeggero: giocatore
+gui.SC2:stateZombieVillager=§7Passeggero: villico zombie
+gui.SC2:stateChild=§7Ha passeggero cucciolo
+gui.SC2:stateTamed=§7Ha passeggero addomesticato
+gui.SC2:statePowerRed=§7Osservatore di Potenza[Giallo] attivo
+gui.SC2:statePowerBlue=§7Osservatore di Potenza[Blu] attivo
+gui.SC2:statePowerGreen=§7Osservatore di Potenza[Verde] attivo
+gui.SC2:statePowerYellow=§7Osservatore di Potenza[Giallo] attivo
+gui.SC2:stateTanksFull=§7I serbatoi sono completamente pieni
+gui.SC2:stateTanksEmpty=§7I serbatoi sono completamente vuoti
+gui.SC2:stateTankEmpty=§7C'e' almeno un serbatoio vuoto
+
+
+# =§7=====================================
+				ITEMS
+# =§7=====================================
+
+# Carts
+item.SC2:ModularCart.name=§7Carrello modulare
+
+# Modules
+item.SC2:unknownmodule.name=§7Modulo SC2 sconosciuto
+item.SC2:coal_engine.name=§7Motore a carbone
+item.SC2:solar_engine.name=§7Motore solare
+item.SC2:side_chests.name=§7Casse laterali
+item.SC2:top_chest.name=§7Cassa superiore
+item.SC2:front_chest.name=§7Cassa frontale
+item.SC2:internal_storage.name=§7Spazio interno
+item.SC2:extracting_chests.name=§7Casse a estrazione
+item.SC2:torch_placer.name=§7Posiziona-torce
+item.SC2:basic_drill.name=§7Trivella base
+item.SC2:galgadorian_drill.name=§7Trivella Galgadoriana
+item.SC2:railer.name=§7Posiziona-rotaie
+item.SC2:large_railer.name=§7Posiziona-rotaie grande
+item.SC2:bridge_builder.name=§7Costruttore di ponti
+item.SC2:track_remover.name=§7Rimuovi-rotaie
+item.SC2:basic_farmer.name=§7Mietitrebbia base
+item.SC2:basic_wood_cutter.name=§7Taglialegna base
+item.SC2:hydrator.name=§7Irrigatore
+item.SC2:height_controller.name=§7Sensore di altitudine
+item.SC2:fertilizer.name=§7Concimatore
+item.SC2:entity_detector_animal.name=§7Rilevatore di entita': Animali
+item.SC2:liquid_sensors.name=§7Sensore di liquidi
+item.SC2:entity_detector_villager.name=§7Rilevatore di entita': Villici
+item.SC2:entity_detector_player.name=§7Rilevatore di entita': Giocatori
+item.SC2:seat.name=§7Sedile
+item.SC2:entity_detector_monster.name=§7Rilevatore di entita': Mostri
+item.SC2:advanced_control_system.name=§7Sistema di Controllo Avanzato
+item.SC2:brake_handle.name=§7Maniglia del freno
+item.SC2:advanced_shooter.name=§7Tiratore avanzato
+item.SC2:shooter.name=§7Tiratore
+item.SC2:dynamite_carrier.name=§7Trasporta dinamite
+item.SC2:cleaning_machine.name=§7Macchina pulitrice
+item.SC2:extreme_melter.name=§7Fonditore estremo
+item.SC2:divine_shield.name=§7Scudo divino
+item.SC2:melter.name=§7Fonditore
+item.SC2:standard_hull.name=§7Carena standard
+item.SC2:reinforced_hull.name=§7Carena rinforzata
+item.SC2:invisibility_core.name=§7Nucleo dell'invisibilita'
+item.SC2:wooden_hull.name=§7Trivella di legno
+item.SC2:iron_drill.name=§7Trivella di ferro
+item.SC2:hardened_drill.name=§7Trivella rinforzata
+item.SC2:note_sequencer.name=§7Sequenziatore di note
+item.SC2:colorizer.name=§7Coloratore
+item.SC2:pumpkin_chariot.name=§7Carro di zucca
+item.SC2:tiny_coal_engine.name=§7Motore piccolo a carbone
+item.SC2:basic_solar_engine.name=§7Motore solare base
+item.SC2:projectile_potion.name=§7Proiettile: Pozione
+item.SC2:gift_storage.name=§7Porta doni
+item.SC2:chunk_loader.name=§7Carica-settori
+item.SC2:entity_detector_bat.name=§7Rilevatore di entita': Pipistrelli
+item.SC2:freezer.name=§7Congelatore
+item.SC2:projectile_snowball.name=§7Proiettile: Palla di neve
+item.SC2:projectile_egg.name=§7Proiettile: Uovo
+item.SC2:projectile_fire_charge.name=§7Proiettile: Carica di fuoco
+item.SC2:firework_display.name=§7Spettacolo pirotecnico
+item.SC2:crop_nether_wart.name=§7Raccolto: Verruca del Nether
+item.SC2:cage.name=§7Gabbia
+item.SC2:compact_solar_engine.name=§7Motore solare compatto
+item.SC2:internal_tank.name=§7Serbatoio interno
+item.SC2:mechanical_pig.name=§7Maiale meccanico
+item.SC2:creative_engine.name=§7Motore Creativo
+item.SC2:incinerator.name=§7Inceneritore
+item.SC2:thermal_engine.name=§7Motore termico
+item.SC2:advanced_thermal_engine.name=§7Motore termico avanzato
+item.SC2:liquid_cleaner.name=§7Assorbi-liquidi
+item.SC2:side_tanks.name=§7Serbatoi laterali
+item.SC2:top_tank.name=§7Serbatoio superiore
+item.SC2:advanced_tank.name=§7Serbatoio avanzato
+item.SC2:front_tank.name=§7Serbatoio frontale
+item.SC2:creative_hull.name=§7Carena Creativa
+item.SC2:power_observer.name=§7Osservatore di Potenza
+item.SC2:steves_arcade.name=§7Sala giochi "Steve's Arcade"
+item.SC2:hardened_wood_cutter.name=§7Taglialegna rinforzato
+item.SC2:creative_tank.name=§7Serbatoio Creativo
+item.SC2:open_tank.name=§7Serbatoio aperto
+item.SC2:egg_basket=§7Cesto per le uova
+item.SC2:drill_intelligence.name=§7Centro di controllo trivella
+item.SC2:lawn_mower.name=§7Tosaerba
+item.SC2:galgadorian_farmer.name=§7Mietitrebbia Galgadoriana
+item.SC2:crafter.name=§7Craftatore
+item.SC2:milker.name=§7Mungitrice
+item.SC2:galgadorian_hull.name=§7Carena Galgadoriana
+item.SC2:galgadorian_wood_cutter.name=§7Taglialegna Galgadoriano
+item.SC2:ore_extractor.name=§7Estrattore di metallo grezzo
+item.SC2:enchanter.name=§7Incantatore
+item.SC2:advanced_smelter.name=§7Fonderia avanzata
+item.SC2:advanced_crafter.name=§7Craftatore avanzato
+item.SC2:experience_bank.name=§7Banca di Eserienza
+item.SC2:information_provider.name=§7Fornitore di informazioni
+item.SC2:planter_range_extender.name=§7Estensione della portata del piantatore
+item.SC2:tree_exotic.name=§7Albero: Esotico
+item.SC2:smelter.name=§7Fonderia
+item.SC2:projectile_cake.name=§7Proiettile: Torta
+item.SC2:trick_or_treat_cake_server.name=§7Servitore di Torte Dolcetto-o-Scherzetto
+item.SC2:cake_server.name=§7Servitore di Torte
+item.SC2:creative_incinerator.name=§7Inceneritore Creativo
+item.SC2:creative_supplies.name=§7Forniture Creative
+
+# Components
+item.SC2:unknowncomponent.name=§7Componente SC2 sconosciuto
+item.SC2:wooden_wheels.name=§7Ruote di legno
+item.SC2:iron_wheels.name=§7Ruote di ferro
+item.SC2:red_pigment.name=§7Pigmento rosso
+item.SC2:green_pigment.name=§7Pigmento verde
+item.SC2:blue_pigment.name=§7Pigmento blu
+item.SC2:glass_o'magic.name=§7Vetro magico
+item.SC2:dynamite.name=§7Dinamite
+item.SC2:simple_pcb.name=§7PCB semplice
+item.SC2:graphical_interface.name=§7Interfaccia grafica
+item.SC2:raw_handle.name=§7Maniglia grezza
+item.SC2:refined_handle.name=§7Maniglia raffinata
+item.SC2:speed_handle.name=§7Maniglia dell'acceleratore
+item.SC2:wheel.name=§7Ruota
+item.SC2:saw_blade.name=§7Lama
+item.SC2:advanced_pcb.name=§7PCB avanzato
+item.SC2:wood_cutting_core.name=§7Centralina taglialegna
+item.SC2:raw_hardener.name=§7Induritore grezzo
+item.SC2:refined_hardener.name=§7Induritore raffinato
+item.SC2:hardened_mesh.name=§7Maglia rinforzata
+item.SC2:stabilized_metal.name=§7Metallo stabilizzato
+item.SC2:reinforced_metal.name=§7Metallo riforzato
+item.SC2:reinforced_wheels.name=§7Ruote rinforzate
+item.SC2:pipe.name=§7Tubo
+item.SC2:shooting_station.name=§7Stazione di sparo
+item.SC2:entity_scanner.name=§7Sensore di entita'
+item.SC2:entity_analyzer.name=§7Analizzatore di entita'
+item.SC2:empty_disk.name=§7Disco vuoto
+item.SC2:tri-torch.name=§7Tri-torcia
+item.SC2:chest_pane.name=§7Pannello
+item.SC2:large_chest_pane.name=§7Pannello grande
+item.SC2:huge_chest_pane.name=§7Pannello molto grande
+item.SC2:chest_lock.name=§7Lucchetto per cassa
+item.SC2:iron_pane.name=§7Pannello di ferro
+item.SC2:large_iron_pane.name=§7Pannello di ferro grande
+item.SC2:huge_iron_pane.name=§7Pannello di ferro molto grande
+item.SC2:dynamic_pane.name=§7Pannello dinamico
+item.SC2:large_dynamic_pane.name=§7Pannello dinamico grande
+item.SC2:huge_dynamic_pane.name=§7Pannello dinamico molto grande
+item.SC2:cleaning_fan.name=§7Ventola di pulizia
+item.SC2:cleaning_core.name=§7Nucleo pulitore
+item.SC2:cleaning_tube.name=§7Tubo pulitore
+item.SC2:fuse.name=§7Miccia
+item.SC2:solar_panel.name=§7Pannello solare
+item.SC2:eye_of_galgador.name=§7Occhio di Galgador
+item.SC2:lump_of_galgador.name=§7Pezzo di Galgador
+item.SC2:galgadorian_metal.name=§7Metallo Galgadoriano
+item.SC2:large_lump_of_galgador.name=§7Grande pezzo di Galgador
+item.SC2:enhanced_galgadorian_metal.name=§7Metallo Galgadoriano arricchito
+item.SC2:stolen_present.name=§7Regalo rubato
+item.SC2:green_wrapping_paper.name=§7Carta da regali verde
+item.SC2:red_wrapping_paper.name=§7Carta da regali rossa
+item.SC2:warm_hat.name=§7Cappello caloroso
+item.SC2:red_gift_ribbon.name=§7Nastro da regali rosso
+item.SC2:yellow_gift_ribbon.name=§7Nastro da regali giallo
+item.SC2:sock.name=§7Calza
+item.SC2:stuffed_sock.name=§7Calza piena
+item.SC2:advanced_solar_panel.name=§7Pannello solare avanzato
+item.SC2:blank_upgrade.name=§7Potenziamento vuoto
+item.SC2:tank_valve.name=§7Valvola per serbatoi
+item.SC2:tank_pane.name=§7Pannello per serbatoi
+item.SC2:large_tank_pane.name=§7Pannello per serbatoi grande
+item.SC2:huge_tank_pane.name=§7Pannello per serbatoi molto grande
+item.SC2:liquid_cleaning_core.name=§7Nucleo di pulizia liquidi
+item.SC2:liquid_cleaning_tube.name=§7Tubo di pulizia liquidi
+item.SC2:explosive_easter_egg.name=§7Uovo di Pasqua esplosivo
+item.SC2:burning_easter_egg.name=§7Uovo di Pasqua ardente
+item.SC2:glistering_easter_egg.name=§7Uovo di Pasqua scintillante
+item.SC2:chocolate_easter_egg.name=§7Uovo di Pasqua
+item.SC2:painted_easter_egg.name=§7Uovo di Pasqua dipinto
+item.SC2:basket.name=§7Cesto
+item.SC2:oak_log.name=§7Legno di Quercia
+item.SC2:oak_twig.name=§7Ramoscello di Quercia
+item.SC2:spruce_log.name=§7Legno di Abete
+item.SC2:spruce_twig.name=§7Ramoscello di Abete
+item.SC2:birch_log.name=§7Legno di Betulla
+item.SC2:birch_twig.name=§7Ramoscello di Betulla
+item.SC2:jungle_log.name=§7Legno della Giungla
+item.SC2:jungle_twig.name=§7Ramoscello della Giungla
+item.SC2:hardened_saw_blade.name=§7Lama rinforzata
+item.SC2:galgadorian_saw_blade.name=§7Lama Galgadoriana
+item.SC2:galgadorian_wheels.name=§7Ruote Galgadoriane
+item.SC2:iron_blade.name=§7Lama di ferro
+item.SC2:blade_arm.name=§7Braccio per lame
+
+
+
+# =§7=====================================
+				BLOCKS
+# =§7=====================================
+
+tile.SC2:BlockCargoManager.name=§7Gestore del carico
+tile.SC2:BlockJunction.name=§7Rotaia di giuntura
+tile.SC2:BlockAdvDetector.name=§7Rotaia rilevatrice avanzata
+tile.SC2:BlockCartAssembler.name=§7Assemblatore di carrelli
+tile.SC2:BlockActivator.name=§7Attivatore di moduli
+tile.SC2:BlockDistributor.name=§7Distributore esterno
+tile.SC2:BlockLiquidManager.name=§7Gestore dei liquidi
+
+# Storage
+item.SC2:BlockStorage0.name=§7Blocco di metallo rinforzato
+item.SC2:BlockStorage1.name=§7Blocco Galgadoriano
+item.SC2:BlockStorage2.name=§7Blocco Galgadoriano arricchito
+
+# Upgrades
+item.SC2:batteries.name=§7Potenziamento: Batterie
+item.SC2:power_crystal.name=§7Potenziamento: Cristallo energetico
+item.SC2:module_knowledge.name=§7Potenziamento: Modulo di conoscenza
+item.SC2:industrial_espionage.name=§7Potenziamento: Spionaggio industriale
+item.SC2:experienced_assembler.name=§7Potenziamento: Assemblatore esperto
+item.SC2:new_era.name=§7Potenziamento: Nuova era
+item.SC2:co2_friendly.name=§7Potenziamento: amico del CO2
+item.SC2:generic_engine.name=§7Potenziamento: motore generico
+item.SC2:module_input.name=§7Potenziamento: Inserimento moduli
+item.SC2:production_line.name=§7Potenziamento: Catena di montaggio
+item.SC2:cart_deployer.name=§7Potenziamento: Piazza carrelli
+item.SC2:cart_modifier.name=§7Potenziamento: Modifica carrelli
+item.SC2:cart_crane.name=§7Potenziamento: Gru per carrelli
+item.SC2:redstone_control.name=§7Potenziamento: Controllo pietrarossa
+item.SC2:creative_mode.name=§7Potenziamento: Modalita' creativa
+item.SC2:quick_demolisher.name=§7Potenziamento: Demolizione rapida
+item.SC2:manager_bridge.name=§7Potenziamento: Ponte gestionale
+item.SC2:entropy.name=§7Potenziamento: Entropia
+item.SC2:solar_panel_upgrade.name=§7Potenziamento: Pannello solare
+item.SC2:thermal_engine_upgrade.name=§7Potenziamento: Motore termico
+
+# Detector Units
+item.SC2:BlockDetector0.name=§7Rilevatore primario
+item.SC2:BlockDetector1.name=§7Rilevatore
+item.SC2:BlockDetector2.name=§7Rilevatore stazione
+item.SC2:BlockDetector3.name=§7Rilevatore giunzione
+item.SC2:BlockDetector4.name=§7Rilevatore pietrarossa
+
+
+
+# =§7=====================================
+				MODULE MISC
+# =§7=====================================
+
+# Categories
+info.SC2:moduleCategoryHull=§7Carena
+info.SC2:moduleCategoryEngine=§7Motore
+info.SC2:moduleCategoryTool=§7Strumento
+info.SC2:moduleCategoryStorage=§7Spazio
+info.SC2:moduleCategoryAddon=§7Componente aggiuntivo
+info.SC2:moduleCategoryAttachment=§7Accessorio
+
+# Groups
+info.SC2:moduleGroupEngine=§7[%1:Motore|Motori]
+info.SC2:moduleGroupDrill=§7[%1:Trivella|Trivelle]
+info.SC2:moduleGroupFarmer=§7[%1:Mietitrebbia|Mietitrebbie]
+info.SC2:moduleGroupCutter=§7[%1:Taglialegna|Taglialegna]
+info.SC2:moduleGroupTank=§7[%1:Serbatoio|Serbatoi]
+info.SC2:moduleGroupEntity=§7[%1:Rilevatore di entita'|Rielvatori di entita']
+info.SC2:moduleGroupShooter=§7[%1:Titatore|Tiratori]
+info.SC2:moduleGroupTool=§7[%1:Strumento|Strumenti]
+info.SC2:moduleGroupToolShooter=§7[%1:Strumento|Strumenti] o [%1:Lanciatore|Lanciatori]
+
+# Messages
+info.SC2:pigExtraMessage=§7In memory of Vswe's Thunderpig arena victory. Thanks everyone who donated during the 2013 Minecraft Marathon
+info.SC2:oceanExtraMessage=§7C'e' posto per un oceano di dimensioni medie.
+info.SC2:alphaExtraMessage=§71 anno in alfa
+info.SC2:storageEmpty=§7Vuoto
+info.SC2:storageFull=§7Pieno
+info.SC2:giftStorageFull=§7Potrebbe contenere una sorpresa
+info.SC2:eggStorageFull=§7Pieno di uova
+
+# Labels
+info.SC2:modularCost=§7Costo modulare
+info.SC2:cartSideTop=§7Cima
+info.SC2:cartSideCenter=§7Centro
+info.SC2:cartSideBottom=§7Base
+info.SC2:cartSideBack=§7Retro
+info.SC2:cartSideLeft=§7Sinistra
+info.SC2:cartSideRight=§7Destra
+info.SC2:cartSideFront=§7Fronte
+info.SC2:occupiedSides=§7Occupera' [%2:il lato|i lati] [%1]
+info.SC2:sidesAnd=§7e
+info.SC2:noSides=§7Non occupera' nessun lato
+info.SC2:moduleConflictHowever=§7Si scontrera' comunque con
+info.SC2:moduleConflictAlso=§7Si scontrera' anche con
+info.SC2:moduleRequirement=§7Richiede
+info.SC2:moduleCount1=§7uno
+info.SC2:moduleCount2=§7due
+info.SC2:moduleCount3=§7tre
+info.SC2:allowDuplicates=§7I duplicati sono ammessi
+info.SC2:moduleType=§7Tipo
+info.SC2:capacityOverloadError=§7Il costo e' maggiore della capacita' della carena.
+info.SC2:impossibleCombinationError=§7La combinazione dei tipi di moduli che hai inserito non e' valida. Normalmente non sarebbe possibile.
+info.SC2:complexityOverloadError=§7[%1] e' troppo complesso per questa carena.
+info.SC2:missingParentError=§7[%1] richiede [%2] per funzionare!
+info.SC2:presentNemesisError=§7[%1] non funzionera' insieme a [%2]
+info.SC2:presentDuplicateError=§7[%1] non si puo' aggiungere due volte.
+info.SC2:sideClashError=§7[%1] e [%2] si scontreranno nel lato: [%3]
+
+
+# =§7=====================================
+				UPGRADES
+# =§7=====================================
+
+info.SC2:effectBlueprint=§7Permette l'utilizzo di carrelli progetto.
+info.SC2:effectCombustionFuel=§7Permette l'utilizzo di carburante normale.
+info.SC2:effectDeployer=§7Permette di posizionare i carrelli finiti.
+info.SC2:effectDisassemble=§7Permette di disassemblare e modificare i carrelli.
+info.SC2:effectFuelCapacity=§7Capacita' di carburante [%1].
+info.SC2:effectFuelCost=§7Costo di carburante [%1]%.
+info.SC2:effectInputChest=§7Cassa di entrata con [%1] spazi.
+info.SC2:effectManagerBridge=§7Connette l'assemblatore con un gestore.
+info.SC2:effectGenerator=§7Genera [%1] [%2:unita'|unita'] di energia al minuto.
+info.SC2:effectRedstone=§7Abilita il controllo tramite un segnale di pietrarossa.
+info.SC2:effectSolar=§7Genera energia sotto il sole.
+info.SC2:effectThermal=§7Alimenta l'assemblatore con il serbatoio interno di lava.
+info.SC2:effectTimeFlat=§7Tempo di assemblaggio modulo [%1] [%1:secondo|secondi].
+info.SC2:effectTimeFlatCart=§7Tempo di assemblaggio carrello [%1] [%1:secondo|secondi].
+info.SC2:effectTimeFlatRemove=§7Tempo di disassemblaggio modulo [%1] [%1:secondo|secondi].
+info.SC2:effectTransposer=§7Permette il raccoglimento di carrelli per la modifica
+info.SC2:effectEfficiency=§7Efficienza d'assemblaggio [%1]%.
+
+
+# =§7=====================================
+				MODULES
+# =§7=====================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=§7Animali
+modules.addons.SC2:detectorBats=§7Pipistrelli
+modules.addons.SC2:detectorMonsters=§7Mostri
+modules.addons.SC2:detectorPlayers=§7Giocatori
+modules.addons.SC2:detectorVillagers=§7Villici
+modules.addons.SC2:planterRangeExtenderTitle=§7Raggio di semina
+modules.addons.SC2:saplingPlantAmount=§7Quantita' corrente di arboscelli
+modules.addons.SC2:controlLeverTitle=§7Leva di controllo
+modules.addons.SC2:leverStartCart=§7Avvia il carrello
+modules.addons.SC2:leverStopCart=§7Ferma il carrello
+modules.addons.SC2:leverTurnAroundCart=§7Gira il carrello
+modules.addons.SC2:colorizerRgbRed=§7Rosso
+modules.addons.SC2:colorizerRgbGreen=§7Verde
+modules.addons.SC2:colorizerRgbBlue=§7Blu
+modules.addons.SC2:intelligenceLockedBlock=§7La trivella rimuovera' sempre questo blocco
+modules.addons.SC2:intelligenceChange=§7Cambia le impostazioni della trivella
+modules.addons.SC2:intelligenceCurrent=§7Stato: [%1->Abilitato|Disabilitato]
+modules.addons.SC2:enchanterInstruction=§7Aggiungi un libro incantato nello spazio a sinistra.
+modules.addons.SC2:invisibilityToggle=§7[%1->Attiva|Disattiva] nucleo d'invisibilita'
+modules.addons.SC2:informationProviderLabelName=§7Nome
+modules.addons.SC2:informationProviderLabelDistance=§7Distanza
+modules.addons.SC2:informationProviderMessageDistance=§7Distanza: [%1]m
+modules.addons.SC2:informationProviderLabelPosition=§7Posizione
+modules.addons.SC2:informationProviderMessagePosition=§7X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=§7Carburante residuo
+modules.addons.SC2:informationProviderMessageFuel=§7Autonomia residua
+modules.addons.SC2:informationProviderMessageNoConsumption=§7Nessun consumo
+modules.addons.SC2:informationProviderLabelStorage=§7Spazio utilizzato
+modules.addons.SC2:informationProviderLabelDurability=§7Durabilita'
+modules.addons.SC2:informationProviderMessageToolBroken=§7Lo strumento e' rotto
+modules.addons.SC2:informationProviderMessageToolNotBroken=§7Lo strumento non e' danneggiato. Rimuovi il materiale
+modules.addons.SC2:informationProviderMessageRepair=§7Lo strumento si sta riparando
+modules.addons.SC2:informationProviderMessageUnbreakable=§7Lo strumento e' indistruttibile
+modules.addons.SC2:informationProviderLabels=§7Etichette
+modules.addons.SC2:powerThousandSuffix=§7k
+modules.addons.SC2:powerObserverInstruction=§7Clicca e trascina per posizionare nell'area desiderata.
+modules.addons.SC2:powerObserverRemoveInstruction=§7Clic destro per rimuovere.
+modules.addons.SC2:powerObserverDropInstruction=§7Metti il motore qui.
+modules.addons.SC2:powerObserverChangeInstruction=§7Clic per cambiare il limite di potenza
+modules.addons.SC2:powerObserverChangeInstruction10=§7Maiusc + clic per cambiare di 10k
+modules.addons.SC2:recipeOutput=§7Cambia il luogo di uscita
+modules.addons.SC2:recipeCurrentSelection=§7Attualmente
+modules.addons.SC2:recipeInvalidOutput=§7Sconosciuto
+modules.addons.SC2:recipeChangeMode=§7Cambia la modalita' attuale
+modules.addons.SC2:recipeNoLimit=§7Nessun limite superiore
+modules.addons.SC2:recipeLimit=§7Limite di oggetti
+modules.addons.SC2:recipeDisabled=§7Non produce niente
+modules.addons.SC2:recipeChangeLimit=§7[%1->Aumenta|Decrementa] oggetti da tenere.
+modules.addons.SC2:recipeChangeLimit10=§7Maiusc + clic per cambiare di 10.
+modules.addons.SC2:recipeChangeLimit64=§7Ctrl + clic per cambiare di 64.
+modules.addons.SC2:shieldToggle=§7[%1->Attiva|Disattiva] scudo
+
+# Engines
+modules.engines.SC2:creativePowerLevel=§7Livello di energia: [%1]
+modules.engines.SC2:coalEngineTitle=§7Motore a carbone
+modules.engines.SC2:outOfFuel=§7Carburante esaurito
+modules.engines.SC2:fuelLevel=§7Carburante: [%1]
+modules.engines.SC2:solarEngineTitle=§7Motore solare
+modules.engines.SC2:outOfPower=§7Energia esaurita
+modules.engines.SC2:powerLevel=§7Energia: [%1]
+modules.engines.SC2:thermalEngineTitle=§7Motore termico
+modules.engines.SC2:thermalPowered=§7Funzionante
+modules.engines.SC2:outOfWater=§7Acqua esaurita
+modules.engines.SC2:outOfLava=§7Lava esaurita
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=§7Modalita' creativa corrente: [%1][%2->Normale|Sempre pieno|Sempre vuoto|Sempre a meta']
+modules.tanks.SC2:creativeTankChangeMode=§7Clic destro per cambiare
+modules.tanks.SC2:creativeTankResetMode=§7Maiusc e clic destro per tornare al normale
+modules.tanks.SC2:tankLocked=§7Bloccato su questo fluido
+modules.tanks.SC2:tankLock=§7Clicca per bloccare questo fluido
+modules.tanks.SC2:tankUnlock=§7Clicca per sbloccare
+modules.tanks.SC2:tankEmpty=§7Vuoto
+modules.tanks.SC2:tankInvalidFluid=§7Sconosciuto
+
+# Tools
+modules.tools.SC2:toolDurability=§7Durabilita'
+modules.tools.SC2:toolBroken=§7Rotto
+modules.tools.SC2:toolRepairing=§7Lo strumento sta venendo riparando
+modules.tools.SC2:toolDecent=§7Rimuovi i materiali per la riparazione, questo strumento e' ancora buono.
+modules.tools.SC2:toolRepairInstruction=§7Ripara questo strumento con [%1]
+modules.tools.SC2:toolUnbreakable=§7Questo strumento e' indistruttibile.
+modules.tools.SC2:toolUnbreakableRepairError=§7Rimuovi i materiali per la riparazione.
+modules.tools.SC2:drillTitle=§7Trivella
+modules.tools.SC2:drillToggle=§7[%1->Abilita|Disabilita] trivella
+modules.tools.SC2:repairDiamonds=§7Diamanti
+modules.tools.SC2:repairIron=§7Lingotti di ferro
+modules.tools.SC2:farmerTitle=§7Mietitrebbia
+modules.tools.SC2:cutterTitle=§7Taglialegna
+
+# Attachments
+modules.attachments.SC2:fertilizers=§7Concimatori
+modules.attachments.SC2:railerTitle=§7Piazza-rotaie
+modules.attachments.SC2:controlSystemTitle=§7Sistema di Controllo Avanzato
+modules.attachments.SC2:controlSystemDistanceUnits=§7[%1->|k|M|G|T|P]m
+modules.attachments.SC2:controlSystemOdoMeter=§7ODO
+modules.attachments.SC2:controlSystemTripMeter=§7TRIP
+modules.attachments.SC2:cageAutoPickUp=§7[%1->Attiva|Disattiva] raccoglimento automatico
+modules.attachments.SC2:cagePickUp=§7[%1->Prendi|Rilascia] le creature [%1->nelle vicinanze|intrappolate]
+modules.attachments.SC2:cakeServerTitle=§7Servitore di torte
+modules.attachments.SC2:cakesLabel=§7Torte: [%1] / [%2]
+modules.attachments.SC2:slicesLabel=§7Fette: [%1] / [%2]
+modules.attachments.SC2:explosivesTitle=§7Esplosivi
+modules.attachments.SC2:experienceTitle=§7Esperienza
+modules.attachments.SC2:experienceLevel=§7Livelli di esperienza: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=§7Clicca per estrarre 50xp
+modules.attachments.SC2:experiencePlayerLevel=§7Il tuo livello attuale e' [%1]
+modules.attachments.SC2:shooterTitle=§7Tiratore
+modules.attachments.SC2:shooterFrequency=§7#/s
+modules.attachments.SC2:shooterSeconds=§7s
+modules.attachments.SC2:shooterDelay=§7Ritardo
+modules.attachments.SC2:notePiano=§7Pianoforte
+modules.attachments.SC2:noteBassDrum=§7Grancassa
+modules.attachments.SC2:noteSnareDrum=§7Rullante
+modules.attachments.SC2:noteSticks=§7Bastoncini
+modules.attachments.SC2:noteBassGuitar=§7Basso
+modules.attachments.SC2:noteCreateTrack=§7Crea nuova traccia
+modules.attachments.SC2:noteRemoveTrack=§7Rimuovi la traccia piu' in basso
+modules.attachments.SC2:noteActivateInstrument=§7Attiva [%1]
+modules.attachments.SC2:noteDeactivateInstrument=§7Rimuovi le impostazioni blocco musicale
+modules.attachments.SC2:noteDelay=§7Cambia ritardo. Ritardo attuale: [%1]
+modules.attachments.SC2:noteAdd=§7Aggiungi nota alla traccia #[%1]
+modules.attachments.SC2:noteRemove=§7Rimuovi la nota piu' a destra dalla traccia #[%1]
+modules.attachments.SC2:noteVolume=§7Volume traccia: [%1->Muto|Basso|Medio|Alto]
+

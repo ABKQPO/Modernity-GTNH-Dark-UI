@@ -1,0 +1,18 @@
+bdlib.multiblock.face.north=§7Nord
+bdlib.multiblock.face.south=§7Sud
+bdlib.multiblock.face.east=§7Est
+bdlib.multiblock.face.west=§7Ovest
+bdlib.multiblock.face.up=§7Sopra
+bdlib.multiblock.face.down=§7Sotto
+
+bdlib.multiblock.disabled=§7Disattivo
+bdlib.multiblock.incomplete=§7Questa macchina è incompleta, richiede almeno:
+bdlib.multiblock.notconnected=§7Non connesso ad una macchina valida
+bdlib.multiblock.toomanyoutputs=§7Troppi Output collegati,impossibile inserire una nuova connessione
+
+bdlib.rsmode.always=§7Sempre Attivo
+bdlib.rsmode.never=§7Disattivo
+bdlib.rsmode.rs_on=§7Attivo su Impulso di Pietrarossa
+bdlib.rsmode.rs_off=§7Disattivo su Impulso di Pietrarossa
+
+bdlib.label.empty=§7Vuoto

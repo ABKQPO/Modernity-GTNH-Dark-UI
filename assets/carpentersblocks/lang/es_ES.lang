@@ -1,0 +1,60 @@
+# Carpenter's Blocks Language File =§7Spain - Español
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Martillo de carpintero
+item.itemCarpentersChisel.name=§7Cincel de carpintero
+item.itemCarpentersDoor.name=§7Puerta de carpintero
+item.itemCarpentersBed.name=§7Cama de carpintero
+item.itemCarpentersTile.name=§7Losa de carpintero
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Valla de carpintero
+tile.blockCarpentersBed.name=§7Cama de carpintero
+tile.blockCarpentersBlock.name=§7Bloque de carpintero
+tile.blockCarpentersButton.name=§7Botón de carpintero
+tile.blockCarpentersDaylightSensor.name=§7Sensor de luz de carpintero
+tile.blockCarpentersCollapsibleBlock.name=§7Bloque plegable de carpintero
+tile.blockCarpentersDoor.name=§7Puerta de carpintero
+tile.blockCarpentersGarageDoor.name=§7Puerta de garaje de carpintero
+tile.blockCarpentersGate.name=§7Portal de carpintero
+tile.blockCarpentersHatch.name=§7Trampilla de carpintero
+tile.blockCarpentersLadder.name=§7Escalera de mano de carpintero
+tile.blockCarpentersLever.name=§7Palanca de carpintero
+tile.blockCarpentersPressurePlate.name=§7Placa de presión de carpintero
+tile.blockCarpentersSlope.wedge.name=§7Cuña de carpintero
+tile.blockCarpentersSlope.obliqueInterior.name=§7Ángulo interior oblicuo de carpintero
+tile.blockCarpentersSlope.obliqueExterior.name=§7Ángulo exterior oblicuo de carpintero
+tile.blockCarpentersSlope.prism.name=§7Prisma de carpintero
+tile.blockCarpentersSlope.prismWedge.name=§7Prisma en cuña de carpintero
+tile.blockCarpentersStairs.name=§7Escaleras de carpintero
+tile.blockCarpentersTorch.name=§7Antorcha de carpintero
+tile.blockCarpentersSafe.name=§7Seguro de carpintero
+tile.blockCarpentersFlowerPot.name=§7Maceta de flores de carpintero
+
+# ENTITIES
+entity.CarpentersTile.name=§7Tile de carpintero
+
+# MESSAGES
+message.polarity_pos.name=§7POLARIDAD: Salida normal de redstone.
+message.polarity_neg.name=§7POLARIDAD: Salida invertida de redstone.
+message.activation_iron.name=§7ACTIVACIÓN: Se comportará como puerta de hierro.
+message.activation_wood.name=§7ACTIVACIÓN: Se comportará como puerta de madera.
+message.trigger_player.name=§7ACTIVAR: Solo activado para jugadores.
+message.trigger_monster.name=§7ACTIVAR: Solo activado para monstruos.
+message.trigger_animal.name=§7ACTIVAR: Solo activado para animales.
+message.trigger_all.name=§7TRIGGER: Activado para todas las entidades.
+message.safe_lock.name=§7CONTROL: Seguro bloqueado.
+message.safe_unlock.name=§7CONTROL: Seguro desbloqueado.
+message.automation_all.name=§7AUTOMATIZACIÓN: Los items pueden ser insertados y extraidos.
+message.automation_disabled.name=§7AUTOMATIZACIÓN: Desactivado.
+message.automation_insert.name=§7AUTOMATIZACIÓN: Los items pueden ser insertados.
+message.automation_extract.name=§7AUTOMATIZACIÓN: Los items pueden ser extraidos.
+message.block_lock.name=§7CONTROL: Este bloque está bloqueado.
+message.sensitivity_sleep.name=§7SENSORES: Cambia de estado justo antes de dormir (amanecer y atardecer).
+message.sensitivity_monsters.name=§7SENSORES: Cambia de estado cuando aparecen mosntruos al anochecer (incluidas tormentas).
+message.sensitivity_dynamic.name=§7SENSORES: La salida de redstone cambia basandose en la posición del sol.
+
+# </file>

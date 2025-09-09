@@ -1,0 +1,493 @@
+tile.mud.mud.name=§7Lama
+tile.mud.quicksand.name=§7Areia Movediça
+
+tile.ashStone.name=§7Cinzas Compactadas
+tile.hardSand.name=§7Areia Endurecida
+tile.hardDirt.name=§7Terra Endurecida
+tile.hardIce.name=§7Gelo Firme
+tile.driedDirt.name=§7Terra Seca
+tile.cragRock.name=§7Rocha Escarpada
+tile.mudBricks.name=§7Tijolo de Lama
+tile.biomeBlock.name=§7Minério de Essência de Bioma
+tile.crystal.name=§7Cristal Celestial
+
+tile.rocks.limestone.name=§7Calcário
+tile.rocks.limestonesmooth.name=§7Calcário Polido
+tile.rocks.siltstone.name=§7Siltito
+tile.rocks.siltstonesmooth.name=§7Siltito Polido
+tile.rocks.shale.name=§7Xisto
+tile.rocks.shalesmooth.name=§7Xisto Polido
+
+tile.ash.name=§7Bloco de Cinzas
+tile.flesh.name=§7Carne Humana
+
+tile.plants.deadgrass.name=§7Grama Morta
+tile.plants.desertgrass.name=§7Capim do Deserto
+tile.plants.desertsprouts.name=§7Açariçoba
+tile.plants.dunegrass.name=§7Capim de Duna
+tile.plants.spectralfern.name=§7Broto Espectral
+tile.plants.thorn.name=§7Espinhos
+tile.plants.barley.name=§7Cevada
+tile.plants.cattail.name=§7Taboa
+tile.plants.cattailtop.name=§7Taboa
+tile.plants.cattailbottom.name=§7Taboa
+tile.plants.rivercane.name=§7Cana-de-macaco
+tile.plants.cactus.name=§7Cabeça de Frade
+tile.plants.witherwart.name=§7Verruga Mucha
+tile.plants.reed.name=§7Juncal
+tile.plants.root.name=§7Raiz
+
+tile.flowers.clover.name=§7Trevo
+tile.flowers.swampflower.name=§7Caliandra
+tile.flowers.deadbloom.name=§7Flor da Morte
+tile.flowers.glowflower.name=§7Flor Luminosa
+tile.flowers.hydrangea.name=§7Hortência Azul
+tile.flowers.cosmos.name=§7Picão Amarelo
+tile.flowers.daffodil.name=§7Narciso Rosa
+tile.flowers.wildflower.name=§7Jitirana
+tile.flowers.violet.name=§7Violeta
+tile.flowers.anemone.name=§7Anêmona Branca
+tile.flowers.lilyflower.name=§7Vitória-Régia
+tile.flowers.enderlotus.name=§7Lotus-do-Ender
+tile.flowers.bromeliad.name=§7Bromélia
+tile.flowers.eyebulbbottom.name=§7Olhos de Narciso
+tile.flowers.eyebulbtop.name=§7Olhos de Narciso
+tile.flowers.dandelion.name=§7Dente-de-leão
+
+tile.flowers2.hibiscus.name=§7Hibisco
+tile.flowers2.lilyofthevalley.name=§7Lírio do Vale
+tile.flowers2.burningblossom.name=§7Flor de Fogo
+tile.flowers2.lavender.name=§7Lavanda
+tile.flowers2.goldenrod.name=§7Solidago
+tile.flowers2.bluebells.name=§7Jitirana
+tile.flowers2.minersdelight.name=§7Flor das Minas
+tile.flowers2.icyiris.name=§7Pétalas de Gelo
+tile.flowers2.rose.name=§7Rosa
+
+tile.stoneFormations.stalagmite.name=§7Estalagmite
+tile.stoneFormations.stalactite.name=§7Estalactite
+
+tile.foliage.duckweed.name=§7Lentilha-d'Água
+tile.foliage.shortgrass.name=§7Grama Baixa
+tile.foliage.mediumgrass.name=§7Grama Média
+tile.foliage.flaxbottom.name=§7Linho
+tile.foliage.bush.name=§7Arbusto
+tile.foliage.sprout.name=§7Broto
+tile.foliage.flaxtop.name=§7Linho
+tile.foliage.poisonivy.name=§7Hera Venenosa
+tile.foliage.berrybush.name=§7Arbusto de Acerola
+tile.foliage.shrub.name=§7Arbusto
+tile.foliage.wheatgrass.name=§7Grama de Trigo
+tile.foliage.dampgrass.name=§7Grama Úmida
+tile.foliage.koru.name=§7Ramos
+tile.foliage.cloverpatch.name=§7Ramos de Trevo
+tile.foliage.leafpile.name=§7Pilha de Folhas
+tile.foliage.deadleafpile.name=§7Pilha de Folhas Secas
+
+tile.petals.bigflowerred.name=§7Flor Vermelha Gigante
+tile.petals.bigfloweryellow.name=§7Flor Amarela Gigante
+
+tile.mushrooms.toadstool.name=§7Cogumelo Venenoso
+tile.mushrooms.portobello.name=§7Portobello
+tile.mushrooms.bluemilk.name=§7Cogumelo Indigo
+tile.mushrooms.glowshroom.name=§7Cogumelo Luminoso
+tile.mushrooms.flatmushroom.name=§7Cogumelo do Sol
+tile.mushrooms.shadowshroom.name=§7Cogumelo Sombrio
+
+tile.saplings.appleSapling.name=§7Muda de Macieira
+tile.saplings.yellowautumnSapling.name=§7Muda de Outono Amarelada
+tile.saplings.bambooSapling.name=§7Muda de Bambu
+tile.saplings.magicSapling.name=§7Muda da Árvore Mágica
+tile.saplings.darkSapling.name=§7Muda de Cumaru
+tile.saplings.deadSapling.name=§7Muda de Árvore Moribunda
+tile.saplings.firSapling.name=§7Muda de Pinheiro
+tile.saplings.etherealSapling.name=§7Muda de Etérea
+tile.saplings.orangeautumnSapling.name=§7Muda de Outono Alaranjada
+tile.saplings.originSapling.name=§7Muda da Origem
+tile.saplings.pinkcherrySapling.name=§7Muda de Cerejeira Rosa
+tile.saplings.mapleSapling.name=§7Muda de Bordo
+tile.saplings.whitecherrySapling.name=§7Muda de Cerejeira Branca
+tile.saplings.hellbarkSapling.name=§7Muda de Casca-do-Inferno
+tile.saplings.jacarandaSapling.name=§7Muda de Jacarandá
+tile.saplings.persimmonSapling.name=§7Muda de Caqui
+
+tile.colorizedSaplings.sacredoakSapling.name=§7Muda da Árvore Sagrada
+tile.colorizedSaplings.mangroveSapling.name=§7Muda de Mangue
+tile.colorizedSaplings.palmSapling.name=§7Muda de Palmeira
+tile.colorizedSaplings.redwoodSapling.name=§7Muda de Pau-Brasil
+tile.colorizedSaplings.willowSapling.name=§7Muda de Salgueiro
+tile.colorizedSaplings.pineSapling.name=§7Muda de Pinho
+tile.colorizedSaplings.mahoganySapling.name=§7Muda de Mogno
+
+tile.willow.name=§7Salgueiro
+tile.ivy.name=§7Hera
+tile.bamboo.name=§7Bambu
+tile.mudBricksStairs.name=§7Escada de Tijolo de Lama
+tile.originGrass.name=§7Bloco de Grama da Origem
+tile.longGrass.name=§7Bloco da Grama Longa
+tile.overgrownNetherrack.name=§7Rocha do Nether com Vegetação
+tile.treeMoss.name=§7Musgo de Árvore
+tile.turnip.name=§7Nabo
+tile.flowerVine.name=§7Trepadeiras Floridas
+tile.wisteria.name=§7Glicínia
+
+tile.coral1.kelpsingle.name=§7Kelp
+tile.coral1.pinkcoral.name=§7Coral Rosa
+tile.coral1.orangecoral.name=§7Coral Laranja
+tile.coral1.bluecoral.name=§7Coral Azul
+tile.coral1.glowcoral.name=§7Coral Roxo
+tile.coral2.algae.name=§7Alga
+
+tile.newBopGrass.silty.name=§7Bloco Siltoso com Grama
+tile.newBopGrass.sandy.name=§7Bloco Arenoso com Grama
+tile.newBopGrass.loamy.name=§7Bloco Argiloso com Grama
+tile.newBopDirt.dirt_silty.name=§7Terra Siltosa
+tile.newBopDirt.dirt_sandy.name=§7Terra Arenosa
+tile.newBopDirt.dirt_loamy.name=§7Terra Argilosa
+tile.newBopDirt.coarse_dirt_silty.name=§7Terra Siltosa Suja
+tile.newBopDirt.coarse_dirt_sandy.name=§7Terra Arenosa Suja
+tile.newBopDirt.coarse_dirt_loamy.name=§7Terra Argilosa Suja
+
+tile.bopGrass.spectralmoss.name=§7Musgo Espectral
+tile.bopGrass.smolderinggrass.name=§7Bloco Fumegante de Grama
+
+tile.gemOre.amethystore.name=§7Minério de Ametista
+tile.gemOre.amethystblock.name=§7Bloco de Ametista
+tile.gemOre.rubyore.name=§7Minério de Rubi
+tile.gemOre.rubyblock.name=§7Bloco de Rubi
+tile.gemOre.peridotore.name=§7Minério de Peridoto
+tile.gemOre.peridotblock.name=§7Bloco de Peridoto
+tile.gemOre.topazore.name=§7Minério de Topázio
+tile.gemOre.topazblock.name=§7Bloco de Topázio
+tile.gemOre.tanzaniteore.name=§7Minério de Tanzanite
+tile.gemOre.tanzaniteblock.name=§7Bloco de Tanzanite
+tile.gemOre.malachiteore.name=§7Minério de Malaquita
+tile.gemOre.malachiteblock.name=§7Bloco de Malaquita
+tile.gemOre.sapphireore.name=§7Minério de Safira
+tile.gemOre.sapphireblock.name=§7Bloco de Safira
+tile.gemOre.amberore.name=§7Minério de Âmbar
+tile.gemOre.amberblock.name=§7Bloco de Âmbar
+
+tile.moss.name=§7Musgo
+
+tile.hive.honeycomb.name=§7Bloco de Favos de Mel
+tile.hive.hive.name=§7Colméia
+tile.hive.honeycombempty.name=§7Bloco de Favos sem Mel
+tile.hive.honeycombfilled.name=§7Bloco de Favos com Mel
+
+tile.honeyBlock.name=§7Bloco de Mel
+
+tile.jellyBlock.strawberry.name=§7Bloco de Geléia de Morango
+tile.jellyBlock.raspberry.name=§7Bloco de Geléia de Framboesa
+tile.jellyBlock.grape.name=§7Bloco de Geléia de Uva
+
+tile.bones.bones_small.name=§7Segmento Osseo Fino
+tile.bones.bones_medium.name=§7Segmento Osseo Médio
+tile.bones.bones_large.name=§7Segmento Osseo Largo
+
+tile.bones.bones_small_side_1.name=§7Segmento Osseo Fino
+tile.bones.bones_small_side_2.name=§7Segmento Osseo Fino
+tile.bones.bones_medium_side_1.name=§7Segmento Osseo Médio
+tile.bones.bones_medium_side_2.name=§7Segmento Osseo Médio
+
+tile.grave.name=§7Lápide
+
+tile.stoneDoubleSlab.mudbrickSlab.name=§7Laje de Tijolo de Lama
+tile.stoneSingleSlab.mudbrickSlab.name=§7Laje de Tijolo de Lama
+
+tile.planks.sacredoakPlank.name=§7Tábuas de Madeira Sagrada
+tile.planks.cherryPlank.name=§7Tábuas de Madeira de Cerejeira
+tile.planks.darkPlank.name=§7Tábuas de Madeira de Cumaru
+tile.planks.firPlank.name=§7Tábuas de Madeira de Pinheiro
+tile.planks.etherealPlank.name=§7Tábuas de Madeira de Etérea
+tile.planks.magicPlank.name=§7Tábuas de Madeira Mágica
+tile.planks.mangrovePlank.name=§7Tábuas de Madeira de Mangue
+tile.planks.palmPlank.name=§7Tábuas de Madeira de Palmeira
+tile.planks.redwoodPlank.name=§7Tábuas de Madeira de Pau-Brasil
+tile.planks.willowPlank.name=§7Tábuas de Madeira de Salgueiro
+tile.planks.bambooThatching.name=§7Colmo de Bambu
+tile.planks.pinePlank.name=§7Tábuas de Madeira de Pinho
+tile.planks.hellBarkPlank.name=§7Tábuas de Madeira de Casca-do-Inferno
+tile.planks.jacarandaPlank.name=§7Tábuas de Madeira de Jacarandá
+tile.planks.mahoganyPlank.name=§7Tábuas de Madeira de Mogno
+
+tile.logs1.sacredoakWood.name=§7Madeira Sagrada
+tile.logs1.cherryWood.name=§7Madeira de Cerejeira
+tile.logs1.darkWood.name=§7Madeira de Cumaru
+tile.logs1.firWood.name=§7Madeira de Pinheiro
+
+tile.logs2.etherealWood.name=§7Madeira Etérea
+tile.logs2.magicWood.name=§7Madeira Mágica
+tile.logs2.mangroveWood.name=§7Madeira de Mangue
+tile.logs2.palmWood.name=§7Madeira de Palmeira
+
+tile.logs3.redwoodWood.name=§7Madeira de Pau-Brasil
+tile.logs3.willowWood.name=§7Madeira de Salgueiro
+tile.logs3.deadWood.name=§7Madeira Podre
+tile.logs3.bigflowerstemWood.name=§7Haste de Flor Gigante
+
+tile.logs4.pineWood.name=§7Madeira de Pinho
+tile.logs4.hellbarkWood.name=§7Madeira de Casca-do-Inferno
+tile.logs4.jacarandaWood.name=§7Madeira de Jacarandá
+tile.logs4.mahoganyWood.name=§7Madeira de Mogno
+
+tile.leaves1.yellowautumn.name=§7Folhas de Outono Amareladas
+tile.leaves1.bamboo.name=§7Folhas de Bambu
+tile.leaves1.magic.name=§7Folhas de Árvore Mágica
+tile.leaves1.dark.name=§7Folhas de Cumaru
+
+tile.leaves2.dead.name=§7Folhas de Árvore Moribunda
+tile.leaves2.fir.name=§7Folhas de Pinheiro
+tile.leaves2.ethereal.name=§7Folhas de Etérea
+tile.leaves2.orangeautumn.name=§7Folhas de Outono Alaranjada
+
+tile.leaves3.origin.name=§7Folhas da Origem
+tile.leaves3.pinkcherry.name=§7Folhas de Cerejeira Rosa
+tile.leaves3.maple.name=§7Folhas de Bordo
+tile.leaves3.whitecherry.name=§7Folhas de Cerejeira Branca
+
+tile.leaves4.hellbark.name=§7Folhas de Casca-do-Inferno
+tile.leaves4.jacaranda.name=§7Folhas de Jacarandá
+
+tile.colorizedLeaves1.sacredoak.name=§7Folhas da Árvore Sagrada
+tile.colorizedLeaves1.mangrove.name=§7Folhas de Mangue
+tile.colorizedLeaves1.palm.name=§7Folhas de Palmeira
+tile.colorizedLeaves1.redwood.name=§7Folhas de Pau-Brasil
+
+tile.colorizedLeaves2.willow.name=§7Folhas de Salgueiro
+tile.colorizedLeaves2.pine.name=§7Folhas de Pinho
+tile.colorizedLeaves2.mahogany.name=§7Folhas de Mogno
+
+tile.appleLeaves.name=§7Folhas de Macieira
+tile.persimmonLeaves.name=§7Folhas de Caqui
+
+tile.woodenDoubleSlab1.sacredoakSlab.name=§7Laje de Madeira Sagrada
+tile.woodenDoubleSlab1.cherrySlab.name=§7Laje de Madeira de Cerejeira
+tile.woodenDoubleSlab1.darkSlab.name=§7Laje de Madeira de Cumaru
+tile.woodenDoubleSlab1.firSlab.name=§7Laje de Madeira de Pinheiro
+tile.woodenDoubleSlab1.etherealSlab.name=§7Laje de Madeira Etérea
+tile.woodenDoubleSlab1.magicSlab.name=§7Laje de Madeira Mágica
+tile.woodenDoubleSlab1.mangroveSlab.name=§7Laje de Madeira de Mangue
+tile.woodenDoubleSlab1.palmSlab.name=§7Laje de Madeira de Palmeira
+tile.woodenDoubleSlab2.redwoodSlab.name=§7Laje de Madeira de Pau-Brasil
+tile.woodenDoubleSlab2.willowSlab.name=§7Laje de Madeira de Salgueiro
+tile.woodenDoubleSlab2.pineSlab.name=§7Laje de Madeira de Pine
+tile.woodenDoubleSlab2.hell_barkSlab.name=§7Laje de Madeira de Casca-do-Inferno
+tile.woodenDoubleSlab2.jacarandaSlab.name=§7Laje de Madeira de Jacarandá
+tile.woodenDoubleSlab2.mahoganySlab.name=§7Laje de Madeira de Mogno
+
+tile.woodenSingleSlab1.sacredoakSlab.name=§7Laje de Madeira Sagrada
+tile.woodenSingleSlab1.cherrySlab.name=§7Laje de Madeira de Cerejeira
+tile.woodenSingleSlab1.darkSlab.name=§7Laje de Madeira de Cumaru
+tile.woodenSingleSlab1.firSlab.name=§7Laje de Madeira de Pinheiro
+tile.woodenSingleSlab1.etherealSlab.name=§7Laje de Madeira Etérea
+tile.woodenSingleSlab1.magicSlab.name=§7Laje de Madeira Mágica
+tile.woodenSingleSlab1.mangroveSlab.name=§7Laje de Madeira de Mangue
+tile.woodenSingleSlab1.palmSlab.name=§7Laje de Madeira de Palmeira
+tile.woodenSingleSlab2.redwoodSlab.name=§7Laje de Madeira de Pau-Brasil
+tile.woodenSingleSlab2.willowSlab.name=§7Laje de Madeira de Salgueiro
+tile.woodenSingleSlab2.pineSlab.name=§7Laje de Madeira de Pine
+tile.woodenSingleSlab2.hell_barkSlab.name=§7Laje de Madeira de Casca-do-Inferno
+tile.woodenSingleSlab2.jacarandaSlab.name=§7Laje de Madeira de Jacarandá
+tile.woodenSingleSlab2.mahoganySlab.name=§7Laje de Madeira de Mogno
+
+tile.sacredoakStairs.name=§7Escadas de Madeira Sagrada
+tile.cherryStairs.name=§7Escadas de Madeira de Cerejeira
+tile.darkStairs.name=§7Escadas de Madeira de Cumaru
+tile.firStairs.name=§7Escadas de Madeira de Pinheiro
+tile.etherealStairs.name=§7Escadas de Madeira Etérea
+tile.magicStairs.name=§7Escadas de Madeira Mágica
+tile.mangroveStairs.name=§7Escadas de Madeira de Mangue
+tile.palmStairs.name=§7Escadas de Madeira de Palmeira
+tile.redwoodStairs.name=§7Escadas de Madeira de Pau-Brasil
+tile.willowStairs.name=§7Escadas de Madeira de Salgueiro
+tile.pineStairs.name=§7Escadas de Madeira de Pine
+tile.hellBarkStairs.name=§7Escadas de Madeira de Casca-do-Inferno
+tile.jacarandaStairs.name=§7Escada de Madeira de Jacarandá
+tile.mahoganyStairs.name=§7Escadas de Madeira de Mogno
+
+item.food.berries.name=§7Acerola
+item.food.shroompowder.name=§7Pó de Cogumelo
+item.food.wildcarrots.name=§7Cenoura Selvagem
+item.food.sunflowerseeds.name=§7Semente de Girasol
+item.food.saladfruit.name=§7Salada de Frutas
+item.food.saladveggie.name=§7Salada de Legumes
+item.food.saladshroom.name=§7Salada de Cogumelos
+item.food.persimmon.name=§7Caqui
+item.food.filledhoneycomb.name=§7Favos de Mel
+item.food.ambrosia.name=§7Ambrósia
+item.food.turnip.name=§7Nabo
+
+item.turnipSeeds.name=§7Semente de Nabo
+
+item.dartBlower.name=§7Zarabatana
+item.dart.dart.name=§7Dardo
+item.dart.poisondart.name=§7Dardo Envenenado
+
+item.mudball.name=§7Bola de Lama
+
+item.misc.mudbrick.name=§7Tijolo de Lama
+item.misc.ash.name=§7Punhado de Cinzas
+item.misc.fleshchunk.name=§7Pedaço de Carne Humana
+item.misc.emptyhoneycomb.name=§7Favos sem Mel
+item.misc.crystalshard.name=§7Fragmento de Cristal Celestial
+item.misc.bluedye.name=§7Corante Azul
+item.misc.browndye.name=§7Corante Marrom
+item.misc.greendye.name=§7Corante Verde
+item.misc.whitedye.name=§7Corante Branco
+item.misc.blackdye.name=§7Corante Preto
+item.misc.ghastlysoul.name=§7Fantasma
+item.misc.pixiedust.name=§7Pó de Fada
+item.misc.ichor.name=§7Ichor
+
+item.jarEmpty.name=§7Pote Vazio
+item.jarFilled.jarhoney.name=§7Pote de Mel
+item.jarFilled.jarpoison.name=§7Pote com Estrato Venenoso
+item.jarFilled.jarpixie.name=§7Fada no Pote
+
+item.gems.amethyst.name=§7Ametista do Ender
+item.gems.ruby.name=§7Rubi
+item.gems.peridot.name=§7Peridoto
+item.gems.topaz.name=§7Topázio
+item.gems.tanzanite.name=§7Tanzanite
+item.gems.malachite.name=§7Malaquita
+item.gems.sapphire.name=§7Safira
+item.gems.amber.name=§7Âmbar
+
+item.pickaxeMud.name=§7Picareta de Lama
+item.axeMud.name=§7Machado de Lama
+item.shovelMud.name=§7Pá de Lama
+item.swordMud.name=§7Espada de Lama
+item.hoeMud.name=§7Enxada de Lama
+item.helmetMud.name=§7Elmo de Lama
+item.chestplateMud.name=§7Peitoral de Lama
+item.leggingsMud.name=§7Calças de Lama
+item.bootsMud.name=§7Botas de Lama
+
+item.pickaxeAmethyst.name=§7Picareta de Ametista
+item.axeAmethyst.name=§7Machado de Ametista
+item.shovelAmethyst.name=§7Pá de Ametista
+item.swordAmethyst.name=§7Espada de Ametista
+item.hoeAmethyst.name=§7Enxada de Ametista
+item.helmetAmethyst.name=§7Elmo de Ametista
+item.chestplateAmethyst.name=§7Peitoral de Ametista
+item.leggingsAmethyst.name=§7Calças de Ametista
+item.bootsAmethyst.name=§7Botas de Ametista
+
+item.scytheWood.name=§7Foice de Madeira
+item.scytheStone.name=§7Foice de Pedra
+item.scytheIron.name=§7Foice de Ferro
+item.scytheGold.name=§7Foice de Ouro
+item.scytheDiamond.name=§7Foice de Diamante
+item.scytheMud.name=§7Foice de Lama
+item.scytheAmethyst.name=§7Foice de Ametista
+
+item.ancientStaff.ancientstaff.name=§7Cajado Antigo
+item.ancientStaff.staffhandle.name=§7Punho de Cajado Antigo
+item.ancientStaff.staffpole.name=§7Pau de Cajado Antigo
+item.ancientStaff.stafftopper.name=§7Ponta de Cajado Antigo
+item.ancientStaff.ancientstaffbroken.name=§7Cajado Antigo Esgotado
+
+item.enderporter.name=§7Enderporter
+
+item.record_wanderer.name=§7Disco de Música
+item.record_corruption.name=§7Disco de Música
+
+item.record_wanderer.desc=§7Tim Rurkowski - Andarilho
+item.record_corruption.desc=§7???
+
+item.flowerBand.dullflowerband.name=§7Coroa de Flores sem Graça
+item.flowerBand.plainflowerband.name=§7Coroa de Flores Simples
+item.flowerBand.lushflowerband.name=§7Coroa de Flores Exuberante
+item.flowerBand.exoticflowerband.name=§7Coroa de Flores Exóticas
+
+item.wadingBoots.name=§7Botas de Caminhada
+item.flippers.name=§7Nadadeiras
+
+item.biomeBook.name=§7Livro dos Biomas
+item.biomeFinder.name=§7Radar de Bioma
+item.biomeEssence.name=§7Essência de Bioma
+
+item.poisonBucket.name=§7Balde com Veneno
+item.hell_bloodBucket.name=§7Balde com Sangue
+item.honeyBucket.name=§7Balde com Mel
+
+tile.poison.name=§7Veneno
+tile.hell_blood.name=§7Sangue
+tile.honey.name=§7Mel
+
+fluid.poison=§7Veneno
+fluid.hell_blood=§7Sangue
+fluid.honey=§7Mel
+
+biomeRadar.target=§7Alvo:
+biomeRadar.foundBiome=§7Bioma Encontrado!
+biomeRadar.scanBiome=§7Clique com o botão direito para examinar o bioma
+
+enderporter.prevent=§7Uma energia mística impede você de usar isso no mundo atual.
+
+phrase.bop.useBOPATGWorldtype=§7Os mundos tipo ´Biomes O' Plenty´ ou ´ATG´ devem ser usados para gerar novos biomas. Esta mensagem será mostrada somente uma vez.
+phrase.bop.useBOPWorldtype=§7O tipo de mundo ´Biomes O' Plenty´ deve ser usado para para gerar novos biomas. Esta mensagem será mostrada somente uma vez.
+phrase.bop.updateAvaliable=§7Você não está usando a versão mais recente recomendada do ´Biomes O' Plenty´. A mais recente é a versão: v%s para Minecraft %s.
+
+warning.bopStartup1=§7O ´Biomes O' Plenty´ usa um ´WorldType´ personalizado para seus biomas.
+warning.bopStartup2=§7Ele pode ser ativado clicando no botão 'Mais Opções do Mundo' e em
+warning.bopStartup3=§7'Tipo de Mundo' até ser mostrado ´Biomes O' Plenty´.
+warning.bopStartup4=§7O ´WorldType´ pode ser usado em servidores alterando o 'level-type' em
+warning.bopStartup5=§7server.properties to 'BIOMESOP' (sem aspas)
+warning.bopStartup6=§7Esta mensagem só será exibida uma vez.
+
+potion.paralysis=§7Paralisia
+potion.possession=§7Possessão
+
+entity.BiomesOPlenty.Glob.name=§7Glóbulo
+entity.BiomesOPlenty.JungleSpider.name=§7Aranha da Selva
+entity.BiomesOPlenty.Phantom.name=§7Fantasma
+entity.BiomesOPlenty.Rosester.name=§7Pipira
+entity.BiomesOPlenty.Wasp.name=§7Abelha
+entity.BiomesOPlenty.Bird.name=§7Pássaro
+entity.BiomesOPlenty.Pixie.name=§7Fada
+
+achievement.bop.achFlower=§7Flor da Paz
+achievement.bop.achFlower.desc=§7Torne-se um com a natureza!
+
+achievement.bop.achBerry=§7Colhendo baga
+achievement.bop.achBerry.desc=§7As coisas simples da vida...
+achievement.bop.achMoss=§7Uma pedra rolando
+achievement.bop.achMoss.desc=§7Nada disto junta.
+achievement.bop.achThorn=§7Mais espinhoso
+achievement.bop.achThorn.desc=§7Mais mortal que um cactos!
+achievement.bop.achCoral=§7Nutritivo
+achievement.bop.achCoral.desc=§7Que tal um grande pedaço de coral no vapor?
+
+achievement.bop.achFlowerBand=§7Paz e Amor
+achievement.bop.achFlowerBand.desc=§7Maneiro, bitcho.
+achievement.bop.achDartBlower=§7Totalmente Automático
+achievement.bop.achDartBlower.desc=§7Você vai arrancar seu olho fora, menino!
+achievement.bop.achScythe=§7Planta Assassina
+achievement.bop.achScythe.desc=§7Dia de trabalho do ceifador.
+achievement.bop.achEnderporter=§7Lar Doce Lar
+achievement.bop.achEnderporter.desc=§7Use os poderes mágicos do Enderporter.
+
+achievement.bop.achHoney=§7Agridoce
+achievement.bop.achHoney.desc=§7A terra do sangue e mel.
+achievement.bop.achWitherWart=§7Apodrecer
+achievement.bop.achWitherWart.desc=§7Um mestre dos disfarces.
+achievement.bop.achGrave=§7Coveiro
+achievement.bop.achGrave.desc=§7O próximo ´Dampe´.
+achievement.bop.achPhantom=§7Ameaça Fantasma
+achievement.bop.achPhantom.desc=§7Ladrão de almas...
+
+achievement.bop.achPromised=§7Subindo!
+achievement.bop.achPromised.desc=§7Benvindo a Terra Prometida!
+achievement.bop.achCelestial=§7Céu Azul
+achievement.bop.achCelestial.desc=§7Eu sou o único que... blocos...
+achievement.bop.achAmbrosia=§7Bebida dos Deuses
+achievement.bop.achAmbrosia.desc=§7Fiquem com sede, meus amigos.
+
+achievement.bop.achAllBOP=§7Conquistas O' Plenty
+achievement.bop.achAllBOP.desc=§7Você tem todas as conquistas do ´Biomes O' Plenty´!
+
+itemGroup.tabBiomesOPlenty=§7Biomes O' Plenty
+
+generator.BIOMESOP=§7Biomes O' Plenty

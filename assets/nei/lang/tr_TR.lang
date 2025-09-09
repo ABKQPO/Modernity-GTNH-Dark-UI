@@ -1,0 +1,187 @@
+nei.load=§7Yükle
+nei.save=§7Kaydet
+
+nei.enchant=§7Büyü
+nei.enchant.level=§7Level
+nei.enchant.locked=§7Kilitli
+nei.enchant.unlocked=§7Açık
+
+nei.inventory.options=§7Ayarlar
+nei.inventory.prev=§7Geri
+nei.inventory.next=§7İleri
+nei.inventory.item_subsets=§7Item Altkümeleri
+nei.inventory.delete.inv=§7Mevcut envanterdeki tüm itemleri sil
+nei.inventory.delete.one=§7Sil %s
+nei.inventory.delete.all=§7Hepsini Sil %s
+nei.inventory.delete.enable=§7Silme modunu aktif et
+nei.inventory.delete.1=§7Silme modunu aç
+nei.inventory.delete.0=§7Silme modunu kapat
+nei.inventory.rain.enable=§7Yağmuru Aktif Et
+nei.inventory.rain.1=§7Yağmur yağdır
+nei.inventory.rain.0=§7Yağmuru durdur
+nei.inventory.magnet.enable=§7Mıknatısı aktif et
+nei.inventory.magnet.1=§7Mıknatısı aç
+nei.inventory.magnet.0=§7Mıknatısı kapat
+nei.inventory.dawn.enable=§7Sabah-Öğle aktif et
+nei.inventory.dawn.set=§7Sabah yap
+nei.inventory.noon.enable=§7Öğlen-akşam aktif et
+nei.inventory.noon.set=§7Öğlen yap
+nei.inventory.dusk.enable=§7Akşam-Gece aktif et
+nei.inventory.dusk.set=§7Akşam yap
+nei.inventory.midnight.enable=§7Gece-Sabah aktif et
+nei.inventory.midnight.set=§7Gece yarısı yap
+nei.inventory.heal=§7Canı Doldur
+nei.inventory.gamemode.0=§7Oyun Modunu Hayatta Kalma yap
+nei.inventory.gamemode.1=§7Oyun Modunu Yaratıcı yap
+nei.inventory.gamemode.2=§7Oyun Modunu Yaratıcı+ yap
+nei.inventory.gamemode.3=§7Oyun Modunu Macera yap
+
+nei.chat.gamemode.0=§7Hayatta Kalma modunu oynuyorsunuz
+nei.chat.gamemode.1=§7Yaratıcı modunu oynuyorsunuz
+nei.chat.gamemode.2=§7Yaratıcı+ modunu oynuyorsunuz
+nei.chat.gamemode.3=§7Macera modunu oynuyorsunuz
+nei.chat.rain.on=§7Yağmur açıldı
+nei.chat.rain.off=§7Yağmur kapatıldı
+nei.chat.time=§7Gün %d. %d:00
+nei.chat.give.noitem=§7İtem verilemez.
+nei.chat.chunkoverlay.0=§7Chunk Overlay: Off
+nei.chat.chunkoverlay.1=§7Chunk Overlay: Chunk Corners
+nei.chat.chunkoverlay.2=§7Chunk Overlay: Chunks
+nei.chat.chunkoverlay.3=§7Chunk Overlay: GT Ore Veins
+
+nei.options=§7NEI Ayarları
+nei.options.back=§7Geri
+nei.options.world=§7Dünya
+nei.options.global=§7Genel
+nei.options.global.tip.0=§7Ayarlar tüm dünyalar için kaydedilecek
+nei.options.global.tip.1=§7W tuşuna tıklayın:seçeneği aç:dünyada gör
+nei.options.wbutton.tip.0=§7Genel ayarları kullanıyorsunuz
+nei.options.wbutton.tip.1=§7Genel ayarların üstüne yazılıyor
+
+nei.options.keys=§7Tuşlar
+nei.options.keys.gui=§7Envanter
+nei.options.keys.gui.recipe=§7Tarifler
+nei.options.keys.gui.usage=§7Kullanım yeri
+nei.options.keys.gui.enchant=§7Büylüler
+nei.options.keys.gui.potion=§7İksirler
+nei.options.keys.gui.back=§7Önceki tarif
+nei.options.keys.gui.prev=§7Önceki sayfa
+nei.options.keys.gui.next=§7Sonraki sayfa
+nei.options.keys.gui.hide=§7Nei görünürlük ayarı
+nei.options.keys.gui.search=§7Arama çubuğu odağı
+nei.options.keys.world=§7Dünya
+nei.options.keys.world.chunkoverlay=§7Chunk sınır yerleşimi
+nei.options.keys.world.moboverlay=§7Mob Spawn yerleşimi
+nei.options.keys.world.highlight_tips=§7Nesne ipucu
+nei.options.keys.world.dawn=§7Sabah
+nei.options.keys.world.noon=§7Öğlen
+nei.options.keys.world.dusk=§7Akşam
+nei.options.keys.world.midnight=§7Gece
+nei.options.keys.world.rain=§7Yağmur
+nei.options.keys.world.heal=§7Can
+nei.options.keys.world.creative=§7Oyun Modu
+nei.options.keys.world.creative.tip=§7Döngülü Oyun Modu
+
+nei.options.inventory=§7Envarter
+nei.options.inventory.widgetsenabled.true=§7NEI Açık
+nei.options.inventory.widgetsenabled.false=§7NEI Kapalı
+nei.options.inventory.cheatmode.0=§7Tarif modu
+nei.options.inventory.cheatmode.1=§7Yardımcı mod
+nei.options.inventory.cheatmode.2=§7Hileli mod
+
+nei.options.inventory.guirecipe.profile=§7Profil tarifleri
+nei.options.inventory.guirecipe.profile.true=§7Yazı
+nei.options.inventory.guirecipe.profile.false=§7Şekil
+nei.options.inventory.itemsort=§7Item Panel Sıralaması
+nei.options.inventory.itemIDs=§7Item IDleri
+nei.options.inventory.itemIDs.0=§7Gizli
+nei.options.inventory.itemIDs.1=§7Otomatik
+nei.options.inventory.itemIDs.2=§7Göster
+nei.options.inventory.search.patternMode=§7Arama Modu
+nei.options.inventory.search.patternMode.0=§7Normal
+nei.options.inventory.search.patternMode.1=§7Gelişmiş
+nei.options.inventory.search.patternMode.2=§7Regex
+nei.options.inventory.utilities=§7Yardımcılar
+nei.options.inventory.utilities.tip=§7Yardımcıları seç
+nei.options.inventory.utilities.time=§7Saat
+nei.options.inventory.utilities.rain=§7Yağmur
+nei.options.inventory.utilities.heal=§7Can
+nei.options.inventory.utilities.delete=§7Sil
+nei.options.inventory.utilities.magnet=§7Mıknatıs
+nei.options.inventory.utilities.gamemode=§7Oyun modu
+nei.options.inventory.utilities.enchant=§7Büyüleme
+nei.options.inventory.utilities.potion=§7İksirler
+nei.options.inventory.utilities.item=§7Itemler
+nei.options.inventory.gamemodes=§7Oyun modu
+nei.options.inventory.gamemodes.tip=§7Oyun modunu döngülü yap
+nei.options.inventory.gamemodes.creative=§7Yaratıcı mod
+nei.options.inventory.gamemodes.creative+=§7Yaratıcı mod+
+nei.options.inventory.gamemodes.adventure=§7Macera
+
+nei.options.command=§7Komutlar
+nei.options.command.creative=§7Oyun modu
+nei.options.command.creative.tip=§7{0} = 1 for creative, 0 for survival, {1} = player
+nei.options.command.item=§7Item
+nei.options.command.item.tip=§7{0} = player, {1} = itemID, {2} = quantity, {3} = itemDamage
+nei.options.command.time=§7Zaman
+nei.options.command.time.tip=§7{0} = worldtime
+nei.options.command.rain=§7Yağmur
+nei.options.command.rain.tip=§7{0} = 1 for on, 0 for off
+nei.options.command.heal=§7Can
+nei.options.command.heal.tip=§7{0} = player
+
+nei.options.world.highlight_tips=§7Nesne ipucu
+nei.options.world.highlight_tips.hide=§7Kapalı
+nei.options.world.highlight_tips.show=§7Açık
+
+nei.options.tools=§7Araçlar
+nei.options.tools.dump=§7Verileri Silme
+nei.options.tools.dump.dump=§7Sil
+nei.options.tools.dump.dumped=§7%s IDs silindi %s
+nei.options.tools.dump.mode.0=§7Kullanıldı
+nei.options.tools.dump.mode.1=§7Boş
+nei.options.tools.dump.mode.2=§7Hepsi
+nei.options.tools.dump.item=§7İtem
+nei.options.tools.dump.items=§7İtemlar
+nei.options.tools.dump.block=§7Blok
+nei.options.tools.dump.blocks=§7Bloklar
+nei.options.tools.dump.potion=§7İksir
+nei.options.tools.dump.potions=§7İksirler
+nei.options.tools.dump.enchantment=§7Büyü
+nei.options.tools.dump.enchantments=§7Büyüler
+nei.options.tools.dump.biome=§7Biyom
+nei.options.tools.dump.biomes=§7Biyomlar
+nei.options.tools.dump.itempanel=§7Item Paneli
+nei.options.tools.dump.itempanel.dumped=§7Item panelinden %s kadar silindi
+nei.options.tools.dump.itempanel.mode.0=§7CSV
+nei.options.tools.dump.itempanel.mode.1=§7NBT
+nei.options.tools.dump.itempanel.mode.2=§7Json
+
+
+
+
+nei.recipe.page=§7Sayfa %s/%s
+nei.recipe.shaped=§7Üretim
+nei.recipe.shapeless=§7Üretim
+nei.recipe.furnace=§7Pişirme
+nei.recipe.fuel=§7Yakıt
+nei.recipe.fuel.required=§7%s gerekli
+nei.recipe.fuel.processed=§7%s işlenmiş
+nei.recipe.fuel.produced=§7%s üretilmiş
+nei.recipe.firework=§7Havaifişek
+nei.recipe.firework.tooltip0=§7Renk ekle veya değiştir
+nei.recipe.firework.tooltip1=§7Rengi kaldır veya değiştir
+nei.recipe.firework.tooltip2=§7Fazlaca roket yap veya ışınla
+nei.recipe.brewing=§7İksir Standı
+nei.recipe.profiler.crafting=§7Üretme Profili
+nei.recipe.profiler.usage=§7Kullanma Profili
+
+nei.itemsort.minecraft=§7Minecraft
+nei.itemsort.minecraft.tip=§7Numara sırasına göre sırala
+nei.itemsort.mod=§7Mod
+nei.itemsort.mod.tip=§7İlk önce modlar gözükür
+nei.itemsort.id=§7Item Numarası
+nei.itemsort.default=§7Standart
+nei.itemsort.default.tip=§7Numara sırasına göre sırala
+nei.itemsort.damage=§7Item Hasarı
+nei.itemsort.name=§7Gözüken Ad

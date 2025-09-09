@@ -1,0 +1,26 @@
+com.github.hexosse.wecuife.options.title=§7WorldEditCUI Options
+
+com.github.hexosse.wecuife.keys.toggle=§7Toggle CUI visibility
+com.github.hexosse.wecuife.keys.clear=§7Clear WorldEdit selection
+com.github.hexosse.wecuife.keys.category=§7WorldEditCUI
+
+gui.ok=§7OK
+
+colour.cuboidedge=§7Cuboid Edge Colour
+colour.cuboidgrid=§7Cuboid Grid Colour
+colour.cuboidpoint1=§7Cuboid First Point Colour
+colour.cuboidpoint2=§7Cuboid Second Point Colour
+colour.polygrid=§7Polygon Grid Colour
+colour.polyedge=§7Polygon Edge Colour
+colour.polypoint=§7Polygon Point Colour
+colour.ellipsoidgrid=§7Ellipsoid Grid Colour
+colour.ellipsoidpoint=§7Ellipsoid Centre Point Colour
+colour.cylindergrid=§7Cylinder Grid Colour
+colour.cylinderedge=§7Cylinder Edge Colour
+colour.cylinderpoint=§7Cylinder Centre Point Colour
+
+gui.options.compat.title=§7Compatibility Options
+gui.options.compat.spammy=§7Promiscuous Mode (send /we cui all the time)
+gui.options.compat.ontop=§7Always on top (mod compatibility)
+gui.options.colours.title=§7Display Colours
+

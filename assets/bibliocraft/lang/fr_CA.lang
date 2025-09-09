@@ -1,0 +1,523 @@
+language.name=§7Français canadien
+language.region=§7Canada
+language.code=§7fr_CA
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+itemGroup.BiblioCraftLights=§7Éclairage de BiblioCraft
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=§7Profondeur
+item.PlumbLine.name=§7Fil à plomb
+item.FramingSaw.name=§7Scie de cadrage
+item.FramingBoard.name=§7Planche de cadrage
+item.FramingSheet.name=§7Feuille de cadrage
+OakPaneler.name=§7Panneleur de meuble en bois de chêne
+SprucePaneler.name=§7Panneleur de meuble en bois d'épinette
+BirchPaneler.name=§7Panneleur de meuble en bois de bouleau
+JunglePaneler.name=§7Panneleur de meuble en bois d'acajou
+AcaciaPaneler.name=§7Panneleur de meuble en bois d'acacia
+OldOakPaneler.name=§7Panneleur de meuble en bois de chêne noir
+FramedPaneler.name=§7Panneleur de meuble encadré
+FramedClock.name=§7Pendule encadré
+FrameBookcase.name=§7Bibliothèque encadrée
+FramedWorkbench.name=§7Établi chic encadré
+FramedSign.name=§7Panneau chic encadré
+FramedShelf.name=§7Étagère encadrée
+FramedPotionShelf.name=§7Étagère à potions encadrée
+FramedLabel.name=§7Écriteau encadré
+FramedMapFrame.name=§7Cadre de carte encadré
+FramedPaintingFrame.name=§7Cadre de peinture encadré
+FramedDesk.name=§7Bureau encadré
+FramedWeaponRack.name=§7Rack à outils encadré
+FramedCase.name=§7Vitrine encadrée
+FramedTable.name=§7Table encadrée
+FramedSeat.name=§7Siège encadré
+item.seatBack.FramedSeatBack.name=§7Dossier de siège encadré
+gui.painting.showFrame=§7Avec cadre
+gui.painting.hideFrame=§7Sans cadre
+screwgun.selected.desk1=§7Premier bureau sélectionné.
+screwgun.selected.desk2=§7Tentative d'attacher/de détacher les bureaux.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=§7Atlas
+item.AtlasPlate.name=§7Plaque d'imprimerie d'atlas
+item.DeathCompass.name=§7Boussole éternelle
+enchant.deathcompass=§7Boussole éternelle
+
+gui.atlas.zoom=§7N. de zoom
+gui.atlas.center=§7Auto-centrer
+gui.atlas.create=§7Auto-créer
+gui.atlas.mapXcenter=§7Centre X :
+gui.atlas.mapZcenter=§7Centre Z :
+gui.atlas.mapZoom=§7Niv. de zoom :
+gui.atlas.yes=§7Oui
+gui.atlas.no=§7Non
+gui.atlas.atlas=§7L'atlas
+
+gui.atlas.select.tt1=§7Mode Sélection de point de repère
+gui.atlas.select.tt2=§7Passez le curseur sur un point
+gui.atlas.select.tt3=§7de repère et faites un clic
+gui.atlas.select.tt4=§7gauche pour le sélectionner.
+// There's a space here
+gui.atlas.select.tt5=§7Maintenez Ctrl et passez le curseur sur la carte
+gui.atlas.select.tt6=§7pour voir les coordonnées du monde. Faites un clic
+gui.atlas.select.tt7=§7gauche tout en maintenant Ctrl pour sélectionner
+gui.atlas.select.tt8=§7n'importe quel point sur la carte.
+
+gui.atlas.edit.tt1=§7Mode Édition de punaise de point de repère
+gui.atlas.edit.tt2=§7Cliquez sur un point de repère pour
+gui.atlas.edit.tt3=§7modifier le nom et la couleur de la
+gui.atlas.edit.tt4=§7punaise ou pour la supprimer.
+// There's a space here
+gui.atlas.edit.tt5=§7Pour supprimer rapidement un point de repère,
+gui.atlas.edit.tt6=§7maintenez Maj enfoncé et cliquez dessus.
+
+gui.atlas.add.tt1=§7Mode Ajout de punaire de point de repère
+gui.atlas.add.tt2=§7Cliquez n'importe où sur la carte pour
+gui.atlas.add.tt3=§7ajouter un nouveau point de repère.
+gui.atlas.add.tt4=§7Une boîte de dialogue apparaîtra pour
+gui.atlas.add.tt5=§7le nom et la couleur de la punaise.
+// There's a space here
+gui.atlas.add.tt6=§7Maintenez Maj et cliquez sur la carte
+gui.atlas.add.tt7=§7pour placer une nouvelle punaise avec
+gui.atlas.add.tt8=§7un nom et une couleur aléatoire.
+
+gui.atlas.switchtoinv=§7Changer pour l'écran d'inventaire.
+gui.atlas.switchtoatlas=§7Changer pour l'écran de la carte.
+
+gui.atlas.autocenter.tt1=§7Si activé, l'atlas va chercher
+gui.atlas.autocenter.tt2=§7dans votre inventaire pour une
+gui.atlas.autocenter.tt3=§7carte valide qui montre où vous
+gui.atlas.autocenter.tt4=§7êtes au niveau de zoom
+gui.atlas.autocenter.tt5=§7actuellement sélectionné.
+
+gui.atlas.autocreate.tt1=§7Si activé, crée de nouvelles cartes
+gui.atlas.autocreate.tt2=§7à partir de cartes vierges dans votre
+gui.atlas.autocreate.tt3=§7inventaire. Quand l'auto-centrage
+gui.atlas.autocreate.tt4=§7échoue de trouver une carte valide,
+gui.atlas.autocreate.tt5=§7une nouvelle carte est créée basée
+gui.atlas.autocreate.tt6=§7sur la dernière carte chargée au
+gui.atlas.autocreate.tt7=§7niveau de zoom sélectionné.
+// There's a space here
+gui.atlas.autocreate.tt8=§7L'auto-centrage doit être activé
+gui.atlas.autocreate.tt9=§7pour que cela puisse fonctionner.
+
+gui.atlas.transfer=§7Transfert de points de repère
+gui.atlas.transfer.cancel=§7Annuler
+gui.atlas.transfer.from=§7De l'atlas au cadre de carte
+gui.atlas.transfer.to=§7Du cadre de carte à l'atlas
+
+gui.compass.currentlocation=§7Ici
+
+gui.paintpress.page=§7Page
+gui.paintpress.of=§7de
+
+item.TesterItem.name=§7Testeur de nom d'objet
+gui.testeritem.name=§7Testeur de nom d'objet
+gui.testeritem.display=§7Nom affiché :
+gui.testeritem.unlocal=§7Nom brut :
+// End of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=§7Carillon
+gui.clock.ticksound=§7Son de tick
+gui.clock.redstone=§7Redstone
+gui.clock.chime=§7Carillon
+gui.clock.presets=§7Préréglages
+
+screwgun.selected.painting1=§7Première peinture sélectionnée.
+screwgun.selected.painting2=§7Seconde peinture sélectionnée.
+screwgun.selected.clock1=§7Première horloge sélectionnée.
+screwgun.selected.clock2=§7Seconde horloge sélectionnée.
+drill.failed=§7Échec de fixation.
+
+item.PaintingCanvas.name=§7Toile de peinture
+tile.BiblioPaintPress.name=§7Presse à peinture
+
+gui.paintpress.transfer=§7Transfert
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Perso.
+
+gui.painting.scale=§7Échelle
+gui.painting.resolution=§7Résolution
+gui.painting.aspectRatio=§7Format
+gui.painting.size=§7Taille
+gui.painting.rotation=§7Rotation
+gui.painting.corner=§7Coin maître
+
+OakPaintingFrame.name=§7Cadre de peinture en bois de chêne
+SprucePaintingFrame.name=§7Cadre de peinture en bois d'épinette
+BirchPaintingFrame.name=§7Cadre de peinture en bois de bouleau
+JunglePaintingFrame.name=§7Cadre de peinture en bois d'acajou
+AcaciaPaintingFrame.name=§7Cadre de peinture en bois d'acacia
+OldOakPaintingFrame.name=§7Cadre de peinture en bois de chêne noir
+
+paintingFrame.0tier=§7Sans bord
+paintingFrame.1tier=§7Premier style
+paintingFrame.2tier=§7Deuxième style
+paintingFrame.3tier=§7Troisième style
+paintingFrame.4tier=§7Quatrième style
+
+OakClock.name=§7Pendule en bois de chêne
+SpruceClock.name=§7Pendule en bois d'épinette
+BirchClock.name=§7Pendule en bois de bouleau
+JungleClock.name=§7Pendule en bois d'acajou
+AcaciaClock.name=§7Pendule en bois d'acacia
+OldOakClock.name=§7Pendule en bois de chêne noir
+
+WhiteTypewriter.name=§7Dactylo blanche
+LightGrayTypewriter.name=§7Dactylo gris pâle
+GrayTypewriter.name=§7Dactylo grise
+BlackTypewriter.name=§7Dactylo noire
+RedTypewriter.name=§7Dactylo rouge
+OrangeTypewriter.name=§7Dactylo orange
+YellowTypewriter.name=§7Dactylo jaune
+LimeTypewriter.name=§7Dactylo lime
+GreenTypewriter.name=§7Dactylo verte
+CyanTypewriter.name=§7Dactylo cyan
+LightBlueTypewriter.name=§7Dactylo bleu pâle
+BlueTypewriter.name=§7Dactylo bleue
+PurpleTypewriter.name=§7Dactylo mauve
+MagentaTypewriter.name=§7Dactylo magenta
+PinkTypewriter.name=§7Dactylo rose
+BrownTypewriter.name=§7Dactylo brune
+// End of 1.8 additions and changes // 
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=§7Êtes-vous sûr(e) ?
+gui.recipe.finalize=§7Cliquer sur oui empêchera le livre d'être modifiable.
+gui.recipe.description=§7Ajouter une description.
+
+swordpedestal.name=§7Piédestal pour épée
+swordpedestal.white=§7Ornement blanc
+swordpedestal.orange=§7Ornement orange
+swordpedestal.magenta=§7Ornement magenta
+swordpedestal.lightblue=§7Ornement bleu pâle
+swordpedestal.yellow=§7Ornement jaune
+swordpedestal.lime=§7Ornement lime
+swordpedestal.pink=§7Ornement rose
+swordpedestal.gray=§7Ornement gris
+swordpedestal.lightgray=§7Ornement gris pâle
+swordpedestal.cyan=§7Ornement cyan
+swordpedestal.purple=§7Ornement mauve
+swordpedestal.blue=§7Ornement bleu
+swordpedestal.brown=§7Ornement brun
+swordpedestal.green=§7Ornement vert
+swordpedestal.red=§7Ornement rouge
+swordpedestal.black=§7Ornement noir
+
+OakSign.name=§7Pancarte chic en bois de chêne
+SpruceSign.name=§7Pancarte chic en bois d'épinette
+BirchSign.name=§7Pancarte chic en bois de bouleau
+JungleSign.name=§7Pancarte chic en bois d'acajou
+AcaciaSign.name=§7Pancarte chic en bois d'acacia
+OldOakSign.name=§7Pancarte chic en bois de chêne noir
+
+OakWorkbench.name=§7Établi chic en bois de chêne
+SpruceWorkbench.name=§7Établi chic en bois d'épinette
+BirchWorkbench.name=§7Établi chic en bois de bouleau
+JungleWorkbench.name=§7Établi chic en bois d'acajou
+AcaciaWorkbench.name=§7Établi chic en bois d'acacia
+OldOakWorkbench.name=§7Établi chic en bois de chêne noir
+
+tile.BiblioBell.name=§7Cloche de bureau
+
+item.RecipeBook.name=§7Livre de recette vide
+item.SlottedBook.name=§7Livre creux
+item.BigBook.name=§7Gros livre
+item.HandDrill.name=§7Vilebrequin
+
+book.bold=§7G
+book.italic=§7I
+book.underline=§7S
+book.strike=§7Barré
+book.obfuscated=§7O
+book.reset=§7Reset
+book.save=§7Sauver
+book.sign=§7Signer
+book.entertitle=§7Entrez le titre du livre :
+book.by=§7par
+book.signnotice=§7Important ! Quand vous signerez le livre, il ne sera plus modifiable. Cela inclut la modification du texte, du formatage et des chapitres, ainsi que l'ajout de pages.
+book.textscale=§7Taille
+book.lineselected=§7Ligne sélectionnée
+book.cancel=§7Annuler
+book.linenum=§7Ligne#=
+book.title=§7Titre
+book.description=§7Description
+book.ingredients=§7Ingrédients nécessaires :
+book.overwriterecipe=§7Écraser le livre
+book.overwriterecipe2=§7de recette actuel.
+book.saverecipe=§7Écrire la recette
+book.saverecipe2=§7dans le livre vide.
+book.loadrecipe=§7Placer les objets
+book.loadrecipe2=§7depuis l'inventaire.
+book.areyousure=§7Êtes-vous sûr(e) ?
+book.areyousure2=§7Cliquer sur oui empêchera le livre d'être modifiable.
+book.setrecipename=§7Recette :
+gui.fancyworkbench=§7Établi chic
+
+gui.sign.left=§7Gauche
+gui.sign.center=§7Centre
+gui.sign.right=§7Droite
+
+gui.sign.black=§7Noir
+gui.sign.darkblue=§7Bleu foncé
+gui.sign.darkgreen=§7Vert foncé
+gui.sign.darkaqua=§7Cyan foncé
+gui.sign.darkred=§7Rouge foncé
+gui.sign.darkpurple=§7Mauve
+gui.sign.gold=§7Or
+gui.sign.gray=§7Gris
+gui.sign.darkgray=§7Gris foncé
+gui.sign.blue=§7Bleu
+gui.sign.green=§7Vert
+gui.sign.aqua=§7Cyan
+gui.sign.red=§7Rouge
+gui.sign.lightpurple=§7Rose
+gui.sign.yellow=§7Jaune
+gui.sign.white=§7Blanc
+
+gui.sign.tooltip1=§7Cliquez sur une boîte ou pressez "Tab" pour passer d'un panneau à l'autre.
+gui.sign.tooltip2=§7Cliquez sur la boîte ci-dessus pour ouvrir le panneau d'édition de la case 1 : éditer la taille, la position et la rotation.
+gui.sign.tooltip3=§7Cliquez sur la boîte ci-dessus pour ouvrir les options de texte : éditer la taille et ajouter du formatage de style vanilla.
+gui.sign.tooltip4=§7Cliquez sur la boîte ci-dessus pour ouvrir le panneau d'édition de la case 2 : éditer la taille, la position et la rotation.
+gui.sign.tooltip5=§7Ajuster la taille du bloc.
+gui.sign.tooltip6=§7Ajuster la rotation du bloc : à gauche, au centre ou à droite. Les objets ne peuvent que faire face à gauche ou à droite.
+gui.sign.tooltip7=§7Ajuster la position du bloc. La position peut aussi être ajustée avec les touches fléchées ou les touches WASD.
+gui.sign.tooltip8=§7Entrez l'un de ces caractères après le symbole de formatage
+gui.sign.tooltip9=§7Cliquez sur le bouton ou appuyez sur "Alt" pour ajouter un symbole de formatage à la ligne selectionnée.
+
+gui.sign.bold=§7Gras
+gui.sign.strikethrough=§7Barré
+gui.sign.underline=§7Souligné
+gui.sign.italic=§7Italique
+
+gui.sign.scale=§7Taille
+gui.sign.format=§7Format
+gui.sign.linenum=§7Ligne#
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=§7Titre du livre :
+gui.redbook.description.p1=§7Le livre de redstone est utilisé avec une bibliothèque pour émettre un signal de redstone. Quand il est placé dedans, un signal de redstone sera émis de tous les côtés à l'exception d'en avant. La force du signal est basée sur l'emplacement occupé par le livre dans la bibliothèque.
+gui.redbook.description.p2=§7La bibliothèque possède 16 emplacements, le premier étant celui en haut à gauche et le seizième étant celui en bas à droite. Si le livre de redstone est dans l'emplacement 1, la bibliothèque n'émet pas de signal. Si le livre est dans l'emplacement 2, un signal d'une force de 1 sera émis. Chaque emplacement augmente la force du signal de 1, jusqu'à l'emplacement 16 qui donne un signal maximal de 15.
+
+AcaciaDesk.name=§7Bureau en bois d'acacia
+OldOakDesk.name=§7Bureau en bois de chêne noir
+AcaciaBookcase.name=§7Bibliothèque en bois d'acacia
+OldOakBookcase.name=§7Bibliothèque en bois de chêne noir
+AcaciaPotionShelf.name=§7Étagère à potions en bois d'acacia
+OldOakPotionShelf.name=§7Étagère à potions en bois de chêne noir
+AcaciaShelf.name=§7Étagère en bois d'acacia
+OldOakShelf.name=§7Étagère en bois de chêne noir
+AcaciaWeaponRack.name=§7Rack à outils en bois d'acacia
+OldOakWeaponRack.name=§7Rack à outils en bois de chêne noir
+AcaciaLabel.name=§7Écriteau en bois d'acacia
+OldOakLabel.name=§7Écriteau en bois de chêne noir
+AcaciaTable.name=§7Table en bois d'acacia
+OldOakTable.name=§7Table en bois de chêne noir
+AcaciaMapFrame.name=§7Cadre de carte en bois d'acacia
+OldOakMapFrame.name=§7Cadre de carte en bois de chêne noir
+AcaciaSeat.name=§7Siège en bois d'acacia
+OldOakSeat.name=§7Siège en bois de chêne noir
+OakCase.name=§7Vitrine en bois de chêne
+SpruceCase.name=§7Vitrine en bois d'épinette
+BirchCase.name=§7Vitrine en bois de bouleau
+JungleCase.name=§7Vitrine en bois d'acajou
+AcaciaCase.name=§7Vitrine en bois d'acacia
+OldOakCase.name=§7Vitrine en bois de chêne noir
+item.seatBack.AcaciaSeatBack.name=§7Dossier de siège en bois d'acacia
+item.seatBack.OldOakSeatBack.name=§7Dossier de siège en bois de chêne noir
+lighting.metalIron=§7En fer
+lighting.metalGold=§7En or
+gui.typesetting.guiTitle=§7Table d'imprimerie : gestion des livres
+gui.typesetting.pageOfpages=§7de
+gui.typesetting.public=§7Public
+gui.typesetting.private=§7Privé
+gui.typesetting.delete=§7Suppr.
+gui.typesetting.select=§7Sélect.
+gui.typesetting.nextPage=§7Page suiv.
+gui.typesetting.prevPage=§7Page préc.
+gui.typesetting.exit=§7Sortir
+gui.typesetting.enableDiscard=§7Annuler
+
+// Gui stuff
+gui.armorstand=§7Porte-armure
+gui.bookcase=§7Bibliothèque
+gui.cookiejar=§7Bocal à biscuits
+gui.shelf=§7Étagère en bois
+gui.label=§7Écriteau en bois
+gui.potionshelf=§7Étagère à potions
+gui.table=§7Table en bois
+gui.case=§7Vitrine
+gui.toolrack=§7Rack à outils
+gui.desk=§7Bureau
+gui.mapWaypoint.accept=§7Accepter
+gui.mapWaypoint.remove=§7Enlever
+gui.mapWaypoint.cancel=§7Annuler
+gui.mapWaypoint.waypoint=§7Point de repère
+gui.compass.x=§7X :
+gui.compass.z=§7Z :
+gui.dinnerPlate=§7Assiette
+gui.discRack=§7Rack à disques
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=§7Lecture
+redbook.by=§7par
+plate.notValid=§7Invalide
+typesetting.requires=§7Requiert
+typesetting.levels=§7Niveaux
+typesetting.chase=§7Châssis
+typesetting.bookSelect=§7Sélectionnez un livre.
+print.ink=§7Encre
+print.book=§7Livres
+screwgun.firstSeat=§7Premier siège sélectionné.
+screwgun.secondSeat=§7Tentative d'attacher/de détacher les sièges.
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Mesure nord/sud =
+tape.measureeastwest=§7Mesure est/ouest =
+tape.measureheight=§7Mesure de la hauteur =
+tape.nomeasure=§7Aucune mesure.
+tape.measure=§7Mesure =
+tape.startmeasure=§7Début de la mesure.
+tape.mode0=§7Changement du mode pour nord/sud, est/ouest et hauteur.
+tape.mode1=§7Changement du mode pour mesure absolue.
+lock.creativeonly=§7Seulement en mode Créatif
+lock.notowner=§7Vous n'êtes pas le propriétaire de ce bloc.
+lock.locked=§7Ce bloc est verrouillé.
+lock.unlocked=§7Ce bloc est déverrouillé.
+
+// Blocks
+CookieJar.name=§7Jarre à biscuits
+MarkerPole.name=§7Marqueur
+tile.BiblioType.name=§7Table d'imprimerie
+tile.BiblioPress.name=§7Presse typographique
+tile.BiblioArmorStand.name=§7Porte-armure
+OakBookcase.name=§7Bibliothèque en bois de chêne
+SpruceBookcase.name=§7Bibliothèque en bois d'épinette
+BirchBookcase.name=§7Bibliothèque en bois de bouleau
+JungleBookcase.name=§7Bibliothèque en bois d'acajou
+OakPotionShelf.name=§7Étagère à potions en bois de chêne
+SprucePotionShelf.name=§7Étagère à potions en bois d'épinette
+BirchPotionShelf.name=§7Étagère à potions en bois de bouleau
+JunglePotionShelf.name=§7Étagère à potions en bois d'acajou
+OakShelf.name=§7Étagère en bois de chêne
+SpruceShelf.name=§7Étagère en  bois d'épinette
+BirchShelf.name=§7Étagère en bois de bouleau
+JungleShelf.name=§7Étagère en bois d'acajou
+OakWeaponRack.name=§7Rack à outils en bois de chêne
+SpruceWeaponRack.name=§7Rack à outils en bois d'épinette
+BirchWeaponRack.name=§7Rack à outils en bois de bouleau
+JungleWeaponRack.name=§7Rack à outils en bois d'acajou
+OakLabel.name=§7Écriteau en bois de chêne
+SpruceLabel.name=§7Écriteau en bois d'épinette
+BirchLabel.name=§7Écriteau en bois de bouleau
+JungleLabel.name=§7Écriteau en bois d'acajou
+OakWritingDesk.name=§7Bureau en bois de chêne
+SpruceWritingDesk.name=§7Bureau en bois d'épinette
+BirchWritingDesk.name=§7Bureau en bois de bouleau
+JungleWritingDesk.name=§7Bureau en bois d'acajou
+OakTable.name=§7Table en bois de chêne
+SpruceTable.name=§7Table en bois d'épinette
+BirchTable.name=§7Table en bois de bouleau
+JungleTable.name=§7Table en bois d'acajou
+DiscRack.name=§7Rack à disques
+DinnerPlate.name=§7Assiette
+OakMapFrame.name=§7Cadre de carte en bois de chêne
+SpruceMapFrame.name=§7Cadre de carte en bois d'épinette
+BirchMapFrame.name=§7Cadre de carte en bois de bouleau
+JungleMapFrame.name=§7Cadre de carte en bois d'acajou
+OakSeat.name=§7Siège en bois de chêne
+SpruceSeat.name=§7Siège en bois d'épinette
+BirchSeat.name=§7Siège en bois de bouleau
+JungleSeat.name=§7Siège en bois d'acajou
+
+//lights
+whiteLantern.name=§7Lanterne dorée
+lightGrayLantern.name=§7Lanterne dorée
+grayLantern.name=§7Lanterne dorée
+blackLantern.name=§7Lanterne dorée
+redLantern.name=§7Lanterne dorée
+orangeLantern.name=§7Lanterne dorée
+yellowLantern.name=§7Lanterne dorée
+limeLantern.name=§7Lanterne dorée
+greenLantern.name=§7Lanterne dorée
+cyanLantern.name=§7Lanterne dorée
+lightBlueLantern.name=§7Lanterne dorée
+blueLantern.name=§7Lanterne dorée
+purpleLantern.name=§7Lanterne dorée
+magentaLantern.name=§7Lanterne dorée
+pinkLantern.name=§7Lanterne dorée
+brownLantern.name=§7Lanterne dorée
+
+whiteLamp.name=§7Lampe chic
+lightGrayLamp.name=§7Lampe chic
+grayLamp.name=§7Lampe chic
+blackLamp.name=§7Lampe chic
+redLamp.name=§7Lampe chic
+orangeLamp.name=§7Lampe chic
+yellowLamp.name=§7Lampe chic
+limeLamp.name=§7Lampe chic
+greenLamp.name=§7Lampe chic
+cyanLamp.name=§7Lampe chic
+lightBlueLamp.name=§7Lampe chic
+blueLamp.name=§7Lampe chic
+purpleLamp.name=§7Lampe chic
+magentaLamp.name=§7Lampe chic
+pinkLamp.name=§7Lampe chic
+brownLamp.name=§7Lampe chic
+
+lamp.hood0=§7Dessus de lampe blanc
+lamp.hood1=§7Dessus de lampe gris pâle
+lamp.hood2=§7Dessus de lampe gris
+lamp.hood3=§7Dessus de lampe noir
+lamp.hood4=§7Dessus de lampe rouge
+lamp.hood5=§7Dessus de lampe orange
+lamp.hood6=§7Dessus de lampe jaune
+lamp.hood7=§7Dessus de lampe lime
+lamp.hood8=§7Dessus de lampe vert
+lamp.hood9=§7Dessus de lampe cyan
+lamp.hood10=§7Dessus de lampe bleu pâle
+lamp.hood11=§7Dessus de lampe bleu
+lamp.hood12=§7Dessus de lampe mauve
+lamp.hood13=§7Dessus de lampe magenta
+lamp.hood14=§7Dessus de lampe rose
+lamp.hood15=§7Dessus de lampe brun
+
+lantern.candle0=§7Bougie blanche
+lantern.candle1=§7Bougie gris pâle
+lantern.candle2=§7Bougie grise
+lantern.candle3=§7Bougie noire
+lantern.candle4=§7Bougie rouge
+lantern.candle5=§7Bougie orange
+lantern.candle6=§7Bougie jaune
+lantern.candle7=§7Bougie lime
+lantern.candle8=§7Bougie verte
+lantern.candle9=§7Bougie cyan
+lantern.candle10=§7Bougie bleu pâle
+lantern.candle11=§7Bougie bleue
+lantern.candle12=§7Bougie mauve
+lantern.candle13=§7Bougie magenta
+lantern.candle14=§7Bougie rose
+lantern.candle15=§7Bougie brune
+
+// Items
+item.tapeMeasure.name=§7Ruban à mesurer
+item.tape.name=§7Bobine de ruban à mesurer
+item.BiblioChase.name=§7Châssis d'imprimerie
+item.PrintPlate.name=§7Plaque d'impression
+item.EnchantedPlate.name=§7Plaque enchantée
+item.BiblioRedBook.name=§7Redstone : Volume I
+item.BiblioGlasses.readingglasses.name=§7Lunettes de lecture
+item.BiblioGlasses.tintedglasses.name=§7Lunettes de soleil
+item.BiblioGlasses.monocle.name=§7Monocle
+item.BiblioDrill.name=§7Visseuse
+item.BiblioCreativeLock.name=§7Cadenas et clé
+item.BiblioClipboard.name=§7Presse-papier
+item.seatBack.OakSeatBack.name=§7Dossier de siège en bois de chêne
+item.seatBack.SpruceSeatBack.name=§7Dossier de siège en bois d'épinette
+item.seatBack.BirchSeatBack.name=§7Dossier de siège en bois de bouleau
+item.seatBack.JungleSeatBack.name=§7Dossier de siège en bois d'acajou
+item.BiblioWayPointCompass.name=§7Boussole de navigation
+item.BiblioMapTool.name=§7Compas

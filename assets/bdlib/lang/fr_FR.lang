@@ -1,0 +1,30 @@
+bdlib.multiblock.face.north=§7Nord
+bdlib.multiblock.face.south=§7Sud
+bdlib.multiblock.face.east=§7Est
+bdlib.multiblock.face.west=§7Ouest
+bdlib.multiblock.face.up=§7Dessus
+bdlib.multiblock.face.down=§7Dessous
+
+bdlib.multiblock.disabled=§7Désactivé
+bdlib.multiblock.incomplete=§7Cette machine est incomplète, elle exige au moins :
+bdlib.multiblock.notconnected=§7Pas connecté à une machine valide
+bdlib.multiblock.toomanyoutputs=§7Trop de sorties connectées, impossible d'ajouter une nouvelle connexion
+bdlib.multiblock.tip.module=§7Peut être installé dans :
+bdlib.multiblock.tip.controller=§7Modules possibles:
+bdlib.multiblock.tip.module.range=§7* %s (%s - %s)
+bdlib.multiblock.tip.module.max=§7* %s (plus de %s)
+
+bdlib.rsmode.always=§7Toujours actif
+bdlib.rsmode.never=§7Désactivé
+bdlib.rsmode.rs_on=§7Activé par redstone
+bdlib.rsmode.rs_off=§7Désactivé par redstone
+
+bdlib.label.empty=§7Vide
+
+bdlib.oredistribution.usage=§7/oredistribution <rayon> [<hauteur mini>] [<hauteur maxi>] [--file]
+bdlib.oredistribution.start1=§7Valide la distribution de minerai entre (%s,%s,%s) et (%s,%s,%s) dim %s
+bdlib.oredistribution.start2=§7Le server peut ralentir pendantun certain temps
+bdlib.oredistribution.entry=§7%s %s - %s (%s%%)
+bdlib.oredistribution.warn=§7%s Attention: %s fait produire des variantes multiples :
+bdlib.oredistribution.saved=§7Distribution de minerai déposée dans %s
+bdlib.oredistribution.error=§7Impossible d'enregistrer la distribution de minerai : %s

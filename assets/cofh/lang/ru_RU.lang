@@ -1,0 +1,47 @@
+gui.cofh.accessMode=§7Режим доступа
+gui.cofh.accessPublic=§7Публичный
+gui.cofh.accessRestricted=§7Ограниченный
+gui.cofh.accessPrivate=§7Только создатель
+gui.cofh.all=§7Все
+gui.cofh.blank=§7Пусто
+gui.cofh.configuration=§7Настройки
+gui.cofh.controlStatus=§7Статус контроля
+gui.cofh.empty=§7Пусто
+gui.cofh.energy=§7Энергия
+gui.cofh.energyConsume=§7Потребление энергии
+gui.cofh.energyProduce=§7Выход энергии
+gui.cofh.energyStored=§7Запас энергии
+gui.cofh.fluid=§7Жидкость
+gui.cofh.friendsList=§7Список друзей
+gui.cofh.information=§7Информация
+gui.cofh.items=§7Предметы
+gui.cofh.maxEnergyPerTick=§7Максимальная энергия
+gui.cofh.none=§7Нет
+gui.cofh.owner=§7Создатель
+gui.cofh.none=§7Нет
+gui.cofh.receiving=§7Получение
+gui.cofh.redstoneControl=§7Контроль сигналом красного камня
+gui.cofh.redstoneControlOff=§7Отключен
+gui.cofh.redstoneControlOn=§7Включен
+gui.cofh.redstoneStateHigh=§7Высокий
+gui.cofh.redstoneStateIgnored=§7Игнорируется
+gui.cofh.redstoneStateLow=§7Низкий
+gui.cofh.restoreConfig=§7Восстановление клиентских настроек...
+gui.cofh.security=§7Охрана
+gui.cofh.sending=§7Отправка
+gui.cofh.signalRequired=§7Требуется сигнал красного камня
+gui.cofh.tutorial=§7Руководство
+
+gui.cofh.tutorial.fluxRequired=§7Требует RF для работы.
+gui.cofh.tutorial.tabConfiguration=§7Вкладка "Настройка" определяет, как именно предметы поступают и выводятся из устройства.
+gui.cofh.tutorial.tabConfiguration2=§7Вкладка "Настройка" определяет режимы работы устройства.
+gui.cofh.tutorial.tabRedstone=§7Вкладка "Статус контроля" настраивает реакцию механизма на сигнал красного камня.
+
+item.invalid.name=§7Некорректный предмет (Уничтожен)
+
+message.cofh.holdShift1=§7Удерживайте
+message.cofh.holdShift2=§7Shift
+message.cofh.holdShift3=§7для подробностей
+
+message.cofh.secure1=§7Частная собственность, принадлежит
+message.cofh.secure2=§7Если тронете, можете потерять руку!

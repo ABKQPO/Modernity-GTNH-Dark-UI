@@ -1,0 +1,265 @@
+# =§7=== BLOCKS ====
+
+tile.gendustry.mutagen_producer.name=§7Producteur de mutagène
+tile.gendustry.mutatron.name=§7Mutatron
+tile.gendustry.mutatron_adv.name=§7Mutatron avancé
+tile.gendustry.apiary.name=§7Rucher Industriel
+tile.gendustry.imprinter.name=§7Implanteur génétique
+tile.gendustry.sampler.name=§7Échantillonneur génétique
+tile.gendustry.extractor.name=§7Extracteur d'ADN
+tile.gendustry.liquifier.name=§7Liquifieur de protéine
+tile.gendustry.replicator.name=§7Réplicateur génétique
+tile.gendustry.transposer.name=§7Transposeur génétique
+
+# =§7=== GENERAL ITEMS ====
+
+item.gendustry.MutagenTank.name=§7Réservoir de mutagène
+item.gendustry.BeeReceptacle.name=§7Réceptacle d'abeille
+item.gendustry.PowerModule.name=§7Module de puissance
+item.gendustry.GeneticsProcessor.name=§7Processeur génétique
+item.gendustry.EnvProcessor.name=§7Processeur enviromental
+item.gendustry.UpgradeFrame.name=§7Amélioration de cadre
+item.gendustry.ClimateModule.name=§7module de contrôle climatique
+item.gendustry.Labware.name=§7Installation de laboratoire génétique
+item.gendustry.GeneSample.name=§7Échantillon de gène
+item.gendustry.GeneTemplate.name=§7Modèle génétique
+item.gendustry.GeneSampleBlank.name=§7Échantillon de gène vide
+item.gendustry.Waste.name=§7Déchets génétiques
+item.gendustry.grafter.name=§7Escroc industriel
+item.gendustry.scoop.name=§7Scooporator MX200 Turbo
+item.gendustry.ImportCover.name=§7Couverture d'import d'élément
+item.gendustry.EjectCover.name=§7Couverture d'export d'élément
+item.gendustry.PollenKit.name=§7Kit de ramassage du pollen
+
+# =§7=== FLUIDS ====
+
+fluid.gendustry.mutagen=§7Mutagène
+fluid.gendustry.liquiddna=§7ADN liquide
+fluid.gendustry.protein=§7Protéine
+
+tile.gendustry.mutagen.name=§7Mutagène
+tile.gendustry.liquiddna.name=§7ADN liquide
+tile.gendustry.protein.name=§7Protéine
+
+# =§7=== FLUID CONTAINERS ====
+
+item.gendustry.mutagen.bucket.name=§7Seau de mutagène
+item.gendustry.mutagen.can.name=§7Cannette de mutagène
+item.gendustry.liquiddna.bucket.name=§7Seau d'ADN liquide
+item.gendustry.liquiddna.can.name=§7Cannette d'ADN liquide
+item.gendustry.protein.bucket.name=§7Seau de protéine
+item.gendustry.protein.can.name=§7Cannette de protéine
+
+
+# =§7=== UPGRADES ====
+
+gendustry.upgrades.prod.name=§7Amélioration de production
+gendustry.upgrades.life.name=§7Amélioration de longévité
+gendustry.upgrades.flowering.name=§7Amélioration de floraison
+gendustry.upgrades.territory.name=§7Amélioration de territoire
+gendustry.upgrades.sealing.name=§7Amélioration d'étanchéité
+gendustry.upgrades.light.name=§7Amélioration de lumière
+gendustry.upgrades.sky.name=§7Amélioration de ciel ouvert
+gendustry.upgrades.hell.name=§7Amélioration d'émulation infernale
+gendustry.upgrades.winter.name=§7Amélioration d'émulation hivernale
+gendustry.upgrades.auto.name=§7Amélioration d'automatisation
+gendustry.upgrades.humidifier.name=§7Amélioration d'humidification
+gendustry.upgrades.dryer.name=§7Amélioration de sécheresse
+gendustry.upgrades.heater.name=§7Amélioration de réchauffage
+gendustry.upgrades.sieve.name=§7Amélioration de passoire
+gendustry.upgrades.cooler.name=§7Amélioration de refroisissement
+gendustry.upgrades.desert.name=§7Amélioration d'émulation de désert
+gendustry.upgrades.plains.name=§7Amélioration d'émulation de plaine
+gendustry.upgrades.jungle.name=§7Amélioration d'émulation de jungle
+gendustry.upgrades.stabilizer.name=§7Amélioration de stabilisation génétique
+
+# =§7=== GUI AND TOOLTIPS ====
+
+gendustry.label.template.crafting=§7Les échantillons génétiques peuvent être ajouté à un modèle. Combinez-les dans n'importe quel établi. De multiples échantillons peuvent être ajouté d'un coup.
+
+gendustry.label.charges=§7Charges: %s
+gendustry.label.select=§7Sélection:
+gendustry.label.status=§7Statut: %s
+gendustry.label.control=§7Contrôle: %s
+
+gendustry.label.breeding=§7Reproduction
+gendustry.label.working=§7Travail
+gendustry.label.maxinstall=§7Maximum Installé:
+gendustry.label.temperature=§7Température: %s
+gendustry.label.humidity=§7Humidité: %s
+gendustry.label.energy=§7Énergie demandée: %s %s/t
+gendustry.label.lifespan=§7Modificateur de longévité: %s
+gendustry.label.flowering=§7Chance de floraison: %s
+gendustry.label.production=§7Modificateur de production: %s
+gendustry.label.territory=§7Territoire: %s
+
+gendustry.label.erase=§7Placez au four pour effacer le contenu génétique
+gendustry.label.recipes=§7Cliquez pour voir les recettes
+gendustry.label.consume=§7Chance de consommer: %s%%
+gendustry.label.mutatron.death=§7Chance de mourir (ignoble): %s%%
+gendustry.label.mutatron.degrade=§7Chance de dégrader (d'origine): %s%%
+
+gendustry.label.mod.automated=§7* Automatisation
+gendustry.label.mod.biome=§7* Ignore le biome: %s
+gendustry.label.mod.sealed=§7* Protection contre la pluie
+gendustry.label.mod.selflighted=§7* Éclairage interne
+gendustry.label.mod.sky=§7* Simulation de ciel ouvert
+gendustry.label.mod.energy=§7* Consomation d'énergie
+gendustry.label.mod.lifespan=§7* Longévité
+gendustry.label.mod.flowering=§7* Floraison et pollinisation
+gendustry.label.mod.geneticDecay=§7* Dégradation génétique
+gendustry.label.mod.mutation=§7* Chance de mutation
+gendustry.label.mod.production=§7* Production
+gendustry.label.mod.territory=§7* Territoir
+gendustry.label.mod.sieve=§7* Récolte de pollen
+gendustry.label.mod.temperature=§7* Température
+gendustry.label.mod.humidity=§7* Humidité
+
+gendustry.label.sample.rootBees=§7Pris d'une abeille
+gendustry.label.sample.rootTrees=§7Pris d'une pousse
+gendustry.label.sample.rootButterflies=§7Pris d'un papillon
+gendustry.label.sample.rootFlowers=§7Pris d'une fleur
+
+gendustry.label.template.rootBees=§7Peut être appliqué à une abeille
+gendustry.label.template.rootTrees=§7Peut être appliqué à une pousse
+gendustry.label.template.rootButterflies=§7Peut être appliqué à un papillon
+gendustry.label.template.rootFlowers=§7Peut être appliqué à une fleur
+gendustry.label.template.blank=§7L'échantillon de gène peut être ajouté
+gendustry.label.template.missing=§7Manquant
+gendustry.label.template.chromosomes=§7%s/%s Chromosomes
+
+gendustry.rsmode.always=§7Toujours actif
+gendustry.rsmode.never=§7Désactivé
+gendustry.rsmode.rs_on=§7Actif sur redstone
+gendustry.rsmode.rs_off=§7Inactif sur redstone
+
+gendustry.label.shift=§7<Appuyez sur MAJ pour plus d'info>
+
+# =§7=== CHROMOSOMES (should match forestry) ====
+
+gendustry.chromosome.FLOWER_PROVIDER=§7Fleurs
+gendustry.chromosome.GIRTH=§7Corpulance
+gendustry.chromosome.SPEED=§7Vitesse
+gendustry.chromosome.YIELD=§7Rendement
+gendustry.chromosome.HEIGHT=§7Hauteur
+gendustry.chromosome.GROWTH=§7Growth
+gendustry.chromosome.FLOWERING=§7Floraison
+gendustry.chromosome.METABOLISM=§7Métabolisme
+gendustry.chromosome.LIFESPAN=§7Longévité
+gendustry.chromosome.TERRITORY=§7Territoir
+gendustry.chromosome.FERTILITY=§7Fertilité
+gendustry.chromosome.SIZE=§7Taille
+gendustry.chromosome.HUMIDITY=§7Humidité
+gendustry.chromosome.SPECIES=§7Espèces
+gendustry.chromosome.FIRE_RESIST=§7Résistance au feu
+gendustry.chromosome.TEMPERATURE_TOLERANCE=§7Tolérance au température
+gendustry.chromosome.HUMIDITY_TOLERANCE=§7Tolérance à l'humidité
+gendustry.chromosome.PLANT=§7Plant
+gendustry.chromosome.EFFECT=§7Effet
+gendustry.chromosome.CAVE_DWELLING=§7Troglodyte
+gendustry.chromosome.MATURATION=§7Maturation
+gendustry.chromosome.NOCTURNAL=§7Ignore Jour/Nuit
+gendustry.chromosome.TOLERANT_FLYER=§7Volant tolérant
+gendustry.chromosome.FRUITS=§7Fruits
+gendustry.chromosome.SAPPINESS=§7Plein de sève
+
+// Botany
+
+gendustry.chromosome.PRIMARY=§7Primaire
+gendustry.chromosome.SECONDARY=§7Secondaire
+gendustry.chromosome.PH_TOLERANCE=§7Tolérance au PH
+gendustry.chromosome.STEM=§7Tige
+
+gendustry.allele.false=§7Faux
+gendustry.allele.true=§7Vrai
+
+# =§7=== BC TRIGGERS ====
+
+gendustry.trigger.power0=§7Puissance vide
+gendustry.trigger.power25=§7Puissance >= 25%
+gendustry.trigger.power50=§7Puissance >= 50%
+gendustry.trigger.power75=§7Puissance >= 75%
+gendustry.trigger.power100=§7Puissance pleine
+gendustry.trigger.working=§7Machine en marche
+
+# =§7=== COMMANDS ====
+gendustry.givetemplate.usage=§7/givetemplate <uid>
+gendustry.givetemplate.success=§7Modèle génétique donné : %s à %s
+
+gendustry.givesample.usage=§7/givesample <espèce> <chromosome> <allèle>
+gendustry.givesample.error.root=§7Espèce introuvable: %s
+gendustry.givesample.error.allele=§7Allèle introuvable : %s
+gendustry.givesample.error.chromosome=§7Chromosome introuvable : %s
+gendustry.givesample.error.invalid=§7Allèle invalide pour le chromosome demandé
+gendustry.givesample.success=§7Modèle (Espèce=%s, Chromosome=%s, Allèle=%s) donné à %s
+
+# =§7=== MUTATION REQUIREMENTS ====
+gendustry.req.temperature=§7Exige température: %s
+gendustry.req.humidity=§7Exige humidité: %s
+gendustry.req.biome=§7Exige biome: %s
+gendustry.req.block=§7Exige bloc: %s
+
+# =§7=== BEE SPECIES ====
+gendustry.bees.species.black=§7Noir
+gendustry.bees.species.red=§7Rouge
+gendustry.bees.species.green=§7Vert
+gendustry.bees.species.brown=§7Marron
+gendustry.bees.species.blue=§7Bleu
+gendustry.bees.species.purple=§7Violet
+gendustry.bees.species.cyan=§7Cyan
+gendustry.bees.species.silver=§7Gris clair
+gendustry.bees.species.gray=§7Gris
+gendustry.bees.species.pink=§7Rose
+gendustry.bees.species.lime=§7Citron
+gendustry.bees.species.yellow=§7Jaune
+gendustry.bees.species.lightblue=§7Bleu clair
+gendustry.bees.species.magenta=§7Magenta
+gendustry.bees.species.orange=§7Orange
+gendustry.bees.species.white=§7Blanc
+
+# =§7=== COMBS ====
+
+gendustry.honeycomb.black.name=§7Rayon coloré noir
+gendustry.honeycomb.red.name=§7Rayon coloré rouge
+gendustry.honeycomb.green.name=§7Rayon coloré vert
+gendustry.honeycomb.brown.name=§7Rayon coloré marron
+gendustry.honeycomb.blue.name=§7Rayon coloré bleu
+gendustry.honeycomb.purple.name=§7Rayon coloré violet
+gendustry.honeycomb.cyan.name=§7Rayon coloré cyan
+gendustry.honeycomb.silver.name=§7Rayon coloré gris clair
+gendustry.honeycomb.gray.name=§7Rayon coloré gris
+gendustry.honeycomb.pink.name=§7Rayon coloré rose
+gendustry.honeycomb.lime.name=§7Rayon coloré citron
+gendustry.honeycomb.yellow.name=§7Rayon coloré jaune
+gendustry.honeycomb.lightblue.name=§7Rayon coloré bleu clair
+gendustry.honeycomb.magenta.name=§7Rayon coloré magenta
+gendustry.honeycomb.orange.name=§7Rayon coloré orange
+gendustry.honeycomb.white.name=§7Rayon coloré blanc
+
+gendustry.honeydrop.black.name=§7Goutte de miel colorée noire
+gendustry.honeydrop.red.name=§7Goutte de miel colorée rouge
+gendustry.honeydrop.green.name=§7Goutte de miel colorée verte
+gendustry.honeydrop.brown.name=§7Goutte de miel colorée marron
+gendustry.honeydrop.blue.name=§7Goutte de miel colorée bleue
+gendustry.honeydrop.purple.name=§7Goutte de miel colorée violette
+gendustry.honeydrop.cyan.name=§7Goutte de miel colorée cyan
+gendustry.honeydrop.silver.name=§7Goutte de miel colorée grise claire
+gendustry.honeydrop.gray.name=§7Goutte de miel colorée grise
+gendustry.honeydrop.pink.name=§7Goutte de miel colorée rose
+gendustry.honeydrop.lime.name=§7Goutte de miel colorée citron
+gendustry.honeydrop.yellow.name=§7Goutte de miel colorée jaune
+gendustry.honeydrop.lightblue.name=§7Goutte de miel colorée bleue claire
+gendustry.honeydrop.magenta.name=§7Goutte de miel colorée magenta
+gendustry.honeydrop.orange.name=§7Goutte de miel colorée orange
+gendustry.honeydrop.white.name=§7Goutte de miel colorée blanche
+
+itemGroup.bdew.gendustry=§7Gendustry
+itemGroup.bdew.templates=§7Modèles génétiques
+itemGroup.bdew.samples=§7Échantillons génétiques
+
+for.gendustry.errorstate.disabled.description=§7Désactivé
+for.gendustry.errorstate.disabled.help=§7La machine est désactivé par sa configuration
+
+#this will be moved to bdlib at some point
+bdlib.label.empty=§7Vide
+

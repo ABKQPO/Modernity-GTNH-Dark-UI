@@ -1,0 +1,55 @@
+tile.computronics.ironNoteBlock.name=§7Bloc musical de Fer
+tile.computronics.tapeDrive.name=§7Lecteur de Cassette
+tile.computronics.camera.name=§7Caméra
+tile.computronics.chatBox.name=§7Boîte de Discussion
+tile.computronics.chatBox.creative.name=§7Boîte Créative de Discussion
+tile.computronics.sorter.name=§7Trieur
+tile.computronics.cipher.name=§7Bloc de Chiffrement
+tile.computronics.radar.name=§7Radar
+tile.computronics.colorfulLamp.name=§7Lampe Colorée
+tile.computronics.eepromReader.name=§7Lecteur EEPROM
+tile.computronics.locomotiveRelay.name=§7Relais Digital à Locomotive
+
+tooltip.computronics.chatBox.creative=§7La NSA dans une boîte!
+tooltip.computronics.sensor.bound=§7Lié à [%1$s,%2$s,%3$s]
+tooltip.computronics.sensor.desc1=§7Cliquez-droit sur un relais à locomotive\npendant que vous vous accroupissez pour le lier
+tooltip.computronics.sensor.desc2=§7Cliquez-gauche sur une Locomotive Electrique\npendant que vous vous accroupissez pour l'attacher
+tooltip.computronics.tape.length=§7Durée: %s minutes
+tooltip.computronics.tape.balanced=§7Equilibré!
+tooltip.computronics.tape.unnamed=§7Cassette sans nom
+tooltip.computronics.tape.none=§7Pas de Cassette
+tooltip.computronics.tape.ig=§7Le CDVR standard pour\nles vaisseaux GregTech Intergalactical's
+
+item.computronics.reelChromoxide.name=§7Cassette d'enregistrement en Dioxyde de Chromium
+item.computronics.robot_upgrade_camera.name=§7Amélioration de Caméra
+item.computronics.robot_upgrade_chatbox.name=§7Amélioration de Boîte à Discussion
+item.computronics.robot_upgrade_radar.name=§7Amélioration de Radar
+item.computronics.card_fx.name=§7Carte d'Effet de Particules
+item.computronics.relaySensor.name=§7Senseur à Relais Digital
+item.computronics.part_tape_track.name=§7Piste de la Cassette
+item.computronics.tape.ig.name=§7CDVR Intergalactique
+item.computronics.tape.name=§7Cassette
+
+itemGroup.tabComputronics=§7Computronics
+
+entity.computronics.itemTape.name=§7CDVR Intergalactique
+
+chat.computronics.cipher.locked=§7Ce Bloc de Chiffrement est vérouillé. Vous ne pouvez pas y accéder!
+chat.computronics.sensor.bound=§7Le relais a été lié avec la locomotive avec succès!
+chat.computronics.sensor.noRelay=§7Il n'y a pas de relais aux coordonnées données!
+chat.computronics.sensor.tooFarAway=§7Le relais et la locomotives sont trop éloignés!
+chat.computronics.sensor.wrongLoco=§7Les senseurs ne peuvent être attachés qu'aux locomotives électriques!
+chat.computronics.sensor.wrongDim=§7Le relais et la locomotive ne sont pas dans la même dimension!
+
+achievement.computronics.gotTape=§7De la musique pour tout le monde
+achievement.computronics.gotTape.desc=§7Sûrement mieux que du scotch
+achievement.computronics.gotStarTape=§7Par delà l'arc-en-ciel (RPZ Iz)
+achievement.computronics.gotStarTape.desc=§7Où vit le Nyan Cat
+achievement.computronics.gotIGTape=§7La première pièce de votre vaisseau
+achievement.computronics.gotIGTape.desc=§7Pas comme si tu pouvais en construire un
+achievement.computronics.droppedIGTape=§7MH370
+achievement.computronics.droppedIGTape.desc=§7Comment ça disparu!?
+achievement.computronics.gotLoco=§71ère Industrialisation
+achievement.computronics.gotLoco.desc=§7Et c'est ainsi que tout commença.
+achievement.computronics.gotRelay=§7Génération Digitale
+achievement.computronics.gotRelay.desc=§70100100001000101010011000101000000100001

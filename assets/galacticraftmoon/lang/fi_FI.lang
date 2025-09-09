@@ -1,0 +1,30 @@
+# Galacticraft Moon Language File =§7FINLAND FINNISH
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7Raaka meteorimainen rauta
+item.compressedMeteoricIron.name=§7Compressed Meteoric Iron ##NEEDS TRANSLATE##
+item.meteoricIronIngot.name=§7Meteorimainen rautaharkko
+
+# FOOD
+item.cheeseCurd.name=§7Juustomassa
+item.cheeseBlock.name=§7Juustokuutio
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7Kivi
+tile.moonBlock.moondirt.name=§7Multa
+tile.moonBlock.moongrass.name=§7Kuuturve
+tile.moonBlock.tinmoon.name=§7Tinamalmi
+tile.moonBlock.coppermoon.name=§7Kuparimalmi
+tile.moonBlock.cheesestone.name=§7Juustomalmi
+tile.moonBlock.bricks.name=§7Tiiliä
+tile.cheeseBlock.name=§7Juustokuutio
+
+# GUI
+gui.choosePlanet.desc.moon=§7Asuttava#Ei happea#Painovoima: 18%
+container.lander.name=§7Lander ##NEEDS TRANSLATE##
+
+dimension.Moon.name=§7Kuu

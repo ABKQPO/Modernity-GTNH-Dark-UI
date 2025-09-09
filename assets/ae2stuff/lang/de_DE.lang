@@ -1,0 +1,69 @@
+tile.ae2stuff.Encoder.name=§7Schablonenkodierer
+tile.ae2stuff.Grower.name=§7Kristallzuchtkammer
+tile.ae2stuff.Inscriber.name=§7Erweiterte Gravurmaschine
+tile.ae2stuff.Wireless.name=§7Drahtlosanschluss
+
+item.ae2stuff.WirelessKit.name=§7Kabelloses Setup-Kit
+item.ae2stuff.AdvWirelessKit.name=§7Verbessertes kabelloses Setup-Kit
+item.ae2stuff.Visualiser.name=§7Netzwerk-Übersichtsgerät
+
+ae2stuff.error.not_connected=§7Netzwerk nicht verbunden
+
+ae2stuff.waila.sleep.true=§7Ruhezustand
+ae2stuff.waila.sleep.false=§7Aktiv
+ae2stuff.waila.power=§7%s / %s AE
+
+ae2stuff.waila.wireless.connected=§7Verbunden mit %s,%s,%s
+ae2stuff.waila.wireless.notconnected=§7Nicht verbunden
+ae2stuff.waila.wireless.channels=§7Kanäle: %s
+ae2stuff.waila.wireless.power=§7Energieverbrauch: %s AE/t
+ae2stuff.waila.wireless.name=§7Name: %s
+
+ae2stuff.gui.lock.on=§7Geschützt - Kann mit Automatisierung nicht entfernt werden
+ae2stuff.gui.lock.off=§7Nicht geschützt - Kann mit Automatisierung entfernt werden
+ae2stuff.gui.lock.note=§7Wenn der mittlere Slot leer ist und keine Arbeit im Gange ist
+
+ae2stuff.gui.recipes=§7Rezepte
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff
+
+ae2stuff.wireless.tool.empty=§7Zum Koppeln Drahtlosanschluss anklicken
+ae2stuff.wireless.tool.bound1=§7Koppeln mit %s,%s,%s
+ae2stuff.wireless.tool.bound2=§7Zum miteinander Koppeln anderen Drahtlosanschluss anklicken
+ae2stuff.wireless.advtool.queueing=§7§aWarteschlangen-Modus
+ae2stuff.wireless.advtool.binding=§7§aKoppelmodus
+ae2stuff.wireless.advtool.queueing.activated=§7Warteschlangen-Modus aktiviert
+ae2stuff.wireless.advtool.binding.activated=§7Koppelmodus aktiviert
+ae2stuff.wireless.advtool.queued=§7Anschluss bei %s,%s,%s zur Warteschlange hinzugefügt
+ae2stuff.wireless.advtool.queuederror=§7Anschluss ist bereits in der Warteschlange
+ae2stuff.wireless.advtool.queueing.empty=§7Anschluss anklicken, um ihn zur Warteschlange hinzuzufügen
+ae2stuff.wireless.advtool.binding.empty=§7Zum Warteschlangen-Modus wechseln, um Anschluss zur Warteschlange hinzuzufügen
+ae2stuff.wireless.advtool.queueing.notempty=§7Anschlüsse in Warteschlange:
+ae2stuff.wireless.advtool.binding.notempty=§7Aktuelle Anschlüsse zum Koppeln in der Warteschlange:
+ae2stuff.wireless.advtool.connector.next=§7Nächster Anschluss in der Warteschlange: %s,%s,%s
+ae2stuff.wireless.advtool.extra=§7§oSchleichen und rechtsklicken um zwischen Wartenschlangen- und Koppelmodus zu wechseln
+ae2stuff.wireless.advtool.noconnectors=§7Keine Anschlüsse in der Warteschlange. Werkzeug muss im Warteschlangen-Modus sein um welche hinzuzufügen
+ae2stuff.wireless.advtool.pop=§7Anschluss %s,%s,%s aus Warteschlange entfernt
+ae2stuff.wireless.advtool.hub.queued=§7%s Hub-slots zur Warteschlange hinzugefügt
+ae2stuff.wireless.advtool.queueing.clear=§7Warteschlange aufgelöst
+ae2stuff.wireless.tooltips.advtool.queueing.clear=§7Schleichen + %s + Rechtsklick um Warteschlange aufzulösen
+ae2stuff.wireless.tooltips.advtool.hubqols.binding=§7%s + Rechtsklick um alle freien Hub-Slots zu koppeln
+ae2stuff.wireless.tooltips.advtool.hubqols.queueing=§7%s + Rechtsklick um alle freien Hub-Slots zur Warteschlange hinzuzufügen
+ae2stuff.wireless.tool.connected=§7Verbunden mit %s,%s,%s
+ae2stuff.wireless.tool.failed=§7Verbindung fehlgeschlagen
+ae2stuff.wireless.tool.dimension=§7Beide Anschlüsse müssen in derselben Dimension sein
+ae2stuff.wireless.tool.noexist=§7Gekoppelter Anschluss existiert nicht
+ae2stuff.wireless.tool.security.player=§7Zugriff verboten - Du bist nicht dazu freigegeben, dieses Netzwerk zu bearbeiten
+ae2stuff.wireless.tool.targethubfull=§7Ziel-Hub ist voll
+
+ae2stuff.visualiser.bound=§7Visualisiere Netzwerk bei %s,%s,%s
+ae2stuff.visualiser.mode=§7Modus:
+ae2stuff.visualiser.set=§7Modus eingestellt zu %s
+ae2stuff.visualiser.mode.full=§7Alles anzeigen
+ae2stuff.visualiser.mode.nodes=§7Knotenpunkte anzeigen
+ae2stuff.visualiser.mode.channels=§7Kanäle anzeigen
+ae2stuff.visualiser.mode.nonum=§7Kanäle und Knotenpunkte anzeigen
+ae2stuff.visualiser.mode.p2p=§7P2P-Verbindungen anzeigen
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff
+ae2stuff.key.mode=§7Modus wechseln

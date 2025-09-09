@@ -1,0 +1,9 @@
+tile.enderchest|0.name=§7Сундук Края
+tile.enderchest|1.name=§7Цистерна Края
+item.enderpouch.name=§7Сумка Края
+enderstorage.serverop=§7Оператор
+
+enderstorage.command.usage=§7enderstorage <частота>|(<цвет> <цвет> <цвет>) [владелец]
+enderstorage.command.no_arguments=§7Неверное число аргументов
+enderstorage.command.no_freq=§7Неверная частота
+enderstorage.command.no_colour=§7Неверный цвет: %s

@@ -1,0 +1,22 @@
+sharewhereiam.command.savewaypoint.usage=§7Usage: /savewaypoint <waypoint code> [neet to open editor? default: true]
+sharewhereiam.command.savewaypoint.save.success=§7Waypoint saved
+sharewhereiam.command.savewaypoint.save.exists=§7Waypoint exists, can't save
+sharewhereiam.command.sharewhereiam.usage=§7Usage: /sharewhereiam
+sharewhereiam.command.toggletempbeacon.usage=§7Usage: /toggletempbeacon [waypoint code]
+
+sharewhereiam.commanderror.invalidcode=§7Invalid waypoint code
+
+sharewhereiam.chat.share=§7shared a waypoint:
+sharewhereiam.chat.save=§7SAVE
+sharewhereiam.chat.save.desc=§7Save this waypoint to your JourneyMap
+sharewhereiam.chat.edit=§7EDIT
+sharewhereiam.chat.edit.desc=§7Open this Waypoint in Editor
+sharewhereiam.chat.toggle=§7Enable/Disable
+sharewhereiam.chat.toggle.desc=§7Enable/Disable as Temporary Beacon
+sharewhereiam.chat.additionalInformation.VP=§7This is a VisualProspecting Waypoint, you still need to add the Waypoint to the VP in the way that the VP allows
+
+sharewhereiam.keybinding.share.name=§7Share
+sharewhereiam.keybinding.share.category=§7Share Where I am
+
+sharewhereiam.text.default_waypoint_name=§7Current Location
+sharewhereiam.text.jm.waypoint.share=§7Share

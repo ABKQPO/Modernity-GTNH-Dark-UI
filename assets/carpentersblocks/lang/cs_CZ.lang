@@ -1,0 +1,60 @@
+﻿# Carpenter's Blocks Language File =§7ČESKÁ REPUBLIKA ČEŠTINA
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Tesařovo kladivo
+item.itemCarpentersChisel.name=§7Tesařovo dláto
+item.itemCarpentersDoor.name=§7Tesařovy dveře
+item.itemCarpentersBed.name=§7Tesařova postel
+item.itemCarpentersTile.name=§7Tesařova dlaždice
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Tesařova bariéra
+tile.blockCarpentersBed.name=§7Tesařova postel
+tile.blockCarpentersBlock.name=§7Tesařův blok
+tile.blockCarpentersButton.name=§7Tesařovo tlačítko
+tile.blockCarpentersDaylightSensor.name=§7Tesařův denní senzor
+tile.blockCarpentersCollapsibleBlock.name=§7Tesařův skládací blok
+tile.blockCarpentersDoor.name=§7Tesařovy dveře
+tile.blockCarpentersGarageDoor.name=§7Tesařovy garážové dveře
+tile.blockCarpentersGate.name=§7Tesařova brána
+tile.blockCarpentersHatch.name=§7Tesařův poklop
+tile.blockCarpentersLadder.name=§7Tesařův žebřík
+tile.blockCarpentersLever.name=§7Tesařova páka
+tile.blockCarpentersPressurePlate.name=§7Tesařova nášlapná deska
+tile.blockCarpentersSlope.wedge.name=§7Tesařova nakloněná rovina
+tile.blockCarpentersSlope.obliqueInterior.name=§7Tesařova nakloněná vnitřní rovina
+tile.blockCarpentersSlope.obliqueExterior.name=§7Tesařova nakloněná venkovní rovina
+tile.blockCarpentersSlope.prism.name=§7Tesařova hranolová rovina
+tile.blockCarpentersSlope.prismWedge.name=§7Tesařova hranolová nakloněná rovina
+tile.blockCarpentersStairs.name=§7Tesařovy schody
+tile.blockCarpentersTorch.name=§7Tesařova pochodeň
+tile.blockCarpentersSafe.name=§7Tesařův sejf
+tile.blockCarpentersFlowerPot.name=§7Tesařův květináč
+
+# ENTITIES
+entity.CarpentersTile.name=§7Tesařova dlaždice
+
+# MESSAGES
+message.polarity_pos.name=§7POLARITA: Normální ruditový výstup.
+message.polarity_neg.name=§7POLARITA: Obrácený ruditový výstup.
+message.activation_iron.name=§7AKTIVACE: Bude se chovat jako železné dveře.
+message.activation_wood.name=§7AKTIVACE: Bude se chovat jako dřevěné dveře.
+message.trigger_player.name=§7SPOUŠTĚČ: Aktivovat pouze pro hráče.
+message.trigger_monster.name=§7SPOUŠTĚČ: Aktivovat pouze pro příšery.
+message.trigger_animal.name=§7SPOUŠTĚČ: Aktivovat pouze pro zvířata.
+message.trigger_all.name=§7SPOUŠTĚČ: Aktivovat pro všechny entity.
+message.safe_lock.name=§7OVLÁDÁNÍ: Sejf uzamčen.
+message.safe_unlock.name=§7OVLÁDÁNÍ: Sejf odemčen.
+message.automation_all.name=§7AUTOMATIZACE: Předměty mohou být vloženy a odebrány.
+message.automation_disabled.name=§7AUTOMATIZACE: Zakázáno.
+message.automation_insert.name=§7AUTOMATIZACE: Předměty mohou být pouze vloženy.
+message.automation_extract.name=§7AUTOMATIZACE: Předměty mohou být pouze odebrány.
+message.block_lock.name=§7OVLÁDÁNÍ: Tento blok je uzamčen.
+message.sensitivity_sleep.name=§7SENZITIVITA: Přepíná dobu, kdy se hráč probudí ze spánku (východ slunce a západ slunce).
+message.sensitivity_monsters.name=§7SENZITIVITA: Přepíná hodnotu světla, při které se rodí přišery (včetně bouřek).
+message.sensitivity_dynamic.name=§7SENZITIVITA: Ruditový výstup se mění podle pozice slunce na obloze.
+
+# </file>

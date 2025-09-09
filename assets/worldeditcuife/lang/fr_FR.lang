@@ -1,0 +1,20 @@
+com.github.hexosse.wecuife.options.title=§7Options WorldEditCUI
+
+com.github.hexosse.wecuife.keys.toggle=§7Bascule Visibilité du CUI
+com.github.hexosse.wecuife.keys.clear=§7Effacer la sélection WorldEdit
+com.github.hexosse.wecuife.keys.category=§7WorldEditCUI
+
+gui.ok=§7OK
+
+colour.cuboidedge=§7Couleur des bordures du Cuboïde
+colour.cuboidgrid=§7Couleur de la grille du Cuboïde
+colour.cuboidpoint1=§7Couleur du premier point du Cuboïde
+colour.cuboidpoint2=§7Couleur du second point du Cuboïde
+colour.polygrid=§7Couleur de la grille du Polygone
+colour.polyedge=§7Couleur des bordures du Polygone
+colour.polypoint=§7Couleur du point du Polygone
+colour.ellipsoidgrid=§7Couleur de la grille de l'Ellipsoïde
+colour.ellipsoidpoint=§7Couleur du centre de l'Ellipsoïde
+colour.cylindergrid=§7Couleur de la grille du Cylindre
+colour.cylinderedge=§7Couleur des bordures du Cylindre
+colour.cylinderpoint=§7Couleur du centre du Cylindre

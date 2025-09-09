@@ -1,0 +1,47 @@
+
+item.battlegear2:heraldric.name=§7Ikona herbu
+item.battlegear2:chain.name=§7Lancuch
+item.battlegear2:quiver.name=§7Kolczan
+
+item.battlegear2:dagger.wood.name=§7Drewniany Sztylet
+item.battlegear2:dagger.stone.name=§7Kamienny Sztylet
+item.battlegear2:dagger.iron.name=§7Zelazny Sztylet
+item.battlegear2:dagger.diamond.name=§7Diamentowy Sztylet
+item.battlegear2:dagger.gold.name=§7Zloty Sztylet
+
+item.battlegear2:waraxe.wood.name=§7Drewaniany Topor Bojowy
+item.battlegear2:waraxe.stone.name=§7Kamienny Topor Bojowy
+item.battlegear2:waraxe.iron.name=§7Zelazny Topor Bojowy
+item.battlegear2:waraxe.diamond.name=§7Diamentowy Topor Bojowy
+item.battlegear2:waraxe.gold.name=§7Zloty Topor Bojowy
+
+item.battlegear2:mace.wood.name=§7Drewniana Maczeta
+item.battlegear2:mace.stone.name=§7Kamienna Maczeta
+item.battlegear2:mace.iron.name=§7Zelazna Maczeta
+item.battlegear2:mace.diamond.name=§7Diametnowa Maczeta
+item.battlegear2:mace.gold.name=§7Zlota Maczeta
+
+item.battlegear2:spear.wood.name=§7Drewniana Wlocznia
+item.battlegear2:spear.stone.name=§7Kamienna Wlocznia
+item.battlegear2:spear.iron.name=§7Zelazna Wlocznia
+item.battlegear2:spear.diamond.name=§7Diamentowa Wlocznia
+item.battlegear2:spear.gold.name=§7Zlota Wlocznia
+
+item.battlegear2:shield.wood.name=§7Drewniana Tarcza
+item.battlegear2:shield.hide.name=§7Okragla Tarcza
+item.battlegear2:shield.iron.name=§7Zelazna Tarcza
+item.battlegear2:shield.diamond.name=§7Diamentowa Tarcza
+item.battlegear2:shield.gold.name=§7Zlota Tarcza
+
+item.battlegear2:knights_armour.helmet.name=§7Ryserski Helm
+item.battlegear2:knights_armour.plate.name=§7Rycerski Napiersnik
+item.battlegear2:knights_armour.legs.name=§7Ryserskie Getry
+item.battlegear2:knights_armour.boots.name=§7Rycerskie Buty
+
+sigil.pattern.title=§7Model
+sigil.icon.title=§7Pieczec
+sigil.icon_pos.title=§7Miejsce Pieczeci
+sigil.colour1.title=§7Kolor 1
+sigil.colour2.title=§7Kolor 2
+sigil.icon_colour1.title=§7Kolor%nPieczeci 1
+sigil.icon_colour2.title=§7Kolor%nPieczeci 2

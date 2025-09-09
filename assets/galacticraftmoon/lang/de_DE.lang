@@ -1,0 +1,31 @@
+# Galacticraft Moon Language File =§7GERMANY GERMAN
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7Rohes meteorisches Eisen
+item.compressedMeteoricIron.name=§7Gepresstes meteorisches Eisen
+item.meteoricIronIngot.name=§7Meteorischer Eisenbarren
+
+# FOOD
+item.cheeseCurd.name=§7Quark
+item.cheeseBlock.name=§7Käseblock
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7Mondgestein
+tile.moonBlock.moondirt.name=§7Monderde
+tile.moonBlock.moongrass.name=§7Mondrasen
+tile.moonBlock.tinmoon.name=§7Zinnerz
+tile.moonBlock.coppermoon.name=§7Kupfererz
+tile.moonBlock.cheesestone.name=§7Käseerz
+tile.moonBlock.bricks.name=§7Monddungeonziegel
+tile.cheeseBlock.name=§7Käseblock
+
+# GUI
+gui.choosePlanet.desc.moon=§7Bewohnbar#Kein Sauerstoff#Gravitation: 18%
+
+# OTHER
+container.lander.name=§7Landekapsel
+dimension.Moon.name=§7Mond

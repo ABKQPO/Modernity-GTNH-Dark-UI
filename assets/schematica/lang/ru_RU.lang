@@ -1,0 +1,56 @@
+# gui - general
+schematica.gui.openFolder=§7Открыть папку со схемами
+schematica.gui.done=§7Готово
+schematica.gui.title=§7Выберите файл схемы
+schematica.gui.folderInfo=§7(Место хранения схем)
+schematica.gui.noschematic=§7-- Нет схем --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Спрятать
+schematica.gui.all=§7ВСЕ
+schematica.gui.show=§7Показать
+schematica.gui.movehere=§7Передвинуть сюда
+schematica.gui.flip=§7Отразить
+schematica.gui.rotate=§7Повернуть
+schematica.gui.save=§7Сохранить
+schematica.gui.moveschematic=§7Передвинуть схему
+schematica.gui.layers=§7Слои
+schematica.gui.operations=§7Операции
+schematica.gui.point.red=§7Красная точка
+schematica.gui.point.blue=§7Синяя точка
+schematica.gui.saveselection=§7Сохранить схему выделенной области
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Материалы
+schematica.gui.materialname=§7Материал
+schematica.gui.materialamount=§7Количество
+schematica.gui.printer=§7Принтер
+
+# gui - config - categories
+
+# gui - config - debug
+
+# gui - config - render
+
+# gui - config - printer
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+
+# gui - config - server
+
+# keys
+schematica.key.category=§7Schematica
+schematica.key.load=§7Загрузить схему
+schematica.key.save=§7Сохранить схему
+schematica.key.control=§7Манипулирование схемой
+
+# commands - save
+
+# commands - list
+
+# commands - remove
+
+# commands - download

@@ -1,0 +1,28 @@
+# Misc
+itemGroup.rio=§7RemoteIO
+
+# GUI
+container.remoteio.upgrade=§7Amélioration
+container.remoteio.transfer=§7Transfert
+
+# Chat
+chat.target.save=§7Cible Sauvegardée
+chat.target.load=§7Cible Chargée
+
+# Item
+item.chip.location.name=§7Puce d'Emplacement
+item.chip.transfer.item.name=§7Puce de Transfert d'Objets
+item.chip.transfer.fluid.name=§7Puce de Transfert de Fluides
+item.chip.transfer.essentia.name=§7Puce de Transfert d'Essentia
+item.chip.transfer.energy_ic2.name=§7Puce de Transfert d'Energie EU
+item.chip.transfer.energy_mj.name=§7Puce de Transfert d'Energie MJ
+item.chip.transfer.energy_rf.name=§7Puce de Transfert d'Energie RF
+item.chip.upgrade.remote_camo.name=§7Amélioration de Camouflage WiFi
+item.chip.upgrade.remote_access.name=§7Amélioration d'Accès WiFi
+item.chip.upgrade.simple_camo.name=§7Amélioration de Camouflage Simple
+item.wireless_transmitter.name=§7Transmetteur Sans Fil
+item.io_tool.name=§7Outil IO
+
+# Block
+tile.remote_interface.name=§7Interface WiFi
+tile.remote_inventory.name=§7Inventaire WiFi

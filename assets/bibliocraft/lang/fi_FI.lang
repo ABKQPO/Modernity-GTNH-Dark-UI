@@ -1,0 +1,175 @@
+language.name=§7Finnish
+language.region=§7FI
+language.code=§7fi_FI
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+
+// Gui stuff
+gui.armorstand=§7Varuste Jalusta
+gui.bookcase=§7Kirjahylly
+gui.cookiejar=§7Keksi Purnukka
+gui.shelf=§7Puinen hylly
+gui.label=§7Puinen etiketti
+gui.potionshelf=§7Juoma hylly
+gui.typeset.selectbook=§7Ole hyvä ja valitse kirja
+gui.table=§7Puinen pöytä
+gui.case=§7Vitriini
+gui.toolrack=§7Työkalu teline
+gui.desk=§7Puinen lipasto
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Mitta Pohjoinen/Etelä =
+tape.measureeastwest=§7Mitta Itä/Länsi =
+tape.measureheight=§7Mitta Korkeus =
+tape.nomeasure=§7Ei mittaus tulosta
+tape.measure=§7Measurement = Mitta
+tape.startmeasure=§7Aloitetaan mittaus.
+tape.mode0=§7Vaihdetaan moodia: Pohjoinen/Etelä, Itä/Länsi, ja korkeus.
+tape.mode1=§7Vaihdetaan moodia absoluuttiseen mittaus-tulokseen.
+
+lock.creativeonly=§7Vain luovaa tilaa käyttäville
+lock.notowner=§7Et ole tämän palikan omistaja.
+lock.locked=§7Tämä palikka on lukittu.
+lock.unlocked=§7Tämä palikka on avattu lukituksestaan.
+
+// Blocks
+CookieJar.name=§7Keksipurnukka
+MarkerPole.name=§7Merkkari
+tile.BiblioType.name=§7Laonta pöytä
+tile.BiblioPress.name=§7Painokone
+tile.BiblioArmorStand.name=§7Varuste Jalusta
+OakBookcase.name=§7Tamminen Kirjahylly
+SpruceBookcase.name=§7Kuusipuinen Kirjahylly
+BirchBookcase.name=§7Koivuinen Kirjahylly
+JungleBookcase.name=§7Viidakkopuinen Kirjahylly
+OakPotionShelf.name=§7Tamminen Juoma Hyllykkö
+SprucePotionShelf.name=§7Kuusipuinen Juoma Hyllykkö
+BirchPotionShelf.name=§7Koivuinen Juoma Hyllykkö
+JunglePotionShelf.name=§7Viidakkopuinen Juoma Hyllykkö
+OakShelf.name=§7Tamminen Hyllykkö
+SpruceShelf.name=§7Kuusipuinen Hyllykkö
+BirchShelf.name=§7Koivuinen Hyllykkö
+JungleShelf.name=§7Viidakkopuinen Puinen
+OakWeaponRack.name=§7Tamminen Aseistus Teline
+SpruceWeaponRack.name=§7Kuusipuinen Aseistus Teline
+BirchWeaponRack.name=§7Koivuinen Aseistus Teline
+JungleWeaponRack.name=§7Viidakkopuinen Aseistus Teline
+OakLabel.name=§7Tamminen Etiketti
+SpruceLabel.name=§7Kuusipuinen Etiketti
+BirchLabel.name=§7Koivuinen Etiketti
+JungleLabel.name=§7Viidakkopuinen Etiketti
+RedLinedOakCase.name=§7Tamminen Vitriini
+BlueLinedOakCase.name=§7Tamminen Vitriini
+GreenLinedOakCase.name=§7Tamminen Vitriini
+BlackLinedOakCase.name=§7Tamminen Vitriini
+RedLinedSpruceCase.name=§7Kuusipuinen Vitriini
+BlueLinedSpruceCase.name=§7Kuusipuinen Vitriini
+GreenLinedSpruceCase.name=§7Kuusipuinen Vitriini
+BlackLinedSpruceCase.name=§7Kuusipuinen Vitriini
+RedLinedBirchCase.name=§7Koivuinen Vitriini
+BlueLinedBirchCase.name=§7Koivuinen Vitriini
+GreenLinedBirchCase.name=§7Koivuinen Vitriini
+BlackLinedBirchCase.name=§7Koivuinen Vitriini
+RedLinedJungleCase.name=§7Viidakkopuinen Vitriini
+BlueLinedJungleCase.name=§7Viidakkopuinen Vitriini
+GreenLinedJungleCase.name=§7Viidakkopuinen Vitriini
+BlackLinedJungleCase.name=§7Viidakkopuinen Vitriini
+OakWritingDesk.name=§7Tamminen Lipasto
+SpruceWritingDesk.name=§7Kuusipuinen Lipasto
+BirchWritingDesk.name=§7Koivuinen Lipasto
+JungleWritingDesk.name=§7Viidakkopuinen Lipasto
+OakTable.name=§7Tamminen Pöytä
+SpruceTable.name=§7Kuusipuinen Pöytä
+BirchTable.name=§7Koivuinen Pöytä
+JungleTable.name=§7Viidakkopuinen Pöytä
+
+//lights
+whiteLantern.name=§7Kultainen Lyhty
+lightGrayLantern.name=§7Kultainen Lyhty
+grayLantern.name=§7Kultainen Lyhty
+blackLantern.name=§7Kultainen Lyhty
+redLantern.name=§7Kultainen Lyhty
+orangeLantern.name=§7Kultainen Lyhty
+yellowLantern.name=§7Kultainen Lyhty
+limeLantern.name=§7Kultainen Lyhty
+greenLantern.name=§7Kultainen Lyhty
+cyanLantern.name=§7Kultainen Lyhty
+lightBlueLantern.name=§7Kultainen Lyhty
+blueLantern.name=§7Kultainen Lyhty
+purpleLantern.name=§7Kultainen Lyhty
+magentaLantern.name=§7Kultainen Lyhty
+pinkLantern.name=§7Kultainen Lyhty
+brownLantern.name=§7Kultainen Lyhty
+
+whiteLamp.name=§7Koristeellinen Lamppu
+lightGrayLamp.name=§7Koristeellinen Lamppu
+grayLamp.name=§7Koristeellinen Lamppu
+blackLamp.name=§7Koristeellinen Lamppu
+redLamp.name=§7Koristeellinen Lamppu
+orangeLamp.name=§7Koristeellinen Lamppu
+yellowLamp.name=§7Koristeellinen Lamppu
+limeLamp.name=§7Koristeellinen Lamppu
+greenLamp.name=§7Koristeellinen Lamppu
+cyanLamp.name=§7Koristeellinen Lamppu
+lightBlueLamp.name=§7Koristeellinen Lamppu
+blueLamp.name=§7Koristeellinen Lamppu
+purpleLamp.name=§7Koristeellinen Lamppu
+magentaLamp.name=§7Koristeellinen Lamppu
+pinkLamp.name=§7Koristeellinen Lamppu
+brownLamp.name=§7Koristeellinen Lamppu
+
+tile.case.redline=§7Punainen Liina
+tile.case.blueline=§7Sininen Liina
+tile.case.greenline=§7Vihreä Liina
+tile.case.blackline=§7Musta Liina
+
+lamp.hood0=§7Valkoinen Lampun Koppa
+lamp.hood1=§7Vaaleanharmaa Lampun Koppa
+lamp.hood2=§7Harmaa Lampun Koppa
+lamp.hood3=§7Musta Lampun Koppa
+lamp.hood4=§7Punainen Lampun Koppa
+lamp.hood5=§7Oranssi Lampun Koppa
+lamp.hood6=§7Keltainen Lampun Koppa
+lamp.hood7=§7Lime Lampun Koppa
+lamp.hood8=§7Vihreä Lampun Koppa
+lamp.hood9=§7Sinivihreä Lampun Koppa
+lamp.hood10=§7Vaalensininen Lampun Koppa
+lamp.hood11=§7Sininen Lampun Koppa
+lamp.hood12=§7Purppura Lampun Koppa
+lamp.hood13=§7Sinipunainen Lampun Koppa
+lamp.hood14=§7Pinkki Lampun Koppa
+lamp.hood15=§7Ruskea Lampun Koppa
+
+lantern.candle0=§7Valkoinen Kynttilä
+lantern.candle1=§7Vaaleanharmaa Kynttilä
+lantern.candle2=§7Harmaa Kynttilä
+lantern.candle3=§7Musta Kynttilä
+lantern.candle4=§7Punainen Kynttilä
+lantern.candle5=§7Oranssi Kynttilä
+lantern.candle6=§7Keltainen Kynttilä
+lantern.candle7=§7Lime Kynttilä
+lantern.candle8=§7Vihreä Kynttilä
+lantern.candle9=§7Sinivihreä Kynttilä
+lantern.candle10=§7Vaalensininen Kynttilä
+lantern.candle11=§7Sininen Kynttilä
+lantern.candle12=§7Purppura Kynttilä
+lantern.candle13=§7Sinipunainen Kynttilä
+lantern.candle14=§7Pinkki Kynttilä
+lantern.candle15=§7Ruskea Kynttilä
+
+// Items
+item.tapeMeasure.name=§7Mittanauha
+item.tape.name=§7Mittarulla
+item.BiblioChase.name=§7Painaisimen Runko
+item.PrintPlate.name=§7Painaisimen Levy
+item.EnchantedPlate.name=§7Lumottu Levy
+item.BiblioRedBook.name=§7Punakivi: Osa I
+item.BiblioGlasses.readingglasses.name=§7Lukulasit
+item.BiblioGlasses.tintedglasses.name=§7Tummennetut Lasit
+item.BiblioGlasses.monocle.name=§7Monokkeli
+item.BiblioDrill.name=§7Akkuporakone
+item.BiblioCreativeLock.name=§7Lukko ja Avain
+item.BiblioClipboard.name=§7Kirjoituslevy
+

@@ -1,0 +1,34 @@
+key.hodgepodge.category=§7Hodgepodge
+key.fastBlockPlacing.desc=§7快速放置方块
+key.fastBlockPlacing.enabled=§7§f快速放置方块 §a已启用
+key.fastBlockPlacing.disabled=§7§f快速放置方块 §c已禁用
+
+tile.dirt.name=§7泥土
+tile.sapling.name=§7树苗
+tile.sand.name=§7沙子
+tile.flower1.name=§7花
+tile.flower2.name=§7花
+tile.stoneSlab.name=§7台阶
+tile.monsterStoneEgg.name=§7石头怪蛋
+tile.woodSlab.name=§7台阶
+tile.cobbleWall.name=§7墙
+tile.quartzBlock.name=§7石英块
+tile.clayHardenedStained.name=§7染色硬化粘土
+tile.woolCarpet.name=§7地毯
+tile.doublePlant.name=§7大型植物
+
+item.dyePowder.name=§7染料
+item.skull.name=§7头颅
+item.fish.name=§7鱼
+
+commands.time.get=§7当前世界时间为 %s（一天中的时间：%s）
+commands.time.usageWithGet=§7/time <set|add> <数值> 或 /time get
+
+hodgepodge.soundsmenu.refreshsounds=§7声音重载
+hodgepodge.bed_respawn.msg=§7已设置重生点
+
+bettermodlist.sort.normal=§7默认
+bettermodlist.sort.a_to_z=§7A-Z
+bettermodlist.sort.z_to_a=§7Z-A
+bettermodlist.gui.modlistinfo1=§7天啊！一切都焕然一新！
+bettermodlist.gui.modlistinfo2=§7新版布局由以下提供：

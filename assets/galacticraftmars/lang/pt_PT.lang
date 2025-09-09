@@ -1,0 +1,193 @@
+# Galacticraft Mars Language File =§7PORTUGAL PORTUGUESE
+
+# GENERAL ITEMS
+item.rawDesh.name=§7Desh Bruto
+item.deshStick.name=§7Graveto de Desh
+item.ingotDesh.name=§7Barra de Desh
+item.spaceshipTier2.t2Rocket.name=§7Foguetão Nível 2
+item.reinforcedPlateT2.name=§7Blindagem Pesada
+item.tier2.desc=§7Nível 2
+item.slimelingCargo.name=§7Mochila-Inventário para Slimeling
+item.key.T2.name=§7Chave de Calabouço Nível 2
+item.compressedDesh.name=§7Desh Prensado
+item.spaceshipTier2.cargoRocket.name=§7Foguetão de Carga
+item.fluidManip.name=§7Manipulador de Fluidos
+item.bucketSludge.name=§7Balde de Lodo Bacterial
+fluid.bacterialsludge=§7Lodo Bacterial
+
+# TOOLS
+item.deshPick.name=§7Picareta de Desh
+item.deshPickSlime.name=§7Picareta de Desh Pegajosa
+item.deshAxe.name=§7Machado de Desh
+item.deshHoe.name=§7Enxada de Desh
+item.deshSpade.name=§7Pá de Desh
+item.deshSword.name=§7Espada de Desh
+
+# ARMOR
+item.deshHelmet.name=§7Capacete de Desh
+item.deshChestplate.name=§7Peitoral de Desh
+item.deshLeggings.name=§7Perneiras de Desh
+item.deshBoots.name=§7Botas de Desh
+
+# BLOCKS
+tile.mars.deshmars.name=§7Minério de Desh
+tile.mars.coppermars.name=§7Minério de Cobre
+tile.mars.tinmars.name=§7Minério de Estanho
+tile.mars.ironmars.name=§7Minério de Ferro
+tile.mars.marscobblestone.name=§7Empedrado
+tile.mars.marsstone.name=§7Pedra Marciana
+tile.mars.marsdirt.name=§7Rocha Subsuperficial Marciana
+tile.mars.marsgrass.name=§7Rocha Superficial Marciana
+tile.mars.marsdeco.name=§7Bloco de Desh
+tile.mars.marsdungeon.name=§7Parede de Calabouço Marciano
+tile.treasureT2.name=§7Baú de Tesouro Nível 2
+tile.slimelingEgg.redEgg.name=§7Ovo de Slimeling Vermelho
+tile.slimelingEgg.blueEgg.name=§7Ovo de Slimeling Azul
+tile.slimelingEgg.yellowEgg.name=§7Ovo de Slimeling Amarelo
+tile.marsMachine.0.name=§7Terraformador
+tile.marsMachine.1.name=§7Câmara Criogénica
+tile.marsMachine.2.name=§7Controlo de Lançamento
+tile.marsMachine.4.name=§7Condensador
+tile.marsMachine.5.name=§7Sintetizador de Metano
+tile.marsMachine.6.name=§7Eletrolisador de Água
+tile.hydrogenPipe.name=§7Cano de Hidrogénio
+tile.sludge.name=§7Lodo Bacterial
+tile.creeperEgg.name=§7Ovo de Creeper
+tile.cavernVines.name=§7Vinhas de Caverna
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7Escadas de Empedrado Marciano
+tile.wallGC.mars.name=§7Parede de Empedrado Marciano
+tile.slabGCHalf.marsSlab.name=§7Laje de Empedrado Marciano
+tile.marsDungeonBricksStairs.name=§7Escadas de Tijolos de Calabouço Marciano
+tile.wallGC.marsBricks.name=§7Parede de Tijolos de Calabouço Marciano
+tile.slabGCHalf.marsBricksSlab.name=§7Laje de Tijolos de Calabouço Marciano
+
+# GUI
+gui.choosePlanet.desc.mars=§7Habitável#Sem Oxigénio#Gravidade: 38%
+item.deshPickSlime.description.name=§7Pode-se colher ovos de Slimeling
+gui.message.noEnergy.name=§7Energia Insuficiente
+gui.message.noWater.name=§7Água Insuficiente
+gui.message.noBonemeal.name=§7Farinha de Osso Insuficiente
+gui.message.noSeeds.name=§7Sementes Insuficientes
+gui.message.noSaplings.name=§7Rebentos Insuficientes
+gui.message.bubbleExp.name=§7Bolha expandindo
+gui.message.noValidBlocks.name=§7Sem blocos válidos na bolha
+gui.message.terraforming.name=§7Terraformando
+gui.message.enableTrees.name=§7Habilitar Árvores
+gui.message.enableGrass.name=§7Habilitar Grama
+gui.message.trees.name=§7Árvores
+gui.message.grass.name=§7Grama
+gui.message.invalidFreq.name=§7Frequência Inválida
+gui.message.frequency.name=§7Frequência
+gui.message.destFrequency.name=§7Destino
+gui.message.removePad.name=§7Remover Base
+gui.message.launchWhen.name=§7Lançar qdo.
+gui.message.cargoUnloaded.name=§7Carga Vazia
+gui.message.cargoFull.name=§7Carga Cheia
+gui.message.fullyFueled.name=§7100% Abastecido
+gui.message.instant.name=§7Imediatamente
+gui.message.tenSec.name=§710 Segundos
+gui.message.thirtySec.name=§730 Segundos
+gui.message.oneMin.name=§71 Minuto
+gui.message.redstoneSig.name=§7Sinal de Redstone
+gui.message.notSet.name=§7Não Definido
+gui.message.notEnough.name=§7Insuficiente
+gui.message.success.name=§7Sucesso
+gui.message.zeroWater.name=§7Sem água!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7Este é a frequência única do$Controlo de Lançamento
+gui.launchController.desc.1=§7Frequência para qual foguetões serão lançados
+gui.launchController.desc.2=§7Se a base de lançamento deve ser$removida no lançamento
+gui.launchController.desc.3=§7Quando esse critério for cumprido,$lançar foguetão
+gui.launchController.desc.4=§7Esconder frequência de destino$de outros jogadores
+gui.terraformer.desc.0=§7Tanque de Água
+
+gui.gasTank.desc.0=§7Armazenamento de Gás
+gui.gasTankCompressed.desc.0=§7Armazenamento de Gás (Comprimido)
+gui.liquidTank.desc.0=§7Tanque de líquidos
+gui.status.nogas.name=§7Sem gás
+gui.status.liquefying.name=§7Condensando
+gui.status.processing.name=§7Sintetizando
+gui.status.needsCarbon.name=§7Falta carbono
+gui.status.tankfull.name=§7Tanque cheio
+gui.status.tanksfull.name=§7Tanques cheios
+gui.message.lowEnergy.name=§7Pouca energia
+gui.button.liquefy.name=§7Processar
+gui.button.liquefyStop.name=§7Parar
+gui.gasInput.desc.0=§7Experimenta colocar uma$Lata de Gás Metano aqui
+gui.gasInput.desc.1=§7(Ou talvez, uma Válvula$Atmosférica)
+gui.hydrogenInput.desc.0=§7Aqui vai um tanque de hidrogénio
+gui.hydrogenInput.desc.1=§7ou uma Válvula Atmosférica
+gui.liquidOutput.desc.2=§7tanque de gás liquefeito
+gui.methaneOutput.desc.2=§7tanque de metano
+gui.message.withAtmosphere0.name=§7em um planeta abundante em
+gui.message.withAtmosphere1.name=§7na atmosfera
+item.carbonFragments.name=§7Carbono Fragmentado
+gui.carbonSlot.desc.0=§7Carbono Fragmentado pode ir aqui
+gui.waterBucketSlot.desc=§7Coloca baldes de água aqui
+
+gui.cargorocket.status.waiting.0=§7Esperando por
+gui.cargorocket.status.waiting.1=§7ignição
+gui.cargorocket.status.launched.0=§7Pronto
+gui.cargorocket.status.launched.1=§7Lançado
+
+gas.carbondioxide.name=§7Gás Carbónico
+gas.oxygen.name=§7Oxigénio
+gas.nitrogen.name=§7Nitrogénio
+
+gui.desc.reinforcedPlateT2.name=§7Nível 2
+dimension.Mars.name=§7Marte
+planet.mars=§7Marte
+
+tile.treasureT2.description=§7Baús de Tesouro Nível 2 são gerados nos Calabouços Marcianos. Eles são desbloqueáveis depois de derrotar o chefe final.
+tile.cavernVines.description=§7Vinhas de Caverna são perigosas para os seres vivos, podendo se prender neles e arrastá-los para cima.
+tile.slimelingEgg.description=§7Ovos de Slimeling, uma vez quabrados com as mãos, geram um bixo de estimação em pouco tempo.
+tile.cryoChamber.description=§7Câmara Criogénicas irão permitir que um jogador durma durante o dia, restaurando uma pequena quantidade de saúde, mas têm um tempo de recarga.
+tile.launchController.description=§7Controlos de Lançamento são utilizados para personalizar o comportamento do lançamento, incluindo critérios de lançamento e a base de lançamento de destino para lançamentos de automáticos.
+tile.terraformer.description=§7Terraformadores são usados para adicionar alguma vegetação em planetas distantes, gerando grama, árvores e água quando dados os materiais corretos.
+tile.creeperEgg.description=§7Ovos de Creeper vão aparecer em Calabouços Marcianos, gerando um predador furtivo ao quebrar por explosão.
+tile.gasLiquefier.description=§7Converte gases em líquidos, seja gases da atmosfera ou de latas. Metano liquefeito faz  bom combustível de foguetão!
+tile.methaneSynthesizer.description=§7Com uma fonte de hidrogénio e uma fonte de carbono, este produz Metano para processamento posterior no Condensador para gases.
+tile.electrolyzer.description=§7Transforma água em hidrogénio (útil para o Sintetizador de Metano) e oxigênio.
+tile.hydrogenPipe.description=§7Cano de Hidrogénio irá transferir hidrogénio do tanque de gás interno de uma máquina para outra.
+
+gui.slimeling.chat.wrongPlayer=§7Este não é meu Slimeling!
+gui.cryogenic.chat.cantUse=§7Não posso usar isso pelos próximos %d segundos
+gui.slimeling.name=§7Nome
+gui.slimeling.owner=§7Dono
+gui.slimeling.kills=§7Vítimas
+gui.slimeling.scale=§7Tamanho
+gui.slimeling.button.sit=§7Sentar
+gui.slimeling.button.follow=§7Seguir
+gui.slimeling.sitting=§7Sentado
+gui.slimeling.following=§7Seguindo
+gui.slimeling.damage=§7Força de ataque
+gui.slimeling.food=§7Comida favorita
+
+# SCHEMATICS
+schematic.rocketT3.name=§7Foguetão Nível 3
+schematic.cargoRocket.name=§7Foguetão de Carga Automático
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Foguetão de Carga
+entity.GalacticraftMars.CreeperBoss.name=§7Creeper-Chefe Evoluído
+entity.GalacticraftMars.LandingBalloons.name=§7Almofada de Aterragem
+entity.GalacticraftMars.Slimeling.name=§7Slimeling
+entity.GalacticraftMars.Sludgeling.name=§7Sludgeling
+entity.GalacticraftMars.SpaceshipT2.name=§7Foguetão Nível 2
+
+# CONTAINERS
+container.launchcontroller.name=§7Controlo de Lançamento
+container.tileTerraformer.name=§7Terraformador
+container.marsLander.name=§7Almofada de Aterragem
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7ID da dimensão Marte
+gc.configgui.idSchematicRocketT2=§7ID do Esquemático do Foguetão Nível 2
+gc.configgui.idSchematicCargoRocket=§7ID do Esquemático do Foguetão de Carga
+gc.configgui.launchControllerChunkLoad=§7Chunkloading do Controlo de Lançamento
+gc.configgui.launchControllerAllDims=§7Controlo de Lançamento para todas as dimensões
+
+gc.configgui.planets.title=§7Configuração Galacticraft Planets

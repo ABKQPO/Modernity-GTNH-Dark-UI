@@ -1,0 +1,210 @@
+language.name=§7Spanish
+language.region=§7MX
+language.code=§7es_MX
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+
+// All BiblioCraft 1.5 additions/////////////////////
+// 1.5 gui stuff
+gui.mapWaypoint.accept=§7Aceptar
+gui.mapWaypoint.remove=§7Borrar
+gui.mapWaypoint.cancel=§7Cancelar
+gui.mapWaypoint.waypoint=§7Marcador
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Plato
+gui.discRack=§7Estantería de Discos
+
+screwgun.firstSeat=§7Primer asiento seleccionado.
+screwgun.secondSeat=§7Intentando unir/separar asientos.
+
+// 1.5 Blocks
+DiscRack.name=§7Estantería de Discos
+DinnerPlate.name=§7Plato
+OakMapFrame.name=§7Marco de Mapa de Roble
+SpruceMapFrame.name=§7Marco de Mapa de Abeto
+BirchMapFrame.name=§7Marco de Mapa de Abedul
+JungleMapFrame.name=§7Marco de Selva
+OakSeat.name=§7Asiento de Roble
+SpruceSeat.name=§7Asiento de Abeto
+BirchSeat.name=§7Asiento de Abedul
+JungleSeat.name=§7Asiento de Selva
+
+// 1.5 Items
+item.seatBack.OakSeatBack.name=§7Respaldo de Roble
+item.seatBack.SpruceSeatBack.name=§7Respaldo de Abeto
+item.seatBack.BirchSeatBack.name=§7Respaldo de Abedul
+item.seatBack.JungleSeatBack.name=§7Respaldo de Selva
+item.BiblioWayPointCompass.name=§7Brújula de Marcadores
+item.BiblioMapTool.name=§7Compás
+
+// End of 1.5 additions ////////////////////////////
+
+// Gui stuff
+gui.armorstand=§7Soporte para Armadura
+gui.bookcase=§7Librería
+gui.cookiejar=§7Jarro de Galletas
+gui.shelf=§7Estantería de Madera
+gui.label=§7Rótulo de Madera
+gui.potionshelf=§7Estantería de Pociones
+gui.typeset.selectbook=§7Elige un libro por favor
+gui.table=§7Mesa de Madera
+gui.case=§7Vitrina
+gui.toolrack=§7Colgadero de Herramientas
+gui.desk=§7Escritorio de Madera
+
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Distancia Norte/Sur =
+tape.measureeastwest=§7Distancia Este/Oeste =
+tape.measureheight=§7Diferencia de altura =
+tape.nomeasure=§7No hay distancia.
+tape.measure=§7Distancia =
+tape.startmeasure=§7Comenzando medición.
+tape.mode0=§7Cambiando modo de medición a Norte/Sur, Este/Oeste y Altura.
+tape.mode1=§7Cambiando modo de medición a distancia absoluta.
+
+lock.creativeonly=§7Sólo Modo Creativo
+lock.notowner=§7No eres el propietario de este bloque.
+lock.locked=§7Este bloque ha sido bloqueado.
+lock.unlocked=§7Este bloque ha sido desbloqueado.
+
+// Blocks
+CookieJar.name=§7Jarro de Galletas
+MarkerPole.name=§7Marcador
+tile.BiblioType.name=§7Mesa de Tipografía
+tile.BiblioPress.name=§7Imprenta
+tile.BiblioArmorStand.name=§7Soporte para Armadura
+OakBookcase.name=§7Librería de Roble
+SpruceBookcase.name=§7Librería de Abeto
+BirchBookcase.name=§7Librería de Abedul
+JungleBookcase.name=§7Librería de Madera de Selva
+OakPotionShelf.name=§7Estantería de Pociones de Roble
+SprucePotionShelf.name=§7Estantería de Pociones de Abeto
+BirchPotionShelf.name=§7Estantería de Pociones de Abedul
+JunglePotionShelf.name=§7Estantería de Pociones de Selva
+OakShelf.name=§7Estantería de Roble
+SpruceShelf.name=§7Estantería de Abeto
+BirchShelf.name=§7Estantería de Abedul
+JungleShelf.name=§7Estantería de Madera de Selva
+OakWeaponRack.name=§7Colgador de Herramientas de Roble
+SpruceWeaponRack.name=§7Colgador de Herramientas de Abeto
+BirchWeaponRack.name=§7Colgador de Herramientas de Abedul
+JungleWeaponRack.name=§7Colgador de Herramientas de Selva
+OakLabel.name=§7Rótulo de Roble
+SpruceLabel.name=§7Rótulo de Abeto
+BirchLabel.name=§7Rótulo de Abedul
+JungleLabel.name=§7Rótulo de Madera de Selva
+RedLinedOakCase.name=§7Vitrina de Roble
+BlueLinedOakCase.name=§7Vitrina de Roble
+GreenLinedOakCase.name=§7Vitrina de Roble
+BlackLinedOakCase.name=§7Vitrina de Roble
+RedLinedSpruceCase.name=§7Vitrina de Abeto
+BlueLinedSpruceCase.name=§7Vitrina de Abeto
+GreenLinedSpruceCase.name=§7Vitrina de Abeto
+BlackLinedSpruceCase.name=§7Vitrina de Abeto
+RedLinedBirchCase.name=§7Vitrina de Abedul
+BlueLinedBirchCase.name=§7Vitrina de Abedul
+GreenLinedBirchCase.name=§7Vitrina de Abedul
+BlackLinedBirchCase.name=§7Vitrina de Abedul
+RedLinedJungleCase.name=§7Vitrina de Selva
+BlueLinedJungleCase.name=§7Vitrina de Selva
+GreenLinedJungleCase.name=§7Vitrina de Selva
+BlackLinedJungleCase.name=§7Vitrina de Selva
+OakWritingDesk.name=§7Escritorio de Roble
+SpruceWritingDesk.name=§7Escritorio de Abeto
+BirchWritingDesk.name=§7Escritorio de Abedul
+JungleWritingDesk.name=§7Escritorio de Selva
+OakTable.name=§7Mesa de Roble
+SpruceTable.name=§7Mesa de Abeto
+BirchTable.name=§7Mesa de Abedul
+JungleTable.name=§7Mesa de Madera de Selva
+
+//lights
+whiteLantern.name=§7Farol de oro
+lightGrayLantern.name=§7Farol de Oro
+grayLantern.name=§7Farol de Oro
+blackLantern.name=§7Farol de Oro
+redLantern.name=§7Farol de Oro
+orangeLantern.name=§7Farol de Oro
+yellowLantern.name=§7Farol de Oro
+limeLantern.name=§7Farol de Oro
+greenLantern.name=§7Farol de Oro
+cyanLantern.name=§7Farol de Oro
+lightBlueLantern.name=§7Farol de Oro
+blueLantern.name=§7Farol de Oro
+purpleLantern.name=§7Farol de Oro
+magentaLantern.name=§7Farol de Oro
+pinkLantern.name=§7Farol de Oro
+brownLantern.name=§7Farol de Oro
+
+whiteLamp.name=§7Lámpara de Lujo
+lightGrayLamp.name=§7Lámpara de Lujo
+grayLamp.name=§7Lámpara de Lujo
+blackLamp.name=§7Lámpara de Lujo
+redLamp.name=§7Lámpara de Lujo
+orangeLamp.name=§7Lámpara de Lujo
+yellowLamp.name=§7Lámpara de Lujo
+limeLamp.name=§7Lámpara de Lujo
+greenLamp.name=§7Lámpara de Lujo
+cyanLamp.name=§7Lámpara de Lujo
+lightBlueLamp.name=§7Lámpara de Lujo
+blueLamp.name=§7Lámpara de Lujo
+purpleLamp.name=§7Lámpara de Lujo
+magentaLamp.name=§7Lámpara de Lujo
+pinkLamp.name=§7Lámpara de Lujo
+brownLamp.name=§7Lámpara de Lujo
+
+tile.case.redline=§7Revestimento Rojo
+tile.case.blueline=§7Revestimento Azul
+tile.case.greenline=§7Revestimento Verde
+tile.case.blackline=§7Revestimento Negro
+
+lamp.hood0=§7
+lamp.hood1=§7Gris Claro
+lamp.hood2=§7Gris
+lamp.hood3=§7Negra
+lamp.hood4=§7Roja
+lamp.hood5=§7Naranja
+lamp.hood6=§7Amarilla
+lamp.hood7=§7Lima
+lamp.hood8=§7Verde
+lamp.hood9=§7Cyan
+lamp.hood10=§7Azul Claro
+lamp.hood11=§7Azul
+lamp.hood12=§7Morada
+lamp.hood13=§7Magenta
+lamp.hood14=§7Rosa
+lamp.hood15=§7Café
+
+lantern.candle0=§7Vela Blanca
+lantern.candle1=§7Vela Gris Claro
+lantern.candle2=§7Vela Gris
+lantern.candle3=§7Vela Negra
+lantern.candle4=§7Vela Roja
+lantern.candle5=§7Vela Naranja
+lantern.candle6=§7Vela Amarilla
+lantern.candle7=§7Vela Lima
+lantern.candle8=§7Vela Verde
+lantern.candle9=§7Vela Cyan
+lantern.candle10=§7Vela Azul Claro
+lantern.candle11=§7Vela Azul
+lantern.candle12=§7Vela Morada
+lantern.candle13=§7Vela Magenta
+lantern.candle14=§7Vela Rosa
+  lantern.candle15=§7Vela Café
+
+// Items
+item.tapeMeasure.name=§7Cinta Métrica
+item.tape.name=§7Carrete de Cinta Métrica
+item.BiblioChase.name=§7Marco de Impresión
+item.PrintPlate.name=§7Placa de Impresión
+item.EnchantedPlate.name=§7Placa Encantada
+item.BiblioRedBook.name=§7Redstone: Volumen I
+item.BiblioGlasses.readingglasses.name=§7Anteojos de Lectura
+item.BiblioGlasses.tintedglasses.name=§7Anteojos Tintados
+item.BiblioGlasses.monocle.name=§7Monóculo
+item.BiblioDrill.name=§7Atornillador Neumático
+item.BiblioCreativeLock.name=§7Llave y Cerradura
+item.BiblioClipboard.name=§7Portapapeles

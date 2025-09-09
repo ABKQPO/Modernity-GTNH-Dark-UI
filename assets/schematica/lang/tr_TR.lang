@@ -1,0 +1,55 @@
+# gui - general
+schematica.gui.openFolder=§7Şematik klasörünü aç
+schematica.gui.done=§7Tamam
+schematica.gui.title=§7Şematik dosyasını seçin
+schematica.gui.folderInfo=§7(Şematik dosyalarını buraya koyun)
+schematica.gui.noschematic=§7--Şematik yok--
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Gizle
+schematica.gui.all=§7HEPSİ
+schematica.gui.show=§7Göster
+schematica.gui.movehere=§7Buraya Taşı
+schematica.gui.flip=§7Ters çevir
+schematica.gui.rotate=§7Döndür
+schematica.gui.save=§7Kaydet
+schematica.gui.moveschematic=§7Şematik taşıma
+schematica.gui.layers=§7Katmanlar
+schematica.gui.operations=§7İşlemler
+schematica.gui.point.red=§7Kırmızı nokta
+schematica.gui.point.blue=§7Mavi nokta
+schematica.gui.saveselection=§7Seçimi şematik olarak kaydet
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Malzemeler
+schematica.gui.materialname=§7Malzeme
+schematica.gui.materialamount=§7Miktar
+schematica.gui.printer=§7Yazıcı
+
+# gui - config - categories
+
+# gui - config - debug
+
+# gui - config - render
+
+# gui - config - printer
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+
+# gui - config - server
+
+# keys
+schematica.key.load=§7Şematiki yükle
+schematica.key.save=§7Şematiki kaydet
+schematica.key.control=§7Şematiki işleyin
+
+# commands - save
+
+# commands - list
+
+# commands - remove
+
+# commands - download

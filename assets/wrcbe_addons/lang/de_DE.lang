@@ -1,0 +1,11 @@
+﻿item.wrcbe_addons:sniffer.name=§7Kabelloser Schnüffler
+item.wrcbe_addons:psniffer.name=§7Privater Schnüffler
+item.wrcbe_addons:map.name=§7Kabellose Karte
+item.wrcbe_addons:rep.name=§7REP
+item.wrcbe_addons:triangulator.name=§7Kabelloser Triangulator
+item.wrcbe_addons:remote.name=§7Kabellose Fernsteuerung
+item.wrcbe_addons:tracker.name=§7Kabelloser Tracker
+
+wrcbe_addons.triangulator.short=§7Triangulator
+wrcbe_addons.remote.short=§7Fernsteuerung
+wrcbe_addons.tracker.short=§7Tracker

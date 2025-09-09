@@ -1,0 +1,39 @@
+potion.wellfedPotion=§7Сытость
+potion.newSlowdownPotionHO=§7Замедление
+
+# tooltip strings
+hungeroverhaul.crop.grows.best.in=§7Растёт лучше в:
+
+# these should all be in lowercase
+hungeroverhaul.hearty=§7здоровый %s
+hungeroverhaul.wholesome=§7полезный %s
+hungeroverhaul.nourishing=§7сытный %s
+hungeroverhaul.unfulfilling=§7не полезный %s
+hungeroverhaul.morsel=§7лёгкая закуска
+hungeroverhaul.snack=§7закуска
+hungeroverhaul.lightmeal=§7лёгкий завтрак
+hungeroverhaul.meal=§7завтрак
+hungeroverhaul.largemeal=§7большой завтрак
+hungeroverhaul.feast=§7пир
+
+# if necessary, special cases for the meal descriptors can be handled by
+# defining combined strings like so (remove the #)
+#hungeroverhaul.hearty.largemeal=§7hearty large meal
+
+# health/hunger status text
+hungeroverhaul.dying=§7Вы умираете
+hungeroverhaul.injured=§7Вы травмированы
+hungeroverhaul.hurt=§7Вы ранены
+hungeroverhaul.starving=§7Вы умираете от голода
+hungeroverhaul.hungry=§7Вы голодны
+hungeroverhaul.peckish=§7Вы проголодались
+
+hungeroverhaul.hearty.morsel=§7здоровая лёгкая закуска
+hungeroverhaul.wholesome.morsel=§7полезная лёгкая закуска
+hungeroverhaul.nourishing.morsel=§7сытная лёгкая закуска
+hungeroverhaul.unfulfilling.morsel=§7не полезная лёгкая закуска
+
+hungeroverhaul.hearty.snack=§7здоровая закуска
+hungeroverhaul.wholesome.snack=§7полезная закуска
+hungeroverhaul.nourishing.snack=§7сытная закуска
+hungeroverhaul.unfulfilling.snack=§7не полезная закуска

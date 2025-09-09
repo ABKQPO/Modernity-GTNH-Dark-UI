@@ -1,10 +1,10 @@
 # gui names
-gtnop.gui.veinStat.name=Vein Stats
-gtnop.gui.asteroidStat.name=Asteroid Stats
-gtnop.gui.smallOreStat.name=Small Ore Stats
-gtnop.gui.undergroundFluid.name=Underground Fluid Stats
-gtnop.gui.ieVeinStat.name=IE Vein Stats
-gtnop.gui.bedrockOreStat.name=Bedrock Ore Stats
+gtnop.gui.veinStat.name=§7Vein Stats
+gtnop.gui.asteroidStat.name=§7Asteroid Stats
+gtnop.gui.smallOreStat.name=§7Small Ore Stats
+gtnop.gui.undergroundFluid.name=§7Underground Fluid Stats
+gtnop.gui.ieVeinStat.name=§7IE Vein Stats
+gtnop.gui.bedrockOreStat.name=§7Bedrock Ore Stats
 
 gtnop.gui.nei.veinName=§7Vein name
 gtnop.gui.nei.primaryOre=§7Primary
@@ -75,6 +75,12 @@ gtnop.world.BarnardC=§7Barnard C
 gtnop.world.BarnardE=§7Barnard E
 gtnop.world.BarnardF=§7Barnard F
 gtnop.world.TcetiE=§7T Ceti E
+gtnop.world.Anubis=§7Anubis
+gtnop.world.MehenBelt=§7Mehen Belt
+gtnop.world.Horus=§7Horus
+gtnop.world.Maahes=§7Maahes
+gtnop.world.Neper=§7Neper
+gtnop.world.Seth=§7Seth
 gtnop.world.Underdark=§7Deep Dark
 
 
@@ -87,8 +93,8 @@ gtnop.ore.null.name=§7None
 
 
 # vein types
-gtnop.ore.vein.name=§7Vein 
-gtnop.ore.asteroid.name=§7Asteriod
+gtnop.ore.vein.name=§7Vein
+gtnop.ore.asteroid.name=§7Asteroid
 gtnop.ore.custom.name=§7Custom
 
 # items

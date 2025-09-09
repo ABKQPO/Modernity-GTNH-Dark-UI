@@ -1,0 +1,61 @@
+﻿# Carpenter's Blocks Language File =§7UNITED STATES ENGLISH
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Carpenter's Hammer
+item.itemCarpentersChisel.name=§7Carpenter's Chisel
+item.itemCarpentersDoor.name=§7Carpenter's Door
+item.itemCarpentersBed.name=§7Carpenter's Bed
+item.itemCarpentersTile.name=§7Carpenter's Tile
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Carpenter's Barrier
+tile.blockCarpentersBed.name=§7Carpenter's Bed
+tile.blockCarpentersBlock.name=§7Carpenter's Block
+tile.blockCarpentersButton.name=§7Carpenter's Button
+tile.blockCarpentersDaylightSensor.name=§7Carpenter's Daylight Sensor
+tile.blockCarpentersCollapsibleBlock.name=§7Carpenter's Collapsible Block
+tile.blockCarpentersDoor.name=§7Carpenter's Door
+tile.blockCarpentersGarageDoor.name=§7Carpenter's Garage Door
+tile.blockCarpentersGate.name=§7Carpenter's Gate
+tile.blockCarpentersHatch.name=§7Carpenter's Hatch
+tile.blockCarpentersLadder.name=§7Carpenter's Ladder
+tile.blockCarpentersLever.name=§7Carpenter's Lever
+tile.blockCarpentersPressurePlate.name=§7Carpenter's Pressure Plate
+tile.blockCarpentersSlope.name=§7Carpenter's Slope
+tile.blockCarpentersSlope.wedge.name=§7Carpenter's Wedge Slope
+tile.blockCarpentersSlope.obliqueInterior.name=§7Carpenter's Oblique Interior Slope
+tile.blockCarpentersSlope.obliqueExterior.name=§7Carpenter's Oblique Exterior Slope
+tile.blockCarpentersSlope.prism.name=§7Carpenter's Prism Slope
+tile.blockCarpentersSlope.prismWedge.name=§7Carpenter's Prism Wedge Slope
+tile.blockCarpentersStairs.name=§7Carpenter's Stairs
+tile.blockCarpentersTorch.name=§7Carpenter's Torch
+tile.blockCarpentersSafe.name=§7Carpenter's Safe
+tile.blockCarpentersFlowerPot.name=§7Carpenter's Flower Pot
+
+# ENTITIES
+entity.CarpentersTile.name=§7Carpenter's Tile
+
+# MESSAGES
+message.polarity_pos.name=§7POLARITY: Normal redstone output.
+message.polarity_neg.name=§7POLARITY: Inverted redstone output.
+message.activation_iron.name=§7ACTIVATION: Will behave like an iron door.
+message.activation_wood.name=§7ACTIVATION: Will behave like a wooden door.
+message.trigger_player.name=§7TRIGGER: Only activate for players.
+message.trigger_monster.name=§7TRIGGER: Only activate for monsters.
+message.trigger_animal.name=§7TRIGGER: Only activate for animals.
+message.trigger_all.name=§7TRIGGER: Activate for all entities.
+message.safe_lock.name=§7CONTROL: Safe locked.
+message.safe_unlock.name=§7CONTROL: Safe unlocked.
+message.automation_all.name=§7AUTOMATION: Items can be inserted and extracted.
+message.automation_disabled.name=§7AUTOMATION: Disabled.
+message.automation_insert.name=§7AUTOMATION: Items can be inserted only.
+message.automation_extract.name=§7AUTOMATION: Items can be extracted only.
+message.block_lock.name=§7CONTROL: This block is locked.
+message.sensitivity_sleep.name=§7SENSITIVITY: Toggles state at player sleep threshold (sunrise and sunset).
+message.sensitivity_monsters.name=§7SENSITIVITY: Toggles state at monster spawn light threshold (including storms).
+message.sensitivity_dynamic.name=§7SENSITIVITY: Redstone output changes based on position of the sun.
+
+# </file>

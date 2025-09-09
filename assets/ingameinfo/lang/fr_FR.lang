@@ -1,0 +1,66 @@
+# gui - config - categories
+ingameinfoxml.config.category.general=§7Général
+ingameinfoxml.config.category.general.tooltip=§7Options générale.
+ingameinfoxml.config.category.alignment=§7Alignement
+ingameinfoxml.config.category.alignment.tooltip=§7Options d'alignement de l'interface
+
+# gui - config - general
+ingameinfoxml.config.filename=§7Nom du Fichier
+ingameinfoxml.config.filename.tooltip=§7La configuration qui devra charger au démarrage.
+ingameinfoxml.config.showInChat=§7Afficher le Chat
+ingameinfoxml.config.showInChat.tooltip=§7Afficher l'interface dans le chat.
+ingameinfoxml.config.showOnPlayerList=§7Afficher la liste des joueurs
+ingameinfoxml.config.showOnPlayerList.tooltip=§7Afficher l'interface dans la liste des joueurs.
+
+# gui - config - alignment
+ingameinfoxml.config.topleft=§7En haut à gauche
+ingameinfoxml.config.topcenter=§7En haut au centre
+ingameinfoxml.config.topright=§7En haut à droite
+ingameinfoxml.config.middleleft=§7Au millieu à gauche
+ingameinfoxml.config.middlecenter=§7Au centre
+ingameinfoxml.config.middleright=§7Au millieu à droite
+ingameinfoxml.config.bottomleft=§7En bas à gauche
+ingameinfoxml.config.bottomcenter=§7En bas au centre
+ingameinfoxml.config.bottomright=§7En bas à droite
+
+# gui - tag list
+
+# gui - tag list - categories
+
+# gui - tag list - formatting tags
+
+# gui - tag list - misc
+
+# gui - tag list - mouse over
+
+# gui - tag list - nearby player
+
+# gui - tag list - player equipment
+
+# gui - tag list - player general
+
+# gui - tag list - player position
+
+# gui - tag list - player potion
+
+# gui - tag list - riding
+
+# gui - tag list - time
+
+# gui - tag list - world
+
+# gui - tag list - integration - blood magic
+
+# gui - tag list - integration - simply jetpacks
+
+# gui - tag list - integration - thaumcraft
+
+# keys
+
+# commands
+commands.ingameinfoxml.usage=§7/igi <reload|load|save|enable|disable|taglist|config> [nondufichier]
+commands.ingameinfoxml.reload=§7Rechargement...
+commands.ingameinfoxml.load=§7Chargement de %s...
+commands.ingameinfoxml.save=§7Sauvegarde de %s...
+commands.ingameinfoxml.enable=§7L'interface de InGame Info XML est désormais activé.
+commands.ingameinfoxml.disable=§7L'interface de InGame Info XML est désormais désactivé.

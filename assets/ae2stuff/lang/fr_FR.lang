@@ -1,0 +1,49 @@
+tile.ae2stuff.Encoder.name=§7Encodeur de modèle
+tile.ae2stuff.Grower.name=§7Chambre de croissance du crystal
+tile.ae2stuff.Inscriber.name=§7Inscriveur avancé
+tile.ae2stuff.Wireless.name=§7Connecteur sans-fil
+
+item.ae2stuff.WirelessKit.name=§7kit de configuration sans-fil
+item.ae2stuff.Visualiser.name=§7Outils de visualisation du réseau
+
+ae2stuff.error.not_connected=§7Réseau non connecté
+
+ae2stuff.waila.sleep.true=§7En sommeil
+ae2stuff.waila.sleep.false=§7Au travail
+ae2stuff.waila.power=§7%s / %s AE
+
+ae2stuff.waila.wireless.connected=§7Connecté à %s,%s,%s
+ae2stuff.waila.wireless.notconnected=§7Non connecté
+ae2stuff.waila.wireless.channels=§7Canaux : %s
+ae2stuff.waila.wireless.power=§7Puissance utilisée : %s AE/t
+
+ae2stuff.gui.lock.on=§7Verrouillé - Ne peut pas être enlevé par un automatisme
+ae2stuff.gui.lock.off=§7Déverrouillé - Peut être enlevé par un automatisme
+ae2stuff.gui.lock.note=§7Si aucun processe n'est en route et que l'emplacement du milieu est vide
+
+ae2stuff.gui.recipes=§7Recettes
+
+ae2stuff.wireless.tool.empty=§7Cliquez le connecteur sans-fil pour lier
+ae2stuff.wireless.tool.bound1=§7Lié à %s,%s,%s
+ae2stuff.wireless.tool.bound2=§7Cliquez d'autre connecteur sans-fil pour connecter
+ae2stuff.wireless.tool.connected=§7Connecté à %s,%s,%s
+ae2stuff.wireless.tool.failed=§7Echec de connection
+ae2stuff.wireless.tool.dimension=§7Les deux connecteur doivent être dans la même dimension
+ae2stuff.wireless.tool.noexist=§7le connecteur lié n'existe pas
+ae2stuff.wireless.tool.security.network=§7Violation de sécurité - les réseaux ne peuvent pas se connecter
+ae2stuff.wireless.tool.security.player=§7Violation de sécurité - vous n'êtes pas autorisé à modifier ce réseau
+
+ae2stuff.wireless.tooltips.advtool.queueing.clear=§7Accroupi + %s + Clic-droit pour vider la file d'attente
+ae2stuff.wireless.tooltips.advtool.hubqols.binding=§7%s + Clic-droit pour connecter à tous les emplacements libres du hub
+ae2stuff.wireless.tooltips.advtool.hubqols.queueing=§7%s + Clic-droit pour ajouter tous les emplacements libres du hub à la file d'attente
+
+ae2stuff.visualiser.bound=§7Visualisation du réseau à %s,%s,%s
+ae2stuff.visualiser.mode=§7Mode :
+ae2stuff.visualiser.set=§7Mode changé en %s
+ae2stuff.visualiser.mode.full=§7Tout afficher
+ae2stuff.visualiser.mode.nodes=§7Afficher les noeuds
+ae2stuff.visualiser.mode.channels=§7Afficher les canaux
+ae2stuff.visualiser.mode.nonum=§7Afficher les cannaux et le noeud
+ae2stuff.visualiser.mode.p2p=§7Afficher les lien P2P
+
+itemGroup.bdew.ae2stuff=§7AE2 Stuff

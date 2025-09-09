@@ -1,0 +1,6 @@
+recipe.type.arcaneworkbenchshaped=§7Shaped A.Worktable
+recipe.type.arcaneworkbenchshapeless=§7Shapeless A.Worktable
+item.itemaspect.aspectprefix=§7Aspect
+recipe.aspects.containing=§7Items Containing
+recipe.aspects.component=§7Component
+recipe.aspects.usedin=§7Used in

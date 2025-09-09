@@ -1,0 +1,20 @@
+tile.playerinterface.name=§7Spieler-Interface
+tile.fluidDisplay.name=§7Fl?ssigkeits-Display
+tile.fertilizedDirt.name=§7Ged?ngte Erde
+tile.itemCollector.name=§7Item-Sammler
+tile.advancedItemCollector.name=§7Fortgeschrittener Item-Sammler
+tile.onlineDetector.name=§7Online-Detektor
+
+item.filterBlock.name=§7Block-Filter
+item.filterItem.name=§7Item-Filter
+item.filterEntity.name=§7Entity-Filter
+item.biomeSolution.name=§7L?sung
+item.biomeCapsule.name=§7Biomkapsel[WIP]
+item.biomePainter.name=§7Biommaler[WIP]
+item.creativeChestGenerator.name=§7Kreativer Kisten Generator
+
+item.playerCore.name=§7Spieler-Kern
+item.obsidianStick.name=§7Obsidianstab
+item.error.name=§7Ung?ltiges Item
+
+itemGroup.Random Things=§7Random Things

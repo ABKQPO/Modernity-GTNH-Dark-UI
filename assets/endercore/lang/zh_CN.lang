@@ -1,0 +1,27 @@
+endercore.tooltip.oreDictNames=§7矿物词典名称:
+endercore.tooltip.showDetails=§7<按住Shift>
+endercore.tooltip.durability=§7耐久:
+
+endercore.command.config.result.success=§7Reloading configs for %s was successful
+endercore.command.config.result.fail=§7Reloading configs for %s failed
+endercore.command.config.result.invalid=§7Modid %s 无效
+
+enchantment.xpboost=§7经验汲取
+endercore.enchantment.xpboost.tooltip=§7从杀戮中获取更多经验
+
+enchantment.autosmelt=§7熔炼
+endercore.enchantment.autosmelt.tooltip=§7自动熔炼采集的矿物
+
+endercore.celebrate=§7新年快乐!
+
+endercore.resourcepack.readme=§7This is the actual file used for resources in-game.
+endercore.resourcepack.readme2=§7Do not edit this, it will be created/deleted by the mod.
+
+endercore.gui.normal=§7Normal
+endercore.gui.search=§7搜索:
+endercore.gui.modlistinfo1=§7哦天哪一切都不一样了!
+endercore.gui.modlistinfo2=§7全新的设计来自于:
+
+endercore.error.ttcore.1=§7EnderCore无法同ttCore同时运行.
+endercore.error.ttcore.2=§7所有ttCore的功能/内容都包含在EnderCore中.
+endercore.error.ttcore.3=§7请将ttCore从你的mod文件夹中移除并重新启动.

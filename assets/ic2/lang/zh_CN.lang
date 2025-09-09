@@ -1,0 +1,35 @@
+ic2.itemEnergeticRotor=§7动力齿轮转子(充能合金)
+ic2.itemTungstenSteelRotor=§7动力齿轮转子(钨钢)
+ic2.itemVibrantRotor=§7动力齿轮转子(脉冲合金)
+ic2.itemIridiumRotor=§7动力齿轮转子(铱)
+
+ic2.itemMagnaliumRotor=§7动力齿轮转子(镁铝合金)
+ic2.itemUltimetRotor=§7动力齿轮转子(哈氏合金)
+
+ic2.blockGenerator=§7RTG POWARZ
+ic2.blockGenerator.0=§7RTG POWA
+ic2.blockGenerator.1=§7KINETIC POWA
+ic2.blockGenerator.2=§7ERROR POWA
+ic2.blockGenerator.3=§7MOAR ERROR POWA
+
+ic2.blockRTGenerator2=§7RTG POWARZ 2
+ic2.blockKineticGenerator2=§7KINETIC POWA 2
+
+ic2.HydrofluoricAcid=§7工业强化氢氟酸单元
+ic2.SulfurDioxide=§7二氧化硫单元
+ic2.SulfuricApatite=§7硫酸磷灰石单元
+ic2.SulfurousAcid=§7亚硫酸单元
+
+ic2.HydrogenChloride=§7工业强化氯化氢单元
+ic2.LithiumHydroxide=§7氢氧化锂单元
+ic2.SulfuricLithium=§7硫酸锂单元
+
+ic2.UraniumHexaFluoride=§7六氟化铀单元
+ic2.ThoriumTetraFluoride=§7四氟化钍单元
+ic2.UraniumTetraFluoride=§7四氟化铀单元
+
+
+ic2.itemArmorHazmatHelmetEx=§7高级防化头盔
+ic2.itemArmorHazmatChestplateEx=§7高级防化服
+ic2.itemArmorHazmatLeggingsEx=§7高级防化护腿
+ic2.itemArmorRubBootsEx=§7高级防化靴子

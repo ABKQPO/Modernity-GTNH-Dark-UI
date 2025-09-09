@@ -1,0 +1,20 @@
+####################
+# APIARIST'S PIPE
+####################
+
+item.buildcraftPipe.pipeitemspropolis.name=§7Tubo do Apicultor
+
+for.gui.pipe.filter.anything=§7Nada
+for.gui.pipe.filter.bee=§7Quaisquer Abelhas
+for.gui.pipe.filter.cave=§7Habitante de Cavernas
+for.gui.pipe.filter.closed=§7Fechado
+for.gui.pipe.filter.drone=§7Zangões
+for.gui.pipe.filter.flyer=§7Insetos Fortes
+for.gui.pipe.filter.item=§7Ítens
+for.gui.pipe.filter.nocturnal=§7Abelhas Noturnas
+for.gui.pipe.filter.princess=§7Princesas
+for.gui.pipe.filter.pure_breed=§7Abelhas de Raça Pura
+for.gui.pipe.filter.pure_cave=§7Puras Habitantes das Cavernas
+for.gui.pipe.filter.pure_flyer=§7Insetos Puros
+for.gui.pipe.filter.pure_nocturnal=§7Abelhas Noturnas Puras
+for.gui.pipe.filter.queen=§7Rainha

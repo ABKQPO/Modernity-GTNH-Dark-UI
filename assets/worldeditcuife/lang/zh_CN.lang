@@ -1,0 +1,25 @@
+com.github.hexosse.wecuife.options.title=§7WorldEditCUI选项
+
+com.github.hexosse.wecuife.keys.toggle=§7显示/隐藏 WECUI
+com.github.hexosse.wecuife.keys.clear=§7取消WorldEdit选择区域
+com.github.hexosse.wecuife.keys.category=§7WorldEditCUI按键设置
+
+gui.ok=§7OK
+
+colour.cuboidedge=§7长方体边缘颜色
+colour.cuboidgrid=§7长方体网格颜色
+colour.cuboidpoint1=§7长方体第一点颜色
+colour.cuboidpoint2=§7长方体第二点颜色
+colour.polygrid=§7多边形网格颜色
+colour.polyedge=§7多边形边缘颜色
+colour.polypoint=§7多边形点颜色
+colour.ellipsoidgrid=§7椭球形网格颜色
+colour.ellipsoidpoint=§7椭球形中心点颜色
+colour.cylindergrid=§7圆柱形网格颜色
+colour.cylinderedge=§7圆柱形边缘颜色
+colour.cylinderpoint=§7圆柱形中心点颜色
+
+gui.options.compat.title=§7兼容性选项
+gui.options.compat.spammy=§7混杂模式(始终发送/we cui命令)
+gui.options.compat.ontop=§7始终在前面(mod兼容选项)
+gui.options.colours.title=§7显示颜色

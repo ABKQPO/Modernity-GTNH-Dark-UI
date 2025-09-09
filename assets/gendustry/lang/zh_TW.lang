@@ -1,0 +1,122 @@
+#zh_TW
+
+tile.gendustry.mutagen.name=§7誘變劑
+tile.gendustry.mutagen_producer.name=§7誘變劑制造機
+tile.gendustry.mutatron.name=§7突變方塊
+tile.gendustry.mutatron_adv.name=§7高級突變方塊
+tile.gendustry.apiary.name=§7工業蜂箱
+tile.gendustry.imprinter.name=§7基因復制機
+tile.gendustry.sampler.name=§7基因拓模機
+
+item.gendustry.mutagen.bucket.name=§7誘變劑桶
+item.gendustry.mutagen.can.name=§7誘變劑罐
+
+item.gendustry.MutagenTank.name=§7誘變劑儲罐
+item.gendustry.BeeReceptacle.name=§7蜜蜂插槽
+item.gendustry.PowerModule.name=§7能量模塊
+item.gendustry.GeneticsProcessor.name=§7基因加工儀
+item.gendustry.UpgradeFrame.name=§7升級框架
+item.gendustry.ClimateModule.name=§7氣候控制模塊
+item.gendustry.Labware.name=§7基因藥皿
+item.gendustry.GeneSample.name=§7基因樣本
+item.gendustry.GeneTemplate.name=§7基因模板
+item.gendustry.GeneSampleBlank.name=§7空白基因模板
+item.gendustry.Waste.name=§7基因無表達片段
+item.gendustry.grafter.name=§7工業剪枝器
+
+gendustry.upgrades.prod.name=§7產量升級
+gendustry.upgrades.life.name=§7壽命升級
+gendustry.upgrades.flowering.name=§7授粉升級
+gendustry.upgrades.territory.name=§7范圍升級
+gendustry.upgrades.sealing.name=§7氣密性升級
+gendustry.upgrades.light.name=§7光照升級
+gendustry.upgrades.sky.name=§7露天升級
+gendustry.upgrades.hell.name=§7地獄升級
+gendustry.upgrades.auto.name=§7自動化升級
+gendustry.upgrades.humidifier.name=§7加濕器升級
+gendustry.upgrades.dryer.name=§7烘干器升級
+gendustry.upgrades.heater.name=§7加熱器升級
+gendustry.upgrades.sieve.name=§7篩子升級
+gendustry.upgrades.cooler.name=§7冷卻器升級
+
+fluid.gendustry.mutagen=§7誘變劑
+
+gendustry.label.template.crafting=§7基因樣本可以被添加到模板中.在工作臺中就可以完成此操作.多個樣本可以一次添加到同一模板中.
+
+gendustry.label.charges=§7充能: %s
+gendustry.label.select=§7選擇:
+
+gendustry.label.breeding=§7飼育中
+gendustry.label.working=§7生產中
+gendustry.label.maxinstall=§7最大安裝量:
+gendustry.label.temperature=§7溫度: %s
+gendustry.label.humidity=§7濕度: %s
+gendustry.label.energy=§7需求能量: %s %s/t
+gendustry.label.lifespan=§7壽命調整: %s
+gendustry.label.flowering=§7授粉幾率: %s
+gendustry.label.production=§7產量調整: %s
+gendustry.label.territory=§7活動范圍: %s
+
+gendustry.label.erase=§7放入熔爐以清除基因內容
+gendustry.label.recipes=§7點擊以查看合成表
+gendustry.label.consume=§7消耗幾率:: %s%%
+gendustry.label.mutatron.death=§7死亡率(卑賤): %s%%
+gendustry.label.mutatron.degrade=§7衰退率 (原始): %s%%
+
+gendustry.label.mod.automated=§7* 自動化
+gendustry.label.mod.hellish=§7* 地獄環境模擬
+gendustry.label.mod.sealed=§7* 避雨
+gendustry.label.mod.selflighted=§7* 內部照明
+gendustry.label.mod.sky=§7* 露天模擬
+gendustry.label.mod.energy=§7* 能量消耗
+gendustry.label.mod.lifespan=§7* 壽命
+gendustry.label.mod.flowering=§7* 開花授粉
+gendustry.label.mod.geneticDecay=§7* 基因衰退
+gendustry.label.mod.mutation=§7* 突變率
+gendustry.label.mod.production=§7* 產量
+gendustry.label.mod.territory=§7* 活動范圍
+gendustry.label.mod.sieve=§7* 授粉
+gendustry.label.mod.temperature=§7* 溫度
+gendustry.label.mod.humidity=§7* 濕度
+
+gendustry.error.power=§7能量不足
+
+gendustry.label.sample.rootBees=§7采集自蜜蜂
+gendustry.label.sample.rootTrees=§7采集自樹苗
+gendustry.label.sample.rootButterflies=§7采集自蝴蝶
+
+gendustry.label.template.rootBees=§7可以用于蜜蜂
+gendustry.label.template.rootTrees=§7可以用于樹苗
+gendustry.label.template.rootButterflies=§7可以用于蝴蝶
+gendustry.label.template.blank=§7可以添加基因樣本
+
+gendustry.chromosome.FLOWER_PROVIDER=§7授粉對象
+gendustry.chromosome.GIRTH=§7周長
+gendustry.chromosome.SPEED=§7速度
+gendustry.chromosome.YIELD=§7產量
+gendustry.chromosome.HEIGHT=§7高度
+gendustry.chromosome.GROWTH=§7成長
+gendustry.chromosome.FLOWERING=§7開花
+gendustry.chromosome.METABOLISM=§7代謝
+gendustry.chromosome.LIFESPAN=§7壽命
+gendustry.chromosome.TERRITORY=§7活動范圍
+gendustry.chromosome.FERTILITY=§7生育能力
+gendustry.chromosome.SIZE=§7大小
+gendustry.chromosome.HUMIDITY=§7濕度
+gendustry.chromosome.SPECIES=§7品種
+gendustry.chromosome.FIRE_RESIST=§7耐火性
+gendustry.chromosome.TEMPERATURE_TOLERANCE=§7溫度適應性
+gendustry.chromosome.HUMIDITY_TOLERANCE=§7濕度適應性
+gendustry.chromosome.PLANT=§7植物
+gendustry.chromosome.EFFECT=§7特殊效果
+gendustry.chromosome.CAVE_DWELLING=§7穴居性
+gendustry.chromosome.MATURATION=§7成熟
+gendustry.chromosome.NOCTURNAL=§7夜行性
+gendustry.chromosome.TOLERANT_FLYER=§7耐雨飛行性
+gendustry.chromosome.FRUITS=§7果實
+gendustry.chromosome.SAPPINESS=§7多汁
+
+gendustry.allele.false=§7假
+gendustry.allele.true=§7真
+
+bdlib.label.empty=§7空

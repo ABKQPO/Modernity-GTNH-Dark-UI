@@ -1,0 +1,31 @@
+# Galacticraft Moon Language File =§7THAILAND
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7เหล็กอุกกาบาตดิบ
+item.compressedMeteoricIron.name=§7แผ่นเหล็กอุกกาบาต
+item.meteoricIronIngot.name=§7แท่งเหล็กอุกกาบาต
+
+# FOOD
+item.cheeseCurd.name=§7เศษชีส
+item.cheeseBlock.name=§7บล็อกชีส
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7หินดวงจันทร์
+tile.moonBlock.moondirt.name=§7ดินดวงจันทร์
+tile.moonBlock.moongrass.name=§7หินผิวดวงจันทร์
+tile.moonBlock.tinmoon.name=§7แร่ดีบุก
+tile.moonBlock.coppermoon.name=§7แร่ทองแดง
+tile.moonBlock.cheesestone.name=§7แร่ชีส
+tile.moonBlock.bricks.name=§7อิฐดันเจี้ยนดวงจันทร์
+tile.cheeseBlock.name=§7บล็อกชีส
+
+# GUI
+gui.choosePlanet.desc.moon=§7อาศัยอยู่ได้#ไม่มีออกซิเจน#แรงโน้มถ่วง: 18%
+
+# OTHER
+container.lander.name=§7ยานลงจอด
+dimension.Moon.name=§7ดวงจันทร์

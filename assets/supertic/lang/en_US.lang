@@ -1,0 +1,7 @@
+#Rituals
+ritual.SuperTiC_Modifier.name=§7Spell of the diligent Tinkerer
+
+#Thaumcraft Compat Stuff
+tc.research_name.TINKERSAUGMENTATION=§7Thaumic Augmentation
+tc.research_text.TINKERSAUGMENTATION=§7Are you trying to magically obtain more spell slots? Because that's how you magically obtain more spell slots.
+STiC=§7By using your infusion matrix you were able to add an additional modifier to your Tinker's Construct Tools. Sadly the matrix is only capable of doing this once per tool.

@@ -1,0 +1,172 @@
+tile.playerinterface.name=§7Interfarce du joueur
+tile.creativePlayerInterface.name=§7Interface créative du joueur
+tile.fluidDisplay.name=§7Affichage des fluides
+tile.advancedFluidDisplay.name=§7Affichage avancé des fluides
+tile.fertilizedDirt.name=§7Terre fertilisée
+tile.itemCollector.name=§7Collecteur d'item
+tile.advancedItemCollector.name=§7Collecteur d'item avancé
+tile.onlineDetector.name=§7Dectecteur de présence en ligne
+tile.moonSensor.name=§7Capteur de phase de lune
+tile.notificationInterface.name=§7Interface de notification
+tile.wirelessLever.name=§7Levier sans fil
+tile.lapisLamp.name=§7Lampe de lapis
+tile.dyeingMachine.name=§7Machine à colorer
+tile.imbuingStation.name=§7Imbuing Station
+tile.spectreGlass.name=§7Verre fantomatique
+tile.energyDistributor.name=§7Distributeur d'énergie
+tile.enderEnergyDistributor.name=§7Distributeur d'énergie Ender
+tile.bloodMoonSensor.name=§7Capteur de lune de sang
+
+tile.spectreBlock.name=§7Bloc fantomatique
+tile.spectreBlock.black.name=§7Bloc fantomatique noir
+tile.spectreBlock.red.name=§7Bloc fantomatique rouge
+tile.spectreBlock.green.name=§7Bloc fantomatique vert
+tile.spectreBlock.brown.name=§7Bloc fantomatique marron
+tile.spectreBlock.blue.name=§7Bloc fantomatique bleu
+tile.spectreBlock.purple.name=§7Bloc fantomatique violet
+tile.spectreBlock.cyan.name=§7Bloc fantomatique cyan
+tile.spectreBlock.silver.name=§7Bloc fantomatique gris clair
+tile.spectreBlock.gray.name=§7Bloc fantomatique gris
+tile.spectreBlock.pink.name=§7Bloc fantomatique rose
+tile.spectreBlock.lime.name=§7Bloc fantomatique lime
+tile.spectreBlock.yellow.name=§7Bloc fantomatique jaune
+tile.spectreBlock.lightBlue.name=§7Bloc fantomatique bleu clair
+tile.spectreBlock.magenta.name=§7Bloc fantomatique magenta
+tile.spectreBlock.orange.name=§7Bloc fantomatique orange
+tile.spectreBlock.white.name=§7Bloc fantomatique blanc
+
+itemGroup.Random Things=§7Choses au hasard
+item.filterBlock.name=§7Filtre à blocs
+item.filterItem.name=§7Filtre à items
+item.filterEntity.name=§7Filtre à entitées
+item.filterPosition.name=§7Filtre de position
+item.biomeSolution.name=§7Solution
+item.biomeCapsule.name=§7Capsule de biome
+item.biomePainter.name=§7Coloreur de biome
+item.whitestoneUncharged.name=§7Pierre blanche [non chargée]
+item.whitestoneCharged.name=§7Pierre blanche [chargé]
+item.voidStone.name=§7Pierre du void
+item.dropFilter.name=§7Filtre de drop
+item.dropFilterVoiding.name=§7Filtre destructeur de drop
+item.enderLetter.name=§7Lettre de l'ender
+item.spectreKey.name=§7Clef fantomatique
+item.opSpectreKey.name=§7Clef fantomatique op
+item.soundRecorder.name=§7Enregistreur de sons
+item.spectreSword.name=§7Épée spectrale
+item.spectreHelmet.name=§7Casque spectral
+item.spectreChestplate.name=§7Plastron spectral
+item.spectreLeggings.name=§7Pantalon spectral
+item.spectreBoots.name=§7Bottes spectrales
+item.spiritBinder.name=§7Lieur d'esprit
+item.magneticForce.name=§7Force magnétique
+item.gintoEmpty.name=§7Ginto vide
+item.gintoFilled.name=§7Ginto plein
+item.creativeSword.name=§7Épée creative
+item.creativeGrower.name=§7Cultivateur créatif
+item.creativeChestGenerator.name=§7Générateur de coffre créatif
+item.playerCore.name=§7Noyau de joueur
+item.obsidianStick.name=§7Bâton d'obsidienne
+item.enderFragment.name=§7Fragment d'ender
+item.ectoplasm.name=§7Ectoplasme
+item.spectreIron.name=§7Fer fantomatique
+item.transformationCore.name=§7Noyau de transformation
+item.enderDiamond.name=§7Diamant de l'ender
+item.energizedWater.name=§7Eau énergisé
+item.bloodStone.name=§7Pierre de sang
+item.error.name=§7Item invalide
+
+item.imbue.poison.name=§7Flacon de poison
+item.imbue.experience.name=§7Flacon d'expérience
+item.imbue.fire.name=§7Flacon de feu
+item.imbue.wither.name=§7Flacon de wither
+item.imbue.weakness.name=§7Flacon de faiblesse
+item.imbue.spectre.name=§7Flacon de spectre
+
+imbue.poison=§7Poison imprégné
+imbue.experience=§7Experience imprégné
+imbue.fire=§7Feu imprégné
+imbue.wither=§7Wither imprégné
+imbue.weakness=§7Faiblesse imprégné
+imbue.spectre=§7Spectre imprégné
+
+entity.spirit.name=§7Esprit
+entity.bloodmoonCircle.name=§7Cercle de la lune de sang
+
+text.miscellaneous.press=§7Appuyer sur %s pour plus d'info
+text.miscellaneous.shift=§7shift
+text.miscellaneous.block=§7Bloc
+text.miscellaneous.metadata=§7Metadata
+text.miscellaneous.oreDictionary=§7Dictionnaire-de-minerais
+text.miscellaneous.listType=§7List-Type
+text.miscellaneous.entityid=§7Id d'entité
+text.miscellaneous.entityName=§7Nom de l'entité
+text.miscellaneous.connectedTo=§7Connecté à
+text.miscellaneous.invalidArguments=§7Arguments invalide
+text.miscellaneous.setBonus=§7Mettre-bonus :
+text.miscellaneous.opOnly=§7Operateurs seulement
+text.miscellaneous.creativeOnly=§7Créatif seulement
+text.miscellaneous.category=§7Catégorie: %s
+text.miscellaneous.shiftCategory=§7Maj click pour changer la catégorie
+text.miscellaneous.save=§7Sauvegarder
+text.miscellaneous.charges=§7Charges: %d
+
+text.miscellaneous.whiteList=§7Whitelist
+text.miscellaneous.blackList=§7Blacklist
+
+text.miscellaneous.yes=§7Oui
+text.miscellaneous.no=§7Non
+
+text.onlineDetector.detectingNobody=§7Personne détectée
+text.onlineDetector.detecting=§7"Détection %s"
+
+text.miscellaneous.ignoreOreDict=§7Ignorer le dictionnaire de minerais
+text.miscellaneous.useOreDict=§7Utiliser le dictionnaire de minerais
+
+text.miscellaneous.ignoreMetadata=§7Ignorer la metadata
+text.miscellaneous.useMetadata=§7Utiliser la metadata
+
+text.miscellaneous.noTarget=§7Aucune cible selectionnée (Shift click sur un bloc)
+text.miscellaneous.target.x=§7Cible-X: %d
+text.miscellaneous.target.y=§7Cible-Y: %d
+text.miscellaneous.target.z=§7Cible-Z: %d
+
+text.miscellaneous.position.x=§7Pos-X: %d
+text.miscellaneous.position.y=§7Pos-Y: %d
+text.miscellaneous.position.z=§7Pos-Z: %d
+text.miscellaneous.dimension=§7Dimension: %d
+
+text.spectre.soulSolid=§7Âme pleine
+
+text.dyed=§7Dyed %s
+text.color.black=§7Noir
+text.color.red=§7Rouge
+text.color.green=§7Vert
+text.color.brown=§7Marron
+text.color.blue=§7Bleu
+text.color.purple=§7Violet
+text.color.cyan=§7Cyan
+text.color.silver=§7Gris claire
+text.color.gray=§7Gris
+text.color.pink=§7Rose
+text.color.lime=§7Lime
+text.color.yellow=§7Jaune
+text.color.lightBlue=§7Bleu clair
+text.color.magenta=§7Magenta
+text.color.orange=§7Orange
+text.color.white=§7Blanc
+
+text.error.nbt=§7Ne peut pas utiliser le fichier NBT, des choses comme des lettres ou des événements magnétiques ne survivront pas après un redémarrage.
+
+text.magneticForce.notOnline=§7Pas en ligne
+text.magneticForce.invalidUsername=§7Nom d'utilisateur invalide
+text.magneticForce.noRights=§7Pas le droit
+text.magneticForce.notYourself=§7Pas pour vous
+
+text.enderLetter.noReceiver=§7Pas de receveur mit
+text.enderLetter.receiver=§7Receveur: %s
+text.enderLetter.sender=§7Envoyeur: %s
+text.enderLetter.invalidreceiver=§7Vous avez specifié un mauvais receveur
+text.enderLetter.empty=§7Vous ne pouvez pas envoyer une lettre vide
+
+text.bloodmoon.command=§7Il y aura une lune de sang la nuit prochaine
+text.bloodmoon.notify=§7La lune de sang s'éléve...

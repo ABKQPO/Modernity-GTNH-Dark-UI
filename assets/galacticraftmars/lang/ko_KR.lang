@@ -1,0 +1,193 @@
+# Galacticraft Mars Language File =§7KOREA KOREAN
+
+# GENERAL ITEMS
+item.rawDesh.name=§7가공되지 않은 데쉬
+item.deshStick.name=§7데쉬 막대기
+item.ingotDesh.name=§7데쉬 주괴
+item.spaceshipTier2.t2Rocket.name=§72티어 로켓
+item.reinforcedPlateT2.name=§7강화 플레이트
+item.tier2.desc=§72티어
+item.slimelingCargo.name=§7슬라임링 인벤토리 가방
+item.key.T2.name=§72티어 던전 열쇠
+item.compressedDesh.name=§7압축된 데쉬
+item.spaceshipTier2.cargoRocket.name=§7화물 로켓
+item.fluidManip.name=§7유체 조정기
+item.bucketSludge.name=§7세균 슬러지 양동이
+fluid.bacterialsludge=§7세균 슬러지
+
+# TOOLS
+item.deshPick.name=§7데쉬 곡괭이
+item.deshPickSlime.name=§7접착 데쉬 곡괭이
+item.deshAxe.name=§7데쉬 도끼
+item.deshHoe.name=§7데쉬 괭이
+item.deshSpade.name=§7데쉬 삽
+item.deshSword.name=§7데쉬 검
+
+# ARMOR
+item.deshHelmet.name=§7데쉬 헬멧
+item.deshChestplate.name=§7데쉬 상의
+item.deshLeggings.name=§7데쉬 하의
+item.deshBoots.name=§7데쉬 부츠
+
+# BLOCKS
+tile.mars.deshmars.name=§7데쉬 광석
+tile.mars.coppermars.name=§7구리 광석
+tile.mars.tinmars.name=§7주석 광석
+tile.mars.ironmars.name=§7철광석
+tile.mars.marscobblestone.name=§7화성 조약돌
+tile.mars.marsstone.name=§7화성석
+tile.mars.marsdirt.name=§7화성 저표석
+tile.mars.marsgrass.name=§7화성 지표석
+tile.mars.marsdeco.name=§7데쉬 블록
+tile.mars.marsdungeon.name=§7화성 던전 벽돌
+tile.treasureT2.name=§72티어 보물상자
+tile.slimelingEgg.redEgg.name=§7붉은 슬라임링 알
+tile.slimelingEgg.blueEgg.name=§7푸른 슬라임링 알
+tile.slimelingEgg.yellowEgg.name=§7노란 슬라임링 알
+tile.marsMachine.0.name=§7테라포머
+tile.marsMachine.1.name=§7극저온실
+tile.marsMachine.2.name=§7발사 통제기
+tile.marsMachine.4.name=§7가스 액화기
+tile.marsMachine.5.name=§7메탄 합성기
+tile.marsMachine.6.name=§7전기 분해기
+tile.hydrogenPipe.name=§7수소 파이프
+tile.sludge.name=§7세균 슬러지
+tile.creeperEgg.name=§7크리퍼 알
+tile.cavernVines.name=§7동굴 넝굴
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7화성 조약돌 계단
+tile.wallGC.mars.name=§7화성 조양돌 담장
+tile.slabGCHalf.marsSlab.name=§7화성 조약돌 반 블록
+tile.marsDungeonBricksStairs.name=§7화성 던전 벽돌 계단
+tile.wallGC.marsBricks.name=§7화성 던전 벽돌 담장
+tile.slabGCHalf.marsBricksSlab.name=§7화성 던전 벽돌 반 블록
+
+# GUI
+gui.choosePlanet.desc.mars=§7거주 가능#산소 부족#중력: 38%
+item.deshPickSlime.description.name=§7크리퍼 알 채취가능
+gui.message.noEnergy.name=§7에너지가 부족합니다!
+gui.message.noWater.name=§7물이 부족합니다
+gui.message.noBonemeal.name=§7뼛가루가 부족합니다
+gui.message.noSeeds.name=§7씨앗이 부족합니다
+gui.message.noSaplings.name=§7묘목이 부족합니다
+gui.message.bubbleExp.name=§7기포 팽창 중
+gui.message.noValidBlocks.name=§7기포 내부에 유효한 블록 없음
+gui.message.terraforming.name=§7테라포밍 중
+gui.message.enableTrees.name=§7나무 활성화
+gui.message.enableGrass.name=§7잔디 활성화
+gui.message.trees.name=§7나무
+gui.message.grass.name=§7잔디
+gui.message.invalidFreq.name=§7잘못된 주파수
+gui.message.frequency.name=§7주파수
+gui.message.destFrequency.name=§7목적지 주파수
+gui.message.removePad.name=§7발사대 제거
+gui.message.launchWhen.name=§7발사 조건:
+gui.message.cargoUnloaded.name=§7화물이 비었을시
+gui.message.cargoFull.name=§7화물이 가득찰시
+gui.message.fullyFueled.name=§7연료 최대공급시
+gui.message.instant.name=§7즉시
+gui.message.tenSec.name=§710초
+gui.message.thirtySec.name=§730초
+gui.message.oneMin.name=§71분
+gui.message.redstoneSig.name=§7레드스톤 신호
+gui.message.notSet.name=§7설정안됨
+gui.message.notEnough.name=§7부족
+gui.message.success.name=§7성공
+gui.message.zeroWater.name=§7물이 부족합니다!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7발사 통제기의$고유 주파수
+gui.launchController.desc.1=§7로켓 발사 방향 (목적지) 주파수
+gui.launchController.desc.2=§7로켓 발사시$발사대 제거 여부
+gui.launchController.desc.3=§7현재 조건이 만족될 경우$로켓이 발사됩니다
+gui.launchController.desc.4=§7다른 플레이어들로부터$목적지 주파수를 숨깁니다
+gui.terraformer.desc.0=§7물 탱크
+
+gui.gasTank.desc.0=§7가스 저장고
+gui.gasTankCompressed.desc.0=§7가스 저장고 (압축됨)
+gui.liquidTank.desc.0=§7액체 탱크
+gui.status.nogas.name=§7가스 없음
+gui.status.liquefying.name=§7액화 중
+gui.status.processing.name=§7합성 중
+gui.status.needsCarbon.name=§7탄소 필요
+gui.status.tankfull.name=§7탱크 꽉참
+gui.status.tanksfull.name=§7탱크 전체 꽉참
+gui.message.lowEnergy.name=§7에너지 적음
+gui.button.liquefy.name=§7가공시작
+gui.button.liquefyStop.name=§7중단
+gui.gasInput.desc.0=§7메탄가스통을 이곳에 배치하시오
+gui.gasInput.desc.1=§7(또는, 대기밸브를$대신 배치가능)
+gui.hydrogenInput.desc.0=§7수소 탱크를 이곳에 배치하시오
+gui.hydrogenInput.desc.1=§7혹은 대기밸브또한 가능
+gui.liquidOutput.desc.2=§7액체화된 가스 탱크
+gui.methaneOutput.desc.2=§7메탄 탱크
+gui.message.withAtmosphere0.name=§7현 행성의 대기에
+gui.message.withAtmosphere1.name=§7(이)가 풍부합니다.
+item.carbonFragments.name=§7탄소 파편
+gui.carbonSlot.desc.0=§7탄소 파편을 이곳에 배치하시오
+gui.waterBucketSlot.desc=§7물양동이를 이곳에 배치하시오
+
+gui.cargorocket.status.waiting.0=§7다음을 기다리는중:
+gui.cargorocket.status.waiting.1=§7발화
+gui.cargorocket.status.launched.0=§7이미
+gui.cargorocket.status.launched.1=§7발사됨
+
+gas.carbondioxide.name=§7이산화탄소
+gas.oxygen.name=§7산소
+gas.nitrogen.name=§7질소
+
+gui.desc.reinforcedPlateT2.name=§72티어
+dimension.Mars.name=§7화성
+planet.mars=§7화성
+
+tile.treasureT2.description=§7화성 던전안에 2티어 보물상자가 생성됩니다. 최종보스를 처치 했을시 열 수 있습니다.
+tile.cavernVines.description=§7동굴 넝쿨은 움직이는 동물에게 치명적입니다. 동물을 휘감아 들어올립니다.
+tile.slimelingEgg.description=§7슬라임링 알을 플레이어가 손에서 부화시켰을경우, 슬라임링을 펫으로 키울 수 있습니다.
+tile.cryoChamber.description=§7극저온실은 플레이어가 낮에 잠을 잘 수 있도록 도와줍니다. 쿨다운 시간이 존재하지만 소량의 체력을 회복시킵니다.
+tile.launchController.description=§7발사 통제기를 통해 로켓 발사 패턴을 커스터마이징 할 수 있습니다.
+tile.terraformer.description=§7테라포머는 특정 재료가 주어지면 잔디, 나무, 물과 같이 식물을 다른 행성에 키울 수 있는 환경을 만들어 줍니다.
+tile.creeperEgg.description=§7폭발하며 크리퍼를 부화시키는 크리퍼 알은 화성 던전에 생성됩니다.
+tile.gasLiquefier.description=§7대기 혹은 플레이어에 의해 주어진 기체를 액체화 시킵니다. (팁: 액체메탄 로켓 연료)
+tile.methaneSynthesizer.description=§7수소와 탄소를 이용해 가스 액화기에서 가공 가능한 메탄을 합성합니다.
+tile.electrolyzer.description=§7(메탄 합성기에 유용한) 수소와 산소를 물에서 부터 전기분해합니다.
+tile.hydrogenPipe.description=§7수소 파이프는 수소를 한 기기에서 다른 기기로 수송 할 시 필요합니다.
+
+gui.slimeling.chat.wrongPlayer=§7어라? 내 슬라임링이 아니잖아!
+gui.cryogenic.chat.cantUse=§7%d 초 뒤에 다시 사용할 수 있습니다
+gui.slimeling.name=§7이름
+gui.slimeling.owner=§7주인
+gui.slimeling.kills=§7킬 수
+gui.slimeling.scale=§7크기
+gui.slimeling.button.sit=§7앉기
+gui.slimeling.button.follow=§7따라가기
+gui.slimeling.sitting=§7앉은 상태
+gui.slimeling.following=§7따라오는중
+gui.slimeling.damage=§7공격 데미지
+gui.slimeling.food=§7기호 음식
+
+# SCHEMATICS
+schematic.rocketT3.name=§73티어 로켓
+schematic.cargoRocket.name=§7자동 화물 로켓
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7화물 로켓
+entity.GalacticraftMars.CreeperBoss.name=§7진화한 크리퍼 보스
+entity.GalacticraftMars.LandingBalloons.name=§7착륙 기구
+entity.GalacticraftMars.Slimeling.name=§7슬라임링
+entity.GalacticraftMars.Sludgeling.name=§7슬러지링
+entity.GalacticraftMars.SpaceshipT2.name=§72티어 로켓
+
+# CONTAINERS
+container.launchcontroller.name=§7발사 통제기
+container.tileTerraformer.name=§7테라포머
+container.marsLander.name=§7착륙 기구
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7화성 세계 ID
+gc.configgui.idSchematicRocketT2=§72티어 로켓 설계도 ID
+gc.configgui.idSchematicCargoRocket=§7화물 로켓 설계도 ID
+gc.configgui.launchControllerChunkLoad=§7발사 통제기 청크로드
+gc.configgui.launchControllerAllDims=§7발사 통제기 모든 세계
+
+gc.configgui.planets.title=§7Galacticraft 행성 커스터마이징

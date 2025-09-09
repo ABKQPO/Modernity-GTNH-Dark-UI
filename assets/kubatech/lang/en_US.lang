@@ -1,2 +1,261 @@
+#This file is a translation file for KubaTech
+
+#RecipeMaps
+kubatech.defusioncrafter=§7Draconic Evolution Fusion Crafter
+
+#NEI
+kubatech.defusioncrafter.tier=§7Tier Casing: %s
+kubatech.mobhandler.eec_chance=§7§5Chance to drop in EEC: %.2f%%
+kubatech.mobhandler.eec_disabled=§7§5Does not drop in EEC
+
+#Commands
+kubatech.commandhandler.invalid=§7§cInvalid use ! The proper use of this command is /%s
+kubatech.commandhandler.cant_find=§7§cCan't find command option %s
+kubatech.commandhandler.generic_help=§7§cYou can also use "/kubatech help" to get possible commands
+kubatech.commandhandler.usage=§7<option>
+kubatech.command.help.possible_commands=§7Possible commands:
+kubatech.command.help.usage=§7- Shows all possible commands
+kubatech.command.config.invalid_option=§7§cInvalid option ! Possible options: reload
+kubatech.command.config.success=§7§aConfig reloaded successfully !
+kubatech.command.config.usage=§7<option>
+
+kubatech.command.tea.invalid_option=§7§cInvalid usage !
+kubatech.command.tea.player_not_found=§7§cPlayer not found !
+kubatech.command.tea.success_get=§7Player %s has %d Tea
+kubatech.command.tea.success_set=§7Player %s now has %d Tea
+kubatech.command.tea.success_add=§7Player %s now has %d Tea
+kubatech.command.tea.usage=§7<username> get/set/add (<amount>)
+
+#GUI
+GT5U.gui.text.EEC_nospawner=§7No powered spawner!
+GT5U.gui.text.EEC_invalidspawner=§7Invalid spawner!
+GT5U.gui.text.EEC_peaceful=§7Inserted mob cannot spawn on peaceful mode!
+GT5U.gui.text.MegaApiary_slotoverflow=§7Too many bees inside!
+GT5U.gui.text.MegaApiary_noflowers=§7Missing flowers!
+GT5U.gui.text.EIG_slotoverflow=§7Too many seed types inside!
+GT5U.gui.text.EIG_seedOverflow=§7Too many seeds inside!
+GT5U.gui.text.EIG_missingwater=§7No water!
+GT5U.gui.text.EIG_ic2glass=§7Insufficient glass tier!
+
+## General
+kubatech.gui.text.configuration=§7Configuration
+
+kubatech.gui.text.tea_ultimate.status=§7STATUS
+kubatech.gui.text.tea_ultimate.tea=§7Tea
+kubatech.gui.text.tea_ultimate.tea_limit=§7Tea limit
+kubatech.gui.text.tea_ultimate.exchange=§7EXCHANGE
+kubatech.gui.text.tea_ultimate.exchange.cost=§7Cost: %s Tea
+kubatech.gui.text.tea_ultimate.benefits=§7BENEFITS
+kubatech.gui.tooltip.tea_ultimate.tea_acceptor_research_note=§7Tea Acceptor Research Note
+
+kubatech.gui.text.tea_acceptor.name=§7Tea Acceptor
+kubatech.gui.text.tea_acceptor.tea=§7[Tea]
+kubatech.gui.text.tea_acceptor.not_owner=§7This is not your block
+kubatech.gui.text.tea_acceptor.in=§7IN: %s/t
+kubatech.gui.text.tea_acceptor.in.tooltip=§7Average input from the last 5 seconds
+
+kubatech.gui.text.eec.preserve_weapon_on=§7Weapon Preservation: ON
+kubatech.gui.text.eec.preserve_weapon_off=§7Weapon Preservation: OFF
+kubatech.gui.text.eec.preserve_weapon_warning=§7Not using GUI weapon.
+kubatech.gui.text.eec.cycle_weapons_on=§7Weapon Cycling: ON
+kubatech.gui.text.eec.cycle_weapons_off=§7Weapon Cycling: OFF
+kubatech.gui.text.eec.cycle_weapons.info=§7If §fWeapon Preservation§r is enabled, moves almost broken weapons from the GUI to Output Buses, if there's space.
+kubatech.gui.text.eec.void_all_damaged_on=§7Void damaged and enchanted items: ON
+kubatech.gui.text.eec.void_all_damaged_off=§7Void damaged and enchanted items: OFF
+kubatech.gui.text.eec.void_all_damaged.warning=§7Does not affect infernal drops and some special drops like the Sticky Sword! Will never void the weapon in the GUI slot.
+kubatech.gui.text.eec.infernal_drop_on=§7Allow Infernal Spawns: ON
+kubatech.gui.text.eec.infernal_drop_off=§7Allow Infernal Spawns: OFF
+kubatech.gui.text.eec.infernal_drop_always=§7Does not affect mobs that are always infernal!
+kubatech.gui.text.eec.ritual_mode_on=§7Ritual Mode: ON
+kubatech.gui.text.eec.ritual_mode_off=§7Ritual Mode: OFF
+kubatech.gui.text.eec.ritual_mode_connected=§7Connected to ritual.
+kubatech.gui.text.eec.ritual_mode_error=§7Can't connect to ritual!
+
 kubatech.gui.text.inventory=§7Inventory
 kubatech.gui.text.status=§7Status
+kubatech.gui.text.operating=§7Operating
+kubatech.gui.text.input=§7Input
+kubatech.gui.text.output=§7Output
+kubatech.gui.text.eig.setup_mode=§7Setup mode
+kubatech.gui.text.eig.disabled=§7Disabled
+kubatech.gui.text.eig.enabled=§7Enabled
+kubatech.gui.text.eig.ic2_mode=§7IC2 mode
+kubatech.gui.text.eig.no_humidity_mode=§7No Humidity mode
+kubatech.gui.text.mia.primary_mode=§7Primary mode
+kubatech.gui.text.mia.normal=§7Normal
+kubatech.gui.text.mia.swarmer=§7Swarmer
+kubatech.gui.text.mia.secondary_mode=§7Secondary mode
+
+kubatech.gui.tooltip.dynamic_inventory.identical_slots=§7There are %d identical slots
+kubatech.gui.tooltip.dynamic_inventory.empty_slot=§7Empty slot
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_types=§7Remaining seed types: %d
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_capacity=§7Remaining seed capacity: %d
+
+#Chat Messages
+kubatech.chat.forbidden_while_running=§7Cannot change mode while running!
+
+kubatech.chat.eec.ritual_mode_enabled=§7Ritual mode enabled
+kubatech.chat.eec.ritual_mode_disabled=§7Ritual mode disabled
+kubatech.chat.eec.ritual_mode_connected=§7Successfully connected to ritual
+kubatech.chat.eec.ritual_mode_error=§7Can't connect to ritual!
+kubatech.chat.eec.infernal_drops_enabled=§7Mobs can spawn infernal
+kubatech.chat.eec.infernal_drops_disabled=§7Mobs will be prevented from spawning infernal
+
+# info data
+## general
+kubatech.infodata.running_mode=§7Running in mode:
+
+## Extreme Entity Crusher
+kubatech.infodata.eec.current_mob=§7Current Mob: §e%s
+kubatech.infodata.eec.current_mob.none=§7Current Mob: §eNone
+kubatech.infodata.eec.animations.enabled=§7Animations: §eEnabled
+kubatech.infodata.eec.animations.disabled=§7Animations: §eDisabled
+kubatech.infodata.eec.produce_infernal_drops.allowed=§7Is allowed to produce infernal drops: §eYes
+kubatech.infodata.eec.produce_infernal_drops.not_allowed=§7Is not allowed to produce infernal drops: §eNo
+kubatech.infodata.eec.void_damaged.yes=§7Void all damaged and enchanted items: §eYes
+kubatech.infodata.eec.void_damaged.no=§7Void all damaged and enchanted items: §eNo
+kubatech.infodata.eec.in_ritual_mode.yes=§7Is in ritual mode: §eYes
+kubatech.infodata.eec.in_ritual_mode.no=§7Is in ritual mode: §eNo
+kubatech.infodata.eec.connected_to_ritual.yes=§7Is connected to ritual: §aYes
+kubatech.infodata.eec.connected_to_ritual.no=§7Is connected to ritual: §cNo
+kubatech.infodata.eec.cycle_weapons.yes=§7Is cycling weapons: §eYes
+kubatech.infodata.eec.cycle_weapons.no=§7Is cycling weapons: §eNo
+kubatech.infodata.eec.weapon_preservation.yes=§7Is preserving weapons: §eYes
+kubatech.infodata.eec.weapon_preservation.no=§7Is preserving weapons: §eNo
+kubatech.infodata.eec.inserted_weapon.yes=§7Inserted weapon: §eYes
+kubatech.infodata.eec.inserted_weapon.no=§7Inserted weapon: §eNo
+kubatech.infodata.eec.weapon.damage=§7Weapon attack damage: §e%f
+kubatech.infodata.eec.weapon.looting_level=§7Weapon looting level: §e%d
+kubatech.infodata.eec.total_damage=§7Total attack damage: §e%f
+
+## Extreme Industrial Greenhouse
+kubatech.infodata.eig.running_mode.setup_mode.input=§7Setup mode (input)
+kubatech.infodata.eig.running_mode.setup_mode.output=§7Setup mode (output)
+kubatech.infodata.eig.uses.water=§7Uses %dL/operation of water
+kubatech.infodata.eig.uses.weedex=§7Uses %dL/second of Weed-EX 9000
+kubatech.infodata.eig.max_slots=§7Max slots:
+kubatech.infodata.eig.used_slots=§7Used slots:
+kubatech.infodata.bucket.humidity=§7Humidity:
+kubatech.infodata.bucket.humidity.on=§7On
+kubatech.infodata.bucket.humidity.off=§7Off
+kubatech.infodata.eig.too_many_types=§7There are too many seed types inside to run!
+kubatech.infodata.eig.too_many_seeds=§7There are too many seeds inside to run!
+
+## Mega Industrial Apiary
+kubatech.infodata.mia.running_mode.input=§7Input mode
+kubatech.infodata.mia.running_mode.output=§7Output mode
+kubatech.infodata.mia.running_mode.operating.normal=§7Operating mode (NORMAL)
+kubatech.infodata.mia.running_mode.operating.swarmer=§7Operating mode (SWARMER)
+kubatech.infodata.mia.running_mode.bee_storage=§7Bee storage (%s/%s):
+
+#Waila
+kubatech.waila.eec.mob_type=§7Mob Type: %s
+kubatech.waila.eec.no_mob=§7None
+kubatech.waila.eec.ritual_mode_connected=§7Connected to ritual
+kubatech.waila.eec.ritual_mode_error=§7Not connected to ritual!
+
+#Blocks
+kubablock.tea_acceptor.name=§7§4§lTea Acceptor
+kubablock.tea_storage.name=§7§4§lTea Storage Extender
+
+#DEFC Casings
+defc.casing.name=§7Fusion Casing
+defc.casing.tip=§7Draconic Evolution Fusion Crafter Casing, Tier %d
+
+#Items
+item.kubaitems.name=§7Tea / Tea Leaf
+kubaitem.fromcollection=§7This item is from
+kubaitem.notyours=§7It looks like that item is not yours
+kubaitem.defc_schematic_t1.name=§7Draconic Core Schematic
+kubaitem.defc_schematic_t1.tip=§7This Schematic can be found in Pluto Dungeons
+kubaitem.defc_schematic_t2.name=§7Wyvern Core Schematic
+kubaitem.defc_schematic_t3.name=§7Awakened Core Schematic
+kubaitem.defc_schematic_t4.name=§7Chaotic Core Schematic
+
+#Tea
+kubaitem.tea.black_tea.name=§7Black Tea
+kubaitem.tea.earl_gray_tea.name=§7Earl Gray Tea
+kubaitem.tea.green_tea.name=§7Green Tea
+kubaitem.tea.lemon_tea.name=§7Lemon Tea
+kubaitem.tea.milk_tea.name=§7Milk Tea
+kubaitem.tea.oolong_tea.name=§7Oolong Tea
+kubaitem.tea.peppermint_tea.name=§7Peppermint Tea
+kubaitem.tea.pu-erh_tea.name=§7Pu-erh Tea
+kubaitem.tea.white_tea.name=§7White Tea
+kubaitem.tea.yellow_tea.name=§7Yellow Tea
+kubaitem.teaingredient.black_tea_leaf.name=§7Black Tea Leaf
+kubaitem.teaingredient.green_tea_leaf.name=§7Green Tea Leaf
+kubaitem.teaingredient.oolong_tea_leaf.name=§7Oolong Tea Leaf
+kubaitem.teaingredient.pu-erh_tea_leaf.name=§7Pu-erh Tea Leaf
+kubaitem.teaingredient.white_tea_leaf.name=§7White Tea Leaf
+kubaitem.teaingredient.yellow_tea_leaf.name=§7Yellow Tea Leaf
+kubaitem.teaingredient.tea_leaf_dehydrated.name=§7Dehydrated Tea Leaf
+kubaitem.teaingredient.steamed_tea_leaf.name=§7Steamed Tea Leaf
+kubaitem.teaingredient.rolled_tea_leaf.name=§7Rolled Tea Leaf
+kubaitem.teaingredient.oxidized_tea_leaf.name=§7Oxidized Tea Leaf
+kubaitem.teaingredient.fermented_tea_leaf.name=§7Fermented Tea Leaf
+kubaitem.teaingredient.bruised_tea_leaf.name=§7Bruised Tea Leaf
+kubaitem.teaingredient.partially_oxidized_tea_leaf.name=§7Partially Oxidized Tea Leaf
+
+#Legendary Tea collection
+kubaitem.teacollection=§7Turbo Legendary Secret Tea Collection
+kubaitem.teacollection.mmm=§7Mmmm Tea
+kubaitem.teacollection.black_tea.name=§7§6§lKuba's Black Tea
+kubaitem.teacollection.butterfly_tea.name=§7§1§lKuba's Butterfly Pea Tea
+kubaitem.teacollection.earl_gray_tea.name=§7§6§lKuba's Earl Gray Tea
+kubaitem.teacollection.green_tea.name=§7§2§lKuba's Green Tea
+kubaitem.teacollection.lemon_tea.name=§7§e§lKuba's Lemon Tea
+kubaitem.teacollection.milk_tea.name=§7§f§lKuba's Milk Tea
+kubaitem.teacollection.oolong_tea.name=§7§e§lKuba's Oolong Tea
+kubaitem.teacollection.peppermint_tea.name=§7§a§lKuba's Peppermint Tea
+kubaitem.teacollection.pu-erh_tea.name=§7§4§lKuba's Pu-erh Tea
+kubaitem.teacollection.red_tea.name=§7§c§lKuba's Hibiscus Tea
+kubaitem.teacollection.white_tea.name=§7§e§lKuba's White Tea
+kubaitem.teacollection.yellow_tea.name=§7§6§lKuba's Yellow Tea
+kubaitem.teacollection.ultimate_tea.name=§7§6§lKuba's %s §6§lTea
+
+kubaitem.tea_acceptor_research_note.name=§7Tea Acceptor Research Note
+
+#Achievements
+achievement.teacollection.black_tea=§7§6§lKuba's Black Tea
+achievement.teacollection.butterfly_tea=§7§1§lKuba's Butterfly Pea Tea
+achievement.teacollection.earl_gray_tea=§7§6§lKuba's Earl Gray Tea
+achievement.teacollection.green_tea=§7§2§lKuba's Green Tea
+achievement.teacollection.lemon_tea=§7§e§lKuba's Lemon Tea
+achievement.teacollection.milk_tea=§7§f§lKuba's Milk Tea
+achievement.teacollection.oolong_tea=§7§e§lKuba's Oolong Tea
+achievement.teacollection.peppermint_tea=§7§a§lKuba's Peppermint Tea
+achievement.teacollection.pu-erh_tea=§7§4§lKuba's Pu-erh Tea
+achievement.teacollection.red_tea=§7§c§lKuba's Hibiscus Tea
+achievement.teacollection.white_tea=§7§e§lKuba's White Tea
+achievement.teacollection.yellow_tea=§7§6§lKuba's Yellow Tea
+achievement.teacollection.ultimate_tea=§7§4§l§k??????
+
+achievement.teacollection.black_tea.desc=§7§6The most common and popular type of Tea
+achievement.teacollection.butterfly_tea.desc=§7§1Not even Tea
+achievement.teacollection.earl_gray_tea.desc=§7§6For the true Brits
+achievement.teacollection.green_tea.desc=§7§2Based
+achievement.teacollection.lemon_tea.desc=§7§eBlack Tea with lemon, what did You expect ?
+achievement.teacollection.milk_tea.desc=§7§fBlack Tea with milk, my favourite
+achievement.teacollection.oolong_tea.desc=§7§e對於真正的鑑賞家
+achievement.teacollection.peppermint_tea.desc=§7§aGood for stomach ache
+achievement.teacollection.pu-erh_tea.desc=§7§4Good for digestion, also tastes like dirt
+achievement.teacollection.red_tea.desc=§7§cWhy would anyone drink this ?
+achievement.teacollection.white_tea.desc=§7§eThe healthiest one
+achievement.teacollection.yellow_tea.desc=§7§6Green Tea with more grassy flavour
+achievement.teacollection.ultimate_tea.desc=§7§4§lOne Tea to drink them all
+
+#Thaumcraft
+tc.research_category.KUBATECH=§7§lCamellia sinensis
+tc.research_name.KT_UltimateTea=§7%s §6§lTea
+tc.research_text.KT_UltimateTea=§7§4§lPure power
+KT.research.ultimatetea=§7You have found a way to convert all this Tea into pure power creating the %s §6§lTea
+
+#Tooltip
+kubatech.tooltip.tea=§7Tea
+kubatech.tooltip.tea_acceptor.0=§7Accepts Tea items and adds them to your network
+kubatech.tooltip.tea_acceptor.1=§7Can accept up to 10 stacks per tick
+kubatech.tooltip.tea_storage.0=§7Extends Tea Storage by %s
+kubatech.tooltip.tea_ingredient.0=§7This is Tea ingredient
+
+kubatech.tooltip.structure.flowers=§7Flowers

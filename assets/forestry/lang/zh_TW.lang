@@ -1,0 +1,1788 @@
+####################
+# CORE
+####################
+
+death.engine.clockwork.player=§7%1$s被散落的彈簧片刺中了。%2$s是個粗心大意的發條匠。
+death.engine.clockwork=§7%1$s被散落的彈簧片刺中了。
+
+for.beverage.effect.alcoholic=§7酗酒
+for.beverage.effect.antidote=§7解毒
+
+for.chat.accesslocked=§7%s是該機器的主人，並且他已關閉了訪問權限。
+for.chat.cannotmemorizeagain=§7您已經記住了相關內容。
+for.chat.memorizednote=§7您記錄了筆記並扔掉了皺巴巴的小紙片。
+for.chat.memorizednote2=§7您對讓%1$s和%2$s雜交出%3$s更熟悉了！
+
+for.chat.command.aliases=§7可替代命令：%s
+for.chat.command.list=§7可用子命令：
+for.chat.command.permlevel=§7權限等級： %s
+for.chat.command.noperms=§7您沒有權限使用該命令。
+
+for.chat.command.forestry.help=§7林業插件可用的許多命令.
+for.chat.command.forestry.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.version.desc=§7- %s ：版本資訊
+for.chat.command.forestry.version.help=§7顯示目前版本
+for.chat.command.forestry.version.format=§7格式： /%s
+
+for.chat.command.forestry.plugins.desc=§7- %s ：林業插件列表
+for.chat.command.forestry.plugins.help=§7列出目前的林業插件。綠色為已啟用的，紅色為停用的。
+for.chat.command.forestry.plugins.format=§7格式: /%s
+
+for.chat.command.forestry.plugins.info.desc=§7- %s : 林業插件資訊
+for.chat.command.forestry.plugins.info.help=§7顯示林業插件的資訊
+for.chat.command.forestry.plugins.info.format=§7格式: /%s <plugin-name>
+
+
+for.chat.help=§7輸入'%s'檢視說明。
+for.chat.plugins.error=§7插件%s沒有說明可顯示。
+for.chat.version=§7林業%1$s適用於Minecraft%2$s。
+
+for.circuit.dampener.1=§7阻尼
+for.circuit.dampener.1.description.1=§7最大輸出減少到10 RF/t
+for.circuit.dampener.1.description.2=§7保留燃料輸出
+for.circuit.electric.boost.1=§7加壓I
+for.circuit.electric.boost.1.description.1=§7輸出增加20 RF/t
+for.circuit.electric.boost.1.description.2=§7輸入增加7 EU/t
+for.circuit.electric.boost.2=§7加壓II
+for.circuit.electric.boost.2.description.1=§7輸出增加40 RF/t
+for.circuit.electric.boost.2.description.2=§7輸入增加15 EU/t
+for.circuit.electric.choke.1=§7減壓
+for.circuit.electric.choke.1.description.1=§7輸出減少10 RF/t
+for.circuit.electric.choke.1.description.2=§7輸入減少2 EU/t
+for.circuit.electric.efficiency.1=§7電能效率
+for.circuit.electric.efficiency.1.description.1=§7內耗減少1 EU/t
+for.circuit.machine.speed.boost.1=§7加速I
+for.circuit.machine.speed.boost.1.description.1=§7速度增加12.5%
+for.circuit.machine.speed.boost.1.description.2=§7能量消耗增加5%
+for.circuit.machine.speed.boost.2=§7加速II
+for.circuit.machine.speed.boost.2.description.1=§7速度增加25%
+for.circuit.machine.speed.boost.2.description.2=§7能量消耗增加10%
+for.circuit.machine.efficiency.1=§7機器效率
+for.circuit.machine.efficiency.1.description.1=§7能量消耗減少10%
+
+for.circuit.layout.dummy.name=§7不可用
+for.circuit.layout.dummy.usage=§7無
+
+for.circuit.layout.engine.tin.name=§7電動引擎
+for.circuit.layout.engine.tin.usage=§7安裝到電動引擎後
+
+for.circuit.layout.farms.managed.name=§7預設農場
+for.circuit.layout.farms.managed.usage=§7預設農場
+
+for.circuit.layout.farms.manual.name=§7手動農場
+for.circuit.layout.farms.manual.usage=§7手動農場
+
+for.circuit.layout.machine.upgrade.name=§7機器升級
+for.circuit.layout.machine.upgrade.usage=§7嵌入機器
+
+for.flowers.cacti=§7仙人掌
+for.flowers.end=§7終界
+for.flowers.gourd=§7葫蘆
+for.flowers.jungle=§7叢林
+for.flowers.mushroom=§7蘑菇
+for.flowers.nether=§7地獄
+for.flowers.vanilla=§7鮮花
+for.flowers.wheat=§7小麥
+for.flowers.snow=§7雪
+
+fluid.bioethanol=§7乙醇
+fluid.biomass=§7生物質
+fluid.glass=§7液態玻璃
+fluid.for.honey=§7蜂蜜
+fluid.ice=§7碎冰
+fluid.juice=§7果汁
+fluid.short.mead=§7蜂蜜酒
+fluid.mead=§7陳年蜂蜜酒
+fluid.milk=§7牛奶
+fluid.seedoil=§7種子油
+tile.forestry.fluid.bioethanol.name=§7乙醇
+tile.forestry.fluid.biomass.name=§7生物質
+tile.forestry.fluid.glass.name=§7液態玻璃
+tile.forestry.fluid.for.honey.name=§7蜂蜜
+tile.forestry.fluid.ice.name=§7碎冰
+tile.forestry.fluid.juice.name=§7果汁
+tile.forestry.fluid.short.mead.name=§7蜂蜜酒
+tile.forestry.fluid.mead.name=§7陳年蜂蜜酒
+tile.forestry.fluid.milk.name=§7牛奶
+tile.forestry.fluid.seedoil.name=§7種子油
+
+for.gui.access=§7權限
+for.gui.active=§7顯性
+for.gui.addressee.player=§7玩家
+for.gui.addressee.trader=§7貿易站
+
+for.gui.alyzer.authority=§7創造該物種的神靈
+for.gui.alyzer.classification=§7學名|綱屬
+for.gui.alyzer.extinct=§7滅絶
+for.gui.alyzer.nodescription=§7百科全書無法為該樣本提供合適條目
+for.gui.alyzer.overview=§7可分析
+
+for.gui.area=§7活動範圍
+for.gui.arid=§7乾旱
+for.gui.beach=§7沙灘
+
+for.gui.beealyzer.artificial=§7人工培育
+for.gui.beealyzer.behaviour=§7行為
+for.gui.beealyzer.generations=§7第%s代
+for.gui.beealyzer.help=§7需要提供蜂蜜或蜂蜜汁來撫慰躁動的蜜蜂。
+for.gui.beealyzer.mutations=§7可能的變異
+for.gui.beealyzer.natural=§7自然捕捉
+for.gui.beealyzer.produce=§7可能的產物
+for.gui.beealyzer.specialty=§7可能的專長
+for.gui.beealyzer=§7蜜蜂分析儀
+
+for.gui.blank=§7空白
+for.gui.cave=§7穴居性
+for.gui.climate=§7溫度
+for.gui.cold=§7寒冷
+for.gui.crop=§7作物
+for.gui.currentBiome=§7目前生態群落
+for.gui.currentOutput=§7目前輸出
+for.gui.damp=§7潮濕
+for.gui.derelict=§7遺棄
+for.gui.desert=§7沙漠
+for.gui.didyouknow=§7您知道嗎
+for.gui.diurnal=§7晝夜型
+for.gui.drones=§7雄蜂
+for.gui.effect=§7特殊效果
+for.gui.empty=§7空
+for.gui.emptysocket=§7空插槽
+for.gui.socket.remove=§7可用電烙鐵拆卸
+for.gui.energy=§7能量
+for.gui.environment=§7環境
+for.gui.evolution=§7進化
+for.gui.fecundated=§7已交配
+for.gui.fertility=§7生育能力
+for.gui.fireresist=§7耐火
+for.gui.flowers=§7採蜜對象
+for.gui.flyer=§7耐雨飛行性
+for.gui.flyer.tooltip=§7耐雨飛行性
+for.gui.general=§7普通
+for.gui.heat=§7熱量
+for.gui.hellish=§7地獄
+for.gui.hot=§7炙熱
+for.gui.humidity=§7濕度
+for.gui.humidtol=§7濕度適應性
+for.gui.hybrid=§7混血
+for.gui.icy=§7嚴寒
+for.gui.imprinter.cheater=§7(您作弊！)
+for.gui.imprinter.name=§7染色體變換儀
+for.gui.inactive=§7隱性
+for.gui.life=§7生命
+for.gui.lifespan=§7壽命
+for.gui.normal=§7普通
+
+for.gui.escritoire.probe=§7檢測樣本
+for.gui.escritoire.instructions=§7將基因樣本放在中央以開始。在左側格子中放入更多樣本，檢測它們以尋求幫助。
+for.gui.escritoire.attempt.number=§7第%s次嘗試
+
+# Write as many notes as you like, just set the count correctly.
+
+for.gui.escritoire.notes.level1.count=§73
+for.gui.escritoire.notes.level1.1=§7旅途之中我發現了一個奇異的樣本。
+for.gui.escritoire.notes.level1.2=§7這個奇怪的傢伙需要更深入的研究。
+for.gui.escritoire.notes.level1.3=§7我當即欣然投入到了研究之中。
+
+for.gui.escritoire.notes.level2.count=§74
+for.gui.escritoire.notes.level2.1=§7奇妙的大自然屢屢令我驚詫。
+for.gui.escritoire.notes.level2.2=§7當我想要更仔細地觀察它，樣本扭動掙紮起來。
+for.gui.escritoire.notes.level2.3=§7下腹的奇特紋飾讓我倍感好奇。
+for.gui.escritoire.notes.level2.4=§7當我完成研究後這一定會成為社交的熱門話題。
+
+for.gui.escritoire.notes.level3.count=§74
+for.gui.escritoire.notes.level3.1=§7經過一些扎針刺激我發現了一個有趣的新思路。
+for.gui.escritoire.notes.level3.2=§7我撓撓腦袋，開始質疑一切。
+for.gui.escritoire.notes.level3.3=§7原以為我的眼睛欺騙了我，但這次它沒有。
+for.gui.escritoire.notes.level3.4=§7之前忽視掉的一個斑點讓我開始重新思考樣本的分類問題。
+
+for.gui.escritoire.notes.level4.count=§77
+for.gui.escritoire.notes.level4.1=§7我懊惱的咆哮引得管家焦急跑來查看我的研究。
+for.gui.escritoire.notes.level4.2=§7陷入瘋狂和絶望的邊緣，我撕碎了所有的筆記！
+for.gui.escritoire.notes.level4.3=§7這些……完全……沒有任何意義！
+for.gui.escritoire.notes.level4.4=§7行不通。之前也從沒行得通過！
+for.gui.escritoire.notes.level4.5=§7大鎚既無望有功，長鋸遂粉墨登場。
+for.gui.escritoire.notes.level4.6=§7我發誓它在盯着我看，用它那雙透着殘忍的亮晶晶的小眼睛。
+for.gui.escritoire.notes.level4.7=§7那些可是笑聲？我可曾聽聞笑聲？又是誰在那大笑不止?
+
+for.gui.escritoire.notes.success.count=§75
+for.gui.escritoire.notes.success.1=§7EUREKA!
+for.gui.escritoire.notes.success.2=§7棒極了！我將名垂青史！
+for.gui.escritoire.notes.success.3=§7我的學院將引以為榮！
+for.gui.escritoire.notes.success.4=§7我將成為所有人嫉妒的對象！
+for.gui.escritoire.notes.success.5=§7沒錯！
+
+for.gui.escritoire.notes.failure.count=§75
+for.gui.escritoire.notes.failure.1=§7什麼都沒了.
+for.gui.escritoire.notes.failure.2=§7我將筆記投入火中.
+for.gui.escritoire.notes.failure.3=§7為什麼呢?我起先曾取得過那麼多突破性的進展…
+for.gui.escritoire.notes.failure.4=§7又一次失敗。
+for.gui.escritoire.notes.failure.5=§7天啊…
+
+for.gui.mail.foreveryattached=§7對每個附加物
+for.gui.mail.from=§7寄件人
+for.gui.mail.nametrader=§7為您的貿易站命名
+for.gui.mail.nothingtotrade=§7貿易站沒有可以用來參與貿易的物品
+for.gui.mail.notrader=§7無重名貿易站
+for.gui.mail.pleasesend=§7請郵寄
+for.gui.mail.order.attached=§7請尋找您附加的訂單。
+for.gui.mail.order.filled.one=§7來自%SENDER的一份訂單已填寫。
+for.gui.mail.order.filled.multiple=§7來自%SENDER的%COUNT份訂單已填寫。
+for.gui.mail.to=§7寄往
+for.gui.mail.receive=§7接收
+for.gui.mail.send=§7發送
+
+for.gui.maxenergy=§7最高能量
+for.gui.maxenergyreceive=§7最大輸入
+for.gui.maxspeed=§7最大速度
+for.gui.metabolism=§7代謝
+for.gui.nether=§7地獄
+for.gui.nocturnal=§7夜行性
+for.gui.noeffect=§7無效果
+for.gui.owner=§7所有者
+for.gui.page=§7頁面
+
+for.gui.pipe.filter.anything=§7任意物品
+for.gui.pipe.filter.bee=§7任意蜜蜂
+for.gui.pipe.filter.cave=§7穴居蜂
+for.gui.pipe.filter.closed=§7已關閉
+for.gui.pipe.filter.drone=§7雄蜂
+for.gui.pipe.filter.flyer=§7強壯飛蜂
+for.gui.pipe.filter.item=§7物品
+for.gui.pipe.filter.nocturnal=§7夜行蜜蜂
+for.gui.pipe.filter.princess=§7公主蜂
+for.gui.pipe.filter.pure_breed=§7純種蜜蜂
+for.gui.pipe.filter.pure_cave=§7純種穴居蜂
+for.gui.pipe.filter.pure_flyer=§7純種飛蜂
+for.gui.pipe.filter.pure_nocturnal=§7純種夜行蜜蜂
+for.gui.pipe.filter.queen=§7蜂后
+
+for.gui.plains=§7平原
+for.gui.princesses=§7公主蜂
+for.gui.produce=§7產物
+for.gui.queens=§7蜂后
+
+for.gui.rule.private=§7私用
+for.gui.rule.restricted=§7受限
+for.gui.rule.shared=§7共享
+
+for.gui.solder.north=§7北
+for.gui.solder.south=§7南
+for.gui.solder.east=§7東
+for.gui.solder.west=§7西
+
+forestry.allele.average=§7平均
+forestry.allele.gigantic=§7巨大
+forestry.allele.normal=§7普通
+
+forestry.allele.slowest=§7最慢速
+forestry.allele.slower=§7較慢速
+forestry.allele.slow=§7慢速
+forestry.allele.fast=§7快速
+forestry.allele.faster=§7較快
+forestry.allele.fastest=§7最快
+forestry.allele.maximum=§7極速
+
+forestry.allele.smallest=§7最小
+forestry.allele.smaller=§7較小
+forestry.allele.small=§7小
+forestry.allele.large=§7大
+forestry.allele.larger=§7較大
+forestry.allele.largest=§7最大
+
+forestry.allele.lowest=§7最低
+forestry.allele.lower=§7較低
+forestry.allele.low=§7低
+forestry.allele.high=§7高
+forestry.allele.higher=§7更高
+forestry.allele.highest=§7最高
+
+forestry.allele.tolerance.both1=§7全1
+forestry.allele.tolerance.both2=§7全2
+forestry.allele.tolerance.both3=§7全3
+forestry.allele.tolerance.both4=§7全4
+forestry.allele.tolerance.both5=§7全5
+forestry.allele.tolerance.down1=§7降1
+forestry.allele.tolerance.down2=§7降2
+forestry.allele.tolerance.down3=§7降3
+forestry.allele.tolerance.down4=§7降4
+forestry.allele.tolerance.down5=§7降5
+forestry.allele.tolerance.none=§7無
+forestry.allele.tolerance.up1=§7加1
+forestry.allele.tolerance.up2=§7加2
+forestry.allele.tolerance.up3=§7加3
+forestry.allele.tolerance.up4=§7加4
+forestry.allele.tolerance.up5=§7加5
+
+forestry.allele.lifespan.shortest=§7早夭
+forestry.allele.lifespan.shorter=§7較短壽
+forestry.allele.lifespan.short=§7短壽
+forestry.allele.lifespan.shortened=§7不足壽
+forestry.allele.lifespan.normal=§7普壽
+forestry.allele.lifespan.elongated=§7足壽
+forestry.allele.lifespan.long=§7長壽
+forestry.allele.lifespan.longer=§7較長壽
+forestry.allele.lifespan.longest=§7最長壽
+
+for.gui.size=§7大小
+for.gui.slots=§7%USED/%SIZE格子
+for.gui.species=§7品種
+for.gui.speciescount=§7種族
+for.gui.speed=§7工作速度
+for.gui.pollination=§7授粉速度
+for.gui.stored=§7已儲存
+for.gui.temperature=§7溫度
+for.gui.tolerance=§7適應性
+for.gui.temptol=§7溫度適應性
+for.gui.tooltip.tmi=§7按住shift來檢視詳細資料
+for.gui.triple=§7三倍
+for.gui.unknown=§7未知
+for.gui.warm=§7溫暖
+for.gui.water=§7水域
+for.gui.worker=§7工蜂
+
+for.hints.accesscontrol.desc=§7機器的主人可以設定三種使用權限：共享，受限或私用。
+for.hints.accesscontrol.tag=§7權限控制
+for.hints.accesspipe.desc=§7一個被設置為私用的機器不允許任何管線與之連接。
+for.hints.accesspipe.tag=§7管線傳輸受限
+for.hints.accessrules.desc=§7"共享" 允許任何人使用和破壞。 "受限" 允許任何人使用但不能破壞。
+for.hints.accessrules.tag=§7權限規則
+for.hints.apiaristsuit.desc=§7全副武裝讓您遠離蜜蜂帶來的各種負面狀態。
+for.hints.apiaristsuit.tag=§7養蜂套裝！
+for.hints.beebiomes.desc=§7蜜蜂只能生存在其適合的環境中，通過分析儀和棲息地定位儀來尋找合適的環境吧。
+for.hints.beebiomes.tag=§7選擇合適的生態群落！
+for.hints.beebreeding.desc=§7不同種群的雄蜂和公主蜂交配可能產生新種群的後代。
+for.hints.beebreeding.tag=§7飼養您的蜜蜂！
+for.hints.beeflowers.desc=§7蜜蜂所在，鮮花飄香，有的罕見，有的尋常。
+for.hints.beeflowers.tag=§7蜜蜂需要鮮花
+for.hints.beejubilance.desc=§7蜜蜂只有在愉快的氣氛下才能辛勤工作，確保他們生活在適宜的溫度下。
+for.hints.beejubilance.tag=§7取悅蜜蜂！
+for.hints.cooldownloss.desc=§7機器進入強制冷卻會導致緩存的能量流失和損耗掉。
+for.hints.cooldownloss.tag=§7強制冷卻能量會損耗
+for.hints.crating.desc=§7裝箱儲存可以壓縮您盈餘的物資的儲存空間，您可以把大量的方塊以以及物品以裝箱後的形式成堆地儲存。
+for.hints.crating.tag=§7裝箱儲存！
+for.hints.energybuffer.desc=§7引擎可以緩存少量未被使用的能量。
+for.hints.energybuffer.tag=§7能量緩存
+for.hints.energyunit.desc=§7引擎輸出能量的單位為RF/t,意為"RF每tick"。每秒有20tick。
+for.hints.energyunit.tag=§7所謂RF(Redstone Flux)
+for.hints.enginebronzefuels.desc=§7生物燃油引擎可以使用多種燃料:生物質，種子油，蜂蜜，牛奶甚至水！
+for.hints.enginebronzefuels.tag=§7可使用多種燃料！
+for.hints.enginebronzeheatloss.desc=§7儘管您可以在生物燃油引擎中使用水，但這效率低下，還持續消耗岩漿。
+for.hints.enginebronzeheatloss.tag=§7用水需謹慎！
+for.hints.enginebronzeoutput.desc=§7不同的燃料產能不同。輸出範圍從10RF/t到50RF/t不等。
+for.hints.enginebronzeoutput.tag=§7選擇合適的燃料！
+for.hints.enginebronzewaste.desc=§7引擎相連並不會導致能量流失。
+for.hints.enginebronzewaste.tag=§7能量守恆
+for.hints.enginecopperfuels.desc=§7泥炭引擎主要使用未處理的泥炭作為燃料，但也可以使用瀝青質泥炭，這樣產能為前者的兩倍。
+for.hints.enginecopperfuels.tag=§7可使用多種燃料！
+for.hints.enginecopperwaste.desc=§7關掉的泥炭引擎即使沒有產生能量也依然在消耗泥炭。
+for.hints.enginecopperwaste.tag=§7防止能量流失！
+for.hints.enginetinbatteries.desc=§7用電池來為機械供電可以避免使用綫纜。
+for.hints.enginetinbatteries.tag=§7為電池充電。
+for.hints.enginetinchoke.desc=§7可以通過為電力引擎加裝電路板來扼流，以減少輸出(減少為1MJ/t)和燃料消耗。
+for.hints.enginetinchoke.tag=§7調節輸出
+for.hints.flowerjungle.desc=§7指蕨類和藤蔓。
+for.hints.flowerjungle.tag=§7何謂叢林花？
+for.hints.flowernether.desc=§7指地獄疙瘩。
+for.hints.flowernether.tag=§7何謂地獄花？
+for.hints.forcedcooldown.desc=§7機器產生的能量若不能及時消耗將會積累大量的熱，若積累的熱量過高會導致引擎強制冷卻。
+for.hints.forcedcooldown.tag=§7注意防止機器過熱
+for.hints.generatorfuels.desc=§7生物能發電機可以用生物質和生物燃油作為燃料，後者更高效。
+for.hints.generatorfuels.tag=§7可使用多種燃料！
+for.hints.habitatlocatoruse.desc=§7經過一些時間後，棲息地定位儀會指向最近的合適氣候。找到時，指示器會旋轉。
+for.hints.habitatlocatoruse.tag=§7棲息地定位儀簡介！
+for.hints.honeyfood.desc=§7蜂蜜和蜜蜂的一些其他產物可以用來製作多種食物。
+for.hints.honeyfood.tag=§7來點好吃的！
+for.hints.manualpeat.desc=§7泥炭田能給自動生成泥炭，但是您得親手挖。
+for.hints.manualpeat.tag=§7不需要沼澤泥！
+for.hints.moistenerproducts.desc=§7在加濕器中加入合適的材料，能給得到青苔石和青苔石磚。
+for.hints.moistenerproducts.tag=§7需要青苔石？
+for.hints.nopowerrequired.desc=§7這種機器不需要供能。
+for.hints.nopowerrequired.tag=§7無需能量
+for.hints.peatharvest.desc=§7水附近的沼澤泥將會變成泥炭。用鏟子來挖吧。
+for.hints.peatharvest.tag=§7收穫泥炭！
+for.hints.pipette.desc=§7如果您曾經為某些機器的蓄水槽裡總是殘留着一些液體而苦惱，那麼可以考慮用滴管(用滴管點擊蓄水槽)來吸空它們。
+for.hints.pipette.tag=§7用滴管吸乾蓄水槽
+for.hints.postage.desc=§7發送信件消耗消耗郵票。最簡單的信件消耗1n的郵資，每個附件再額外增加1n。
+for.hints.postage.tag=§7支付郵資
+for.hints.powerraintank.desc=§7即使不供能集雨器也能收集雨水。但要將水裝瓶則需要用引擎供能。
+for.hints.powerraintank.tag=§7裝瓶需要耗能！
+for.hints.powerrequired.desc=§7這台機器需要引擎來驅動。安裝一台引擎並啟動它，讓機器開始工作。
+for.hints.powerrequired.tag=§7需要能量！
+for.hints.shortmead.desc=§7發酵機不僅可以用來加工生物質，您還可以在發酵機中用蜂蜜和蜂蜜汁來生產小瓶的蜂蜜酒。
+for.hints.shortmead.tag=§7能量飲料！
+for.hints.usesofash.desc=§7灰燼可以用來加工廢料，也可以用來精煉瀝青質泥炭。
+for.hints.usesofash.tag=§7善用您的灰燼哦！
+
+for.item.crated.grammar=§7裝箱的
+for.item.crated.unknown=§7裝箱的未知物品
+
+for.no=§7否
+
+for.researchNote.chance.highest=§7最高
+for.researchNote.chance.higher=§7甚高
+for.researchNote.chance.high=§7高
+for.researchNote.chance.normal=§7一般
+for.researchNote.chance.low=§7低
+for.researchNote.chance.lowest=§7最低
+for.researchNote.error.0=§7不可能破解出那信手的胡亂塗鴉。
+for.researchNote.error.1=§7筆記已經難以閲讀，一文不值。
+for.researchNote.discovered.0=§7§a發現新種！
+for.researchNote.discovered.1=§7§e'%1$s'§7 (%2$s)
+for.researchNote.discovery.0=§7§a發現突變！
+for.researchNote.discovery.1=§7§e'%SPEC1'§7以及§e'%SPEC2'§7.
+for.researchNote.discovery.2=§7成功率為§9%s§7.
+for.researchNote.discovery.3=§7新種為§d'%s'§7.
+
+for.mutation.condition.biome.single=§7Occurs within a %s biome.
+for.mutation.condition.biome.multiple=§7Occurs within biomes like: %s
+for.mutation.condition.daytime.day=§7發生於白天。
+for.mutation.condition.daytime.night=§7發生於夜晚。
+for.mutation.condition.humidity.range=§7Requires humidity between %LOW and %HIGH.
+for.mutation.condition.humidity.single=§7Requires %s humidity.
+for.mutation.condition.temperature.range=§7Requires temperature between %LOW and %HIGH.
+for.mutation.condition.temperature.single=§7Requires %s temperature.
+for.mutation.condition.resource=§7Requires %s as a foundation.
+for.mutation.condition.date=§7Occurs between %START and %END.
+
+for.storage.backpack.mode.locked=§7(已鎖定)
+for.storage.backpack.mode.receiving=§7(接收中)
+for.storage.backpack.mode.resupply=§7(再補給)
+
+for.trigger.hasMail=§7收到信件
+for.trigger.hasWork=§7正在工作
+for.trigger.lowFuel=§7燃料
+for.trigger.lowGermlings=§7幼體
+for.trigger.lowInput=§7需要輸入
+for.trigger.lowPaper=§7需要紙張
+for.trigger.lowResources=§7資源
+for.trigger.lowStamps=§7需要郵票
+for.trigger.mailBuffer=§7緩存
+for.trigger.missingDrone=§7缺乏雄蜂
+for.trigger.missingQueen=§7缺乏蜂后或公主蜂
+for.trigger.noFrames=§7缺乏框架
+
+for.yes=§7是
+
+item.for.adventurerBag.name=§7冒險家背包
+item.for.adventurerBagT2.name=§7冒險家編織背包
+item.for.ambrosia.name=§7仙饌密酒
+item.for.apatite.name=§7磷灰石
+
+item.for.apiaristBag.name=§7養蜂家背包
+item.for.apiaristBoots.name=§7養蜂家靴子
+item.for.apiaristChest.name=§7養蜂家襯衣
+item.for.apiaristHelmet.name=§7養蜂家帽子
+item.for.apiaristLegs.name=§7養蜂家褲子
+
+item.for.ash.name=§7灰燼
+
+item.for.beealyzer.name=§7蜜蜂分析儀
+item.for.habitatLocator.name=§7棲息地定位儀
+
+item.for.cart.beehouse.name=§7Minecart with Bee House
+item.for.cart.apiary.name=§7Minecart with Apiary
+
+item.for.beeCombs.cocoa.name=§7可可蜂巢
+item.for.beeCombs.darkened.name=§7暗黑蜂巢
+item.for.beeCombs.dripping.name=§7滴水蜂巢
+item.for.beeCombs.frozen.name=§7凍結蜂巢
+item.for.beeCombs.honey.name=§7蜜蜂蜂巢
+item.for.beeCombs.irradiated.name=§7輻射蜂巢
+item.for.beeCombs.mellow.name=§7醇厚蜂巢
+item.for.beeCombs.mossy.name=§7苔蘚蜂巢
+item.for.beeCombs.mysterious.name=§7神秘蜂巢
+item.for.beeCombs.omega.name=§7終結蜂巢
+item.for.beeCombs.parched.name=§7炎熱蜂巢
+item.for.beeCombs.powdery.name=§7粉末蜂巢
+item.for.beeCombs.reddened.name=§7泛紅蜂巢
+item.for.beeCombs.silky.name=§7絲滑蜂巢
+item.for.beeCombs.simmering.name=§7激化蜂巢
+item.for.beeCombs.stringy.name=§7纖維蜂巢
+item.for.beeCombs.wheaten.name=§7麥香蜂巢
+
+item.for.beeswax.name=§7蜜蠟
+
+item.for.beverage.meadCurative.name=§7蜂蜜藥酒
+item.for.beverage.meadShort.name=§7小瓶蜂蜜酒
+item.for.beverage.mead.name=§7小瓶陳年蜂蜜酒
+
+item.for.biomeFinder.name=§7棲息地定位儀
+item.for.bituminousPeat.name=§7瀝青質泥炭
+item.for.brokenBronzePickaxe.name=§7損壞的鎬
+item.for.brokenBronzeShovel.name=§7損壞的鏟
+item.for.bronzePickaxe.name=§7倖存者之鎬
+item.for.bronzeShovel.name=§7倖存者之鏟
+item.for.builderBag.name=§7建築師背包
+item.for.builderBagT2.name=§7建築師編織背包
+
+item.for.bucketEthanol.name=§7乙醇桶
+item.for.bucketBiomass.name=§7生物質桶
+item.for.bucketHoney.name=§7蜂蜜桶
+item.for.bucketIce.name=§7碎冰桶
+item.for.bucketJuice.name=§7果汁桶
+item.for.bucketSeedOil.name=§7種子油桶
+item.for.bucketGlass.name=§7液態玻璃桶
+item.for.bucketShortMead.name=§7蜂蜜酒桶
+item.for.bucketMead.name=§7陳年蜂蜜酒桶
+
+item.for.canEmpty.name=§7罐
+item.for.canEthanol.name=§7乙醇罐
+item.for.canBiomass.name=§7生物質罐
+item.for.canFuel.name=§7燃料罐
+item.for.canHoney.name=§7蜜罐
+item.for.canIce.name=§7冰罐
+item.for.canJuice.name=§7果汁罐
+item.for.canLava.name=§7岩漿罐
+item.for.canMead.name=§7陳年蜂蜜酒罐
+item.for.canOil.name=§7石油罐
+item.for.canSeedOil.name=§7種子油罐
+item.for.canShortMead.name=§7蜂蜜酒罐
+item.for.carton.name=§7紙板箱
+
+item.for.circuitboard.basic.name=§7小型電路板
+item.for.circuitboard.enhanced.name=§7中型電路板
+item.for.circuitboard.intricate.name=§7先進電路板
+item.for.circuitboard.refined.name=§7大型電路板
+
+item.for.craftingMaterial.dissipationCharge.name=§7驅雲電荷
+item.for.craftingMaterial.iceShard.name=§7碎冰
+item.for.craftingMaterial.pulsatingDust.name=§7脈動之塵
+item.for.craftingMaterial.pulsatingMesh.name=§7脈動網格
+item.for.craftingMaterial.scentedPaneling.name=§7飄香鑲板
+item.for.craftingMaterial.silkWisp.name=§7絲縷
+item.for.craftingMaterial.wovenSilk.name=§7絲綢
+
+item.for.crate.name=§7板條箱
+item.for.decayingWheat.name=§7腐爛小麥
+item.for.diggerBag.name=§7挖掘者背包
+item.for.diggerBagT2.name=§7挖掘者編織背包
+
+item.for.fertilizerBio.name=§7堆肥
+item.for.fertilizerCompound.name=§7肥料
+item.for.foresterBag.name=§7林業家背包
+item.for.foresterBagT2.name=§7林業家編織背包
+
+item.for.frameImpregnated.name=§7浸漬框架
+item.for.frameProven.name=§7標定框架
+item.for.frameUntreated.name=§7未處理框架
+
+item.for.fruits.cherry.name=§7櫻桃
+item.for.fruits.chestnut.name=§7栗子
+item.for.fruits.dates.name=§7棗椰
+item.for.fruits.lemon.name=§7檸檬
+item.for.fruits.papaya.name=§7木瓜
+item.for.fruits.plum.name=§7梅子
+item.for.fruits.walnut.name=§7核桃
+
+item.for.gearBronze.name=§7青銅齒輪
+item.for.gearCopper.name=§7銅齒輪
+item.for.gearTin.name=§7錫齒輪
+
+item.for.hardenedMachine.name=§7強化部件
+
+item.for.honeydew.name=§7蜂蜜汁
+
+item.for.honeyDrop.charged.name=§7帶電蜂蜜滴
+item.for.honeyDrop.honey.name=§7蜂蜜滴
+item.for.honeyDrop.omega.name=§7終結蜂蜜滴
+item.for.honeyedSlice.name=§7蜂蜜麵包
+
+item.for.honeyPot.name=§7蜜罐
+item.for.hunterBag.name=§7狩獵者背包
+item.for.hunterBagT2.name=§7狩獵者編織背包
+
+item.for.impregnatedCasing.name=§7浸漬部件
+item.for.imprinter.name=§7染色體變換儀
+item.for.infuser.name=§7灌注器
+
+item.for.ingotBronze.name=§7青銅錠
+item.for.ingotCopper.name=§7銅錠
+item.for.ingotTin.name=§7錫錠
+
+item.for.iodineCapsule.name=§7碘酒膠囊
+item.for.kitPickaxe.name=§7鎬子應急袋
+item.for.kitShovel.name=§7鏟子應急袋
+item.for.letters.name=§7信件
+
+item.for.minerBag.name=§7採礦者背包
+item.for.minerBagT2.name=§7採礦者編織背包
+
+item.for.mouldyWheat.name=§7發霉小麥
+item.for.mulch.name=§7覆蓋戍
+item.for.naturalistHelmet.name=§7眼鏡
+item.for.oakStick.name=§7浸漬木棍
+item.for.peat.name=§7泥炭
+item.for.phosphor.name=§7螢光粉
+item.for.pipette.name=§7移液管
+
+item.for.pollen.crystalline.name=§7結晶花粉
+item.for.pollen.normal.name=§7花粉
+
+item.for.propolis.normal.name=§7蜂膠
+item.for.propolis.pulsating.name=§7脈動蜂膠
+item.for.propolis.silky.name=§7絲滑蜂膠
+item.for.propolis.sticky.name=§7粘性蜂膠
+
+item.for.refractoryEthanol.name=§7耐火乙醇膠囊
+item.for.refractoryBiomass.name=§7耐火生物質膠囊
+item.for.refractoryEmpty.name=§7耐火膠囊
+item.for.refractoryFuel.name=§7耐火燃料膠囊
+item.for.refractoryHoney.name=§7耐火蜂蜜膠囊
+item.for.refractoryIce.name=§7耐火冰膠囊
+item.for.refractoryJuice.name=§7耐火果汁膠囊
+item.for.refractoryLava.name=§7耐火岩漿膠囊
+item.for.refractoryMead.name=§7耐火陳年蜂蜜酒膠囊
+item.for.refractoryOil.name=§7耐火石油膠囊
+item.for.refractorySeedOil.name=§7耐火種子油膠囊
+item.for.refractoryShortMead.name=§7耐火蜂蜜酒膠囊
+item.for.refractoryWater.name=§7耐火水膠囊
+item.for.refractoryWax.name=§7耐火石蠟
+
+item.for.researchNote.name=§7%s之筆記
+item.for.royalJelly.name=§7蜂王漿
+item.for.scoop.name=§7捕蜂網
+item.for.solderingIron.name=§7電烙鐵
+
+item.for.stamps.1n.name=§7郵票(1n)
+item.for.stamps.2n.name=§7郵票(2n)
+item.for.stamps.5n.name=§7郵票(5n)
+item.for.stamps.10n.name=§7郵票(10n)
+item.for.stamps.20n.name=§7郵票(20n)
+item.for.stamps.50n.name=§7郵票(50n)
+item.for.stamps.100n.name=§7郵票(100n)
+item.for.stamps.name=§7郵票
+
+item.for.sturdyMachine.name=§7堅固部件
+item.for.tent.name=§7倖存者帳篷
+
+item.for.thermionicTubes.ex-0.name=§7銅真空管
+item.for.thermionicTubes.ex-1.name=§7錫真空管
+item.for.thermionicTubes.ex-2.name=§7青銅真空管
+item.for.thermionicTubes.ex-3.name=§7鐵真空管
+item.for.thermionicTubes.ex-4.name=§7金真空管
+item.for.thermionicTubes.ex-5.name=§7鑽石真空管
+item.for.thermionicTubes.ex-6.name=§7黑曜石真空管
+item.for.thermionicTubes.ex-7.name=§7烈焰真空管
+item.for.thermionicTubes.ex-8.name=§7橡膠真空管
+item.for.thermionicTubes.ex-9.name=§7綠寶石真空管
+item.for.thermionicTubes.ex-10.name=§7磷灰石真空管
+item.for.thermionicTubes.ex-11.name=§7青金石真空管
+item.for.thermionicTubes.ex-12.name=§7終界真空管
+
+item.for.treealyzer.name=§7林木分析儀
+
+item.for.canWater.name=§7水罐
+
+item.for.waxCapsule.name=§7石蠟膠囊
+item.for.waxCapsuleEthanol.name=§7乙醇膠囊
+item.for.waxCapsuleBiomass.name=§7生物質膠囊
+item.for.waxCapsuleFuel.name=§7燃料膠囊
+item.for.waxCapsuleHoney.name=§7蜂蜜膠囊
+item.for.waxCapsuleIce.name=§7冰膠囊
+item.for.waxCapsuleJuice.name=§7果汁膠囊
+item.for.waxCapsuleMead.name=§7陳年蜂蜜酒膠囊
+item.for.waxCapsuleOil.name=§7石油膠囊
+item.for.waxCapsuleSeedOil.name=§7種子油膠囊
+item.for.waxCapsuleShortMead.name=§7蜂蜜酒膠囊
+item.for.waxCapsuleWater.name=§7水膠囊
+item.for.waxCast.name=§7打蠟工具
+
+item.for.woodPulp.name=§7木漿
+item.for.wrench.name=§7扳手
+
+itemGroup.apiculture=§7林業|養蜂
+itemGroup.arboriculture=§7林業|植樹
+itemGroup.forestry=§7林業
+itemGroup.lepidopterology=§7林業|蝴蝶
+
+tile.for.core.0.name=§7分析儀
+tile.for.core.1.name=§7寫字檯
+
+tile.for.engine.0.name=§7電動引擎
+tile.for.engine.1.name=§7泥炭引擎
+tile.for.engine.2.name=§7生物燃油引擎
+tile.for.engine.3.name=§7生物質引擎
+tile.for.engine.4.name=§7發條引擎
+
+tile.for.factory.0.name=§7裝瓶機
+tile.for.factory.1.name=§7木工機
+tile.for.factory.2.name=§7離心機
+tile.for.factory.3.name=§7發酵機
+tile.for.factory.4.name=§7加濕器
+tile.for.factory.5.name=§7榨汁機
+tile.for.factory.6.name=§7蒸餾器
+tile.for.factory.7.name=§7造雨機
+tile.for.factory2.0.name=§7熱電子加工台
+tile.for.factory2.1.name=§7集雨蓄水槽
+tile.for.factory2.2.name=§7工作台
+
+tile.for.mail.0.name=§7信箱
+tile.for.mail.1.name=§7貿易站
+tile.for.mail.2.name=§7集郵箱
+
+tile.for.resources.0.name=§7磷礦石
+tile.for.resources.1.name=§7銅礦石
+tile.for.resources.2.name=§7錫礦石
+
+tile.for.resourceStorage.0.name=§7磷灰石塊
+tile.for.resourceStorage.1.name=§7銅塊
+tile.for.resourceStorage.2.name=§7錫塊
+tile.for.resourceStorage.3.name=§7青銅塊
+
+tile.for.soil.0.name=§7腐殖土
+tile.for.soil.1.name=§7沼澤泥
+tile.for.soil.2.name=§7泥炭
+
+tile.for.stained.0.name=§7白色玻璃
+tile.for.stained.1.name=§7桔色玻璃
+tile.for.stained.2.name=§7品紅色玻璃
+tile.for.stained.3.name=§7淺藍色玻璃
+tile.for.stained.4.name=§7黃色玻璃
+tile.for.stained.5.name=§7檸檬色玻璃
+tile.for.stained.6.name=§7粉色玻璃
+tile.for.stained.7.name=§7灰色玻璃
+tile.for.stained.8.name=§7淺灰色玻璃
+tile.for.stained.9.name=§7青色玻璃
+tile.for.stained.10.name=§7紫色玻璃
+tile.for.stained.11.name=§7藍色玻璃
+tile.for.stained.12.name=§7棕色玻璃
+tile.for.stained.13.name=§7綠色玻璃
+tile.for.stained.14.name=§7紅色玻璃
+tile.for.stained.15.name=§7黑色玻璃
+
+neiintegration.chance=§7Chance: %s
+neiintegration.chance.never=§7Never
+neiintegration.chance.lessThan1=§7<1%
+neiintegration.handler.forestry.shaped=§7Forestry Shaped
+neiintegration.handler.forestry.shapeless=§7Forestry Shapeless
+neiintegration.handler.forestry.fabricator.worth=§7Worth:
+
+################
+# ERRORS
+################
+
+# BEES
+for.errors.isRaining.desc=§7雨
+for.errors.isRaining.help=§7只有在沒有下雨的時候才能進行操作。
+for.errors.noDrone.desc=§7無雄蜂
+for.errors.noDrone.help=§7配對需要雄蜂。
+for.errors.noFlower.desc=§7沒有花
+for.errors.noFlower.help=§7蜂群找不到合適的花。
+for.errors.noQueen.desc=§7無蜂后
+for.errors.noQueen.help=§7請提供一隻蜂后或公主蜂，與一隻雄蜂。
+for.errors.noSky.desc=§7被遮蔽
+for.errors.noSky.help=§7清除機器上方的物體。
+for.errors.notDay.desc=§7不是白天
+for.errors.notDay.help=§7操作需要在白天進行。
+for.errors.notGloomy.desc=§7不夠暗
+for.errors.notGloomy.help=§7需要更暗的環境來進行操作。
+for.errors.notLucid.desc=§7不夠亮
+for.errors.notLucid.help=§7需要更亮的環境來進行操作。
+for.errors.notNight.desc=§7不是夜晚
+for.errors.notNight.help=§7操作需要在夜晚進行。
+for.errors.tooHot.desc=§7過於炎熱
+for.errors.tooHot.help=§7The bees are melting in the heat here and unable to work. Use a Habitat Locator to find a cooler climate.
+for.errors.tooCold.desc=§7過於寒冷
+for.errors.tooCold.help=§7The bees are huddled together to survive the freezing cold here. Use a Habitat Locator to find a warmer climate.
+for.errors.tooHumid.desc=§7過於潮濕
+for.errors.tooHumid.help=§7The climate here has made the bees' wings too damp to fly. Use a Habitat Locator to find a dryer climate.
+for.errors.tooArid.desc=§7過於乾燥
+for.errors.tooArid.help=§7The dry climate here has made the bees parched and unable to work. Use a Habitat Locator to find a wetter climate.
+
+# MACHINES
+for.errors.noPower.desc=§7無能量
+for.errors.noPower.help=§7這台機器需要RF能量驅動。
+for.errors.noRedstone.desc=§7沒有紅石訊號
+for.errors.noRedstone.help=§7這台機器需要紅石訊號來啟用。
+for.errors.disabledRedstone.desc=§7已停用
+for.errors.disabledRedstone.help=§7這台機器已被紅石訊號停用。
+for.errors.noRecipe.desc=§7無合成公式
+for.errors.noRecipe.help=§7未發現與提供的資源匹配的合成公式。
+for.errors.noResource.desc=§7缺乏資源
+for.errors.noResource.help=§7需要更多的資源來進行操作。
+for.errors.noResourceInventory.desc=§7Inventory needs resources
+for.errors.noResourceInventory.help=§7Resources need to be added to the machine's inventory to begin crafting this recipe.
+for.errors.noResourceLiquid.desc=§7Missing liquid resources
+for.errors.noResourceLiquid.help=§7More liquid resources need to be supplied for operation.
+for.errors.noSpace.desc=§7無內部空間
+for.errors.noSpace.help=§7清空該機器的儲物空間。
+for.errors.noSpaceTank.desc=§7儲液槽無空間
+for.errors.noSpaceTank.help=§7清空機器內儲液槽。
+for.errors.notDark.desc=§7不夠陰暗
+for.errors.notDark.help=§7需要更低的亮度才能運作。
+
+# RAIN TANK
+for.errors.notRaining.desc=§7未下雨
+for.errors.notRaining.help=§7只有在下雨的時候才能進行操作。
+for.errors.noRainBiome.desc=§7無下雨
+for.errors.noRainBiome.help=§7這個地方從不下雨。
+for.errors.noSkyRainTank.desc=§7天空被遮蔽
+for.errors.noSkyRainTank.help=§7清空機器上方空間，使其可以集雨。
+
+# ALYZERS
+for.errors.noHoney.desc=§7需要蜂蜜
+for.errors.noHoney.help=§7此物品需要用到蜂蜜(蜂蜜滴/蜂蜜汁)。
+for.errors.noSpecimen.desc=§7沒有可分析對象
+for.errors.noSpecimen.help=§7請提供用來分析的樣本。
+
+# ENGINES
+for.errors.forcedCooldown.desc=§7強制冷卻中
+for.errors.forcedCooldown.help=§7引擎過熱，處於強制冷卻中。
+for.errors.noEnergyNet.desc=§7無電力
+for.errors.noEnergyNet.help=§7您的世界沒有任何電力。(請安裝IndustrialCraft\u00b2)
+for.errors.noFuel.desc=§7無燃料
+for.errors.noFuel.help=§7請為這台機器補充燃料。
+for.errors.noHeat.desc=§7未預熱
+for.errors.noHeat.help=§7請為機器補充加熱槽。
+
+# TRADE STATION
+for.errors.noStamps.desc=§7需要郵票
+for.errors.noStamps.help=§7貿易站需要更多郵票來支付郵資。
+for.errors.noPaper.desc=§7需要紙張
+for.errors.noPaper.help=§7貿易站需要更多紙張來發送信件。
+for.errors.noSupplies.desc=§7需要供給物
+for.errors.noSupplies.help=§7貿易站需要更多供給物來發送。
+for.errors.noTrade.desc=§7需要進行貿易設置
+for.errors.noTrade.help=§7貿易站設置物品用來發送或接收。
+
+# TRADE STATION NAMING
+for.errors.notAlphaNumeric.desc=§7不是字母/數字
+for.errors.notAlphaNumeric.help=§7填寫的字串只能包含字母或數字。
+for.errors.notUnique.desc=§7有重名
+for.errors.notUnique.help=§7填寫的字串已被使用，請選擇一個不同的。
+
+# LETTERS
+for.errors.noRecipient.desc=§7無收件人
+for.errors.noRecipient.help=§7您需要填寫信件的收信人。
+for.errors.notPostpaid.desc=§7需要郵票
+for.errors.notPostpaid.help=§7提供更多郵票支付郵資。
+
+# CIRCUIT BOARDS
+for.errors.circuitMismatch.desc=§7電路不匹配
+for.errors.circuitMismatch.help=§7真空管與電路板不匹配。
+for.errors.noCircuitBoard.desc=§7缺少電路板
+for.errors.noCircuitBoard.help=§7插入電路板並銲接上合適的真空管。
+for.errors.noCircuitLayout.desc=§7無可用農場設計
+for.errors.noCircuitLayout.help=§7根據目前遊戲設置無可用的農場設計。
+
+# FARMS
+for.errors.noFarmland.desc=§7無農田
+for.errors.noFarmland.help=§7用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平台。
+for.errors.noFertilizer.desc=§7無肥料
+for.errors.noFertilizer.help=§7農場需要使用肥料來驅動，靠堆肥不足以驅動。
+for.errors.noLiquid.desc=§7缺水
+for.errors.noLiquid.help=§7根據農場所在地的降雨量，濕度和溫度，所需的供水量不一。
+
+# DEPRECATED
+for.errors.invalidBiome.desc=§7惡劣環境
+for.errors.invalidBiome.help=§7機器/居民在這個生態系裡無法正常工作。
+for.errors.noDisposal.desc=§7廢料無法存放
+for.errors.noDisposal.help=§7沒有充足空間來存放廢料。
+for.errors.unknown.desc=§7未知錯誤
+for.errors.unknown.help=§7恭喜，您可能發現了一個小bug。
+for.errors.wrongStacksize.desc=§7物品過多
+for.errors.wrongStacksize.help=§7這裡只能放置單個物品。
+
+####################
+# APICULTURE
+####################
+
+entity.Villager.apiarist=§7養蜂家
+
+death.bee.aggressive.player=§7%1$s遭遇蜂群。%2$s趁機偷走了他的養蜂套裝。
+death.bee.aggressive=§7%1$s遭遇蜂群。不得不刺！
+death.bee.end.player=§7%1$s在與%2$s戰鬥時死於一根不壞好意的毒刺。
+death.bee.end=§7%1$s死於一根不壞好意的毒刺。
+death.bee.radioactive.player=§7%1$s沒戴頭盔就闖進了車諾比遺址。%2$s圍觀並幸災樂禍地咯咯笑着。
+death.bee.radioactive=§7%1$s沒戴頭盔就闖進了車諾比遺址。
+death.bee.heroic.player=§7%1$s was slain by heroic bees! %2$s is forever in their debt.
+death.bee.heroic=§7%1$s was slain by heroic bees!
+
+forestry.allele.effect.aggressive=§7舉世皆敵
+forestry.allele.effect.beatific=§7皆大歡喜
+forestry.allele.effect.creeper=§7爆炸就是藝術
+forestry.allele.effect.drunkard=§7沉醉
+forestry.allele.effect.exploration=§7探索
+forestry.allele.effect.glacial=§7凍結
+forestry.allele.effect.fertile=§7豐饒
+forestry.allele.effect.festiveEaster=§7節慶
+forestry.allele.effect.heroic=§7勇士
+forestry.allele.effect.ignition=§7燃燒
+forestry.allele.effect.misanthrope=§7終界
+forestry.allele.effect.miasmic=§7劇毒
+forestry.allele.effect.mycophilic=§7嗜菇
+forestry.allele.effect.none=§7無效果
+forestry.allele.effect.radioactive=§7輻射
+forestry.allele.effect.reanimation=§7重生
+forestry.allele.effect.repulsion=§7抗拒
+forestry.allele.effect.resurrection=§7復甦
+forestry.allele.effect.snowing=§7落雪
+
+for.beemode.easy.desc=§7該養蜂模式下變異幾率大幅度增加,發生遺傳疲勞的可能也很小。
+for.beemode.hard.desc=§7在增加蜂后50%的壽命的同時稍微減少了變異幾率。
+for.beemode.hardcore.desc=§7變異幾率減半,增加單個蜂后500%的壽命並降低20%的生育率。
+for.beemode.insane.desc=§7變異率減少到正常的20%,增加蜜蜂10倍的壽命並降低40%的生育率。
+for.beemode.normal.desc=§7對一般玩家推薦使用的養蜂模式。
+
+for.bees.grammar.drone.type=§7雄蜂
+for.bees.grammar.drone=§7%SPECIES%TYPE
+for.bees.grammar.larvae.type=§7幼體
+for.bees.grammar.larvae=§7%SPECIES%TYPE
+for.bees.grammar.princess.type=§7公主蜂
+for.bees.grammar.princess=§7%SPECIES%TYPE
+for.bees.grammar.queen.type=§7蜂后
+for.bees.grammar.queen=§7%SPECIES%TYPE
+
+for.bees.hybrid=§7%PRIMARY-%SECONDARY混血蜂
+
+for.bees.species.austere=§7苦行
+for.bees.species.avenging=§7復仇
+for.bees.species.boggy=§7泥沼
+for.bees.species.common=§7尋常
+for.bees.species.cultivated=§7田野
+for.bees.species.darkened=§7暗黑
+for.bees.species.demonic=§7惡魔
+for.bees.species.diligent=§7勤奮
+for.bees.species.edenic=§7伊甸
+for.bees.species.ended=§7終界
+for.bees.species.exotic=§7異國
+for.bees.species.fiendish=§7殘忍
+for.bees.species.forest=§7森林
+for.bees.species.frugal=§7節儉
+for.bees.species.glacial=§7冰河
+for.bees.species.hermitic=§7遁世
+for.bees.species.heroic=§7英雄
+for.bees.species.icy=§7嚴寒
+for.bees.species.imperial=§7帝皇
+for.bees.species.industrious=§7敬業
+for.bees.species.leporine=§7野兔
+for.bees.species.majestic=§7莊嚴
+for.bees.species.marshy=§7沼澤
+for.bees.species.meadows=§7草原
+for.bees.species.merry=§7歡樂
+for.bees.species.miry=§7泥濘
+for.bees.species.modest=§7溫和
+for.bees.species.monastic=§7僧侶
+for.bees.species.noble=§7高尚
+for.bees.species.omega=§7終結
+for.bees.species.phantasmal=§7幻影
+for.bees.species.reddened=§7泛紅
+for.bees.species.rural=§7田園
+for.bees.species.farmerly=§7稼穡
+for.bees.species.agrarian=§7農耕
+for.bees.species.secluded=§7歸隱
+for.bees.species.sinister=§7邪惡
+for.bees.species.spectral=§7幽靈
+for.bees.species.steadfast=§7堅定
+for.bees.species.tipsy=§7微醺
+for.bees.species.tricky=§7搗蛋
+for.bees.species.tropical=§7熱帶
+for.bees.species.unweary=§7不倦
+for.bees.species.valiant=§7勇者
+for.bees.species.vengeful=§7報仇
+for.bees.species.vindictive=§7記恨
+for.bees.species.wintry=§7凜冬
+
+for.bees.stock.ignoble=§7混血種
+for.bees.stock.pristine=§7純種
+
+for.chat.command.forestry.bee.desc=§7- %s ：養蜂命令
+for.chat.command.forestry.bee.help=§7與養蜂相關的命令。
+for.chat.command.forestry.bee.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.bee.give.desc=§7- %s ：給予玩家蜜蜂
+for.chat.command.forestry.bee.give.help=§7給予玩家一隻雄蜂，公主蜂，蜂后或幼蜂。
+for.chat.command.forestry.bee.give.format=§7格式： /%s <species-name> <bee-type> [<player-name>]
+for.chat.command.forestry.bee.give.available=§7可用蜜蜂類型: %s
+for.chat.command.forestry.bee.give.given=§7給予%1$s一隻%2$s%3$s。
+
+for.chat.command.forestry.bee.mode.desc=§7- %s ：養蜂模式相關命令
+for.chat.command.forestry.bee.mode.help=§7與養蜂模式有關的命令。
+for.chat.command.forestry.bee.mode.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.bee.mode.info.desc=§7- %s : 養蜂模式資訊
+for.chat.command.forestry.bee.mode.info.help=§7有關目前和可用養蜂模式的資訊。
+for.chat.command.forestry.bee.mode.info.format=§7格式： /%s <mode-name>
+
+for.chat.command.forestry.bee.mode.set.desc=§7- %s : 設置養蜂模式
+for.chat.command.forestry.bee.mode.set.help=§7設置目前世界的養蜂模式。
+for.chat.command.forestry.bee.mode.set.format=§7格式： /%s [<world-#>] <mode-name>
+
+for.chat.command.forestry.bee.save.desc=§7- %s : 保存養蜂狀態。
+for.chat.command.forestry.bee.save.help=§7將養蜂狀態保存到檔案中。
+for.chat.command.forestry.bee.save.format=§7格式： /%s [<player-name>]
+for.chat.command.forestry.bee.save.stats=§7玩家%s的養蜂狀態保存為%s：
+
+for.chat.command.forestry.mode.info.error=§7%s模式目前不可用。
+for.chat.command.forestry.mode.info.current=§7目前： %1$s (#%2$s)
+for.chat.command.forestry.mode.info.available=§7可用模式： %s
+
+for.chat.command.forestry.mode.set.success=§7模式設為%s。
+for.chat.command.forestry.mode.set.error=§7%s模式目前不可用。
+
+for.chat.command.forestry.stats.save.error1=§7無法創建日誌檔案。保存狀態失敗。
+for.chat.command.forestry.stats.save.error2=§7無法寫入日誌檔案。保存狀態失敗。
+for.chat.command.forestry.stats.save.error3=§7寫入操作拋出異常。保存狀態失敗。
+for.chat.command.forestry.stats.save.error4=§7未發現已保存的狀態檔案。
+for.chat.command.forestry.stats.save.saved=§7為玩家%s保存狀態。
+for.chat.command.forestry.stats.save.key.discovered=§7已發現
+for.chat.command.forestry.stats.save.key.discovered.symbol=§7X
+for.chat.command.forestry.stats.save.key.blacklisted=§7已屏蔽
+for.chat.command.forestry.stats.save.key.blacklisted.symbol=§7BL
+for.chat.command.forestry.stats.save.key.notCounted=§7不計總共品種
+for.chat.command.forestry.stats.save.key.notCounted.symbol=§7NC
+for.chat.command.forestry.stats.save.mode=§7模式： %s
+
+for.description.speciesAgrarian=§7“不像別的蜜蜂那樣渾身臭烘烘，可照樣還是能幹好活兒，對吧？”|Myrathi，精明養蜂人
+for.description.speciesAustere=§7脾氣火爆又危險;養蜂人靠近的時候要注意穿好全套專業護具。|養蜂入門
+for.description.speciesAvenging=§7“牆壁搖搖欲墜，屋頂咯吱作響，可是我不在乎。數以千計的小蜜蜂在我手套中飛舞，我抓住了蜂后！”|匿名
+for.description.speciesBoggy=§7“有一回我看見一頭牛被這種蜜蜂蟄了一下，數秒功夫後它渾身便爬滿了蘑菇！……您說要看照片，額，我沒拍到！”|Sengir先生,狂人
+for.description.speciesCommon=§7被認為是養蜂新手入門的標誌。|養蜂入門
+for.description.speciesCultivated=§7小蜜蜂，嗡嗡嗡，工作快速，幹勁高昂；偶爾跳跳八字舞，其他什麼也不想。|養蜂入門
+for.description.speciesDarkened=§7被煉金能量吸引，這些小東西擁有巨大的能量。|養蜂辭典
+for.description.speciesDemonic=§7誕生於地獄烈火中，一代一代的變異讓這種蜜蜂成為了真正的惡魔。|養蜂入門
+for.description.speciesDiligent=§7培育敬業蜂產生的中間品種。|養蜂入門
+for.description.speciesEdenic=§7四處旅行的蜜蜂會讓經驗球瀰漫在四周。|養蜂入門
+for.description.speciesEnded=§7“偶然間，在村民的蜂房裡我發現一隻遁世蜂，這種蜜蜂看上去十分遲鈍木訥，它彷彿從它的世界裡撕裂出了一個碎片，並渴望保持這種狀態。”|養蜂入門
+for.description.speciesExotic=§7出沒於溫暖潮濕地帶的長壽蜂種。|養蜂入門
+for.description.speciesFarmerly=§7常出沒於大片的原野，那些可以作為國家糧倉的地方。|養蜂入門
+for.description.speciesFiendish=§7據聞地獄的養蜂人有時會被他們的蜜蜂襲擊。所以小心為妙！|養蜂入門
+for.description.speciesForest=§7林中尋常可見的一種昆蟲;一般很友善。|養蜂入門
+for.description.speciesFrugal=§7若干代在太陽下的暴曬導致了該蜂種的誕生。|養蜂入門
+for.description.speciesGlacial=§7“凜冬將至！”|E. Stark,養蜂人
+for.description.speciesHermitic=§7“親愛的同事啊，您發給我的這種蜜蜂從不洗澡，還留着茂密的大鬍子，請給我仔細解釋這是神馬情況！”|Binnie, 養蜂人
+for.description.speciesHeroic=§7這種蜜蜂的傳說膾炙人口：它們將會為保衛自己的蜂巢與敵人死磕到底。|養蜂編年史
+for.description.speciesIcy=§7飼育該蜂種將會使得蜂巢內部溫度下降直到冰片形成。|養蜂入門
+for.description.speciesImperial=§7志遠心高的帝皇蜂專門生產寶貴的蜂王漿。|養蜂入門
+for.description.speciesIndustrious=§7志遠心高的敬業蜂專門生產寶貴的花粉。|養蜂入門
+for.description.speciesLeporine=§7“我發誓，它很小，有翅膀，而且我確定我看見它長着毛茸茸的兔子耳朵，我真沒喝醉！”|Sengir先生,狂人
+for.description.speciesMajestic=§7“砍掉他們的腦袋！”|紅心皇后
+for.description.speciesMarshy=§7常出沒於寒冷潮濕的地帶; 喜歡蘑菇。|養蜂入門
+for.description.speciesMeadows=§7主要分佈於溫帶平原地帶;一般很友善。|養蜂入門
+for.description.speciesMerry=§7“呵呵呵！”|歡樂蜂
+for.description.speciesMiry=§7“蜜蜂怎可能會為蘑菇授粉呢？”|Mezz，養蜂新手
+for.description.speciesModest=§7乾旱和炎熱的環境令該蜂種適應了高溫環境，但這卻使得它們無法適應一些環境明顯更好的地帶。|養蜂入門
+for.description.speciesMonastic=§7“我保持着樸素，並告誡他，'那些低賤的雄蜂不僅希望得到漂亮的公主蜂，還貪得無厭地要求提供大堆的綠寶石，這簡直就是敲詐勒索！'”|養蜂入門
+for.description.speciesNoble=§7“世界上再沒有比飼養蜜蜂更加高貴的職業了！”|Binnie,養蜂人
+for.description.speciesOmega=§7“我是阿爾法，我是歐米伽;我是元始，我是終結;我是最初，我是最後。”|Pahimar,養蜂人
+for.description.speciesPhantasmal=§7“不管您做啥，或者不做啥，我再重複一遍，不要，不要再下龍#SF$#d@%c%@$dfe^@%……”|Sengir先生的臨終遺言
+for.description.speciesReddened=§7需要大量的煉金能源，這些小東西能夠消耗能量用洪水淹沒世界。|養蜂辭典
+for.description.speciesRural=§7“五月的雨水會讓草木更加茂盛.”|M. Ages, 田園養蜂人
+for.description.speciesSecluded=§7“和沙漠種的蜂類雜交就是個錯誤！我的小蜜蜂們越來越宅了！”|養蜂入門
+for.description.speciesSinister=§7適合地獄環境的蜂種並不多，即使是這種蜜蜂有時也會受不了地獄的糟糕環境！|養蜂入門
+for.description.speciesSpectral=§7“我並不確定它是否還活着，它靜靜躺在我掌心，微微閃光，向我的手掌滲出一種我從未感受過的涼意。之後，我突然聽到身後一堆骨頭咯咯作響！”|養蜂入門
+for.description.speciesSteadfast=§7一度被認為已滅絶，直到被冒險家發現於幽深的地牢。|養蜂編年史
+for.description.speciesTipsy=§7“善舞,美人善舞兮！”|東方微醺巫女
+for.description.speciesTricky=§7“給糖果吧，否則我們可就搗蛋啦！”|搗蛋蜂
+for.description.speciesTropical=§7分佈在叢林或其他熱帶氣候的有毒蜂種，常見。|養蜂入門
+for.description.speciesUnweary=§7鞠躬盡瘁，死而後已。|養蜂入門
+for.description.speciesValiant=§7罕見的亞種，在普通的蜂巢中極難出現。|養蜂編年史
+for.description.speciesVengeful=§7“來之，見之，征服之。”|尤利烏斯.凱撒
+for.description.speciesVindictive=§7“吃我一臉！ 吃我一臉！”|K.M.
+for.description.speciesWintry=§7很常見，但屬於寒帶蜂種，若在溫暖環境飼養會是個挑戰。|養蜂入門
+
+for.genus.bees.agrarian=§7農耕
+for.genus.bees.austere=§7苦行
+for.genus.bees.boggy=§7沼澤
+for.genus.bees.common=§7尋常
+for.genus.bees.end=§7終界
+for.genus.bees.festive=§7節日
+for.genus.bees.frozen=§7凍結
+for.genus.bees.heroic=§7英雄
+for.genus.bees.industrious=§7敬業
+for.genus.bees.infernal=§7地獄
+for.genus.bees.monastic=§7僧侶
+for.genus.bees.noble=§7高尚
+for.genus.bees.reddened=§7泛紅
+for.genus.bees.tropical=§7熱帶
+for.genus.bees.vengeful=§7復仇
+
+item.for.beePrincessGE.name=§7公主蜂
+item.for.beeQueenGE.name=§7蜂后
+item.for.beeDroneGE.name=§7雄蜂
+
+tile.for.alveary.0.name=§7蜂箱組
+tile.for.alveary.1.name=§7蜂箱組介面
+tile.for.alveary.2.name=§7蜂箱組克隆盒
+tile.for.alveary.3.name=§7蜂箱組風扇
+tile.for.alveary.4.name=§7蜂箱組加熱器
+tile.for.alveary.5.name=§7蜂箱組保濕器
+tile.for.alveary.6.name=§7蜂箱組穩定器
+tile.for.alveary.7.name=§7蜂箱組濾網
+
+tile.for.apiculture.0.name=§7蜂箱
+tile.for.apicultureChest.0.name=§7養蜂人箱子
+tile.for.apiculture.2.name=§7簡易蜂房
+
+tile.for.beehives.1.name=§7森林蜂巢
+tile.for.beehives.2.name=§7草地蜂巢
+tile.for.beehives.3.name=§7溫和蜂巢
+tile.for.beehives.4.name=§7熱帶蜂巢
+tile.for.beehives.5.name=§7終界蜂巢
+tile.for.beehives.6.name=§7凜冬蜂巢
+tile.for.beehives.7.name=§7沼澤蜂巢
+tile.for.beehives.8.name=§7遷居蜂巢
+
+tile.for.candle.dyed.lit.name=§7染色蠟燭(發光)
+tile.for.candle.dyed.stump.name=§7染色蠟燭(熄滅)
+tile.for.candle.lit.name=§7蠟燭(發光)
+tile.for.candle.stump.name=§7蠟燭(熄滅)
+
+tile.for.stump.0.name=§7蠟燭
+
+####################
+# MULTIBLOCK
+####################
+
+for.multiblock.error.notConnected=§7The MultiBlock is not connected to a controller. This could be due to lag, or a bug. If the problem persists, try breaking and re-placing the block.
+for.multiblock.error.invalid.interior=§7%d, %d, %d - (%s) Block is not valid for use in the machine's interior.
+for.multiblock.error.invalid.part=§7The multiblock part @ %d, %d, %d is incompatible with machines of type %s.
+for.multiblock.error.small=§7The multiblock is too small. It must be at least %d X, %d Y, %d Z.
+for.multiblock.error.large.x=§7The multiblock is too large, it may be at most %d blocks in the X dimension.
+for.multiblock.error.large.y=§7The multiblock is too large, it may be at most %d blocks in the Y dimension.
+for.multiblock.error.large.z=§7The multiblock is too large, it may be at most %d blocks in the Z dimension.
+for.multiblock.error.small.x=§7The multiblock is too small, it must be at least %d blocks in the X dimension.
+for.multiblock.error.small.y=§7The multiblock is too small, it must be at least %d blocks in the Y dimension.
+for.multiblock.error.small.z=§7The multiblock is too small, it must be at least %d blocks in the Z dimension.
+
+for.multiblock.alveary.error.needSlabs=§7The Alveary must have wooden slabs on top.
+for.multiblock.alveary.error.needSpace=§7The alveary needs space around the top for the bees to enter and exit.
+for.multiblock.alveary.error.needPlainOnTop=§7The Alveary must have plain alveary blocks for the top level.
+for.multiblock.alveary.error.needPlainInterior=§7The Alveary must have plain alveary blocks for the interior.
+
+for.multiblock.farm.error.needPlainBand=§7The Farm must have plain farm blocks for the third level.
+for.multiblock.farm.error.needPlainInterior=§7The Farm must have plain farm blocks for the interior.
+for.multiblock.farm.error.needGearbox=§7The farm must have a gearbox to accept power and do work.
+
+####################
+# ARBORICULTURE
+####################
+
+entity.Villager.arborist=§7林業家
+
+for.arboriculture.effect.none=§7無效果
+
+for.chat.command.forestry.tree.desc=§7- %s ： 林木命令。
+for.chat.command.forestry.tree.help=§7樹木相關的命令。
+for.chat.command.forestry.tree.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.tree.spawnTree.desc=§7- %s ： 生成樹木
+for.chat.command.forestry.tree.spawnTree.help=§7在玩家附近生成一棵樹。
+for.chat.command.forestry.tree.spawnTree.format=§7格式： /%s <species-name> [<player-name>]
+
+for.chat.command.forestry.tree.spawnForest.desc=§7- %s : 生成樹林
+for.chat.command.forestry.tree.spawnForest.help=§7在玩家附近生成一小片樹林。
+for.chat.command.forestry.tree.spawnForest.format=§7格式：/%s <species-name> [<player-name>]
+
+for.chat.command.forestry.tree.mode.desc=§7- %s : 植樹模式命令。
+for.chat.command.forestry.tree.mode.help=§7與植樹模式相關的命令。
+for.chat.command.forestry.tree.mode.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.tree.mode.info.desc=§7- %s : 植樹模式資訊。
+for.chat.command.forestry.tree.mode.info.help=§7有關目前和可用植樹模式的資訊。
+for.chat.command.forestry.tree.mode.info.format=§7格式： /%s <mode-name>
+
+for.chat.command.forestry.tree.mode.set.desc=§7- %s ： 設置植樹模式
+for.chat.command.forestry.tree.mode.set.help=§7設置目前世界的植樹模式。
+for.chat.command.forestry.tree.mode.set.format=§7格式： /%s [<world-#>] <mode-name>
+
+for.chat.command.forestry.tree.save.desc=§7- %s ： 保存目前植樹狀態。
+for.chat.command.forestry.tree.save.help=§7將目前植樹狀態保存至檔案。
+for.chat.command.forestry.tree.save.format=§7格式： /%s [<player-name>]
+
+for.chat.command.forestry.tree.save.stats=§7玩家%s的植樹狀態保存為%s：
+
+for.description.treeBirch=§7常見的樺木，一般都很矮小。|林木聖書
+for.description.treeCherry=§7小型樹。自然生長的植株結櫻桃，需要一段時間來成熟。|林木聖書
+for.description.treeChestnut=§7高大的落葉樹，樹幹粗大，野生的栗子樹結果實，果實需要一段時間來成熟。|林木聖書
+for.description.treeLime=§7高大的落葉樹，最近已經被重新分類為錦葵科植物。|林木聖書
+for.description.treeOak=§7結蘋果的尋常樹種，常作為歌舞題材。
+for.description.treeSipiri=§7高大的長青樹，木材很規則，樹幹與樹皮都散髮出濃郁的香味。只生長於熱帶。|林木聖書
+for.description.treeWalnut=§7高大的落葉樹，樹幹粗大，野生的核桃樹結果實，果實需要一段時間來成熟。|林木聖書
+for.description.treeWillow=§7高大的落葉樹。白色的柳樹生長很快速。只分佈於潮濕的環境。|林木聖書
+
+for.family.jungle=§7叢林族
+for.family.nuts=§7堅果族
+for.family.pomes=§7梨果族
+for.family.prunes=§7梅果族
+
+for.fruits.apple=§7蘋果
+for.fruits.cherry=§7櫻桃
+for.fruits.chestnut=§7栗子
+for.fruits.cocoa=§7可可
+for.fruits.dates=§7棗椰
+for.fruits.lemon=§7檸檬
+for.fruits.none=§7無
+for.fruits.papaya=§7木瓜
+for.fruits.plum=§7李子
+for.fruits.walnut=§7胡桃
+
+for.gui.family=§7族群
+for.gui.fireproof=§7抗燃
+for.gui.fruits=§7果實
+for.gui.girth=§7周長
+for.gui.growth=§7生長
+for.gui.height=§7高度
+for.gui.maturity=§7成熟
+for.gui.native=§7土壤
+for.gui.saplings=§7樹苗
+for.gui.sappiness=§7多汁
+for.gui.supports=§7載體
+for.gui.tolerated=§7結果
+for.gui.treealyzer.help=§7放入樹苗並提供蜂蜜或者蜂蜜滴作為催化劑。
+for.gui.treealyzer=§7林木分析儀
+for.gui.yield=§7產量
+
+for.growth.normal=§7普通
+for.growth.tropical=§7熱帶
+
+for.trees.grammar.blossom.type=§7花朵
+for.trees.grammar.blossom=§7%SPECIES%TYPE
+for.trees.grammar.germling.type=§7幼苗
+for.trees.grammar.germling=§7%SPECIES%TYPE
+for.trees.grammar.pollen.type=§7花粉
+for.trees.grammar.pollen=§7%SPECIES%TYPE
+for.trees.grammar.sapling.type=§7樹苗
+for.trees.grammar.sapling=§7%SPECIES%TYPE
+for.trees.grammar.leaves.type=§7樹葉
+for.trees.grammar.leaves=§7%SPECIES%TYPE
+
+for.trees.hybrid=§7%PRIMARY-%SECONDARY雜交種
+
+for.trees.species.acacia=§7相思樹
+for.trees.species.appleOak=§7蘋果橡
+for.trees.species.balsa=§7巴爾杉
+for.trees.species.blueMahoe=§7高槿
+for.trees.species.bullPine=§7西黃松
+for.trees.species.coastSequoia=§7海岸紅杉
+for.trees.species.commonWalnut=§7胡桃
+for.trees.species.darkOak=§7黑橡
+for.trees.species.datePalm=§7棗椰
+for.trees.species.desertAcacia=§7沙漠相思樹
+for.trees.species.giantSequoia=§7巨杉
+for.trees.species.grandidierBaobab=§7猴麵包
+for.trees.species.hillCherry=§7山丘櫻
+for.trees.species.jungle=§7叢林
+for.trees.species.kapok=§7木棉
+for.trees.species.lemon=§7檸檬
+for.trees.species.mundaneLarch=§7落葉松
+for.trees.species.myrtleEbony=§7烏檀
+for.trees.species.papaya=§7木瓜
+for.trees.species.plum=§7李子
+for.trees.species.redSpruce=§7紅果雲杉
+for.trees.species.silverBirch=§7銀樺
+for.trees.species.silverLime=§7銀橙
+for.trees.species.sipiri=§7綠心樟
+for.trees.species.sugarMaple=§7糖楓
+for.trees.species.sweetChestnut=§7甜慄
+for.trees.species.teak=§7柚
+for.trees.species.wenge=§7崖豆
+for.trees.species.whitePoplar=§7白楊
+for.trees.species.whiteWillow=§7銀柳
+for.trees.species.yellowMeranti=§7黃桉
+for.trees.species.ipe=§7風鈴樹
+for.trees.species.padauk=§7紫檀樹
+for.trees.species.cocobolo=§7黃檀樹
+for.trees.species.zebrawood=§7斑木樹
+
+for.fences.grammar=§7%TYPE柵欄
+for.log.grammar=§7%TYPE原木
+for.planks.grammar=§7%TYPE木板
+for.slab.grammar=§7%TYPE台階
+for.stairs.grammar=§7%TYPE樓梯
+
+for.trees.woodType.larch=§7落葉樹
+for.trees.woodType.teak=§7柚樹
+for.trees.woodType.acacia=§7相思樹
+for.trees.woodType.lime=§7酸橙樹
+for.trees.woodType.chestnut=§7慄樹
+for.trees.woodType.wenge=§7崖豆樹
+for.trees.woodType.baobab=§7猴麵包樹
+for.trees.woodType.sequoia=§7紅杉樹
+for.trees.woodType.kapok=§7木棉樹
+for.trees.woodType.ebony=§7烏檀樹
+for.trees.woodType.mahogany=§7桃心樹
+for.trees.woodType.balsa=§7巴爾杉樹
+for.trees.woodType.willow=§7柳樹
+for.trees.woodType.walnut=§7胡桃樹
+for.trees.woodType.greenheart=§7綠樟樹
+for.trees.woodType.cherry=§7櫻樹
+for.trees.woodType.mahoe=§7高槿樹
+for.trees.woodType.poplar=§7白楊樹
+for.trees.woodType.palm=§7棕櫚樹
+for.trees.woodType.papaya=§7木瓜樹
+for.trees.woodType.pine=§7松樹
+for.trees.woodType.plum=§7李子樹
+for.trees.woodType.maple=§7楓樹
+for.trees.woodType.citrus=§7柑橘樹
+for.trees.woodType.giganteum=§7巨杉樹
+for.trees.woodType.ipe=§7風鈴樹
+for.trees.woodType.padauk=§7紫檀樹
+for.trees.woodType.cocobolo=§7黃檀樹
+for.trees.woodType.zebrawood=§7斑木樹
+
+tile.for.fireproof=§7抗燃%s
+
+item.for.grafter.name=§7剪枝器
+item.for.grafterProven.name=§7標定剪枝器
+
+tile.for.arboriculture.0.name=§7林業家箱子
+
+tile.for.saplingGE.0.name=§7樹苗
+tile.for.leaves.0.name=§7樹葉
+tile.for.pods.0.name=§7豆莢
+
+####################
+# FARMING
+####################
+
+for.circuit.managedArboreal=§7林場
+for.circuit.managedCereal=§7穀物農場
+for.circuit.managedInfernal=§7地獄農場
+for.circuit.managedPeat=§7泥炭田
+for.circuit.managedShroom=§7蘑菇農場
+for.circuit.managedVegetable=§7蔬菜農場
+for.circuit.managedEnder=§7終界農場
+for.circuit.manualCereal=§7穀物農場
+for.circuit.manualCocoa=§7可可種植園
+for.circuit.manualGourd=§7瓜田
+for.circuit.manualOrchard=§7果園
+for.circuit.manualPeat=§7泥炭田
+for.circuit.manualPoales=§7甘蔗農場
+for.circuit.manualRubber=§7橡膠種植園
+for.circuit.manualShroom=§7蘑菇農場
+for.circuit.manualSucculent=§7仙人掌農場
+for.circuit.manualVegetable=§7蔬菜農場
+
+for.gui.farm.title=§7農場
+for.gui.hydr.heat=§7基於溫度
+for.gui.hydr.humid=§7基於濕度
+for.gui.hydr.overall=§7概況
+for.gui.hydr.rainfall=§7基於降雨量
+for.gui.hydration=§7需求更多的水
+
+for.hints.circuitboard.desc=§7使用您的電烙鐵來變換農場的類型！
+for.hints.circuitboard.tag=§7多功能農場！
+for.hints.farmgui.desc=§7土壤放入左邊的格子裡，而種子/樹苗則放到一般位於右上方的合適格子中。
+for.hints.farmgui.tag=§7土壤向左，種子靠右！
+for.hints.farmland.desc=§7用光滑沙石，磚塊，或者石磚來搭建一個用以建立農場的平台。
+for.hints.farmland.tag=§7搭建屬於您的農場！
+for.hints.fertilizer.desc=§7除了果園各種農場都需要肥料，不能使用堆肥。
+for.hints.fertilizer.tag=§7需要肥料！
+for.hints.gearbox.desc=§7使用連接了引擎或者能量管線的齒輪箱來為您的農場供能。
+for.hints.gearbox.tag=§7需要動力！
+for.hints.hatch.desc=§7在出貨箱上連接管線來產出您的各種作物吧！
+for.hints.hatch.tag=§7未雨綢繆！
+for.hints.manualfarms.desc=§7除去使用預設模式來自動構建農場外您還可以自己搭建農場來提高效率。
+for.hints.manualfarms.tag=§7DIY自己的農場！
+for.hints.valve.desc=§7各種農場都需要澆灌，使用水閥方塊來實現自動化澆灌吧。
+for.hints.valve.tag=§7需要水！
+
+for.trigger.lowFertilizer=§7肥料
+for.trigger.lowLiquid=§7蓄水槽
+for.trigger.lowSoil=§7土壤
+
+tile.for.ffarm.0.name=§7農場方塊
+tile.for.ffarm.2.name=§7農場齒輪箱
+tile.for.ffarm.3.name=§7農場出貨箱
+tile.for.ffarm.4.name=§7農場水閥
+tile.for.ffarm.5.name=§7農場控制盒
+
+tile.for.mushroom.0.name=§7蘑菇
+tile.for.mushroom.1.name=§7蘑菇
+
+####################
+# LEPIDOPTEROLOGY
+####################
+
+for.chat.command.forestry.butterfly.desc=§7- %s ： 蝴蝶命令
+for.chat.command.forestry.butterfly.help=§7和蝴蝶相關的一些命令。
+for.chat.command.forestry.butterfly.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.butterfly.kill.desc=§7- %s ： 殺死全部蝴蝶。
+for.chat.command.forestry.butterfly.kill.help=§7殺死已載入資料塊內的全部蝴蝶。
+for.chat.command.forestry.butterfly.kill.format=§7格式： /%s [<dimension#>]
+
+for.butterflies.hybrid=§7混血蝶：%PRIMARY-%SECONDARY
+
+for.butterflies.species.geometridae.brimstone=§7黃蛾
+for.butterflies.species.geometridae.latticedHeath=§7斑格蛾
+for.butterflies.species.nymphalidae.blueDuke=§7藍爵蝶
+for.butterflies.species.nymphalidae.blueMorphoM=§7大藍閃蝶·梅內萊厄斯
+for.butterflies.species.nymphalidae.blueMorphoP=§7黑框藍閃蝶·百利芷
+for.butterflies.species.nymphalidae.blueMorphoR=§7尖翅藍閃·海倫娜
+for.butterflies.species.nymphalidae.blueWing=§7藍蝶
+for.butterflies.species.nymphalidae.comma=§7狸白蛺蝶
+for.butterflies.species.nymphalidae.dianaFritillary=§7黛安娜豹紋蝶
+for.butterflies.species.nymphalidae.glasswing=§7透翅蝶
+for.butterflies.species.nymphalidae.glassyTiger=§7絹斑蝶
+for.butterflies.species.nymphalidae.leopardLacewing=§7豹紋蛺蝶
+for.butterflies.species.nymphalidae.malachite=§7青紋蝶
+for.butterflies.species.nymphalidae.monarch=§7大斑蝶
+for.butterflies.species.nymphalidae.paintedBeauty=§7佛州蛺蝶
+for.butterflies.species.nymphalidae.postman=§7郵差蝶
+for.butterflies.species.nymphalidae.speckledWood=§7斑木蝶
+for.butterflies.species.nymphalidae.speckledWoodC=§7淺黃斑木蝶
+for.butterflies.species.nymphalidae.speckledWoodM=§7馬德拉斑木蝶
+for.butterflies.species.papilionidae.emeraldPeacock=§7翡翠孔雀蝶
+for.butterflies.species.papilionidae.swallowtailB=§7黑色鳳尾蝶
+for.butterflies.species.papilionidae.swallowtailC=§7柑橘鳳尾蝶
+for.butterflies.species.papilionidae.swallowtailS=§7北美鳳尾蝶
+for.butterflies.species.papilionidae.swallowtailT=§7托阿斯鳳尾蝶
+for.butterflies.species.papilionidae.swallowtailZ=§7長尾玳瑁鳳尾蝶
+for.butterflies.species.pieridae.brimstone=§7硫磺蛾
+for.butterflies.species.pieridae.cabbageWhite=§7菜粉蝶
+for.butterflies.species.pieridae.gozoraAzure=§7琉璃灰蝶
+for.butterflies.species.pieridae.orangeTip=§7端紅蝶
+for.butterflies.species.pieridae.palaenoSulphur=§7黑緣豆粉蝶
+for.butterflies.species.pieridae.postillion=§7紋黃蝶
+for.butterflies.species.pieridae.reseda=§7東方綠斑粉蝶
+for.butterflies.species.pieridae.springAzure=§7冬青小灰蝶
+for.butterflies.species.saturniidae.atlas=§7烏柏巨蠶蛾
+
+for.gui.flutterlyzer=§7蝴蝶分析儀
+for.gui.flutterlyzer.help=§7提供蜂蜜底或蜂蜜汁來安撫這些躁動的蝴蝶。
+for.gui.loot.butterfly=§7蝴蝶可能的產物
+for.gui.loot.caterpillar=§7毛毛蟲可能的產物
+
+for.lepidopterology.effect.none=§7無效果
+
+item.for.butterfly.name=§7蝴蝶
+item.for.flutterlyzer.name=§7蝴蝶分析儀
+item.for.lepidopteristBag.name=§7鱗翅目昆蟲學家背包
+item.for.moth.name=§7飛蛾
+tile.for.lepidopterology.0.name=§7鱗翅目昆蟲學家箱子
+
+####################
+# MAIL
+####################
+
+for.chat.mail.already_mailed=§7信件無法重發。
+
+for.chat.command.forestry.mail.desc=§7- %s ： 郵件系統命令
+for.chat.command.forestry.mail.help=§7與郵件系統相關的各種命令。
+for.chat.command.forestry.mail.format=§7格式： /%s <sub-command>
+
+for.chat.command.forestry.mail.trades.desc=§7- %s ：列出所有貿易站。
+for.chat.command.forestry.mail.trades.help=§7列出所有貿易站和它們的可用交易。
+for.chat.command.forestry.mail.trades.format=§7格式： /%s
+
+for.chat.command.forestry.mail.virtualize.desc=§7- %s ：將指定貿易站設為虛擬模式。
+for.chat.command.forestry.mail.virtualize.help=§7啟用指定貿易站的虛擬模式。該模式不會有任何消耗。
+for.chat.command.forestry.mail.virtualize.format=§7格式： /%s <trade-station-name>
+for.chat.command.forestry.mail.virtualize.no_tradestation=§7沒有發現名為'%s'的貿易站。
+for.chat.command.forestry.mail.virtualize.set=§7將'%s'的虛擬模式設為%s.
+
+for.chat.mail.insufficient_buffer=§7貿易站已滿。
+for.chat.mail.insufficient_offer=§7貿易站需求更多物品。
+for.chat.mail.insufficient_paper=§7貿易站紙張不足。
+for.chat.mail.insufficient_stamps=§7貿易站郵票不足。
+for.chat.mail.insufficient_trade_good=§7貿易站已經斷貨。
+for.chat.mail.mailbox_full=§7收件人的郵箱已滿。
+for.chat.mail.not_mailable=§7信件不符合郵寄要求。
+for.chat.mail.not_postpaid=§7信件郵資不足。
+for.chat.mail.no_mailbox=§7收件人沒有郵箱。
+for.chat.mail.ok=§7可貿易。
+for.chat.mail.response_not_mailable=§7貿易站無法回信，您需要郵箱。
+for.chat.mail.wrongstacksize=§7一次只能寫一封信。
+
+for.gui.mail.address.copy=§7使用
+for.gui.mail.catalogue.close=§7關閉
+for.gui.mail.catalogue.trade=§7貿易
+for.gui.mail.filter.all=§7全部
+for.gui.mail.filter.offline=§7離線
+for.gui.mail.filter.online=§7在綫
+for.gui.mail.notrades=§7無可用貿易。
+for.gui.mail.tradefor=§7交易對象為
+for.gui.mail.willtrade=§7%s將開始貿易
+
+item.for.catalogue.name=§7貿易目錄
+
+####################
+# PIPES
+####################
+
+item.PipeItemsPropolis.name=§7養蜂家管線
+
+####################
+# PLUGINS
+####################
+for.plugin.core.description=§7林業核心插件，是其他插件的前置插件。
+for.plugin.fluids.description=§7添加流體，流體方塊以及流體容器的插件。
+for.plugin.apiculture.description=§7添加蜜蜂，養蜂系統和蜜蜂產物的插件，會影響世界生成。
+for.plugin.arboriculture.description=§7添加更多樹木以及相關產物的插件。
+for.plugin.energy.description=§7添加一些使用RF能量的引擎的插件。
+for.plugin.factory.description=§7添加各種各樣的機器，以合成，生產和加工各種產品的插件。
+for.plugin.farming.description=§7添加了自動化農場和收穫設備的插件，可以產出各種各樣的產物。
+for.plugin.food.description=§7添加食物的插件。
+for.plugin.lepidopterology.description=§7蝴蝶插件。璀璨奪目。
+for.plugin.mail.description=§7添加林業交易和郵寄系統的插件。
+for.plugin.storage.description=§7添加背包和板條箱的插件。
+
+for.plugin.buildcraft6.description=§7BC6兼容插件。
+for.plugin.pipes.description=§7如果同時安裝了BC6且養蜂插件已啟用，則添加養蜂家管線的插件。
+for.plugin.ic2.description=§7IC2兼容插件。添加電力引擎和新的發電機用來進行能源轉換。
+for.plugin.natura.description=§7Natura兼容插件。啟用後農場能夠支持Natura的樹苗。
+for.plugin.ee2.description=§7等價交換2兼容插件。啟用後開啟蜜蜂的終結分支。需要啟用前置的養蜂插件。
+for.plugin.ee3.description=§7等價交換3兼容插件。
+for.plugin.farmcraftory.description=§7牧場物語FarmCraftory兼容插件。添加作物和蔬菜的自動化農場支持。
+for.plugin.biomesoplenty.description=§7更多生物群系Biomes O Plenty兼容插件。啟用後農場能夠支持BoP的樹苗。
+for.plugin.extrautilities.description=§7更多實用設備Extra Utilities兼容插件。啟用後農場能夠支持終界百合。
+for.plugin.harvestcraft.description=§7潘馬斯的豐收HarvestCraft兼容插件。啟用後農場能夠支持HarvestCraft的植物和樹苗。
+for.plugin.magicalcrops.description=§7魔法農作物Magical Crops兼容插件。
+for.plugin.chisel.description=§7鑿子Chisel兼容插件。添加生成方塊背包支持。
+for.plugin.plantmegapack.description=§7Plant Mega Pack兼容插件。
+for.plugin.witchery.description=§7巫術Witchery兼容插件。
+for.plugin.agricraft.description=§7AgriCraft兼容插件。
+for.plugin.enderIO.description=§7EnderIO兼容插件。
+for.plugin.immersiveengineering.description=§7Immersive Engineering兼容插件。
+for.plugin.growthcraft.description=§7GrowthCraft兼容插件
+for.plugin.erebus.description=§7Erebus兼容插件
+for.plugin.rotarycraft.description=§7RotaryCraft兼容插件
+for.plugin.minefactoryreloaded.description=§7MineFactoryReloaded兼容插件
+
+####################
+# CONFIG FILES
+####################
+
+for.config.performance=§7性能
+for.config.performance.particleFX=§7粒子效果
+for.config.performance.particleFX.comment=§7啟用粒子效果。注意降低Minecraft的粒子效果設定也會影響林業。
+for.config.performance.backpacks.resupply=§7背包自動補充
+for.config.performance.backpacks.resupply.comment=§7啟用背包自動補充。您可能希望在繁忙的伺服器關閉此功能。
+
+for.config.world.generate=§7世界生成
+
+for.config.world.generate.retrogen.normal=§7重新生成資源
+for.config.world.generate.retrogen.normal.comment=§7在插件未安裝前就已生成的區塊內生成林業資源。
+for.config.world.generate.retrogen.forced=§7強制重新生成資源
+for.config.world.generate.retrogen.forced.comment=§7強制所有區塊重新生成林業資源，即使這些地方已生成過林業資源。
+
+for.config.world.generate.ore.apatite=§7生成磷灰石
+for.config.world.generate.ore.apatite.comment=§7在世界中生成磷灰石礦。
+for.config.world.generate.ore.copper=§7生成銅
+for.config.world.generate.ore.copper.comment=§7在世界中生成銅礦。
+for.config.world.generate.ore.tin=§7生成錫
+for.config.world.generate.ore.tin.comment=§7在世界中生成錫礦。
+
+for.config.world.generate.beehives.amount=§7蜂巢生成數量
+for.config.world.generate.beehives.amount.comment=§7設定在世界中生成多少蜂巢。
+for.config.world.generate.beehives.debug=§7偵錯蜂巢生成
+for.config.world.generate.beehives.debug.comment=§7強制蜂巢生成於所有可生成的位置。(這會毀掉您的世界，只對開發者有用)
+
+for.config.world.generate.villagers=§7生成村民
+for.config.world.generate.villagers.comment=§7生成林業村民與他們的住家。
+
+for.config.crafting=§7合成設定
+for.config.crafting.bronze=§7合成青銅
+for.config.crafting.bronze.comment=§7啟用青銅合成公式。
+for.config.crafting.stamps.enabled=§7合成郵票
+for.config.crafting.stamps.enabled.comment=§7啟用郵票的合成公式。禁止此項目來把郵票作為貨幣使用。
+for.config.crafting.stamps.disabled=§7停用郵票
+for.config.crafting.stamps.disabled.comment=§7停用某些郵票的合成公式。
+
+for.config.tweaks=§7微調
+
+for.config.tweaks.gui.mail.alert.enabled=§7Mail Alert
+for.config.tweaks.gui.mail.alert.enabled.comment=§7Enables the new mail alert box.
+for.config.tweaks.gui.mail.alert.xPosition=§7Horizontal Position
+for.config.tweaks.gui.mail.alert.xPosition.comment=§7Horizontal Position of the mail alert box on the screen.
+for.config.tweaks.gui.mail.alert.yPosition=§7Vertical Position
+for.config.tweaks.gui.mail.alert.yPosition.comment=§7Vertical Position of the mail alert box on the screen.
+
+for.config.tweaks.gui.tabs.hints=§7提示
+for.config.tweaks.gui.tabs.hints.comment=§7在機器與引擎的使用者界面中顯示提示。
+for.config.tweaks.gui.tabs.speed=§7分頁速度
+for.config.tweaks.gui.tabs.speed.comment=§7設定使用者界面中分頁開啟與關閉的速度。
+for.config.tweaks.gui.tabs.energy=§7能源分頁
+for.config.tweaks.gui.tabs.energy.comment=§7在耗能設備中顯示目前的能量統計資訊。
+
+for.config.tweaks.gui.tooltip.liquidamount=§7液體提示
+for.config.tweaks.gui.tooltip.liquidamount.comment=§7在水槽界面顯示液體量的提示。
+
+for.config.tweaks.permissions=§7權限
+for.config.tweaks.permissions.comment=§7對林業機器啟用限制存取功能。
+for.config.tweaks.version.check=§7版本檢查
+for.config.tweaks.version.check.comment=§7啟用更新與版本檢查訊息。
+
+for.config.tweaks.farms.size=§7農場大小
+for.config.tweaks.farms.size.comment=§7調整農場大小倍率。
+for.config.tweaks.farms.square=§7方形農場
+for.config.tweaks.farms.square.comment=§7使農場從菱形改為方形。
+for.config.tweaks.farms.enderlily=§7EnderLily Farm Support
+for.config.tweaks.farms.enderlily.comment=§7Enables farm support for ExtraUtilities Ender-lily seeds.
+for.config.tweaks.farms.magicalcrops=§7Magical Crops Farm Support
+for.config.tweaks.farms.magicalcrops.comment=§7Enables farm support for Magical Crops.
+
+for.config.genetics=§7基因
+for.config.genetics.clear.invalid.chromosomes=§7Clear Invalid Chromosomes
+for.config.genetics.clear.invalid.chromosomes.comment=§7Clears chromosomes which contain invalid alleles. Might rescue your save if it is crashing after the removal of a bee addon.
+for.config.genetics.pollinate.vanilla.trees=§7Pollinate Vanilla Trees
+for.config.genetics.pollinate.vanilla.trees.comment=§7Allow bees, butterflies, and players to pollinate vanilla tree leaves. When disabled, vanilla trees must be analyzed before they can be pollinated.
+for.config.genetics.research.boost.multiplier=§7Research Mutation Multiplier
+for.config.genetics.research.boost.multiplier.comment=§7Multiplies the chance of a mutation when it has been discovered in the Escritoire.
+for.config.genetics.research.boost.max.percent=§7Research Mutation Max
+for.config.genetics.research.boost.max.percent.comment=§7The maximum percentage boost that can be applied by researching a mutation in the Escritoire.
+
+for.config.difficulty=§7難度
+for.config.difficulty.game.mode=§7遊戲模式
+for.config.difficulty.game.mode.comment=§7Set to your preferred game mode. Mismatch with the server may cause visual glitches with recipes.
+for.config.difficulty.recreate.definitions=§7Recreate Definitions
+for.config.difficulty.recreate.definitions.comment=§7Forces recreation of the game mode definitions in config/forestry/gamemodes.
+for.config.difficulty.loot.rare=§7稀有掉落
+for.config.difficulty.loot.rare.comment=§7Makes dungeon loot generated by forestry rarer.
+
+for.config.structures=§7建築物
+for.config.structures.disabled=§7停用建築物
+for.config.structures.disabled.comment=§7List specific structures to disable them.
+
+for.config.fluids=§7液體
+for.config.fluids.enable.format=§7Enables %s fluid.
+for.config.fluid.blocks=§7Fluid Blocks
+for.config.fluid.blocks.enable.format=§7Enables %s in-world fluid block.
+
+for.config.debug.enabled=§7偵錯模式
+for.config.debug.enabled.comment=§7Enable Debug mode (only useful to developers).
+
+for.config.beekeeping.mode=§7Beekeeping Mode
+for.config.beekeeping.mode.comment=§7Change the beekeeping mode.
+for.config.beekeeping.second.princess=§7Second Princess Chance
+for.config.beekeeping.second.princess.comment=§7Percent chance of a second princess drop, for limited/skyblock maps.
+for.config.beekeeping.flowers.accepted=§7Accepted Flowers
+for.config.beekeeping.flowers.accepted.comment=§7Accepted flowers allow bees to work. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+for.config.beekeeping.flowers.plantable=§7Plantable Flowers
+for.config.beekeeping.flowers.plantable.comment=§7Plantable flowers are placed by bees. All plantable flowers are automatically accepted flowers. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+
+for.config.species.blacklist=§7Species Blacklist
+for.config.species.blacklist.comment=§7Add species to blacklist identified by their uid, one per line.
+
+for.config.butterfly.entities.spawn.limit=§7Butterfly Spawn Limit
+for.config.butterfly.entities.spawn.limit.comment=§7Butterflies will stop natural spawning once this limit is reached.
+for.config.butterfly.entities.maximum=§7Butterfly Maximum
+for.config.butterfly.entities.maximum.comment=§7New butterflies will stay in item form and will not take flight once this limit is reached.
+for.config.butterfly.entities.pollination=§7Butterfly Pollination
+for.config.butterfly.entities.pollination.comment=§7Allow butterflies to pollinate leaves.
+
+for.config.backpacks.item.stacks.format=§7Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
+for.config.backpacks.ore.dict.format=§7Add ore dictionary names for the %s's backpack here in the format 'oreDictName'.
+
+for.config.gamemode=§7Game Mode
+
+for.config.gamemode.energy.demand.modifier.comment=§7Modifies the energy required to activate machines, as well as the max amount of energy stored and accepted.
+for.config.gamemode.farms.fertilizer.value.comment=§7Modifies the time a piece of fertilizer lasts in a farm.
+
+for.config.gamemode.fuel.ethanol.generator.comment=§7modifies the energy provided by ethanol in a Bio Generator.
+for.config.gamemode.fuel.ethanol.combustion.comment=§7modifies the energy provided by ethanol in Buildcraft Combustion Engines.
+for.config.gamemode.fuel.biomass.generator.comment=§7modifies the energy provided by Biomass in a Bio Generator.
+for.config.gamemode.fuel.biomass.biogas.comment=§7modifies the energy provided by Biomass in Biogas Engines.
+
+for.config.gamemode.recipe.output.fertilizer.apatite.comment=§7amount of fertilizer yielded by the recipe using apatite.
+for.config.gamemode.recipe.output.fertilizer.ash.comment=§7amount of fertilizer yielded by the recipe using ash.
+for.config.gamemode.recipe.output.compost.wheat.comment=§7amount of compost yielded by the recipe using wheat.
+for.config.gamemode.recipe.output.compost.ash.comment=§7amount of compost yielded by the recipe using ash.
+for.config.gamemode.recipe.output.humus.fertilizer.comment=§7amount of humus yielded by the recipe using fertilizer.
+for.config.gamemode.recipe.output.humus.compost.comment=§7amount of humus yielded by the recipe using compost.
+for.config.gamemode.recipe.output.bogearth.bucket.comment=§7amount of bog earth yielded by the recipe using buckets.
+for.config.gamemode.recipe.output.bogearth.can.comment=§7amount of bog earth yielded by the recipes using cans, cells or capsules.
+for.config.gamemode.recipe.output.can.comment=§7amount yielded by the recipe for tin cans.
+for.config.gamemode.recipe.output.capsule.comment=§7amount yielded by the recipe for wax capsules.
+for.config.gamemode.recipe.output.refractory.comment=§7amount yielded by the recipe for refractory capsules.
+
+for.config.gamemode.fermenter.cycles.fertilizer.comment=§7modifies the amount of cycles fertilizer can keep a fermenter going.
+for.config.gamemode.fermenter.cycles.compost.comment=§7modifies the amount of cycles compost can keep a fermenter going.
+for.config.gamemode.fermenter.value.fertilizer.comment=§7modifies the amount of biomass per cycle a fermenter will produce using fertilizer.
+for.config.gamemode.fermenter.value.compost.comment=§7modifies the amount of biomass per cycle a fermenter will produce using compost.
+for.config.gamemode.fermenter.yield.sapling.comment=§7modifies the base amount of biomass a sapling will yield in a fermenter, affected by sappiness trait.
+for.config.gamemode.fermenter.yield.cactus.comment=§7modifies the amount of biomass a piece of cactus will yield in a fermenter.
+for.config.gamemode.fermenter.yield.wheat.comment=§7modifies the amount of biomass a piece of wheat will yield in a fermenter.
+for.config.gamemode.fermenter.yield.cane.comment=§7modifies the amount of biomass a piece of sugar cane will yield in a fermenter.
+for.config.gamemode.fermenter.yield.mushroom.comment=§7modifies the amount of biomass a mushroom will yield in a fermenter.
+
+for.config.gamemode.squeezer.liquid.seed.comment=§7modifies the amount of seed oil squeezed from a single seed. other sources are based off this.
+for.config.gamemode.squeezer.liquid.apple.comment=§7modifies the amount of juice squeezed from a single apple. other sources are based off this.
+for.config.gamemode.squeezer.mulch.apple.comment=§7modifies the chance of mulch per squeezed apple.
+
+for.config.gamemode.energy.engine.clockwork.comment=§7Enable the clockwork engine.
+
+###################################
+# CUSTOM BEE AND TREE SPECIES NAMES
+###################################
+# Syntax:
+# for.bees.custom.<type>.<species>=§7New custom bee name
+# for.trees.custom.<type>.<species>=§7New custom tree name
+# Examples:
+# for.bees.custom.drone.forest=§7Forest Drone
+# for.trees.custom.pollen.darkOak=§7New Dark Oak Pollen Name
+# Beealyzer/Treealyzer syntax:
+# for.bees.custom.beealyzer.<type>.<species>=§7New custom bee species name
+# for.trees.custom.treealyzer.<type>.<species>=§7New custom tree species name
+# Examples:
+# for.bees.custom.beealyzer.drone.forest=§7New Forest drone species name when used in a beealyzer
+# for.trees.custom.treealyzer.pollen.darkOak=§7New Dark Oak pollen species name when used in a treealyzer
+
+###################################
+# CUSTOM ALLELE ADJECTIVES
+###################################
+# Replaces forestry.allele.<adjective>
+#
+# Syntax:
+# forestry.allele.<category>.<adjective>=§7New custom adjective
+#
+# Available categories and [adjectives]:
+# speed: 		[slowest, slower, slow, normal, fast, faster, fastest]
+# maturation: 	[slowest, slower, slow, normal, fast, faster, fastest]
+# flowering:	[slowest, slower, slow, normal, fast, faster, fastest, maximum]
+#
+# size: 		[smallest, smaller, average, large, larger, largest]
+# height: 		[smallest, smaller, average, large, larger, largest, gigantic]
+# territory:	[average, large, larger, largest]
+#
+# saplings: 	[lowest, lower, low, average, high, higher, highest]
+# yield: 		[lowest, lower, low, average, high, higher, highest]
+# sappiness:	[lowest, lower, low, average, high, higher, highest]
+#
+# Examples:
+# forestry.allele.speed.slowest=§7New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+# forestry.allele.flowering.slowest=§7New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+# forestry.allele.yield.low=§7New custom adjective for low yield, replacing forestry.allele.low
+
+###################################
+# CUSTOM TOOLTIPS
+###################################
+# Available custom tooltips:
+# for.tooltip.worker.<speed adjective> for bee worker speed.
+#
+# Example:
+# for.tooltip.worker.slowest=§7Slowest Worker
+
+###################################
+# CUSTOM WOOD NAMES
+###################################
+#
+# Examples:
+# tile.for.stairs.4.name=§7Chestnut Stairs
+# tile.for.planks.8.name=§7Kapok Wood Planks
+# tile.for.slab.5.name=§7Wenge Wood Slab
+# tile.for.log.10.name=§7Mahogany Wood
+# tile.for.fences.0.name=§7Larch Fence
+
+####################
+# NEI Categories
+####################
+
+nei.subsets.Forestry=§7林業
+nei.subsets.Forestry.Bees=§7蜜蜂
+nei.subsets.Forestry.Bees.Combs=§7蜂巢
+nei.subsets.Forestry.Bees.Drones=§7雄蜂
+nei.subsets.Forestry.Bees.Princesses=§7公主蜂
+nei.subsets.Forestry.Bees.Queens=§7蜂后
+nei.subsets.Forestry.Blocks=§7方塊
+nei.subsets.Forestry.Butterflies=§7蝴蝶
+nei.subsets.Forestry.Butterflies.Butterflies=§7蝴蝶
+nei.subsets.Forestry.Butterflies.Caterpillars=§7毛蟲
+nei.subsets.Forestry.Butterflies.Serums=§7血清
+nei.subsets.Forestry.Items=§7物品
+nei.subsets.Forestry.Trees=§7樹木
+nei.subsets.Forestry.Trees.Pollen=§7花粉
+nei.subsets.Forestry.Trees.Saplings=§7樹苗

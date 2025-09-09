@@ -1,0 +1,747 @@
+# Cart assembler gui localization
+gui.SC2:cartAssembler=§7Vagnsverkstad
+gui.SC2:basicAssembleInstruction=§7Var vänlig och placera valfritt vagnsskrov på skrovplatsen för att börja skapa en vagn.
+gui.SC2:invalidHullError=§7Vagnsskrovet som placerats på skrovplatsen är inte ett giltigt skrov. Detta ska inte ske så du har antagligen gjort något dumt.
+gui.SC2:hullCapacity=§7Skrovkapacitet
+gui.SC2:complexityCap=§7Komplexitetsgräns
+gui.SC2:totalCost=§7Total Kostnad
+gui.SC2:totalTime=§7Total Tid
+gui.SC2:readyMessage=§7Redo att konstruera vagnen!
+gui.SC2:assembleProgress=§7Färdigställande
+gui.SC2:timeLeft=§7Återstående tid
+gui.SC2:idleAssemblerMessage=§7Vagnverkstaden används inte just nu
+gui.SC2:modifyCart=§7Modifiera vagnen
+gui.SC2:assembleCart=§7Konstruera vagnen
+gui.SC2:fuelLevel=§7Bränslenivå
+gui.SC2:noHullError=§7Inget skrov!
+gui.SC2:invalidHullErrorShort=§7Skrovet du lagt i är inte ett riktigt skrov.
+gui.SC2:busyAssemblerError=§7Verkstaden jobbar redan!
+gui.SC2:departureBayError=§7Det finns en vagn i vagnsplaceraren.
+
+# Cargo manager and Liquid manager shared gui localization
+gui.SC2:manager=§7Hanterare
+gui.SC2:currentSetting=§7Nuvarande
+gui.SC2:changeTransferDirection=§7Ändra riktning
+gui.SC2:directionToCart=§7Till vagn
+gui.SC2:directionFromCart=§7Från vagn
+gui.SC2:changeTurnBack=§7Ändra återvändningsinställning
+gui.SC2:turnBackDisabled=§7Ingen sida vald
+gui.SC2:turnBack=§7Återvänd efter överföring
+gui.SC2:continueForward=§7Fortsätt efter överföring
+gui.SC2:changeTransferSize=§7Ändra överföringsstorlek
+gui.SC2:changeSide=§7Ändra sida
+gui.SC2:currentSide=§7Nuvarande sida
+gui.SC2:sideRed=§7Röd
+gui.SC2:sideBlue=§7Blå
+gui.SC2:sideYellow=§7Gul
+gui.SC2:sideGreen=§7Grön
+gui.SC2:sideDisabled=§7Avstängd
+
+# Cargo manager gui localization
+gui.SC2:cargoManager=§7Last
+gui.SC2:changeSlotLayout=§7Ändra utrymmeslayout
+gui.SC2:layoutShared=§7Alla utrymmen delas av alla sidor
+gui.SC2:layoutSide=§7Varje sida har sitt eget utrymme
+gui.SC2:layoutColor=§7Varje färg har sina egna utrymmen
+gui.SC2:transferAll=§7Överför så mycket som möjligt
+gui.SC2:transferItems=§7Överför max [%1] [%2:sak|saker]
+gui.SC2:transferStacks=§7Överför max [%1] [%2:stack|stacks]
+gui.SC2:transferAllShort=§7MAX
+gui.SC2:transferItemsShort=§7I
+gui.SC2:transferStacksShort=§7S
+gui.SC2:changeTransferCartArea=§7Ändra område i vagnen
+gui.SC2:unknownAreaMessage=§7Okänt område
+gui.SC2:cartAreaAll=§7Överallt
+gui.SC2:cartAreaEngine=§7Motor
+gui.SC2:cartAreaRailer=§7Spårläggare
+gui.SC2:cartAreaStorage=§7Förrådsutrymmen
+gui.SC2:cartAreaTorches=§7Facklor
+gui.SC2:cartAreaExplosives=§7Sprängmedel
+gui.SC2:cartAreaArrows=§7Pilar
+gui.SC2:cartAreaBridge=§7Bromaterial
+gui.SC2:cartAreaSeeds=§7Frön
+gui.SC2:cartAreaFertilizer=§7Gödsel
+gui.SC2:cartAreaSaplings=§7Plantor
+gui.SC2:cartAreaFirework=§7Fyrverkerier
+gui.SC2:cartAreaBuckets=§7Hinkar (för mjölkare)
+gui.SC2:cartAreaCakes=§7Tårtor
+
+# Liquid manager gui localization
+gui.SC2:liquidManager=§7Vätska
+gui.SC2:changeTankLayout=§7Ändra tanklayout
+gui.SC2:layoutSharedTanks=§7Alla tankar delas av alla sidor
+gui.SC2:layoutSidedTanks=§7Varje sida har sin egna tank
+gui.SC2:layoutColorTanks=§7Varje färg har sin/sina egna tank/tanker
+gui.SC2:transferAllLiquid=§7Överför så mycket som möjligt
+gui.SC2:transferBuckets=§7Överför max [%1]
+gui.SC2:transferAllLiquidShort=§7MAX
+gui.SC2:transferBucketShort=§7H
+
+# Module Toggler gui localization
+gui.SC2:moduleToggler=§7Modul på/av
+gui.SC2:optionDrill=§7Borr
+gui.SC2:optionShield=§7Sköld
+gui.SC2:optionInvisibility=§7Osynlighet
+gui.SC2:optionChunk=§7Chunkladdare
+gui.SC2:optionCageAuto=§7Bur autoupplockning
+gui.SC2:optionCage=§7Bur upplockning
+gui.SC2:settingDisabled=§7Av
+gui.SC2:settingOrange=§7Orange riktning
+gui.SC2:settingBlue=§7Blå riktning
+gui.SC2:stateActivate=§7Aktivera
+gui.SC2:stateDeactivate=§7Deaktivera
+gui.SC2:stateToggle=§7Slå på/av
+
+# External Distributer gui localization
+gui.SC2:externalDistributor=§7Distributör
+gui.SC2:distributorNotConnected=§7Ej kopplad till någon distributör!
+gui.SC2:sideName=§7[%1] sida
+gui.SC2:dropInstruction=§7Släpp här för att lägga till denna instruktion
+gui.SC2:removeInstruction=§7Högerklicka för att ta bort
+gui.SC2:distributorAll=§7Alla
+gui.SC2:distributorRed=§7Röd
+gui.SC2:distributorBlue=§7Blå
+gui.SC2:distributorYellow=§7Gul
+gui.SC2:distributorGreen=§7Grön
+gui.SC2:distributorTopLeft=§7Upp till vänster
+gui.SC2:distributorTopRight=§7Upp till höger
+gui.SC2:distributorBottomLeft=§7Ner till vänster
+gui.SC2:distributorBottomRight=§7Ner till höger
+gui.SC2:distributorToCart=§7Till vagn
+gui.SC2:distributorFromCart=§7Från vagn
+gui.SC2:managerTop=§7Övre distributör
+gui.SC2:managerBot=§7Nedre distributör
+gui.SC2:distributorSideOrange=§7Orange
+gui.SC2:distributorSidePurple=§7Lila
+gui.SC2:distributorSideYellow=§7Gul
+gui.SC2:distributorSideGreen=§7Grön
+gui.SC2:distributorSideBlue=§7Blå
+gui.SC2:distributorSideRed=§7Röd
+gui.SC2:sideToolTip=§7Sida: [%1]
+
+# Detector Units gui localization
+gui.SC2:operatorOutput=§7GE
+gui.SC2:operatorAnd=§7OCH
+gui.SC2:operatorOr=§7ELLER
+gui.SC2:operatorNot=§7INTE
+gui.SC2:operatorXor=§7ANTINGEN ELLER
+gui.SC2:operatorTopUnit=§7Toppenhet
+gui.SC2:operatorBotUnit=§7Bottenenhet
+gui.SC2:operatorNorthUnit=§7Norra enheten
+gui.SC2:operatorWestUnit=§7Västra enheten
+gui.SC2:operatorSouthUnit=§7Södra enheten
+gui.SC2:operatorEastUnit=§7Östra enheten
+gui.SC2:operatorRedstone=§7Rödsten in
+gui.SC2:operatorRedstoneTop=§7Topp rödsten in
+gui.SC2:operatorRedstoneBot=§7Botten rödsten in
+gui.SC2:operatorRedstoneNorth=§7Norr rödsten in
+gui.SC2:operatorRedstoneWest=§7Väst rödsten in
+gui.SC2:operatorRedstoneSouth=§7Syd rödsten in
+gui.SC2:operatorRedstoneEast=§7Öst rödsten in
+gui.SC2:stateRails=§7Har räls
+gui.SC2:stateTorches=§7Har facklor
+gui.SC2:stateSaplings=§7Har plantor
+gui.SC2:sateSeeds=§7Har frön
+gui.SC2:stateBridge=§7Har broblock
+gui.SC2:stateProjectiles=§7Har projektiler
+gui.SC2:stateFertilizing=§7Har gödsel
+gui.SC2:stateShield=§7Sköld aktiv
+gui.SC2:stateChunk=§7Chunkladdare aktiv
+gui.SC2:stateInvisibility=§7Osynlighetskärna aktiv
+gui.SC2:stateDrill=§7Borr aktiv
+gui.SC2:stateCage=§7Autoupplockning på
+gui.SC2:stateStorageFull=§7Förråd helt fulla
+gui.SC2:stateStorageEmpty=§7Förråd helt tomma
+gui.SC2:statePassenger=§7Har passagerare
+gui.SC2:stateAnimal=§7Har djurpassagerare
+gui.SC2:stateTameable=§7Har tämjbar passagerare
+gui.SC2:stateBreedable=§7Har uppfödbar passagerare
+gui.SC2:stateHostile=§7Har fientlig passagerare
+gui.SC2:stateCreeper=§7Har smygarpassagerare
+gui.SC2:stateSkeleton=§7Har skelettpassagerare
+gui.SC2:stateSpider=§7Has spindelpassagerare
+gui.SC2:stateZombie=§7Has zombiepassagerare
+gui.SC2:stateZombiePigMan=§7Har zombiegrispassagerare
+gui.SC2:stateSilverFish=§7Har silverfiskpassagerare
+gui.SC2:stateBlaze=§7Har brännarpassagerare
+gui.SC2:stateBat=§7Har fladdermuspassagerare
+gui.SC2:stateWitch=§7Har häxpassagerare
+gui.SC2:statePig=§7Har grispassagerare
+gui.SC2:stateSheep=§7Har fårpassagerare
+gui.SC2:stateCow=§7Har kopassagerare
+gui.SC2:stateMooshroom=§7Har svampkopassagerare
+gui.SC2:stateChicken=§7Har kycklingpassagerare
+gui.SC2:stateWolf=§7Har vargpassagerare
+gui.SC2:stateSnowGolem=§7Har snömanspassagerare
+gui.SC2:stateOcelot=§7Har ozelotpassagerare
+gui.SC2:stateVillager=§7Har bybopassagerare
+gui.SC2:statePlayer=§7Har spelarpassagerare
+gui.SC2:stateZombieVillager=§7Har zombiebybopassagerare
+gui.SC2:stateChild=§7Har barnpassagerare
+gui.SC2:stateTamed=§7Har tämjd passagerare
+gui.SC2:statePowerRed=§7Är energigövervakare[röd] aktiv
+gui.SC2:statePowerBlue=§7Är energigövervakare[blå] aktiv
+gui.SC2:statePowerGreen=§7Är energigövervakare[grön] aktiv
+gui.SC2:statePowerYellow=§7Är energigövervakare[gul] aktiv
+gui.SC2:stateTanksFull=§7Är tankarna helt fulla
+gui.SC2:stateTanksEmpty=§7Är tankarna helt tomma
+gui.SC2:stateTankEmpty=§7Finns det en tom tank
+
+
+# =§7=====================================
+                                ITEMS
+# =§7=====================================
+
+# Carts
+item.SC2:ModularCart.name=§7Modulär vagn
+
+# Modules
+item.SC2:unknownmodule.name=§7Okänd SC2 modul
+item.SC2:coal_engine.name=§7Kolmotor
+item.SC2:solar_engine.name=§7Solpanelsmotor
+item.SC2:side_chests.name=§7Sidokistor
+item.SC2:top_chest.name=§7Toppkista
+item.SC2:front_chest.name=§7Frontkista
+item.SC2:internal_storage.name=§7Intern kista
+item.SC2:extracting_chests.name=§7Extraherande kista
+item.SC2:torch_placer.name=§7Fackelplacerare
+item.SC2:basic_drill.name=§7Normal borr
+item.SC2:galgadorian_drill.name=§7Galgadorisk borr
+item.SC2:railer.name=§7Rälsläggare
+item.SC2:large_railer.name=§7Stor rälsläggare
+item.SC2:bridge_builder.name=§7Brobyggare
+item.SC2:track_remover.name=§7Rälsborttagare
+item.SC2:basic_farmer.name=§7Normal odlare
+item.SC2:basic_wood_cutter.name=§7Normal trähuggare
+item.SC2:hydrator.name=§7Hydrator
+item.SC2:height_controller.name=§7Höjdkontroll
+item.SC2:fertilizer.name=§7Gödsel
+item.SC2:entity_detector_animal.name=§7Detektor: djur
+item.SC2:liquid_sensors.name=§7Vätskesensor
+item.SC2:entity_detector_villager.name=§7Detektor: bybo
+item.SC2:entity_detector_player.name=§7Detektor: spelare
+item.SC2:seat.name=§7Säte
+item.SC2:entity_detector_monster.name=§7Detektor: monster
+item.SC2:advanced_control_system.name=§7Avancerat kontrollsystem
+item.SC2:brake_handle.name=§7Handbroms
+item.SC2:advanced_shooter.name=§7Avancerad skytt
+item.SC2:shooter.name=§7Skytt
+item.SC2:dynamite_carrier.name=§7Dynamit
+item.SC2:cleaning_machine.name=§7Reningsmaskin
+item.SC2:extreme_melter.name=§7Extrem masugn
+item.SC2:divine_shield.name=§7Himmelsk sköld
+item.SC2:melter.name=§7Smältare
+item.SC2:standard_hull.name=§7Standardskrov
+item.SC2:reinforced_hull.name=§7Armerat skrov
+item.SC2:invisibility_core.name=§7Osynlighetskärna
+item.SC2:wooden_hull.name=§7Träskrov
+item.SC2:iron_drill.name=§7Järnborr
+item.SC2:hardened_drill.name=§7Härdad borr
+item.SC2:note_sequencer.name=§7Musikspelare
+item.SC2:colorizer.name=§7Färgare
+item.SC2:pumpkin_chariot.name=§7Pumpvagn
+item.SC2:tiny_coal_engine.name=§7Liten kolmotor
+item.SC2:basic_solar_engine.name=§7Liten solpanelsmotor
+item.SC2:projectile_potion.name=§7Projektil: dryck
+item.SC2:gift_storage.name=§7Gåvoförråd
+item.SC2:chunk_loader.name=§7Chunkladdare
+item.SC2:entity_detector_bat.name=§7Detektor: fladdermus
+item.SC2:freezer.name=§7Nedkylare
+item.SC2:projectile_snowball.name=§7Projektil: snöboll
+item.SC2:projectile_egg.name=§7Projektil: ägg
+item.SC2:projectile_fire_charge.name=§7Projektil: eldladdning
+item.SC2:firework_display.name=§7Fyverkerishow
+item.SC2:crop_nether_wart.name=§7Planta: nedervårta
+item.SC2:cage.name=§7Bur
+item.SC2:compact_solar_engine.name=§7Kompakt solpanelsmotor
+item.SC2:internal_tank.name=§7Intern tank
+item.SC2:mechanical_pig.name=§7Mekanisk gris
+item.SC2:creative_engine.name=§7Kreativ motor
+item.SC2:incinerator.name=§7Brännare
+item.SC2:thermal_engine.name=§7Termisk motor
+item.SC2:advanced_thermal_engine.name=§7Avancerad Termisk motor
+item.SC2:liquid_cleaner.name=§7Vätskerenare
+item.SC2:side_tanks.name=§7Sidotankar
+item.SC2:top_tank.name=§7Topptank
+item.SC2:advanced_tank.name=§7Avancerad tank
+item.SC2:front_tank.name=§7Fronttank
+item.SC2:creative_hull.name=§7Kreativt skrov
+item.SC2:power_observer.name=§7Energiövervakare
+item.SC2:steves_arcade.name=§7Steves spelmaskin
+item.SC2:hardened_wood_cutter.name=§7Härdad trähuggare
+item.SC2:creative_tank.name=§7Kreativ tank
+item.SC2:open_tank.name=§7Öppen tank
+item.SC2:egg_basket=§7Äggkorg
+item.SC2:drill_intelligence.name=§7Borrintelligens
+item.SC2:lawn_mower.name=§7Gräsklippare
+item.SC2:galgadorian_farmer.name=§7Galgadorisk Odlare
+item.SC2:crafter.name=§7Skapare
+item.SC2:milker.name=§7Mjölkare
+item.SC2:galgadorian_hull.name=§7Galgadoriskt skrov
+item.SC2:galgadorian_wood_cutter.name=§7Galgadorisk trähuggare
+item.SC2:ore_extractor.name=§7Malmutvinnare
+item.SC2:enchanter.name=§7Förtrollare
+item.SC2:advanced_smelter.name=§7Avancerad masugn
+item.SC2:advanced_crafter.name=§7Avancerad skapare
+item.SC2:experience_bank.name=§7XP-bank
+item.SC2:information_provider.name=§7Informations förråd
+item.SC2:planter_range_extender.name=§7Odlingsräckviddsförlängare
+item.SC2:tree_exotic.name=§7Träd: exotiskt
+item.SC2:smelter.name=§7Masugn
+item.SC2:projectile_cake.name=§7Projektil: tårta
+item.SC2:trick_or_treat_cake_server.name=§7Bus eller godis tårtserverare
+item.SC2:cake_server.name=§7Tårtserverare
+item.SC2:creative_incinerator.name=§7Kreativ brännare
+item.SC2:creative_supplies.name=§7Kreativt förråd
+
+# Components
+item.SC2:unknowncomponent.name=§7Okänd SC2 komponent
+item.SC2:wooden_wheels.name=§7Trähjul
+item.SC2:iron_wheels.name=§7Järnhjul
+item.SC2:red_pigment.name=§7Rött pigment
+item.SC2:green_pigment.name=§7Grönt pigment
+item.SC2:blue_pigment.name=§7Blått pigment
+item.SC2:glass_o'magic.name=§7Magiskt glas
+item.SC2:dynamite.name=§7Dynamit
+item.SC2:unknowncomponent.name=§7Okänd SC2 komponent
+item.SC2:unknowncomponent.name=§7Okänd SC2 komponent
+item.SC2:simple_pcb.name=§7Simpelt kretskort
+item.SC2:graphical_interface.name=§7Gränssnitt
+item.SC2:raw_handle.name=§7Handtag
+item.SC2:refined_handle.name=§7Raffinerat handtag
+item.SC2:speed_handle.name=§7Gasspak
+item.SC2:wheel.name=§7Hjul
+item.SC2:saw_blade.name=§7Sågblad
+item.SC2:advanced_pcb.name=§7Avancerat kretskort
+item.SC2:wood_cutting_core.name=§7Tråhuggningskärna
+item.SC2:raw_hardener.name=§7Rå förstärkning
+item.SC2:refined_hardener.name=§7Raffinerad förstärkning
+item.SC2:hardened_mesh.name=§7Förstärkt blandning
+item.SC2:stabilized_metal.name=§7Stabiliserad metall
+item.SC2:reinforced_metal.name=§7Förstärkt metall
+item.SC2:reinforced_wheels.name=§7Förstärkta hjul
+item.SC2:pipe.name=§7Rör
+item.SC2:shooting_station.name=§7Skyttesstation
+item.SC2:entity_scanner.name=§7Entitetsscanner
+item.SC2:entity_analyzer.name=§7Entitetsanalysator
+item.SC2:empty_disk.name=§7Tom skiva
+item.SC2:tri-torch.name=§7Trifackla
+item.SC2:chest_pane.name=§7Kistpanel
+item.SC2:large_chest_pane.name=§7Stor kistpanel
+item.SC2:huge_chest_pane.name=§7Enorm kistpanel
+item.SC2:chest_lock.name=§7Kistlås
+item.SC2:iron_pane.name=§7Järnpanel
+item.SC2:large_iron_pane.name=§7Stor järnpanel
+item.SC2:huge_iron_pane.name=§7Enorm järnpanel
+item.SC2:dynamic_pane.name=§7Dynamisk panel
+item.SC2:large_dynamic_pane.name=§7Stor dynamisk panel
+item.SC2:huge_dynamic_pane.name=§7Enorm dynamisk panel
+item.SC2:cleaning_fan.name=§7Städningsfläkt
+item.SC2:cleaning_core.name=§7Städningskärna
+item.SC2:cleaning_tube.name=§7Städningsrör
+item.SC2:fuse.name=§7Stubin
+item.SC2:solar_panel.name=§7Solpanel
+item.SC2:eye_of_galgador.name=§7Galgadoröga
+item.SC2:lump_of_galgador.name=§7Galgadorklump
+item.SC2:galgadorian_metal.name=§7Galgadormetall
+item.SC2:large_lump_of_galgador.name=§7Stor galgadorklump
+item.SC2:enhanced_galgadorian_metal.name=§7Förbättrad galgadormetall
+item.SC2:stolen_present.name=§7Stulen present
+item.SC2:green_wrapping_paper.name=§7Grönt omslagspapper
+item.SC2:red_wrapping_paper.name=§7Rött omslagspapper
+item.SC2:warm_hat.name=§7Varm hatt
+item.SC2:red_gift_ribbon.name=§7Rött omslagsband
+item.SC2:yellow_gift_ribbon.name=§7Gult omslagsband
+item.SC2:sock.name=§7Socka
+item.SC2:stuffed_sock.name=§7Fylld socka
+item.SC2:advanced_solar_panel.name=§7Avancerad solpanel
+item.SC2:blank_upgrade.name=§7Tom uppgradering
+item.SC2:tank_valve.name=§7Tankventil
+item.SC2:tank_pane.name=§7Tankpanel
+item.SC2:large_tank_pane.name=§7Stor tankpanel
+item.SC2:huge_tank_pane.name=§7Enorm tankpanel
+item.SC2:liquid_cleaning_core.name=§7Vätskereningskärna
+item.SC2:liquid_cleaning_tube.name=§7Vätskereningsrör
+item.SC2:explosive_easter_egg.name=§7Explosivt påskägg
+item.SC2:burning_easter_egg.name=§7Brinnande påskägg
+item.SC2:glistering_easter_egg.name=§7Glimrande påskägg
+item.SC2:chocolate_easter_egg.name=§7Chokladpåskägg
+item.SC2:painted_easter_egg.name=§7Målat påskägg
+item.SC2:basket.name=§7Korg
+item.SC2:oak_log.name=§7Ekstock
+item.SC2:oak_twig.name=§7Ekkvist
+item.SC2:spruce_log.name=§7Granstock
+item.SC2:spruce_twig.name=§7Grankvist
+item.SC2:birch_log.name=§7Björkstock
+item.SC2:birch_twig.name=§7Björkkvist
+item.SC2:jungle_log.name=§7Djungelstock
+item.SC2:jungle_twig.name=§7Djungelstock
+item.SC2:hardened_saw_blade.name=§7Härdat sågblad
+item.SC2:galgadorian_saw_blade.name=§7Galgadoriskt sågblad
+item.SC2:galgadorian_wheels.name=§7Galgadoriska hjul
+item.SC2:iron_blade.name=§7Järnblad
+item.SC2:blade_arm.name=§7Bladarm
+
+
+
+# =§7=====================================
+                                BLOCKS
+# =§7=====================================
+
+tile.SC2:BlockCargoManager.name=§7Lasthanterare
+tile.SC2:BlockJunction.name=§7Spårkorsning
+tile.SC2:BlockAdvDetector.name=§7Avancerad detektorsräls
+tile.SC2:BlockCartAssembler.name=§7Vagnsverkstad
+tile.SC2:BlockActivator.name=§7Modulsaktiverare
+tile.SC2:BlockDistributor.name=§7Distributör
+tile.SC2:BlockLiquidManager.name=§7Vätskehanterare
+
+# Storage
+item.SC2:BlockStorage0.name=§7Förstärkt Metallblock
+item.SC2:BlockStorage1.name=§7Galgadoriskt block
+item.SC2:BlockStorage2.name=§7Förbättrat Galgadoriskt block
+
+# Upgrades
+item.SC2:batteries.name=§7Uppgradering: Batterier
+item.SC2:power_crystal.name=§7Uppgradering: Energikristall
+item.SC2:module_knowledge.name=§7Uppgradering: modulkunskap
+item.SC2:industrial_espionage.name=§7Uppgradering: industriellt spionage
+item.SC2:experienced_assembler.name=§7Uppgradering: erfaren monterare
+item.SC2:new_era.name=§7Uppgradering: ny era
+item.SC2:co2_friendly.name=§7Uppgradering: miljövänlig
+item.SC2:generic_engine.name=§7Uppgradering: normal motor
+item.SC2:module_input.name=§7Uppgradering: modulingång
+item.SC2:production_line.name=§7Uppgradering: löpande band
+item.SC2:cart_deployer.name=§7Uppgradering: vagnplacerare
+item.SC2:cart_modifier.name=§7Uppgradering: vagnmodifierare
+item.SC2:cart_crane.name=§7Uppgradering: vagnskran
+item.SC2:redstone_control.name=§7Uppgradering: rödstenskontroll
+item.SC2:creative_mode.name=§7Uppgradering: kreativt läge
+item.SC2:quick_demolisher.name=§7Uppgradering: snabb demontör
+item.SC2:manager_bridge.name=§7Uppgradering: hanterarbrygga
+item.SC2:entropy.name=§7Uppgradering: entropi
+item.SC2:solar_panel_upgrade.name=§7Uppgradering: Solpanel
+item.SC2:thermal_engine_upgrade.name=§7Uppgradering: termisk motor
+
+# Detector Units
+item.SC2:BlockDetector0.name=§7Detektorhanterare
+item.SC2:BlockDetector1.name=§7Detektorenhet
+item.SC2:BlockDetector2.name=§7Detektorstation
+item.SC2:BlockDetector3.name=§7Detektorkorsning
+item.SC2:BlockDetector4.name=§7Detektorrödstensenhet
+
+
+
+# =§7=====================================
+                                MODULE MISC
+# =§7=====================================
+
+# Categories
+info.SC2:moduleCategoryHull=§7Skrov
+info.SC2:moduleCategoryEngine=§7Motor
+info.SC2:moduleCategoryTool=§7Verktyg
+info.SC2:moduleCategoryStorage=§7Lagring
+info.SC2:moduleCategoryAddon=§7Tillägg
+info.SC2:moduleCategoryAttachment=§7Tillbehör
+
+# Groups
+info.SC2:moduleGroupEngine=§7[%1:Motor|Motorer]
+info.SC2:moduleGroupDrill=§7[%1:Borr|Borrar]
+info.SC2:moduleGroupFarmer=§7[%1:Odlare|Odlare]
+info.SC2:moduleGroupCutter=§7[%1:Trähuggare|Trähuggare]
+info.SC2:moduleGroupTank=§7[%1:Tank|Tankar]
+info.SC2:moduleGroupEntity=§7[%1:Entitetsscanner|Entitetsscannrar]
+info.SC2:moduleGroupShooter=§7[%1:Skytt|Skyttar]
+info.SC2:moduleGroupTool=§7[%1:Verktyg|Verktyg]
+info.SC2:moduleGroupToolShooter=§7[%1:Verktyg|Vergtyg] eller [%1:Skytt|Skyttar]
+
+# Messages
+info.SC2:pigExtraMessage=§7Till minne av Vswes "Thunderpig arena" vinst. Tack till alla som donerade under 2013 Minecraft maraton
+info.SC2:oceanExtraMessage=§7Utrymme för en genomsnittlig ocean
+info.SC2:alphaExtraMessage=§71 år i alpha
+info.SC2:storageEmpty=§7Tom
+info.SC2:storageFull=§7Full
+info.SC2:giftStorageFull=§7Kan innehålla en överraskning
+info.SC2:eggStorageFull=§7Full av ägg
+
+# Labels
+info.SC2:modularCost=§7Modulkostnad
+info.SC2:cartSideTop=§7Topp
+info.SC2:cartSideCenter=§7Mitt
+info.SC2:cartSideBottom=§7Botten
+info.SC2:cartSideBack=§7Bak
+info.SC2:cartSideLeft=§7Vänster
+info.SC2:cartSideRight=§7Höger
+info.SC2:cartSideFront=§7Front
+info.SC2:occupiedSides=§7Kommer att ockupera [%1] [%2:sida|sidor]
+info.SC2:sidesAnd=§7och
+info.SC2:noSides=§7Kommer inte ockupera några sidor
+info.SC2:moduleConflictHowever=§7Kommer däremot att krocka med
+info.SC2:moduleConflictAlso=§7Kommer även krocka med
+info.SC2:moduleRequirement=§7Kräver
+info.SC2:moduleCount1=§7en
+info.SC2:moduleCount2=§7två
+info.SC2:moduleCount3=§7tre
+info.SC2:allowDuplicates=§7Dubbletter är tillåtna
+info.SC2:moduleType=§7Typ
+info.SC2:capacityOverloadError=§7Din kostnad är högre än skrovets kapacitet.
+info.SC2:impossibleCombinationError=§7Kombinationen av de giva modulernas modultyperna är ej tillåtna, detta skall ej kunna hända.
+info.SC2:complexityOverloadError=§7[%1] är för komplext för detta skrov.
+info.SC2:missingParentError=§7[%1] kräver [%2] för att fungera!
+info.SC2:presentNemesisError=§7[%1] kommer ej funka med [%2]
+info.SC2:presentDuplicateError=§7[%1] får ej läggas till flera gånger.
+info.SC2:sideClashError=§7[%1] och [%2] kommer krocka vid [%3]
+info.SC2:toolUnbreakable=§7Oförstörbar
+info.SC2:toolDurability=§7Hållbarhet: [%1]%
+info.SC2:modularCapacity=§7Modulär kapacitet: [%1]
+info.SC2:complexityCap=§7Modulskomplexitetsmaximum: [%1]
+info.SC2:maxEngineCount=§7Max antal motorer: [%1]
+info.SC2:maxAddonCount=§7Max antal tillägg: [%1]
+
+
+# =§7=====================================
+                                UPGRADES
+# =§7=====================================
+
+info.SC2:effectBlueprint=§7Tillåter konstruktion av vagnar med ritningar
+info.SC2:effectCombustionFuel=§7Tillåtna standardbränslen
+info.SC2:effectDeployer=§7Aktiverar placering av färdig vagn
+info.SC2:effectDisassemble=§7Tillåter demontering och modifikation
+info.SC2:effectFuelCapacity=§7Bränslekapacitet [%1]
+info.SC2:effectFuelCost=§7Bränslekostnad [%1]%
+info.SC2:effectInputChest=§7Ingångskista med [%1] utrymmen
+info.SC2:effectManagerBridge=§7Kopplar ihop en verkstad och en hanterare
+info.SC2:effectGenerator=§7Genererar [%1] [%2:enhet|enheter] med kraft per minut
+info.SC2:effectRedstone=§7Tillåter rödstenskontrollerad byggnad av vagnar
+info.SC2:effectSolar=§7Genererar kraft när i solen.
+info.SC2:effectThermal=§7Driv verkstaden med kraft från lava i en intern tank
+info.SC2:effectTimeFlat=§7Tid per påsatt modul [%1] [%1:sekund|sekunder].
+info.SC2:effectTimeFlatCart=§7Total tid [%1] [%1:sekund|sekunder].
+info.SC2:effectTimeFlatRemove=§7Tid per avtagen modul [%1] [%1:sekund|sekunder].
+info.SC2:effectTransposer=§7Kan plocka upp vagnar för modifikation
+info.SC2:effectEfficiency=§7Byggnadseffektivitet [%1]%.
+
+
+# =§7=====================================
+                                MODULES
+# =§7=====================================
+
+# Addons
+modules.addons.SC2:detectorAnimals=§7Djur
+modules.addons.SC2:detectorBats=§7Fladdermöss
+modules.addons.SC2:detectorMonsters=§7Monster
+modules.addons.SC2:detectorPlayers=§7Spelare
+modules.addons.SC2:detectorVillagers=§7Bybor
+modules.addons.SC2:planterRangeExtenderTitle=§7Odlingsräckvidd
+modules.addons.SC2:saplingPlantAmount=§7Nuvarande plantantal
+modules.addons.SC2:controlLeverTitle=§7Kontrollspak
+modules.addons.SC2:leverStartCart=§7Starta vagnen
+modules.addons.SC2:leverStopCart=§7Stoppa vagnen
+modules.addons.SC2:leverTurnAroundCart=§7Vänd vagnen
+modules.addons.SC2:colorizerRgbRed=§7Röd
+modules.addons.SC2:colorizerRgbGreen=§7Grön
+modules.addons.SC2:colorizerRgbBlue=§7Blå
+modules.addons.SC2:intelligenceLockedBlock=§7Borren kommer alltid ta bor detta block
+modules.addons.SC2:intelligenceChange=§7Ändra beteende
+modules.addons.SC2:intelligenceCurrent=§7Nuvarande: [%1->På|Av]
+modules.addons.SC2:enchanterInstruction=§7Lägg till en förtrollad bok till det vänstra utrymmet
+modules.addons.SC2:invisibilityToggle=§7[%1->Sätt på|Stäng av] osynlighetskärna
+modules.addons.SC2:informationProviderLabelName=§7Namn
+modules.addons.SC2:informationProviderLabelDistance=§7Avstånd
+modules.addons.SC2:informationProviderMessageDistance=§7Avstånd: [%1]m
+modules.addons.SC2:informationProviderLabelPosition=§7Position
+modules.addons.SC2:informationProviderMessagePosition=§7X: [%1] Y: [%2] Z: [%3]
+modules.addons.SC2:informationProviderLabelFuel=§7Bränsle kvar
+modules.addons.SC2:informationProviderMessageFuel=§7Tid kvar på bränsle
+modules.addons.SC2:informationProviderMessageNoConsumption=§7Ingen konsumtion
+modules.addons.SC2:informationProviderLabelStorage=§7Använd utrymme
+modules.addons.SC2:informationProviderLabelDurability=§7Hållbarhet
+modules.addons.SC2:informationProviderMessageToolBroken=§7Verktyg är trasigt
+modules.addons.SC2:informationProviderMessageToolNotBroken=§7Verktyget är inte skadat. Ta ur material
+modules.addons.SC2:informationProviderMessageRepair=§7Verktyg repareras...
+modules.addons.SC2:informationProviderMessageUnbreakable=§7Verktyg är oförstörbart
+modules.addons.SC2:informationProviderLabels=§7Etiketter
+modules.addons.SC2:powerThousandSuffix=§7k
+modules.addons.SC2:powerObserverInstruction=§7Klicka och dra för att placera i önskat område.
+modules.addons.SC2:powerObserverRemoveInstruction=§7Högerklicka för att ta bort.
+modules.addons.SC2:powerObserverDropInstruction=§7Släpp motor här.
+modules.addons.SC2:powerObserverChangeInstruction=§7Klicka för att ändra energigräns
+modules.addons.SC2:powerObserverChangeInstruction10=§7Shift-klicka för att öka med 10.000
+modules.addons.SC2:recipeOutput=§7Ändra utmatningsplats
+modules.addons.SC2:recipeCurrentSelection=§7Nuvarande
+modules.addons.SC2:recipeInvalidOutput=§7Okänt område
+modules.addons.SC2:recipeChangeMode=§7Ändra nuvarande läge
+modules.addons.SC2:recipeNoLimit=§7Ingen övre gräns
+modules.addons.SC2:recipeLimit=§7Begränsa lagring av saker
+modules.addons.SC2:recipeDisabled=§7Producera inte
+modules.addons.SC2:recipeChangeLimit=§7[%1->Öka|Minska] antalet saker att alltid ha lagrade.
+modules.addons.SC2:recipeChangeLimit10=§7Shift-klicka för att ändra med 10.
+modules.addons.SC2:recipeChangeLimit64=§7Ctrl-klicka för att ändra med 64.
+modules.addons.SC2:shieldToggle=§7[%1->Sätt på|Stäng av] sköld
+
+# Engines
+modules.engines.SC2:creativePowerLevel=§7Energinivå: [%1]
+modules.engines.SC2:coalEngineTitle=§7Kolmotor
+modules.engines.SC2:outOfFuel=§7Slut på bränsle
+modules.engines.SC2:fuelLevel=§7Bränsle: [%1]
+modules.engines.SC2:solarEngineTitle=§7Solpanelsmotor
+modules.engines.SC2:outOfPower=§7Slut på kraft
+modules.engines.SC2:powerLevel=§7Energi: [%1]
+modules.engines.SC2:thermalEngineTitle=§7Termisk motor
+modules.engines.SC2:thermalPowered=§7Har kraft
+modules.engines.SC2:outOfWater=§7Slut på vatten
+modules.engines.SC2:outOfLava=§7Slut på lava
+modules.engines.SC2:engineDisabledMessage=§7Av
+modules.engines.SC2:enginePriorityMessage=§7[%1->Hög|Medium|Låg] prioritet
+
+
+# Tanks
+modules.tanks.SC2:creativeTankMode=§7Nuvarande kreativt läge: [%1][%2->normal|alltid full|alltid tom|alltid halv]
+modules.tanks.SC2:creativeTankChangeMode=§7Höger-klicka för att ändra
+modules.tanks.SC2:creativeTankResetMode=§7håll shift och höger-klicka för att gå till normalt läge
+modules.tanks.SC2:tankLocked=§7Låst till denna vätska
+modules.tanks.SC2:tankLock=§7Klicka för att låsa till denna vätska
+modules.tanks.SC2:tankUnlock=§7Klicka för att låsa upp
+modules.tanks.SC2:tankEmpty=§7Tom
+modules.tanks.SC2:tankInvalidFluid=§7Okänd
+
+# Tools
+modules.tools.SC2:toolDurability=§7Hållbarhet
+modules.tools.SC2:toolBroken=§7Trasig
+modules.tools.SC2:toolRepairing=§7Reparerar verktyg...
+modules.tools.SC2:toolDecent=§7Ta ur material, redskapet är fortfarande i gott skick
+modules.tools.SC2:toolRepairInstruction=§7Reparera detta verktyg med [%1]
+modules.tools.SC2:toolUnbreakable=§7Detta verktyg kommer aldrig gå sönder.
+modules.tools.SC2:toolUnbreakableRepairError=§7Ta ur reparationsmaterialen
+modules.tools.SC2:drillTitle=§7Borr
+modules.tools.SC2:drillToggle=§7[%1->Sätt på|Stäng av] borr
+modules.tools.SC2:repairDiamonds=§7Diamanter
+modules.tools.SC2:repairIron=§7Järntackor
+modules.tools.SC2:farmerTitle=§7Odlare
+modules.tools.SC2:cutterTitle=§7Trähuggare
+
+# Attachments
+modules.attachments.SC2:fertilizers=§7Gödsel
+modules.attachments.SC2:railerTitle=§7Rälsläggare
+modules.attachments.SC2:controlSystemTitle=§7Advancerat kontrollsystem
+modules.attachments.SC2:controlSystemDistanceUnits=§7[%1->|k|M|G|T|P]m
+modules.attachments.SC2:controlSystemOdoMeter=§7ODO
+modules.attachments.SC2:controlSystemTripMeter=§7TRIP
+modules.attachments.SC2:cageAutoPickUp=§7[%1->Sätt på|Stäng av] auto-upplockning
+modules.attachments.SC2:cagePickUp=§7[%1->Ta upp varelse i närheten|Släpp ut fångad varelse]
+modules.attachments.SC2:cakeServerTitle=§7Tårtserverare
+modules.attachments.SC2:cakesLabel=§7Cakes: [%1] / [%2]
+modules.attachments.SC2:slicesLabel=§7Slices: [%1] / [%2]
+modules.attachments.SC2:explosivesTitle=§7Sprängmedel
+modules.attachments.SC2:experienceTitle=§7XP
+modules.attachments.SC2:experienceLevel=§7XP-nivå: [%1] / [%2]
+modules.attachments.SC2:experienceExtract=§7Tryck för att ta ut 50XP
+modules.attachments.SC2:experiencePlayerLevel=§7Din nuvarande nivå är [%1]
+modules.attachments.SC2:shooterTitle=§7Skytt
+modules.attachments.SC2:shooterFrequency=§7#/s
+modules.attachments.SC2:shooterSeconds=§7s
+modules.attachments.SC2:shooterDelay=§7Fördröjning
+modules.attachments.SC2:notePiano=§7Piano
+modules.attachments.SC2:noteBassDrum=§7Bastrumma
+modules.attachments.SC2:noteSnareDrum=§7Virveltrumma
+modules.attachments.SC2:noteSticks=§7Slagverk
+modules.attachments.SC2:noteBassGuitar=§7Basgitarr
+modules.attachments.SC2:noteCreateTrack=§7Skapa nytt spår
+modules.attachments.SC2:noteRemoveTrack=§7Ta bort bottenspår
+modules.attachments.SC2:noteActivateInstrument=§7Aktivera [%1]
+modules.attachments.SC2:noteDeactivateInstrument=§7Ta bort notblocksinställning
+modules.attachments.SC2:noteDelay=§7Ändra fördröjning. Nuvarande fördröjning: [%1]
+modules.attachments.SC2:noteAdd=§7Lägg till not på spår [%1]
+modules.attachments.SC2:noteRemove=§7Ta bort högra noten på spår [%1]
+modules.attachments.SC2:noteVolume=§7Spårvolym: [%1->tyst|låg|medium|Hög]
+modules.attachments.SC2:seatStateMessage=§7[%1->Den här vagnen är upptagen|Kliv i|Kliv ur]
+modules.attachments.SC2:controlSystemReset=§7Återställ trip-mätare
+
+
+# =§7=====================================
+                                Steve's Arcade 
+# =§7=====================================
+# Ghast Invaders
+arcade.SC2:ghastInvaders=§7Spökinvasion
+arcade.SC2:ghastLives=§7Extra liv
+arcade.SC2:highScore=§7Högsta poäng: [%1]
+arcade.SC2:score=§7Poäng: [%1]
+arcade.SC2:instructionShoot=§7Skutt
+arcade.SC2:instructionLeft=§7Vänster
+arcade.SC2:instructionRight=§7Höger
+arcade.SC2:instructionRestart=§7Börja om
+arcade.SC2:creeperSweeper=§7Minröjning
+arcade.SC2:creeperMapName1=§7Liten
+arcade.SC2:creeperMapName2=§7Medium
+arcade.SC2:creeperMapName3=§7Stor
+arcade.SC2:creepersLeft=§7Smygare kvar:  [%1]
+arcade.SC2:creeperTime=§7Tid: [%1]s
+arcade.SC2:instructionChangeMap=§7Ändra storlek
+arcade.SC2:creeperCurrentMap=§7Nuvarande [%1]
+arcade.SC2:creeperHighScores=§7Högsta poäng
+arcade.SC2:creeperHighScore=§7[%1]: [%2]s
+arcade.SC2:mobStacker=§7Varelsetetris
+arcade.SC2:stackerRemovedLines=§7Borttagna linjer: [%1]
+arcade.SC2:stackerRemovedLinesCombo=§7Borttagna [%1->enkla|dubbla|tredubbla|fyrdubbla] linjer: [%2]
+arcade.SC2:instructionRotate=§7Rotera
+arcade.SC2:instructionDrop=§7Släpp
+arcade.SC2:trackOperator=§7Rälsoperatör
+arcade.SC2:operatorSaveError=§7Sparning misslyckades
+arcade.SC2:operatorSave=§7Spara
+arcade.SC2:operatorUserCreatedMaps=§7Användarskapade kartor
+arcade.SC2:operatorStories=§7Historier
+arcade.SC2:operatorHelp=§7För information om hur man spelar spelet gå in i historieläget och börja "Början". För att göra en egen bana gå in i nivåredigeraren och gör en bana. Ytterligare information finns där. Klicka på en  detektorräls och sen på en järnvägsknut för att binda ihop dem. Om du behöver mer information, titta på wikin (på engelska).
+arcade.SC2:instructionTrackShape=§7Välj form på räls
+arcade.SC2:instructionRotateTrack=§7Rotera räls
+arcade.SC2:instructionFlipTrack=§7Vänd räls
+arcade.SC2:instructionDefaultDirection=§7Ändra standardriktning
+arcade.SC2:instructionTrackType=§7Ändra spårtyp
+arcade.SC2:instructionDeleteTrack=§7Ta bort spår
+arcade.SC2:instructionCopyTrack=§7Kopiera räls
+arcade.SC2:instructionMoveSteve=§7Flytta eller rotera Steve
+arcade.SC2:instructionMoveMap=§7Flytta nivå
+arcade.SC2:instructionPlaceTrack=§7Placera räls
+arcade.SC2:instructionDeselectTrack=§7Ta bort markering
+arcade.SC2:leftMouseButton=§7Vänsterklick
+arcade.SC2:rightMouseButton=§7Högerklick
+arcade.SC2:buttonStart=§7Starta
+arcade.SC2:buttonMenu=§7Meny
+arcade.SC2:buttonStop=§7Stop
+arcade.SC2:buttonNextLevel=§7Nästa nivå
+arcade.SC2:buttonStartLevel=§7Starta nivå
+arcade.SC2:buttonSelectStory=§7Välj historia
+arcade.SC2:buttonSelectStoryOther=§7Välj annan historia
+arcade.SC2:buttonCreateLevel=§7Gör nivå
+arcade.SC2:buttonEditLevel=§7Ändra nivå
+arcade.SC2:buttonRefreshList=§7Uppdatera lista
+arcade.SC2:buttonSave=§7Spara
+arcade.SC2:buttonSaveAs=§7Spara som...
+arcade.SC2:buttonCancel=§7Avbryt
+stories.beginning.SC2:mapEditor=§7Nivåbyggare
+
+# Story - The beginning
+stories.beginning.SC2:title=§7Början
+stories.beginning.SC2:mission=§7Steve har ett uppdrag, han måste ta sig till andra änden av rälsen för att komma till nästa nivå.
+stories.beginning.SC2:start=§7Tryck på startknappen till höger.
+stories.beginning.SC2:stop=§7Du kan nu trycka på stopknappen för att stoppa Steve.
+stories.beginning.SC2:map=§7Steve har nu kartan, tryck på nästa nivå-knappen för att gå vidare.
+stories.beginning.SC2:trackOperator=§7Du är en rälsoperatör, ditt jobb är att se till all räls är rätt inställd. Klicka på knutarna för att ändra åt vilket håll de går.
+stories.beginning.SC2:goodJob=§7Bra, det är så det skall göras.
+stories.beginning.SC2:changeJunctions=§7Du kan alltid trycka på stop och ändra inställningarna.
+stories.beginning.SC2:blast=§7Steve tycker att det är väldigt kul att åka i sin vagn, men ibland blir det för mycket även för honom. T.ex. när han fastnar i oändlig rundgång. Lycka till.
+stories.beginning.SC2:steel=§7Det finns alltid gupp på vägen, för en rälsoperatör kallas dessa stålräls. Stålrälsknutar kan ej ändras, Lycka till.
+stories.beginning.SC2:detector=§7Detektorrälser kan vara både dina vänner. När Steve åker över en detektorräls ändrar den en knut, även en stålknut. För att se vilken knut en detektor kommer påverka, hovra över rälsen med musen.
+stories.beginning.SC2:outOfReach=§7Precis utom räckhåll...
+stories.beginning.SC2:outOfReach2=§7...men det stoppar inte dig.
+stories.beginning.SC2:longJourney=§7Efter en lång resa kan Steve äntligen se slutet på sin resa...
+stories.beginning.SC2:end=§7... men saker går inte alltid som planerat. Medans du väntar på fler historier kan du bygga och dela dina egna nivåer. För att göra en nivå gå in på nivåredigeraren.
+stories.beginning.SC2:thanks=§7Tack för att du spelade! :)
+stories.beginning.SC2:level1=§7En ny dag
+stories.beginning.SC2:level2=§7Operatören
+stories.beginning.SC2:level3=§7Fly från rundgången
+stories.beginning.SC2:level4=§7Hårt som stål
+stories.beginning.SC2:level5=§7En värld i rörelse
+stories.beginning.SC2:level6=§7Kodlåset
+stories.beginning.SC2:level7=§7Så nära
+stories.beginning.SC2:level8=§7Galenskap
+stories.beginning.SC2:level9=§7Tårtan

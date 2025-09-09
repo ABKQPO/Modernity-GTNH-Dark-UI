@@ -1,0 +1,60 @@
+﻿# Carpenter's Blocks Language File =§7GERMANY GERMAN
+
+# CREATIVE TAB
+itemGroup.carpentersBlocks.name=§7Carpenter's Blocks
+
+# ITEMS
+item.itemCarpentersHammer.name=§7Hammer des Zimmermanns
+item.itemCarpentersChisel.name=§7Meißel des Zimmermanns
+item.itemCarpentersDoor.name=§7Tür des Zimmermanns
+item.itemCarpentersBed.name=§7Bett des Zimmermanns
+item.itemCarpentersTile.name=§7Fliese des Zimmermanns
+
+# BLOCKS
+tile.blockCarpentersBarrier.name=§7Barriere des Zimmermanns
+tile.blockCarpentersBed.name=§7Bett des Zimmermanns
+tile.blockCarpentersBlock.name=§7Block des Zimmermanns
+tile.blockCarpentersButton.name=§7Knopf des Zimmermanns
+tile.blockCarpentersDaylightSensor.name=§7Tageslichtsensor des Zimmermanns
+tile.blockCarpentersCollapsibleBlock.name=§7Zusammenklappbarer Block des Zimmermanns
+tile.blockCarpentersDoor.name=§7Tür des Zimmermanns
+tile.blockCarpentersGarageDoor.name=§7Garagentür des Zimmermanns
+tile.blockCarpentersGate.name=§7Zauntor des Zimmermanns
+tile.blockCarpentersHatch.name=§7Luke des Zimmermanns
+tile.blockCarpentersLadder.name=§7Leiter des Zimmermanns
+tile.blockCarpentersLever.name=§7Hebel des Zimmermanns
+tile.blockCarpentersPressurePlate.name=§7Druckplatte des Zimmermanns
+tile.blockCarpentersSlope.wedge.name=§7Keilförmige Rampe des Zimmermanns
+tile.blockCarpentersSlope.obliqueInterior.name=§7Schräge Innenrampe des Zimmermanns
+tile.blockCarpentersSlope.obliqueExterior.name=§7Schräge Außenrampe des Zimmermanns
+tile.blockCarpentersSlope.prism.name=§7Prismarampe des Zimmermanns
+tile.blockCarpentersSlope.prismWedge.name=§7Keilförmige Prismarampe des Zimmermanns
+tile.blockCarpentersStairs.name=§7Treppe des Zimmermanns
+tile.blockCarpentersTorch.name=§7Fackel des Zimmermanns
+tile.blockCarpentersSafe.name=§7Tresor des Zimmermanns
+tile.blockCarpentersFlowerPot.name=§7Blumentopf des Zimmermanns
+
+# ENTITIES
+entity.CarpentersTile.name=§7Fliese des Zimmermanns
+
+# MESSAGES
+message.polarity_pos.name=§7POLARITÄT: Normaler Redstone-Output.
+message.polarity_neg.name=§7POLARITÄT: Umgekehrter Redstone-Output.
+message.activation_iron.name=§7AKTIVIERUNG: Wird funktionieren wie eine Eisentür.
+message.activation_wood.name=§7AKTIVIERUNG: Wird funktionieren wie eine Holztür.
+message.trigger_player.name=§7TRIGGER: Nur bei Spielern aktiv.
+message.trigger_monster.name=§7TRIGGER: Nur bei Monstern aktiv.
+message.trigger_animal.name=§7TRIGGER: Nur bei Tieren aktiv.
+message.trigger_all.name=§7TRIGGER: Bei allem aktiv.
+message.safe_lock.name=§7KONTROLLE: Tresor verschlossen.
+message.safe_unlock.name=§7KONTROLLE: Tresor entriegelt.
+message.automation_all.name=§7AUTOMATISIERUNG: Items können hineingefügt und herausgenommen werden.
+message.automation_disabled.name=§7AUTOMATISIERUNG: Deaktiviert.
+message.automation_insert.name=§7AUTOMATISIERUNG: Items können nur hineingefügt werden.
+message.automation_extract.name=§7AUTOMATISIERUNG: Items können nur herausgenommen werden.
+message.block_lock.name=§7KONTROLLE: Dieser Block ist verschlossen.
+message.sensitivity_sleep.name=§7SENSITIVITÄT: Ändert Status bei Spieler-Schlafsgrenze (Sonnenauf- und -untergang).
+message.sensitivity_monsters.name=§7SENSITIVITÄT: Ändert Status bei Monster-Spawn-Grenze (Stürme eingeschlossen).
+message.sensitivity_dynamic.name=§7SENSITIVITÄT: Redstone-Output ändert sich basierend auf der Position der Sonne.
+
+# </file>

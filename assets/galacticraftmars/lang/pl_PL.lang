@@ -1,0 +1,193 @@
+﻿# Galacticraft Mars Language File =§7Polski
+
+# GENERAL ITEMS
+item.rawDesh.name=§7Desz
+item.deshStick.name=§7Patyk Deszu
+item.ingotDesh.name=§7Sztabka Deszu
+item.spaceshipTier2.t2Rocket.name=§7Rakieta Poziomu 2
+item.reinforcedPlateT2.name=§7Wzmocniona Płyta Pancerzowa
+item.tier2.desc=§7Poziom 2
+item.slimelingCargo.name=§7Skrzynia dla Slimelinga
+item.key.T2.name=§7Klucz Lochy Poziomu 3
+item.compressedDesh.name=§7Skompresowany Desz
+item.spaceshipTier2.cargoRocket.name=§7Rakieta Transportowa
+item.fluidManip.name=§7Manipulator Płynów
+item.bucketSludge.name=§7Wiadro Szlamu Bakteryjnego
+fluid.bacterialsludge=§7Szlam Bakteryjny
+
+# TOOLS
+item.deshPick.name=§7Deszowy Kilof
+item.deshPickSlime.name=§7Lepki Deszowy Kilof
+item.deshAxe.name=§7Deszowa Siekiera
+item.deshHoe.name=§7Deszowa Motyka
+item.deshSpade.name=§7Deszowa Łopata
+item.deshSword.name=§7Deszowy Miecz
+
+# ARMOR
+item.deshHelmet.name=§7Deszowy Hełm
+item.deshChestplate.name=§7Deszowy Napierśnik
+item.deshLeggings.name=§7Deszowe Nogawice
+item.deshBoots.name=§7Deszowe Buty
+
+# BLOCKS
+tile.mars.deshmars.name=§7Ruda Deszu
+tile.mars.coppermars.name=§7Ruda Miedzi
+tile.mars.tinmars.name=§7Ruda Cyny
+tile.mars.ironmars.name=§7Ruda Żelaza
+tile.mars.marscobblestone.name=§7Bruk
+tile.mars.marsstone.name=§7Marsowy Kamień
+tile.mars.marsdirt.name=§7Marsowy Podpowierzchniowy Kamień
+tile.mars.marsgrass.name=§7Marsowy Powierzchniowy Kamień
+tile.mars.marsdeco.name=§7Blok Deszu
+tile.mars.marsdungeon.name=§7Ściana Lochu
+tile.treasureT2.name=§7Skrzynia Skarbów Poziomu 2
+tile.slimelingEgg.redEgg.name=§7Jajo Czerwonego Slimelinga
+tile.slimelingEgg.blueEgg.name=§7Jajo Niebieskiego Slimelinga
+tile.slimelingEgg.yellowEgg.name=§7Jajo Żółtego Slimelinga
+tile.marsMachine.0.name=§7Terraformator
+tile.marsMachine.1.name=§7Komora Kriogeniczna
+tile.marsMachine.2.name=§7Kontroler Startu
+tile.marsMachine.4.name=§7Skraplacz Gazu
+tile.marsMachine.5.name=§7Syntezator Metanu
+tile.marsMachine.6.name=§7Elektrolizer Wodny
+tile.hydrogenPipe.name=§7Rura Wodorowa
+tile.sludge.name=§7Szlam Bakteryjny
+tile.creeperEgg.name=§7Jajo Creepera
+tile.cavernVines.name=§7Trujące Pnącza
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7Schody z Marsowego Bruku
+tile.wallGC.mars.name=§7Ściana z Marsowego Bruku
+tile.slabGCHalf.marsSlab.name=§7Półpłyta z Marsowego Bruku
+tile.marsDungeonBricksStairs.name=§7Schody z Marsowych Lochów
+tile.wallGC.marsBricks.name=§7Ściana z Marsowych Lochów
+tile.slabGCHalf.marsBricksSlab.name=§7Półpłyta z Marsowych Lochów
+
+# GUI
+gui.choosePlanet.desc.mars=§7Nadająca się Zamieszkania#Brak Tlenu#Grawitacja: 38%
+item.deshPickSlime.description.name=§7Może zbierać jaja Slimelingów
+gui.message.noEnergy.name=§7Za Mało Energii
+gui.message.noWater.name=§7Za Mało Wody
+gui.message.noBonemeal.name=§7Za Mało Mączki Kostnej
+gui.message.noSeeds.name=§7Za Mało Nasion
+gui.message.noSaplings.name=§7Za Mało Sadzonek
+gui.message.bubbleExp.name=§7Tworzenie Bańki
+gui.message.noValidBlocks.name=§7Brak odpowiednich Bloków w Bańce
+gui.message.terraforming.name=§7Terraformowanie
+gui.message.enableTrees.name=§7Aktywuj Drzewa
+gui.message.enableGrass.name=§7Aktywuj Trawę
+gui.message.trees.name=§7Drzewa
+gui.message.grass.name=§7Trawę
+gui.message.invalidFreq.name=§7Nieodpowiednia Częstotliwość
+gui.message.frequency.name=§7Częstotliwość
+gui.message.destFrequency.name=§7Częstotliwość Docelowa
+gui.message.removePad.name=§7Usuń Platforme
+gui.message.launchWhen.name=§7Wystartuj gdy
+gui.message.cargoUnloaded.name=§7Magazyn jest Pusty
+gui.message.cargoFull.name=§7Magazyn jest Pełny
+gui.message.fullyFueled.name=§7W Pełni Zatankowany
+gui.message.instant.name=§7Natychmiast
+gui.message.tenSec.name=§710 Sekund
+gui.message.thirtySec.name=§730 Sekund
+gui.message.oneMin.name=§71 Minuta
+gui.message.redstoneSig.name=§7Sygnał Czerwonego Kamienia
+gui.message.notSet.name=§7Nie Ustawione
+gui.message.notEnough.name=§7Nie Wystarczające
+gui.message.success.name=§7Sukces
+gui.message.zeroWater.name=§7Brak wody!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7To jest unikalna częstotliwość$Kontrolera Startu.
+gui.launchController.desc.1=§7Częstotliwość do której mają lecieć rakiety.
+gui.launchController.desc.2=§7Platforma Startowa pozostanie na miejscu$gdy opcja jest zaznaczona.
+gui.launchController.desc.3=§7Gdy podane kryteria zostaną spełnione,$rakieta wystartuje.
+gui.launchController.desc.4=§7Ukryj częstotliwość docelową$przed innymi graczami.
+gui.terraformer.desc.0=§7Zbiornik Wody
+
+gui.gasTank.desc.0=§7Zbiornik Gazu
+gui.gasTankCompressed.desc.0=§7Zbiornik Gazu (Skompresowany)
+gui.liquidTank.desc.0=§7Zbiornik Płynu
+gui.status.nogas.name=§7Brak Gazu
+gui.status.liquefying.name=§7Skraplanie
+gui.status.processing.name=§7Syntezowanie
+gui.status.needsCarbon.name=§7Potrzeba Węgla
+gui.status.tankfull.name=§7Zbiornik Pełny
+gui.status.tanksfull.name=§7Zbiorniki Pełne
+gui.message.lowEnergy.name=§7Mało Energii
+gui.button.liquefy.name=§7Aktywuj
+gui.button.liquefyStop.name=§7Zatrzymaj
+gui.gasInput.desc.0=§7Spróbuj wstawić tutaj$Kanister Metanu.
+gui.gasInput.desc.1=§7(Alternatywnie możesz użyć,$Zaworu Atmosferycznego)
+gui.hydrogenInput.desc.0=§7Slot na zbiornik wodoru
+gui.hydrogenInput.desc.1=§7lub Zawór Atmosferyczny
+gui.liquidOutput.desc.2=§7lub skroplonym gazem
+gui.methaneOutput.desc.2=§7lub metanem
+gui.message.withAtmosphere0.name=§7na planecie bogatą w
+gui.message.withAtmosphere1.name=§7w atmosferze
+item.carbonFragments.name=§7Sfragmentowany Węgiel
+gui.carbonSlot.desc.0=§7Można tu wstawić Sfragmentowany Węgiel
+gui.waterBucketSlot.desc=§7Wstaw tutaj wiadra wody
+
+gui.cargorocket.status.waiting.0=§7Czekanie na
+gui.cargorocket.status.waiting.1=§7zapłon
+gui.cargorocket.status.launched.0=§7Rakieta już
+gui.cargorocket.status.launched.1=§7wystartowała
+
+gas.carbondioxide.name=§7Dwutlenek Węgla
+gas.oxygen.name=§7Tlen
+gas.nitrogen.name=§7Azot
+
+gui.desc.reinforcedPlateT2.name=§7Poziom 2
+dimension.Mars.name=§7Mars
+planet.mars=§7Mars
+
+tile.treasureT2.description=§7Skrzynia Skrabów Poziomu 2 jest generowana w lochach Marsa. Można ją otworzyć po pokonaniu finałowego Bossa.
+tile.cavernVines.description=§7Trujące Pnącza to niebiezpieczne żywe istoty. Oplatają ofiarę i wciągają ją w górę.
+tile.slimelingEgg.description=§7Jaja Slimelingów, uderzone raz przez pięść gracza, wykluje się w zwierzaka.
+tile.cryoChamber.description=§7Komora Kriogeniczna pozwala graczowi spać podczas dnia, lecząc przy okazji trochę zdrowia, ale trzeba poczekać przed następnym użyciem.
+tile.launchController.description=§7Kontrolery Startu są wykorzystywane do dostosowywania warunków startu, wliczając kryteria wymagane do startu i wybór celu lądowania (Platformy Startowe).
+tile.terraformer.description=§7Terraformatory wykorzystywane są by dodać trochę zieleni na odległych planetach, dodając trawę, drzewa i wodę gdy dostarczone im są odpowiednie materiały.
+tile.creeperEgg.description=§7Jaja Creepera powstają w lochach Marsa. Tworzą Creepera wprzypadku eksplozji.
+tile.gasLiquefier.description=§7Skrapla gazy, zarówno z atmosfery jak i z kanistrów. Skroplony Metan jest świetnym paliwem rakietowym!
+tile.methaneSynthesizer.description=§7Z źródłem wodoru i węgla, Syntezator Metanu łączy oba pierwiastki tworząc metan przeznaczony do dalszej obróbki w Skraplaczu Gazów.
+tile.electrolyzer.description=§7Przemienia wode ma wodór (używany w Syntezatorze Metanu) i tlen.
+tile.hydrogenPipe.description=§7Rura Wodorowa przenosi wodór.
+
+gui.slimeling.chat.wrongPlayer=§7To nie jest mój Slimeling!
+gui.cryogenic.chat.cantUse=§7Nie mogę tego użyć przez następne %d sekundy,
+gui.slimeling.name=§7Nazwa
+gui.slimeling.owner=§7Właściciel
+gui.slimeling.kills=§7Zabójstwa
+gui.slimeling.scale=§7Wielkość
+gui.slimeling.button.sit=§7Siedź
+gui.slimeling.button.follow=§7Podążaj
+gui.slimeling.sitting=§7Siedzi
+gui.slimeling.following=§7Podąża
+gui.slimeling.damage=§7Obrażenia
+gui.slimeling.food=§7Ulubione jedzenie
+
+# SCHEMATICS
+schematic.rocketT3.name=§7Rakieta Poziomu 3
+schematic.cargoRocket.name=§7Automatyczna Rakieta Transportowa
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Rakieta Transportowa
+entity.GalacticraftMars.CreeperBoss.name=§7Kosmiczny Creeper Boss
+entity.GalacticraftMars.LandingBalloons.name=§7Balony Lądujące
+entity.GalacticraftMars.Slimeling.name=§7Slimeling
+entity.GalacticraftMars.Sludgeling.name=§7Sludgeling
+entity.GalacticraftMars.SpaceshipT2.name=§7Rakieta Poziomu 2
+
+# CONTAINERS
+container.launchcontroller.name=§7Kontroler Startu
+container.tileTerraformer.name=§7Terraformator
+container.marsLander.name=§7Balony Lądownicze
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7ID wymiaru Marsa
+gc.configgui.idSchematicRocketT2=§7ID bytu Schematy Rakiety Poziomu 2
+gc.configgui.idSchematicCargoRocket=§7ID bytu Schematy Rakiety Transportowej
+gc.configgui.launchControllerChunkLoad=§7Ładowanie Chunków Kontrolera Startu
+gc.configgui.launchControllerAllDims=§7Kontroler Startu we Wszystkich Wymiarach
+
+gc.configgui.planets.title=§7Konfiguracja Planet Galacticraft

@@ -1,0 +1,12 @@
+
+options.search=§7検索
+options.showAll=§7全てを表示
+options.showConflicts=§7競合を表示
+options.showNone=§7未割り当てを表示
+options.availableKeys=§7利用可能なキー
+options.sort=§7並べ替え
+options.category=§7カテゴリー
+options.key=§7キー
+options.toggleFree=§7トグルフリー
+options.confirmReset=§7クリックしてリセットを承諾します！
+

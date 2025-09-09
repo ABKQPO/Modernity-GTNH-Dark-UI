@@ -1,0 +1,26 @@
+fluid.bacteriaPoly=§7Polymerising Bacteria
+
+genetics.machine.machine.sequencer.info=§7The Sequencer takes unsequenced serums and determines which allele is present in them. This requires the use of fluorescent dye and has a long computational time.
+genetics.machine.machine.polymeriser.info=§7The Polymeriser takes serums and refills them using Raw DNA and replicating bacteria. This can be accelerated using gold nuggets.
+genetics.machine.machine.inoculator.info=§7The Inoculator uses serums to add genes to breedable individuals. This process takes a very long time and requires a Bacteria Vector, but is 100% successful.
+genetics.machine.labMachine.genepool.info=§7The Genepool uses enzymes and ethanol to break down living things into DNA. All genetic information is lost and the source of the DNA is destroyed.
+
+genetics.machine.labMachine.analyser=§7Analyser
+genetics.machine.labMachine.analyser.info=§7The Analyser takes breedable individuals and DNA sequencers and analyses them to determine the genes present. This requires DNA Dye, created from purple dye and glowstone
+genetics.machine.analyser.unanalysedItem=§7Unanalysed Item
+genetics.machine.analyser.error.alreadyAnalysed.title=§7Already Analysed
+genetics.machine.analyser.error.alreadyAnalysed=§7Item has already been analysed
+genetics.machine.analyser.error.insufficientDye=§7Not enough DNA dye to analyse
+genetics.machine.analyser.error.noItem=§7No item to analyse
+
+genetics.machine.labMachine.acclimatiser=§7Acclimatiser
+genetics.machine.acclimatiser.acclimatizingItems=§7Acclimatising Items
+genetics.machine.acclimatiser.error.noIndividual=§7No Individual to Acclimatise
+genetics.machine.acclimatiser.error.noAcclimatizingItems=§7No Acclimatising Items
+genetics.machine.acclimatiser.error.invalidAcclimatizingItems=§7Cannot Acclimatise this individual with these items
+
+genetics.machine.advMachine.splicer.info=§7The Splicer is an incredibly powerful machine to insert genes into individuals. It is fast, but needs insane amounts of power.
+
+genetics.gui.analyst.appearance.primaryColor=§7Primary Petal Colour
+genetics.gui.analyst.appearance.secondColor=§7Secondary Petal Colour
+genetics.gui.analyst.appearance.stemColor=§7Stem Colour

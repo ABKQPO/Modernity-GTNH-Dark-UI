@@ -1,0 +1,117 @@
+screen.button.waila=§7Waila
+screen.button.modules=§7Modules
+screen.label.scale=§7Schaal
+screen.label.dragtuto=§7Sleep de HUD om zijn positie in te stellen.
+
+screen.button.default=§7Standaard
+screen.button.cancel=§7Annuleren
+screen.button.ok=§7Ok
+screen.button.yes=§7Ja
+screen.button.no=§7Nee
+screen.button.back=§7Terug
+screen.button.hidden=§7Verborgen
+screen.button.visible=§7Zichtbaar
+screen.button.maintained=§7Gehandhaafd
+screen.button.toggled=§7Omgeschakeld
+
+choice.showhidewaila=§7Toon/Verberg Waila
+choice.showhideidmeta=§7Toon ID:Metadata
+choice.toggledmaintained=§7Omgeschakeld/Gehandhaafd
+choice.showliquids=§7Vloeistoffen
+screen.button.configureaspect=§7Configureer aspect...
+
+enchant.title.name=§7Naam
+enchant.title.minlvl=§7Min lvl
+enchant.title.maxlvl=§7Max lvl
+enchant.title.weight=§7Gewicht
+enchant.label.enchantability=§7Enchantbaarheid
+
+waila.keybind.wailaconfig=§7[Waila] Configuratiescherm
+waila.keybind.wailadisplay=§7[Waila] Toon/Verberg
+waila.keybind.liquid=§7[Waila] Toon vloeistoffen
+waila.keybind.recipe=§7[Waila] Toon recepten
+waila.keybind.usage=§7[Waila] Toon gebruik
+waila.keybind.testing=§7[Waila] Testen
+
+client.msg.norecipe=§7Geen recept gevonden.
+client.msg.nousage=§7Geen gebruik gevonden.
+
+hud.msg.none=§7<Geen>
+hud.msg.empty=§7<Leeg>
+hud.msg.output=§7Uitvoer
+hud.msg.input=§7Invoer
+hud.msg.out=§7Uit
+hud.msg.in=§7In
+hud.msg.power=§7Vermogen
+hud.msg.storage=§7Opslag
+hud.msg.any=§7Om het even welke
+hud.msg.mode=§7Modus
+
+hud.msg.send=§7Zend
+hud.msg.recv=§7Ontv
+hud.msg.item=§7Item
+hud.msg.fluid=§7Vloeistof
+hud.msg.energ=§7Energie
+hud.msg.frequency=§7Frequentie
+
+hud.msg.owner=§7Eigenaar
+hud.msg.public=§7Publiek
+hud.msg.restricted=§7Begrensd
+hud.msg.private=§7Priv�
+
+hud.msg.white=§7Wit
+hud.msg.orange=§7Oranje
+hud.msg.magenta=§7Magenta
+hud.msg.lblue=§7LBlauw
+hud.msg.yellow=§7Geel
+hud.msg.lime=§7Limoen
+hud.msg.pink=§7Roze
+hud.msg.gray=§7Grijs
+hud.msg.lgray=§7LGrijs
+hud.msg.cyan=§7Cyaan
+hud.msg.purple=§7Paars
+hud.msg.blue=§7Blauw
+hud.msg.brown=§7Bruin
+hud.msg.green=§7Groen
+hud.msg.red=§7Rood
+hud.msg.black=§7Zwart
+
+hud.msg.growth=§7Groei
+hud.msg.mature=§7Volwassen
+hud.msg.off=§7Af
+hud.msg.on=§7Aan
+hud.msg.state=§7Status
+hud.msg.delay=§7Vertraging
+hud.msg.comparator=§7Vergelijker
+hud.msg.substractor=§7Aftrekker
+hud.msg.record=§7Neem op
+
+option.appeng.monitorcontent=§7Scherm inhoud
+option.bb.content=§7Ton inhoud
+option.bc.tankamount=§7Vloeistofhoeveelheid
+option.bc.tanktype=§7Vloeistoftype
+option.enderstorage.colors=§7Kleuren
+option.ic2.inputeumach=§7Max EU invoer [Machines]
+option.ic2.inputeuother=§7Max EU invoer [Andere]
+option.ic2.inputeu=§7Max EU invoer
+option.ic2.outputeu=§7Max EU uitvoer
+option.ic2.storage=§7Opgeslagen energie
+option.thaumcraft.storedvis=§7Condensator opslag
+option.thermalexpansion.energyhandler=§7Toon RF opslag
+option.thermalexpansion.energycell=§7Toon ECell IN/UIT
+option.thermalexpansion.fluidtype=§7Toon vloeistoftype
+option.thermalexpansion.fluidamount=§7Toon vloeistofhoeveelheid
+option.thermalexpansion.tankmode=§7Toon tank modus
+option.thermalexpansion.tesssendrecv=§7Tesseract modus
+option.thermalexpansion.tessfreq=§7Tesseract frequentie
+option.thermalexpansion.owner=§7Toon eigenaar
+option.vanilla.spawntype=§7Spawner type
+option.vanilla.growthvalue=§7Groei hoeveelheid
+option.vanilla.leverstate=§7Hendel status
+option.vanilla.repeater=§7Herhaler vertraging
+option.vanilla.comparator=§7Vergelijker modus
+option.vanilla.redstone=§7Redstone vermogen
+option.vanilla.jukebox=§7Jukebox schijf
+option.extrautilities.fluidamount=§7Toon vloeistofhoeveelheid
+option.openblocks.fluidamount=§7Toon vloeistofhoeveelheid
+option.railcraft.fluidamount=§7Toon vloeistofhoeveelheid

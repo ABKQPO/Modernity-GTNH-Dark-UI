@@ -1,0 +1,266 @@
+# author Team MMKP(puyo061 , whffktkw ,clayweb)
+# =§7=== BLOCKS ====
+
+tile.gendustry.mutagen_producer.name=§7뮤타젠 생성기
+tile.gendustry.mutatron.name=§7뮤타트론
+tile.gendustry.mutatron_adv.name=§7고급 뮤타트론
+tile.gendustry.apiary.name=§7산업 양봉기
+tile.gendustry.imprinter.name=§7유전자 각인기
+tile.gendustry.sampler.name=§7유전자 샘플 추출기
+tile.gendustry.extractor.name=§7DNA 추출기
+tile.gendustry.liquifier.name=§7단백질 액화장치
+tile.gendustry.replicator.name=§7유전자 복제기
+tile.gendustry.transposer.name=§7유전자 전환기
+
+# =§7=== GENERAL ITEMS ====
+
+item.gendustry.MutagenTank.name=§7뮤타젠 탱크
+item.gendustry.beeReceptacle.name=§7벌 소켓
+item.gendustry.PowerModule.name=§7동력 부품
+item.gendustry.GeneticsProcessor.name=§7유전자 가공기
+item.gendustry.EnvProcessor.name=§7환경 가공기
+item.gendustry.UpgradeFrame.name=§7업그레이드 틀
+item.gendustry.ClimateModule.name=§7기후 조정 부품
+item.gendustry.Labware.name=§7유전학 실험도구
+item.gendustry.GeneSample.name=§7유전자 샘플
+item.gendustry.GeneTemplate.name=§7유전자 템플릿
+item.gendustry.GeneSampleBlank.name=§7빈 유전자 샘플
+item.gendustry.Waste.name=§7유전자 폐기물
+item.gendustry.grafter.name=§7산업 접목기
+item.gendustry.scoop.name=§7스쿠퍼레이터 MX200 터보
+item.gendustry.ImportCover.name=§7아이템 주입 커버
+item.gendustry.EjectCover.name=§7아이템 추출 커버
+item.gendustry.PollenKit.name=§7폴른 콜랙터 키트
+
+# =§7=== FLUIDS ====
+
+fluid.gendustry.mutagen=§7뮤타젠
+fluid.gendustry.liquiddna=§7액체 DNA
+fluid.gendustry.protein=§7단백질
+
+tile.gendustry.mutagen.name=§7뮤타젠
+tile.gendustry.liquiddna.name=§7액체 DNA
+tile.gendustry.protein.name=§7단백질
+
+# =§7=== FLUID CONTAINERS ====
+
+item.gendustry.mutagen.bucket.name=§7뮤타젠동이
+item.gendustry.mutagen.can.name=§7뮤타젠 캔
+item.gendustry.liquiddna.bucket.name=§7액체 DNA 양동이
+item.gendustry.liquiddna.can.name=§7액체 DNA 캔
+item.gendustry.protein.bucket.name=§7단백질 양동이
+item.gendustry.protein.can.name=§7단백질 캔
+
+
+# =§7=== UPGRADES ====
+
+gendustry.upgrades.prod.name=§7생산성 업그레이드
+gendustry.upgrades.life.name=§7수명 단축 업그레이드
+gendustry.upgrades.flowering.name=§7수분 업그레이드
+gendustry.upgrades.territory.name=§7영역 업그레이드
+gendustry.upgrades.sealing.name=§7방수 업그레이드
+gendustry.upgrades.light.name=§7광원 업그레이드
+gendustry.upgrades.sky.name=§7하늘 개방 업그레이드
+gendustry.upgrades.hell.name=§7지옥 구현 업그레이드
+gendustry.upgrades.winter.name=§7설원 구현 업그레이드
+gendustry.upgrades.auto.name=§7자동화 업그레이드
+gendustry.upgrades.humidifier.name=§7습도 업그레이드
+gendustry.upgrades.dryer.name=§7건조 업그레이드
+gendustry.upgrades.heater.name=§7난방 업그레이드
+gendustry.upgrades.sieve.name=§7체 업그레이드
+gendustry.upgrades.cooler.name=§7냉각 업그레이드
+gendustry.upgrades.desert.name=§7사막 구현 업그레이드
+gendustry.upgrades.plains.name=§7평야 구현 업그레이드
+gendustry.upgrades.jungle.name=§7정글 구현 업그레이드
+gendustry.upgrades.stabilizer.name=§7유전자 안정 업그레이드
+
+# =§7=== GUI AND TOOLTIPS ====
+
+gendustry.label.template.crafting=§7유전자 샘플은 템플릿에 넣을 수 있습니다. 그들을 조합창에 함께 놓으세요. 한번에 여러개의 특성을 주입할 수 있습니다.
+
+gendustry.label.charges=§7Charges: %s
+gendustry.label.select=§7Select:
+gendustry.label.status=§7Status: %s
+gendustry.label.control=§7Control: %s
+
+gendustry.label.breeding=§7교배중
+gendustry.label.working=§7작동중
+gendustry.label.maxinstall=§7최대 인스톨:
+gendustry.label.temperature=§7기온: %s
+gendustry.label.humidity=§7습도: %s
+gendustry.label.energy=§7요구 전력: %s %s/t
+gendustry.label.lifespan=§7수명 조정: %s
+gendustry.label.flowering=§7수분 확률: %s
+gendustry.label.production=§7생산력 조정: %s
+gendustry.label.territory=§7영역: %s
+
+gendustry.label.erase=§7유전적 요소를 없애려면 화로에 넣으세요
+gendustry.label.recipes=§7조합법을 보려면 클릭하세요
+gendustry.label.consume=§7소비 확률: %s%%
+gendustry.label.mutatron.death=§7사망 확률 (이그노블): %s%%
+gendustry.label.mutatron.degrade=§7등급하향 확률 (프리스틴): %s%%
+
+gendustry.label.mod.automated=§7* 자동화
+gendustry.label.mod.biome=§7* 바이옴 덮어씌워짐: %s
+gendustry.label.mod.sealed=§7* 방수
+gendustry.label.mod.selflighted=§7* 내부 조명
+gendustry.label.mod.sky=§7* 하늘 개방 구현
+gendustry.label.mod.energy=§7* 에너지 소비
+gendustry.label.mod.lifespan=§7* 수명
+gendustry.label.mod.flowering=§7* 수분과 접목
+gendustry.label.mod.geneticDecay=§7* 유전자 부패
+gendustry.label.mod.mutation=§7* 변이 확률
+gendustry.label.mod.production=§7* 생산률
+gendustry.label.mod.territory=§7* 영역
+gendustry.label.mod.sieve=§7* 화분 수집
+gendustry.label.mod.temperature=§7* 기온
+gendustry.label.mod.humidity=§7* 습도
+
+gendustry.label.sample.rootbees=§7벌에서 추출
+gendustry.label.sample.rootTrees=§7묘목에서 추출
+gendustry.label.sample.rootButterflies=§7나비에서 추출
+gendustry.label.sample.rootFlowers=§7꽃에서 추출
+
+gendustry.label.template.rootbees=§7벌에 적용 가능
+gendustry.label.template.rootTrees=§7묘목에 적용 가능
+gendustry.label.template.rootButterflies=§7나비에 적용 가능
+gendustry.label.template.rootFlowers=§7꽃에 적용가능
+gendustry.label.template.blank=§7유전자 샘플 추가 가능
+gendustry.label.template.missing=§7추가되지 않음
+gendustry.label.template.chromosomes=§7%s/%s 크로모좀
+
+gendustry.rsmode.always=§7언제나 켜져있음
+gendustry.rsmode.never=§7비활성화
+gendustry.rsmode.rs_on=§7레드스톤 신호로 활성화
+gendustry.rsmode.rs_off=§7레드스톤 신호로 비활성화
+
+gendustry.label.shift=§7<SHIFT키로 자세히 보기>
+
+# =§7=== CHROMOSOMES (should match forestry) ====
+
+gendustry.chromosome.FLOWER_PROVIDER=§7꽃
+gendustry.chromosome.GIRTH=§7둘레
+gendustry.chromosome.SPEED=§7속도
+gendustry.chromosome.YIELD=§7생산
+gendustry.chromosome.HEIGHT=§7높이
+gendustry.chromosome.GROWTH=§7성장
+gendustry.chromosome.FLOWERING=§7수분
+gendustry.chromosome.METABOLISM=§7신진대사
+gendustry.chromosome.LIFESPAN=§7수명
+gendustry.chromosome.TERRITORY=§7영역
+gendustry.chromosome.FERTILITY=§7번식력
+gendustry.chromosome.SIZE=§7크기
+gendustry.chromosome.HUMIDITY=§7습도
+gendustry.chromosome.SPECIES=§7종
+gendustry.chromosome.FIRE_RESIST=§7화염 저항
+gendustry.chromosome.TEMPERATURE_TOLERANCE=§7기후 저항성
+gendustry.chromosome.HUMIDITY_TOLERANCE=§7습도 저항성
+gendustry.chromosome.PLANT=§7식물
+gendustry.chromosome.EFFECT=§7이펙트
+gendustry.chromosome.CAVE_DWELLING=§7동굴 거주성
+gendustry.chromosome.MATURATION=§7성숙
+gendustry.chromosome.NOCTURNAL=§7낮/밤 무시
+gendustry.chromosome.TOLERANT_FLYER=§7우천시 활동
+gendustry.chromosome.FRUITS=§7과일
+gendustry.chromosome.SAPPINESS=§7수액
+
+// Botany
+
+
+gendustry.chromosome.PRIMARY=§7기본
+gendustry.chromosome.SECONDARY=§7두번째
+gendustry.chromosome.PH_TOLERANCE=§7pH 저항력
+gendustry.chromosome.STEM=§7줄기
+
+gendustry.allele.false=§7거절
+gendustry.allele.true=§7수락
+
+# =§7=== BC TRIGGERS ====
+
+gendustry.trigger.power0=§7전력이 없습니다
+gendustry.trigger.power25=§7전력 >= 25%
+gendustry.trigger.power50=§7전력 >= 50%
+gendustry.trigger.power75=§7전력 >= 75%
+gendustry.trigger.power100=§7전력이 가득 찼습니다.
+gendustry.trigger.working=§7기계 작동중
+
+# =§7=== COMMANDS ====
+gendustry.givetemplate.usage=§7/givetemplate <uid>
+gendustry.givetemplate.success=§7%s탬플릿을 %s에게 주었습니다.
+
+gendustry.givesample.usage=§7/givesample <종> <염색체> <대립유전자>
+gendustry.givesample.error.root=§7%s종을 찾을수 없습니다
+gendustry.givesample.error.allele=§7%s 대립유전자를 찾을수 없습니다
+gendustry.givesample.error.chromosome=§7%s염색체를 찾을수 없습니다.
+gendustry.givesample.error.invalid=§7요청한 염색체에 대한 대립유전자가 아닙니다
+gendustry.givesample.success=§7(종=%s, 염색체=%s, 대립유전자=%s)샘플을 %s에게 주었습니다.
+
+# =§7=== MUTATION REQUIREMENTS ====
+gendustry.req.temperature=§7필요 기온: %s
+gendustry.req.humidity=§7필요 습도: %s
+gendustry.req.biome=§7필요 바이옴: %s
+gendustry.req.block=§7필요 블럭: %s
+
+# =§7=== BEE SPECIES ====
+gendustry.bees.species.black=§7검은색
+gendustry.bees.species.red=§7빨강색
+gendustry.bees.species.green=§7초록색
+gendustry.bees.species.brown=§7갈색
+gendustry.bees.species.blue=§7파랑색
+gendustry.bees.species.purple=§7보라색
+gendustry.bees.species.cyan=§7청록색
+gendustry.bees.species.silver=§7밝은 회색
+gendustry.bees.species.gray=§7회색
+gendustry.bees.species.pink=§7분홍색
+gendustry.bees.species.lime=§7연두색
+gendustry.bees.species.yellow=§7노랑색
+gendustry.bees.species.lightblue=§7하늘색
+gendustry.bees.species.magenta=§7밝은자주색
+gendustry.bees.species.orange=§7주황색
+gendustry.bees.species.white=§7하얀색
+
+# =§7=== COMBS ====
+
+gendustry.honeycomb.black.name=§7검은색 색깔 벌집
+gendustry.honeycomb.red.name=§7빨강색 색깔 벌집
+gendustry.honeycomb.green.name=§7초록색 색깔 벌집
+gendustry.honeycomb.brown.name=§7갈색 색깔 벌집
+gendustry.honeycomb.blue.name=§7파랑색 색깔 벌집
+gendustry.honeycomb.purple.name=§7보라색 색깔 벌집
+gendustry.honeycomb.cyan.name=§7청록색 색깔 벌집
+gendustry.honeycomb.silver.name=§7밝은 회색 색깔 벌집
+gendustry.honeycomb.gray.name=§7회색 색깔 벌집
+gendustry.honeycomb.pink.name=§7분홍색 색깔 벌집
+gendustry.honeycomb.lime.name=§7연두색 색깔 벌집
+gendustry.honeycomb.yellow.name=§7노랑색 색깔 벌집
+gendustry.honeycomb.lightblue.name=§7하늘색 색깔 벌집
+gendustry.honeycomb.magenta.name=§7밝은자주색 색깔 벌집
+gendustry.honeycomb.orange.name=§7주황색 색깔 벌집
+gendustry.honeycomb.white.name=§7하얀색 색깔 벌집
+
+gendustry.honeydrop.black.name=§7검은색 색깔 꿀 방울
+gendustry.honeydrop.red.name=§7빨강색 색깔 꿀 방울
+gendustry.honeydrop.green.name=§7초록색 색깔 꿀 방울
+gendustry.honeydrop.brown.name=§7갈색 색깔 꿀 방울
+gendustry.honeydrop.blue.name=§7파랑색 색깔 꿀 방울
+gendustry.honeydrop.purple.name=§7보라색 색깔 꿀 방울
+gendustry.honeydrop.cyan.name=§7청록색 색깔 꿀 방울
+gendustry.honeydrop.silver.name=§7밝은 회색 색깔 꿀 방울
+gendustry.honeydrop.gray.name=§7회색 색깔 꿀 방울
+gendustry.honeydrop.pink.name=§7분홍색 색깔 꿀 방울
+gendustry.honeydrop.lime.name=§7연두색 색깔 꿀 방울
+gendustry.honeydrop.yellow.name=§7노랑색 색깔 꿀 방울
+gendustry.honeydrop.lightblue.name=§7하늘색 색깔 꿀 방울
+gendustry.honeydrop.magenta.name=§7밝은자주색 색깔 꿀 방울
+gendustry.honeydrop.orange.name=§7주황색 색깔 꿀 방울
+gendustry.honeydrop.white.name=§7하얀색 색깔 꿀 방울
+
+itemGroup.bdew.gendustry=§7젠더스트리
+itemGroup.bdew.templates=§7유전자 탬플릿
+itemGroup.bdew.samples=§7유전자 샘플
+
+for.gendustry.errorstate.disabled.description=§7비활성화
+for.gendustry.errorstate.disabled.help=§7이 기계는 컨피그 상 비활성화 되어있습니다.
+
+#this will be moved to bdlib at some point
+bdlib.label.empty=§7비어있음

@@ -1,0 +1,28 @@
+tile.ironchest:IRON.name=§7Jern Kiste
+tile.ironchest:GOLD.name=§7Guld Kiste
+tile.ironchest:DIAMOND.name=§7Diamant Kiste
+tile.ironchest:COPPER.name=§7Kobber Kiste
+tile.ironchest:STEEL.name=§7Steel Kiste
+tile.ironchest:SILVER.name=§7Sølv Kiste
+tile.ironchest:CRYSTAL.name=§7Krystal Kiste
+tile.ironchest:OBSIDIAN.name=§7Obsidian Kiste
+
+item.ironchest:IRONGOLD.name=§7Jern til Guld Kiste Opgradering
+item.ironchest:GOLDDIAMOND.name=§7Guld til Diamant Kiste Opgradering
+item.ironchest:COPPERSTEEL.name=§7Kobber til Steel Kiste Opgradering
+item.ironchest:STEELGOLD.name=§7Steel til Guld Kiste Opgradering
+item.ironchest:COPPERSILVER.name=§7Kobber til Sølv Kiste Opgradering
+item.ironchest:SILVERGOLD.name=§7Sølv til Guld Kiste Opgradering
+item.ironchest:COPPERIRON.name=§7Kobber til Jern Kiste Opgradering
+item.ironchest:DIAMONDCRYSTAL.name=§7Diamant til Krystal Kiste Opgradering
+item.ironchest:WOODIRON.name=§7Træ til Jern Kiste Opgradering
+item.ironchest:WOODCOPPER.name=§7Træ til Kobber Kiste Opgradering
+item.ironchest:DIAMONDOBSIDIAN.name=§7Diamant til Obsidian Kiste Opgraderingtile.ironchest:STEEL.name=Steel Chest
+tile.ironchest:DIRTCHEST9000.name=§7DirtChest 9000!
+
+book.ironchest:dirtchest9000.title=§7How to use your DirtChest 9000!
+book.ironchest:dirtchest9000.page1=§7Welcome to your new DirtChest 9000! We hope you will enjoy many happy years of storing your stack of dirt in our storage utility.
+book.ironchest:dirtchest9000.page2=§7Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!
+book.ironchest:dirtchest9000.page3=§7We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated.
+book.ironchest:dirtchest9000.page4=§7Warranty: This product has no warranty of any kind. Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all.
+book.ironchest:dirtchest9000.page5=§7DirtChest 9000 is kind to the environment. Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava. We would be very sad.

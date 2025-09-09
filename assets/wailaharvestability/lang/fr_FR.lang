@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7Pioche
+wailaharvestability.toolclass.shovel=§7Pelle
+wailaharvestability.toolclass.axe=§7Hache
+wailaharvestability.toolclass.chisel=§7Burin
+wailaharvestability.toolclass.scoop=§7Epuisette
+wailaharvestability.toolclass.crowbar=§7Pied-de-biche
+wailaharvestability.toolclass.sword=§7Épée
+
+# tooltips
+wailaharvestability.effectivetool=§7Outil efficace :
+wailaharvestability.harvestlevel=§7Niveau de récolte :
+wailaharvestability.currentlyharvestable=§7actuellement récoltable
+wailaharvestability.harvestable=§7récoltable
+
+# options
+option.harvestability.harvestlevel=§7Niveau de récolte
+option.harvestability.effectivetool=§7Outil efficace
+option.harvestability.currentlyharvestable=§7Actuellement récoltable
+option.harvestability.oresonly=§7Minerai seulement
+option.harvestability.harvestlevel.sneakingonly=§7Accroupi : Niveau de récolte
+option.harvestability.effectivetool.sneakingonly=§7Accroupi: Outil efficace
+option.harvestability.currentlyharvestable.sneakingonly=§7Accroupi: Récoltable
+option.harvestability.minimal=§7Mode minimal
+option.harvestability.unharvestableonly=§7Non récoltable seulement
+option.harvestability.toolrequiredonly=§7Outil demandé seulement
+option.harvestability.shearability=§7Tondable
+option.harvestability.shearability.sneakingonly=§7Accroupi: Tondable
+option.harvestability.silktouchability=§7Touchabilité douce
+option.harvestability.silktouchability.sneakingonly=§7Accroupi: Touchabilité douce

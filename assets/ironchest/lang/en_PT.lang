@@ -1,0 +1,28 @@
+tile.ironchest:IRON.name=§7Steel Coffer
+tile.ironchest:GOLD.name=§7Gold Coffer
+tile.ironchest:DIAMOND.name=§7Diamond Coffer
+tile.ironchest:COPPER.name=§7Copper Coffer
+tile.ironchest:STEEL.name=§7Steel Coffer
+tile.ironchest:SILVER.name=§7Silver Coffer
+tile.ironchest:CRYSTAL.name=§7Shinin' Coffer
+tile.ironchest:OBSIDIAN.name=§7Coffer o' tears
+tile.ironchest:DIRTCHEST9000.name=§7FilthCoffer 9000!
+
+item.ironchest:IRONGOLD.name=§7Steel to Gold Coffer Upgradin'
+item.ironchest:GOLDDIAMOND.name=§7Gold to Diamond Coffer Upgradin'
+item.ironchest:COPPERSTEEL.name=§7Copper to Steel Coffer Upgradin'
+item.ironchest:STEELGOLD.name=§7Steel to Gold Coffer Upgradin'
+item.ironchest:COPPERSILVER.name=§7Copper to Silver Coffer Upgradin'
+item.ironchest:SILVERGOLD.name=§7Silver to Gold Coffer Upgradin'
+item.ironchest:COPPERIRON.name=§7Copper to Steel Coffer Upgradin'
+item.ironchest:DIAMONDCRYSTAL.name=§7Diamond to Shinin' Coffer Upgradin'
+item.ironchest:WOODIRON.name=§7Timber to Steel Coffer Upgradin'
+item.ironchest:WOODCOPPER.name=§7Wood to Copper Coffer Upgradin'
+item.ironchest:DIAMONDOBSIDIAN.name=§7Diamond to Coffer o' Tears Upgradin'
+
+book.ironchest:dirtchest9000.title=§7How to use yer FilthCoffer 9000!
+book.ironchest:dirtchest9000.page1=§7Welcome to yer new FilthCoffer 9000! We hope ye will enjoy many happy years of storing yer filth wit yer coffer .
+book.ironchest:dirtchest9000.page2=§7Usage: simply put yer filth in yer slot and yer got yerself some filth any time ye need it!
+book.ironchest:dirtchest9000.page3=§7We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated.
+book.ironchest:dirtchest9000.page4=§7Warranty: We can't keep yer filth from pirates. Yer filth may not be stored, it may slowly return to yer world, or it may stay in yer coffer.
+book.ironchest:dirtchest9000.page5=§7FilthCoffer 9000 is kind to yer voyage. Throw yer paper in a coffer near by wit yer booty, and don't just chuck it into some molten rock. We wouldn't be the happiest o' pirates.

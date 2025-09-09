@@ -1,0 +1,28 @@
+bdew.neiaddons.genetics=§7Forestry Genetics
+bdew.neiaddons.exnihilo=§7Ex Nihilo
+
+bdew.neiaddons.breeding.beebreeding=§7Množení včel
+bdew.neiaddons.produce.beeproduce=§7Produkce včel
+
+bdew.neiaddons.breeding.treebreeding=§7Množení stromů
+bdew.neiaddons.produce.treeproduce=§7Produkce stromů
+
+bdew.neiaddons.breeding.flowerbreeding=§7Množení kytek
+
+bdew.neiaddons.breeding.butterflybreeding=§7Množení motýlů
+
+bdew.exnihilo.hammer.label=§7ExNihilovo kladivo
+bdew.exnihilo.sieve.label=§7ExNihilovo síto
+
+bdew.exnihilo.barrel.burn=§7Shoří za %s sekund!!!
+bdew.exnihilo.beetrap.spawn=§7Spawnuji: %s%%
+bdew.exnihilo.crucible.fluid=§7Tekutina: %s %s mB
+bdew.exnihilo.crucible.solid=§7Pevné: %s %s
+
+bdew.neiaddons.noserver=§7Tato funkce vyžaduje instalaci NEI Addons na server
+
+nei.options.tools.dump.neiaddons=§7NEI Addons
+nei.options.tools.dump.neiaddons.dumped=§7%s vypsáno do %s
+nei.options.tools.dump.neiaddons.bee_mutations=§7Mutace včel
+nei.options.tools.dump.neiaddons.tree_mutations=§7Mutace stromů
+nei.options.tools.dump.neiaddons.flower_mutations=§7Mutace kytek

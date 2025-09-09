@@ -1,0 +1,305 @@
+# gui - config - categories
+ingameinfoxml.config.category.general=§7常规
+ingameinfoxml.config.category.general.tooltip=§7常规设置.
+ingameinfoxml.config.category.alignment=§7对齐
+ingameinfoxml.config.category.alignment.tooltip=§7对齐偏移量设置.
+
+# gui - config - general
+ingameinfoxml.config.filename=§7文件名
+ingameinfoxml.config.filename.tooltip=§7游戏启动时应加载的配置文件.
+ingameinfoxml.config.replaceDebug=§7替换调试信息
+ingameinfoxml.config.replaceDebug.tooltip=§7用InGameInfoXML替换掉调试信息(F3).
+ingameinfoxml.config.showInChat=§7聊天窗口中显示
+ingameinfoxml.config.showInChat.tooltip=§7在聊天窗口中显示信息.
+ingameinfoxml.config.showOnPlayerList=§7玩家列表中显示
+ingameinfoxml.config.showOnPlayerList.tooltip=§7在玩家列表中显示信息.
+ingameinfoxml.config.scale=§7大小比例
+ingameinfoxml.config.scale.tooltip=§7信息显示界面大小由该数值比例确定.
+ingameinfoxml.config.fileInterval=§7文件读取间隔
+ingameinfoxml.config.fileInterval.tooltip=§7'file'标记的文件读取间隔(秒).
+
+# gui - config - alignment
+ingameinfoxml.config.topleft=§7左上角
+ingameinfoxml.config.topleft.tooltip=§7相对于屏幕左上角的偏移量(X<空格>Y).
+ingameinfoxml.config.topcenter=§7正上方
+ingameinfoxml.config.topcenter.tooltip=§7相对于屏幕正上方的偏移量(X<空格>Y).
+ingameinfoxml.config.topright=§7右上角
+ingameinfoxml.config.topright.tooltip=§7相对于屏幕右上角的偏移量(X<空格>Y).
+ingameinfoxml.config.middleleft=§7正左方
+ingameinfoxml.config.middleleft.tooltip=§7相对于屏幕正左方的偏移量(X<空格>Y).
+ingameinfoxml.config.middlecenter=§7正中心
+ingameinfoxml.config.middlecenter.tooltip=§7相对于屏幕正中心的偏移量(X<空格>Y).
+ingameinfoxml.config.middleright=§7正右方
+ingameinfoxml.config.middleright.tooltip=§7相对于屏幕正右方的偏移量(X<空格>Y).
+ingameinfoxml.config.bottomleft=§7左下角
+ingameinfoxml.config.bottomleft.tooltip=§7相对于屏幕左下角的偏移量(X<空格>Y).
+ingameinfoxml.config.bottomcenter=§7正下方
+ingameinfoxml.config.bottomcenter.tooltip=§7相对于屏幕正下方的偏移量(X<空格>Y).
+ingameinfoxml.config.bottomright=§7右下角
+ingameinfoxml.config.bottomright.tooltip=§7相对于屏幕右下角的偏移量(X<空格>Y).
+
+# gui - tag list
+gui.ingameinfoxml.taglist=§7标签列表
+
+# gui - tag list - categories
+ingameinfoxml.tag.category.formatting.name=§7文字样式
+ingameinfoxml.tag.category.misc.name=§7杂项
+ingameinfoxml.tag.category.mouseover.name=§7光标悬停
+ingameinfoxml.tag.category.nearbyplayer.name=§7附近玩家
+ingameinfoxml.tag.category.playerequipment.name=§7玩家 - 装备
+ingameinfoxml.tag.category.playergeneral.name=§7玩家 - 常规
+ingameinfoxml.tag.category.playerposition.name=§7玩家 - 位置
+ingameinfoxml.tag.category.playerpotion.name=§7玩家 - 药水效果
+ingameinfoxml.tag.category.riding.name=§7骑乘
+ingameinfoxml.tag.category.time.name=§7世界时间
+ingameinfoxml.tag.category.world.name=§7世界名称
+ingameinfoxml.tag.category.bloodmagic.name=§7血魔法
+ingameinfoxml.tag.category.simplyjetpacks.name=§7简易喷气背包
+ingameinfoxml.tag.category.terrafirmacraft.name=§7群峦传说
+ingameinfoxml.tag.category.thaumcraft.name=§7神秘时代
+
+# gui - tag list - formatting tags
+ingameinfoxml.tag.black.desc=§7黑色(§0例子§r).
+ingameinfoxml.tag.darkblue.desc=§7深蓝色(§1例子§r).
+ingameinfoxml.tag.darkgreen.desc=§7墨绿色(§2例子§r).
+ingameinfoxml.tag.darkaqua.desc=§7暗青色(§3例子§r).
+ingameinfoxml.tag.darkred.desc=§7暗红色(§4例子§r).
+ingameinfoxml.tag.darkpurple.desc=§7暗紫色(§5例子§r).
+ingameinfoxml.tag.gold.desc=§7金色(§6例子§r).
+ingameinfoxml.tag.gray.desc=§7灰色(§7例子§r).
+ingameinfoxml.tag.darkgrey.desc=§7深灰色(§8例子§r).
+ingameinfoxml.tag.blue.desc=§7蓝色(§9例子§r).
+ingameinfoxml.tag.green.desc=§7绿色(§a例子§r).
+ingameinfoxml.tag.aqua.desc=§7青色(§b例子§r).
+ingameinfoxml.tag.red.desc=§7红色(§c例子§r).
+ingameinfoxml.tag.lightpurple.desc=§7淡紫色(§d例子§r).
+ingameinfoxml.tag.yellow.desc=§7黄色(§e例子§r).
+ingameinfoxml.tag.white.desc=§7白色(§f例子§r).
+ingameinfoxml.tag.obfuscated.desc=§7随机效果(§k例子§r).
+ingameinfoxml.tag.bold.desc=§7粗体(§l例子§r).
+ingameinfoxml.tag.strikethrough.desc=§7中划线(§m例子§r).
+ingameinfoxml.tag.underline.desc=§7下划线(§n例子§r).
+ingameinfoxml.tag.italic.desc=§7斜体(§o例子§r).
+ingameinfoxml.tag.reset.desc=§7重置文字样式.
+
+# gui - tag list - misc
+ingameinfoxml.tag.memmax.desc=§7最大内存大小.
+ingameinfoxml.tag.memtotal.desc=§7总内存大小.
+ingameinfoxml.tag.memfree.desc=§7空闲内存大小.
+ingameinfoxml.tag.memused.desc=§7已用内存大小.
+ingameinfoxml.tag.fps.desc=§7当前FPS.
+ingameinfoxml.tag.resourcepack.desc=§7当前资源包.
+ingameinfoxml.tag.entitiesrendered.desc=§7已渲染实体数.
+ingameinfoxml.tag.entitiestotal.desc=§7已加载实体数.
+ingameinfoxml.tag.loadedchunks.desc=§7已加载区块数.
+ingameinfoxml.tag.server.desc=§7服务器域名 或者 IP与其端口号(在端口号不是25565时显示), 如果是本地游戏则显示为本地主机名.
+ingameinfoxml.tag.servername.desc=§7服务器域名, 如果是本地游戏则显示为本地主机名.
+ingameinfoxml.tag.serverip.desc=§7服务器IP, 如果是本地游戏则显示为127.0.0.1.
+ingameinfoxml.tag.serverport.desc=§7服务器端口号, 如果是本地游戏则显示为-1
+ingameinfoxml.tag.ping.desc=§7当前ping值, 如果没有数据则显示为-1.
+ingameinfoxml.tag.pingicon.desc=§7对应当前ping值的图标, 如果没有数据则不显示任何东西.
+
+# gui - tag list - mouse over
+ingameinfoxml.tag.mouseovername.desc=§7光标下实体或方块的名称, 如果光标下什么都没有则不显示任何东西.
+ingameinfoxml.tag.mouseoveruniquename.desc=§7光标下实体或方块的 唯一标记名称, 如果光标下什么都没有则不显示任何东西.
+ingameinfoxml.tag.mouseoverid.desc=§7光标下实体或方块的ID, 如果光标下什么都没有则显示为0.
+ingameinfoxml.tag.mouseovermetadata.desc=§7光标下方块的metadata(元数据), 如果光标下什么都没有则显示为0.
+ingameinfoxml.tag.mouseoverpowerweak.desc=§7该方块红石信号的最小强度, 如果什么都没有则显示为-1.
+ingameinfoxml.tag.mouseoverpowerstrong.desc=§7该方块红石信号的最大强度, 如果什么都没有则显示为-1.
+ingameinfoxml.tag.mouseoverpowerinput.desc=§7该方块红石信号的输入强度, 如果什么都没有则显示为-1.
+
+# gui - tag list - nearby player
+ingameinfoxml.tag.nearbyplayerdistance.desc=§7与附近第x个玩家间的距离.
+ingameinfoxml.tag.nearbyplayername.desc=§7附近第x个玩家的名称.
+
+# gui - tag list - player equipment
+ingameinfoxml.tag.equippedname.desc=§7持有物品的名称.
+ingameinfoxml.tag.equippeduniquename.desc=§7持有物品的 唯一标记名称.
+ingameinfoxml.tag.equippeddamage.desc=§7持有物品的耐久.
+ingameinfoxml.tag.equippedmaxdamage.desc=§7持有物品的最大耐久.
+ingameinfoxml.tag.equippeddamageleft.desc=§7持有物品的剩余耐久.
+ingameinfoxml.tag.equippedquantity.desc=§7持有物品在物品栏中的数量.
+ingameinfoxml.tag.equippedicon.desc=§7持有物品的图标.
+ingameinfoxml.tag.equippedlargeicon.desc=§7持有物品的大图标.
+ingameinfoxml.tag.helmetname.desc=§7头盔的名称.
+ingameinfoxml.tag.helmetuniquename.desc=§7头盔的 唯一标记名称.
+ingameinfoxml.tag.helmetdamage.desc=§7头盔的耐久.
+ingameinfoxml.tag.helmetmaxdamage.desc=§7头盔的最大耐久.
+ingameinfoxml.tag.helmetdamageleft.desc=§7头盔的剩余耐久.
+ingameinfoxml.tag.helmetquantity.desc=§7该头盔在物品栏中的数量.
+ingameinfoxml.tag.helmeticon.desc=§7头盔的图标.
+ingameinfoxml.tag.helmetlargeicon.desc=§7头盔的大图标.
+ingameinfoxml.tag.chestplatename.desc=§7胸甲的名称.
+ingameinfoxml.tag.chestplateuniquename.desc=§7胸甲的 唯一标记名称.
+ingameinfoxml.tag.chestplatedamage.desc=§7胸甲的耐久.
+ingameinfoxml.tag.chestplatemaxdamage.desc=§7胸甲的最大耐久.
+ingameinfoxml.tag.chestplatedamageleft.desc=§7胸甲的剩余耐久.
+ingameinfoxml.tag.chestplatequantity.desc=§7该胸甲在物品栏中的数量.
+ingameinfoxml.tag.chestplateicon.desc=§7胸甲的图标.
+ingameinfoxml.tag.chestplatelargeicon.desc=§7胸甲的大图标.
+ingameinfoxml.tag.leggingsname.desc=§7护腿的名称.
+ingameinfoxml.tag.leggingsuniquename.desc=§7护腿的 唯一标记名称.
+ingameinfoxml.tag.leggingsdamage.desc=§7护腿的耐久.
+ingameinfoxml.tag.leggingsmaxdamage.desc=§7护腿的最大耐久.
+ingameinfoxml.tag.leggingsdamageleft.desc=§7护腿的剩余耐久.
+ingameinfoxml.tag.leggingsquantity.desc=§7该护腿在物品栏中的数量.
+ingameinfoxml.tag.leggingsicon.desc=§7护腿的图标.
+ingameinfoxml.tag.leggingslargeicon.desc=§7护腿的大图标.
+ingameinfoxml.tag.bootsname.desc=§7靴子的名称.
+ingameinfoxml.tag.bootsuniquename.desc=§7靴子的 唯一标记名称.
+ingameinfoxml.tag.bootsdamage.desc=§7靴子的耐久.
+ingameinfoxml.tag.bootsmaxdamage.desc=§7靴子的最大耐久.
+ingameinfoxml.tag.bootsdamageleft.desc=§7靴子的剩余耐久.
+ingameinfoxml.tag.bootsquantity.desc=§7该靴子在物品栏中的数量.
+ingameinfoxml.tag.bootsicon.desc=§7靴子的图标.
+ingameinfoxml.tag.bootslargeicon.desc=§7靴子的大图标.
+
+# gui - tag list - player general
+ingameinfoxml.tag.light.desc=§7你当前位置的光照等级.
+ingameinfoxml.tag.lightfeet.desc=§7你当前位置(脚下)的光照等级.
+ingameinfoxml.tag.lightnosun.desc=§7在没有阳光时你当前位置的光照等级.
+ingameinfoxml.tag.lightnosunfeet.desc=§7在没有阳光时你当前位置(脚下)的光照等级.
+ingameinfoxml.tag.lightsun.desc=§7你当前位置的阳光等级.
+ingameinfoxml.tag.lightsunfeet.desc=§7你当前位置(脚下)的阳光等级.
+ingameinfoxml.tag.score.desc=§7玩家得分.
+ingameinfoxml.tag.gamemode.desc=§7玩家游戏模式名称.
+ingameinfoxml.tag.gamemodeid.desc=§7玩家游戏模式id.
+ingameinfoxml.tag.health.desc=§7玩家当前生命值.
+ingameinfoxml.tag.maxhealth.desc=§7玩家最大生命值.
+ingameinfoxml.tag.armor.desc=§7玩家护甲值.
+ingameinfoxml.tag.foodlevel.desc=§7玩家饥饿值.
+ingameinfoxml.tag.maxfoodlevel.desc=§7玩家最大饥饿值.
+ingameinfoxml.tag.saturation.desc=§7玩家饱腹状态.
+ingameinfoxml.tag.exhaustion.desc=§7玩家空腹状态.
+ingameinfoxml.tag.airticks.desc=§7玩家氧气槽数量.
+ingameinfoxml.tag.maxairticks.desc=§7玩家最大氧气槽数量.
+ingameinfoxml.tag.playerlevel.desc=§7玩家等级.
+ingameinfoxml.tag.xpthislevel.desc=§7玩家当前经验值.
+ingameinfoxml.tag.xpuntilnext.desc=§7玩家升级所需经验值.
+ingameinfoxml.tag.xpcap.desc=§7玩家到达当前等级总共所需经验值.
+ingameinfoxml.tag.username.desc=§7玩家名称.
+ingameinfoxml.tag.inwater.desc=§7如果玩家位于水下就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.wet.desc=§7如果玩家被水打湿就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.alive.desc=§7如果玩家存活就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.burning.desc=§7如果玩家着火就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.riding.desc=§7如果玩家正在骑乘就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.sneaking.desc=§7如果玩家正在潜行就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.sprinting.desc=§7如果玩家正在疾跑就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.invisible.desc=§7如果玩家处于隐身状态就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.eating.desc=§7如果玩家正在进食就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.invulnerable.desc=§7如果玩家处于无敌状态就返回§e真§r, 否则就返回§e假§r.
+
+# gui - tag list - player position
+ingameinfoxml.tag.chunkx.desc=§7玩家X轴区块坐标.
+ingameinfoxml.tag.chunkz.desc=§7玩家Z轴区块坐标.
+ingameinfoxml.tag.chunkoffsetx.desc=§7玩家X轴区块坐标偏移量(0-15).
+ingameinfoxml.tag.chunkoffsetz.desc=§7玩家Z轴区块坐标偏移量(0-15).
+ingameinfoxml.tag.x.desc=§7玩家X轴坐标.
+ingameinfoxml.tag.y.desc=§7玩家Y轴坐标.
+ingameinfoxml.tag.yfeet.desc=§7玩家Y轴坐标(脚下).
+ingameinfoxml.tag.z.desc=§7玩家Z轴坐标.
+ingameinfoxml.tag.xi.desc=§7玩家X轴坐标取整.
+ingameinfoxml.tag.yi.desc=§7玩家Y轴坐标取整.
+ingameinfoxml.tag.yfeeti.desc=§7玩家X轴坐标取整(脚下).
+ingameinfoxml.tag.zi.desc=§7玩家Z轴坐标取整.
+ingameinfoxml.tag.speed.desc=§7玩家移动速度.
+ingameinfoxml.tag.speedx.desc=§7玩家移动速度x轴分量.
+ingameinfoxml.tag.speedy.desc=§7玩家移动速度y轴分量.
+ingameinfoxml.tag.speedz.desc=§7玩家移动速度z轴分量.
+ingameinfoxml.tag.speedxz.desc=§7玩家移动速度水平分量.
+ingameinfoxml.tag.direction.desc=§7以角度为单位(-180~180)的玩家朝向.
+ingameinfoxml.tag.roughdirection.desc=§7玩家当前大致朝向(南,西,北,东).
+ingameinfoxml.tag.finedirection.desc=§7玩家当前精确朝向(南,西南,西,西北, ...).
+ingameinfoxml.tag.abrroughdirection.desc=§7玩家当前当前大致朝向简写(南,西,北,东).
+ingameinfoxml.tag.abrfinedirection.desc=§7玩家当前精确朝向简写(南,西南,西,西北, ...).
+ingameinfoxml.tag.directionhud.desc=§7一个小型的材质化的方向HUD(显示器).
+
+# gui - tag list - player potion
+ingameinfoxml.tag.potioneffect.desc=§7第x个药水效果名称.
+ingameinfoxml.tag.potionduration.desc=§7第x个药水效果的持续时间(单位为秒).
+ingameinfoxml.tag.potiondurationticks.desc=§7药水效果的持续时间(单位为游戏刻).
+ingameinfoxml.tag.potionicon.desc=§7第x个药水效果的图标.
+ingameinfoxml.tag.potionlargeicon.desc=§7第x个药水效果的大图标.
+
+# gui - tag list - riding
+ingameinfoxml.tag.ridinghorse.desc=§7如果玩家正在骑马就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.horsehealth.desc=§7马匹生命值.
+ingameinfoxml.tag.horsemaxhealth.desc=§7马匹最大生命值.
+ingameinfoxml.tag.horsespeed.desc=§7马匹速度.
+ingameinfoxml.tag.horsejumpstrength.desc=§7马匹跳跃强度.
+
+# gui - tag list - time
+ingameinfoxml.tag.day.desc=§7Minecraft天数,从0开始.
+ingameinfoxml.tag.mctimeh.desc=§7Minecraft小时.
+ingameinfoxml.tag.mctimem.desc=§7Minecraft分钟.
+ingameinfoxml.tag.mctime24.desc=§7Minecraft时间(24小时制).
+ingameinfoxml.tag.mctime12.desc=§7Minecraft时间(12小时制).
+ingameinfoxml.tag.rltime24.desc=§7真实时间(24小时制).
+ingameinfoxml.tag.rltime12.desc=§7真实时间(12小时制).
+
+# gui - tag list - world
+ingameinfoxml.tag.worldname.desc=§7游戏世界名称.
+ingameinfoxml.tag.worldsize.desc=§7游戏世界大小.
+ingameinfoxml.tag.worldsizemb.desc=§7用MiB表示的游戏世界大小.
+ingameinfoxml.tag.seed.desc=§7游戏世界种子.
+ingameinfoxml.tag.difficulty.desc=§7游戏世界难度名称.
+ingameinfoxml.tag.difficultyid.desc=§7游戏世界难度id.
+ingameinfoxml.tag.dimension.desc=§7维度名称.
+ingameinfoxml.tag.dimensionid.desc=§7维度id.
+ingameinfoxml.tag.biome.desc=§7生物群系名称.
+ingameinfoxml.tag.biomeid.desc=§7生物群系id.
+ingameinfoxml.tag.daytime.desc=§7如果是白天就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.raining.desc=§7如果在下雨就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.thundering.desc=§7如果是雷暴天气就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.snowing.desc=§7如果在下雪就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.nextrain.desc=§7下一场雨倒计时.
+ingameinfoxml.tag.slimes.desc=§7如果当前区块为史莱姆区块就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.hardcore.desc=§7如果该游戏世界为极限模式就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.temperature.desc=§7生物群系温度.
+ingameinfoxml.tag.localtemperature.desc=§7你当前位置的生物群系温度.
+ingameinfoxml.tag.humidity.desc=§7生物群系湿度.
+
+# gui - tag list - integration - blood magic
+ingameinfoxml.tag.bmlp.desc=§7当前§4LP§r.
+ingameinfoxml.tag.bmmaxlp.desc=§7最大§4LP§r.
+
+# gui - tag list - integration - simply jetpacks
+ingameinfoxml.tag.sjenergy.desc=§7喷气背包能量值.
+ingameinfoxml.tag.sjmaxenergy.desc=§7喷气背包最大能量值.
+ingameinfoxml.tag.sjpercent.desc=§7喷气背包剩余能量值(以百分比为单位).
+ingameinfoxml.tag.sjenabled.desc=§7若果该喷气背包可用就返回§e真§r, 否则就返回§e假§r.
+ingameinfoxml.tag.sjhover.desc=§7如果该喷气背包处于悬停模式就返回§e真§r, 否则就返回§e假§r.
+
+# gui - tag list - integration - terrafirmacraft
+ingameinfoxml.tag.tfcrainfall.desc=§7你当前位置的降水量.
+ingameinfoxml.tag.tfctemperature.desc=§7你当前位置的温度.
+ingameinfoxml.tag.tfcaveragetemperature.desc=§7你当前位置的年平均温度.
+ingameinfoxml.tag.tfctemperatureheatsources.desc=§7你当前位置的外部热源温度.
+ingameinfoxml.tag.tfcseason.desc=§7季节.
+ingameinfoxml.tag.tfcdate.desc=§7日期.
+ingameinfoxml.tag.tfcday.desc=§7日.
+ingameinfoxml.tag.tfcmonth.desc=§7月.
+ingameinfoxml.tag.tfcyear.desc=§7年.
+ingameinfoxml.tag.fmtskill.desc=§7%s 信息.
+ingameinfoxml.tag.fmtskillrank.desc=§7当前排名 %s.
+ingameinfoxml.tag.fmtskillprogress.desc=§7当前进度 %s.
+
+# gui - tag list - integration - thaumcraft
+ingameinfoxml.tag.tcwarpperm.desc=§7玩家的永久扭曲.
+ingameinfoxml.tag.tcwarpsticky.desc=§7玩家的一般扭曲(附着性).
+ingameinfoxml.tag.tcwarptemp.desc=§7玩家的暂时性扭曲.
+ingameinfoxml.tag.tcwarptotal.desc=§7玩家的总扭曲.
+
+# keys
+ingameinfoxml.key.category=§7InGame Info XML
+ingameinfoxml.key.toggle=§7切换覆盖
+
+# commands
+commands.ingameinfoxml.usage=§7/igi <reload|load|save|enable|disable|taglist|config> [文件名]
+commands.ingameinfoxml.reload=§7正在重新加载...
+commands.ingameinfoxml.load=§7正在加载%s...
+commands.ingameinfoxml.save=§7正在保存%s...
+commands.ingameinfoxml.success=§7完成!
+commands.ingameinfoxml.failure=§7出现了错误!
+commands.ingameinfoxml.enable=§7InGame Info XML界面现在已启用.
+commands.ingameinfoxml.disable=§7InGame Info XML界面现在已禁用.

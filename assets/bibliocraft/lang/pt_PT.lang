@@ -1,0 +1,584 @@
+language.name=§7Português(PT)
+language.region=§7PT
+language.code=§7pt_PT
+
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+itemGroup.BiblioCraftLights=§7Iluminação do BiblioCraft
+item.paneler.panels=§7Panels:
+
+//BiblioCraft v1.11.2 additions
+gui.recipe.disabled=§7Construir com livros de receitas está desabilitado.
+stockcatalog.inventory.notfound=§7Nome do inventário em falta
+
+// BiblioCraft v1.11.0 additions
+item.StockroomCatalog.name=§7Catálogo do Armazém
+jds.tileentitychest=§7Armação de Baú
+FramedChest.name=§7Armação de Baú
+gui.catalog.close=§7Fechar
+gui.catalog.count=§7Quant.
+gui.catalog.names=§7Nome do Item / Bloco
+screwgun.selected.chest1=§7Primeiro Baú Selecionado.
+screwgun.selected.chest2=§7Associar/desassociar baús.
+gui.left=§7Esquerda
+gui.right=§7Direita
+gui.craft=§7Construir
+gui.recipe.crafted=§7Construído com Sucesso
+gui.recipe.failed=§7Falha ao remover ingredientes
+gui.recipe.invalid=§7Receita Inválida
+gui.recipe.missing=§7Ingredientes em Falta
+gui.recipe.wrong=§7Algo correu mal. Nenhum livro de receitas com a receita válida encontrada.
+
+
+gui.clock.pulse=§7Pulso
+gui.clock.solid=§7Sólido
+
+jds.tileentityarmorstand=§7Suporte de Armadura
+jds.tileentitybookcase=§7Estante de Livros
+jds.teclipboard=§7Prancheta
+jds.tileentitycookiejar=§7Frasco de Bolachas
+jds.tileentitywoodlabel=§7Mostrador
+jds.tileentitygenericshelf=§7Prateleira
+jds.tileentitymapframe=§7Moldura para Mapa
+jds.tefurnituretile=§7Apainelador de Mobília
+jds.tileentityfancyworkbench=§7Mesa de Trabalho Sofisticada
+jds.tileentityfancysign=§7Tabuleta Sofisticada
+jds.tileentitydiscrack=§7Suporte de Discos
+jds.tileentitydinnerplate=§7Prato
+jds.tileentitypotionshelf=§7Estante de Poções
+jds.tileentitywritingdesk=§7Escrivaninha
+jds.tileentityweaponcase=§7Vitrine
+jds.tileentitytoolrack=§7Suporte de Ferramentas
+jds.tileentitytypewriter=§7Máquina de Escrever
+jds.tileentitytypemachine=§7Mesa Tipográfica
+jds.tileentitytable=§7Mesa
+jds.tileentityswordpedestal=§7Pedestal para Espadas
+jds.tileentityseat=§7Banco
+jds.tileentityprintpress=§7Prensa de Impressão
+jds.tileentitypaintpress=§7Prensa de Pinturas
+jds.tileentitypainting=§7Pintura
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=§7Profundidade
+item.PlumbLine.name=§7Prumo
+item.FramingSaw.name=§7Serra
+item.FramingBoard.name=§7Prancha de Armação
+item.FramingSheet.name=§7Folha de Armação
+
+OakPaneler.name=§7Apainelador de Mobília de Carvalho
+SprucePaneler.name=§7Apainelador de Mobília de Abeto
+BirchPaneler.name=§7Apainelador de Mobília de Bétula
+JunglePaneler.name=§7Apainelador de Mobília de Madeira da Selva
+AcaciaPaneler.name=§7Apainelador de Mobília de Acácia
+OldOakPaneler.name=§7Apainelador de Mobília de Carvalho Escuro
+FramedPaneler.name=§7Armação de Apainelador de Mobília
+
+FramedClock.name=§7Armação de Relógio
+FrameBookcase.name=§7Armação de Estante de Livros
+FramedWorkbench.name=§7Armação de Mesa de Trabalho Sofisticada
+FramedSign.name=§7Armação de Tabuleta Sofisticada
+FramedShelf.name=§7Armação de Prateleira
+FramedPotionShelf.name=§7Armação de Estante de Poções
+FramedLabel.name=§7Armação de Mostrador
+FramedMapFrame.name=§7Armação de Moldura para Mapa
+FramedPaintingFrame.name=§7Armação de Moldura
+FramedDesk.name=§7Armação de Escrivaninha
+FramedWeaponRack.name=§7Armação de Suporte de Ferramentas
+FramedCase.name=§7Armação de Vitrine
+FramedTable.name=§7Armação de Mesa
+FramedSeat.name=§7Armação de Banco
+item.seatBack.FramedSeatBack.name=§7Armação de Encosto
+
+gui.painting.showFrame=§7Mostrar Moldura
+gui.painting.hideFrame=§7Esconder Moldura
+
+screwgun.selected.desk1=§7Primeira Escrivaninha Selecionada.
+screwgun.selected.desk2=§7Associar/desassociar Escrivaninhas.
+
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=§7Atlas
+item.AtlasPlate.name=§7Chapa Atlas
+item.DeathCompass.name=§7Bússola Eterna
+enchant.deathcompass=§7Bússola Eterna
+gui.atlas.zoom=§7Zoom
+gui.atlas.center=§7Autocentro
+gui.atlas.create=§7Autocriação
+gui.atlas.mapXcenter=§7Centro em X:
+gui.atlas.mapZcenter=§7Centro em Z:
+gui.atlas.mapZoom=§7Zoom do Mapa:
+gui.atlas.yes=§7Sim
+gui.atlas.no=§7Não
+gui.atlas.atlas=§7O Atlas
+
+gui.atlas.select.tt1=§7Modo de Seleção de Waypoint
+gui.atlas.select.tt2=§7Passa sobre o waypoint
+gui.atlas.select.tt3=§7e clica esquerdo para selecionar
+gui.atlas.select.tt4=§7esse waypoint.
+gui.atlas.select.tt5=§7Segura Ctrl e passar sobre o mapa
+gui.atlas.select.tt6=§7para veres as cordenadas do mundo real.
+gui.atlas.select.tt7=§7Clica esquerdo enquanto seguras o Ctrl
+gui.atlas.select.tt8=§7para selecionar qualquer ponto no mapa.
+
+gui.atlas.edit.tt1=§7Modo de Edição de Waypoint
+gui.atlas.edit.tt2=§7Clica num waypoint para editar
+gui.atlas.edit.tt3=§7o nome e a cor ou
+gui.atlas.edit.tt4=§7eliminá-lo.
+gui.atlas.edit.tt5=§7Para eliminar rapidamente um waypoint,
+gui.atlas.edit.tt6=§7segura shift e clica nele.
+
+gui.atlas.add.tt1=§7Modo de Adição de Waypoint
+gui.atlas.add.tt2=§7Clica em qualquer parte do mapa
+gui.atlas.add.tt3=§7para adicionar um waypoint novo.
+gui.atlas.add.tt4=§7Uma caixa aparecerá e perguntará
+gui.atlas.add.tt5=§7o nome e a cor do mesmo.
+gui.atlas.add.tt6=§7Segura shift e clica no mapa
+gui.atlas.add.tt7=§7para poress um novo waypoint com
+gui.atlas.add.tt8=§7uma cor e um nome qualquer.
+
+gui.atlas.switchtoinv=§7Mudar para Vista de Inventário.
+gui.atlas.switchtoatlas=§7Mudar para Vista de Mapa.
+
+gui.atlas.autocenter.tt1=§7Se ativado, o atlas irá
+gui.atlas.autocenter.tt2=§7procurar no inventário por um
+gui.atlas.autocenter.tt3=§7mapa válido que mostre onde
+gui.atlas.autocenter.tt4=§7estás com o mesmo
+gui.atlas.autocenter.tt5=§7nível de zoom selecionado.
+
+gui.atlas.autocreate.tt1=§7Se ativado, cria um novo
+gui.atlas.autocreate.tt2=§7para a partir dos mapas vazios
+gui.atlas.autocreate.tt3=§7do teu inventário. Quando o centro automático
+gui.atlas.autocreate.tt4=§7falha na procura de um mapa correspondente,
+gui.atlas.autocreate.tt5=§7um novo mapa é criado tendo em base
+gui.atlas.autocreate.tt6=§7a localização do último mapa com
+gui.atlas.autocreate.tt7=§7o nível de zoom selecionado.
+
+gui.atlas.autocreate.tt8=§7Centro automático deve ser
+gui.atlas.autocreate.tt9=§7ativado para isto funcionar.
+
+gui.atlas.transfer=§7Transferência de Waypoint
+gui.atlas.transfer.cancel=§7Cancelar
+gui.atlas.transfer.from=§7Do Atlas para a moldura para mapa
+gui.atlas.transfer.to=§7Da moldura para mapa para o Atlas
+
+gui.compass.currentlocation=§7Localização Atual
+
+gui.paintpress.page=§7Página
+gui.paintpress.of=§7por
+
+item.TesterItem.name=§7Verificador de Nome de Itens
+gui.testeritem.name=§7Verificador de Nome de Itens
+gui.testeritem.display=§7Nome Exibido:
+gui.testeritem.unlocal=§7Nome de Localização:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=§7Som da Badalada
+gui.clock.ticksound=§7Som do Tique-Taque
+gui.clock.redstone=§7Redstone
+gui.clock.chime=§7Badalada
+gui.clock.presets=§7Presenças
+
+screwgun.selected.painting1=§7Primeira Moldura Selecionada
+screwgun.selected.painting2=§7Segunda Moldura Selecionada
+screwgun.selected.clock1=§7Primeiro Relógio Selecionado
+screwgun.selected.clock2=§7Segundo Relógio Selecionado
+drill.failed=§7Falha na Associação
+
+item.PaintingCanvas.name=§7Tela de Pintura
+tile.BiblioPaintPress.name=§7Prensa de Pintura
+
+gui.paintpress.transfer=§7Transferir
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7Customizadas
+
+gui.painting.scale=§7Escala
+gui.painting.resolution=§7Resolução
+gui.painting.aspectRatio=§7Proporção
+gui.painting.size=§7Tamanho da Pintura
+gui.painting.rotation=§7Rotação
+gui.painting.corner=§7Canto Principal
+
+OakPaintingFrame.name=§7Moldura de Carvalho
+SprucePaintingFrame.name=§7Moldura de Abeto
+BirchPaintingFrame.name=§7Moldura de Bétula
+JunglePaintingFrame.name=§7Moldura de Madeira da Selva
+AcaciaPaintingFrame.name=§7Moldura de Acácia
+OldOakPaintingFrame.name=§7Moldura de Carvalho Escuro
+
+paintingFrame.0tier=§7Sem Bordas
+paintingFrame.1tier=§7Camada Única
+paintingFrame.2tier=§7Camada Dupla
+paintingFrame.3tier=§7Camada Tripla
+paintingFrame.4tier=§7Camada Quadrupla
+
+OakClock.name=§7Relógio de Carvalho
+SpruceClock.name=§7Relógio de Abeto
+BirchClock.name=§7Relógio de Bétula
+JungleClock.name=§7Relógio de Madeira da Selva
+AcaciaClock.name=§7Relógio de Acácia
+OldOakClock.name=§7Relógio de Carvalho Escuro
+
+WhiteTypewriter.name=§7Máquina de Escrever Branca
+LightGrayTypewriter.name=§7Máquina de Escrever Cinzenta Clara
+GrayTypewriter.name=§7Máquina de Escrever Cinzenta
+BlackTypewriter.name=§7Máquina de Escrever Preta
+RedTypewriter.name=§7Máquina de Escrever Vermelha
+OrangeTypewriter.name=§7Máquina de Escrever Laranja
+YellowTypewriter.name=§7Máquina de Escrever Amarela
+LimeTypewriter.name=§7Máquina de Escrever Verde Lima
+GreenTypewriter.name=§7Máquina de Escrever Verde
+CyanTypewriter.name=§7Máquina de Escrever Azul Ciana
+LightBlueTypewriter.name=§7Máquina de Escrever Azul Clara
+BlueTypewriter.name=§7Máquina de Escrever Azul
+PurpleTypewriter.name=§7Máquina de Escrever Roxa
+MagentaTypewriter.name=§7Máquina de Escrever Magenta
+PinkTypewriter.name=§7Máquina de Escrever Cor-de-rosa
+BrownTypewriter.name=§7Máquina de Escrever Castanha
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=§7Tens a certeza?
+gui.recipe.finalize=§7Ao clicar sim este livro não poderá ser editado permanentemente.
+gui.recipe.description=§7Adicionar uma descrição.
+
+swordpedestal.name=§7Pedestal para Espada
+swordpedestal.white=§7Guarnição Branca
+swordpedestal.orange=§7Guarnição Laranja
+swordpedestal.magenta=§7Guarnição Magenta
+swordpedestal.lightblue=§7Guarnição Azul Clara
+swordpedestal.yellow=§7Guarnição Amarela
+swordpedestal.lime=§7Guarnição Verde Lima
+swordpedestal.pink=§7Guarnição Cor-de-rosa
+swordpedestal.gray=§7Guarnição Cinzenta
+swordpedestal.lightgray=§7Guarnição Cinzenta Clara
+swordpedestal.cyan=§7Guarnição Azul Ciana
+swordpedestal.purple=§7Guarnição Roxa
+swordpedestal.blue=§7Guarnição Azul
+swordpedestal.brown=§7Guarnição Castanha
+swordpedestal.green=§7Guarnição Verde
+swordpedestal.red=§7Guarnição Vermelha
+swordpedestal.black=§7Guarnição Preta
+
+OakSign.name=§7Tabuleta Sofisticada de Carvalho
+SpruceSign.name=§7Tabuleta Sofisticada de Abeto
+BirchSign.name=§7Tabuleta Sofisticada de Bétula
+JungleSign.name=§7Tabuleta Sofisticada de Madeira da Selva
+AcaciaSign.name=§7Tabuleta Sofisticada de Acácia
+OldOakSign.name=§7Tabuleta Sofisticada de Carvalho Escuro
+
+OakWorkbench.name=§7Mesa de Trabalho Sofisticada de Carvalho
+SpruceWorkbench.name=§7Mesa de Trabalho Sofisticada de Abeto
+BirchWorkbench.name=§7Mesa de Trabalho Sofisticada de Bétula
+JungleWorkbench.name=§7Mesa de Trabalho Sofisticada de Madeira da Selva
+AcaciaWorkbench.name=§7Mesa de Trabalho Sofisticada de Acácia
+OldOakWorkbench.name=§7Mesa de Trabalho Sofisticada de Carvalho Escuro
+
+tile.BiblioBell.name=§7Campainha de Receção
+
+item.RecipeBook.name=§7Livro de Receita Vazio
+item.SlottedBook.name=§7Slotted Book
+item.BigBook.name=§7Livro de Escrita Grande
+item.HandDrill.name=§7Berbequim Manual
+
+book.bold=§7N
+book.italic=§7I
+book.underline=§7S
+book.strike=§7Rasurado
+book.obfuscated=§7O
+book.reset=§7Reset
+book.save=§7Guardar
+book.sign=§7Assinar
+book.entertitle=§7Introduzir o Título do Livro:
+book.by=§7por:
+book.signnotice=§7Nota Importante! Quando assinares o livro, não poderás voltar a editá-lo. Incluindo edição de texto, formatação, capítulos e páginas adicionais.
+book.textscale=§7Tamanho do Texto
+book.lineselected=§7Linha Selecionada
+book.cancel=§7Cancelar
+book.linenum=§7Linha# =
+book.title=§7Título
+book.description=§7Descrição
+book.ingredients=§7Ingredientes necessários:
+book.overwriterecipe=§7Substituir atual
+book.overwriterecipe2=§7livro de receitas.
+book.saverecipe=§7Guardar receita no
+book.saverecipe2=§7livro em branco.
+book.loadrecipe=§7Carregar componentes
+book.loadrecipe2=§7do inventário.
+book.areyousure=§7Tens a certeza?
+book.areyousure2=§7Ao clicar sim este livro não poderá ser editado permanentemente.
+book.setrecipename=§7Receita:
+gui.fancyworkbench=§7Mesa de Trabalho Sofisticada
+
+gui.sign.left=§7Esquerda
+gui.sign.center=§7Centro
+gui.sign.right=§7Direita
+
+gui.sign.black=§7Preto
+gui.sign.darkblue=§7Azul Escuro
+gui.sign.darkgreen=§7Verde Escuro
+gui.sign.darkaqua=§7Água Escuro
+gui.sign.darkred=§7Vermelho Escuro
+gui.sign.darkpurple=§7Roxo Escuro
+gui.sign.gold=§7Laranja
+gui.sign.gray=§7Cinzento
+gui.sign.darkgray=§7Cinzento Claro
+gui.sign.blue=§7Azul
+gui.sign.green=§7Verde
+gui.sign.aqua=§7Água
+gui.sign.red=§7Vermelho
+gui.sign.lightpurple=§7Roxo Claro
+gui.sign.yellow=§7Amarelo
+gui.sign.white=§7Branco
+
+gui.sign.tooltip1=§7Clicar numa caixa ou pressionar tab para selecionar um painel de edição. Tab alterna entre painéis.
+gui.sign.tooltip2=§7Clicar na caixa acima para selecionar as opções de edição do painel de slot 1. Editar tamanho, posição e rotação.
+gui.sign.tooltip3=§7Clicar na caixa acima para selecionar as opções de edição de texto. Editar escala e adicionar formatação estilo normal.
+gui.sign.tooltip4=§7Clicar na caixa acima para selecionar as opções de edição para o slot 2. Editar escala, posição e rotação.
+gui.sign.tooltip5=§7Ajustar tamanho do bloco.
+gui.sign.tooltip6=§7Ajustar a rotação do bloco. Os blocos podem se virar à esquerda, centro ou direita. Itens só podem se virar para a esquerda ou para a direita.
+gui.sign.tooltip7=§7Ajustar a posição do bloco. Também pode ser ajustada com as teclas de seta ou as teclas WASD.
+gui.sign.tooltip8=§7Introduzir um dos seguintes números / letras após o símbolo de formatação:
+gui.sign.tooltip9=§7Clicar no botão ou pressionar a tecla "alt" para adicionar um símbolo de formatação para a linha selecionada.
+
+gui.sign.bold=§7Negrito
+gui.sign.strikethrough=§7Rasurado
+gui.sign.underline=§7Sublinhado
+gui.sign.italic=§7Itálico
+
+gui.sign.scale=§7Tamanho do Texto
+gui.sign.format=§7Formato
+gui.sign.linenum=§7Linha#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=§7Título do Livro:
+gui.redbook.description.p1=§7O livro redstone é utilizado em combinação com a estante para emitir um sinal de redstone. Quando colocado na estante um sinal redstone será emitido a partir de todos os lados, excepto de frente. A intensidade do sinal é baseado na ranhura que o livro ocupa na estante.
+gui.redbook.description.p2=§7A estante tem 16 slots, slot 1 é o slot superior esquerdo e slot de 16 sendo o canto inferior direito. Se o livro de redstone é colocado no slot 1, a estante de livros não irá emitir nenhum sinal redstone. Se o livro de redstone é colocado no slot 2 da estante emitirá redstone com uma força de 1. Cada slot depois aumenta a força em 1, até ao slot 16, que emite uma força redstone de 15.
+
+
+AcaciaDesk.name=§7Escrivaninha de Acácia
+OldOakDesk.name=§7Escrivaninha de Carvalho Escuro
+AcaciaBookcase.name=§7Estante de Livros de Acácia
+OldOakBookcase.name=§7Estante de Livros de Carvalho Escuro
+AcaciaPotionShelf.name=§7Estante de Poções de Acácia
+OldOakPotionShelf.name=§7Estante de Poções de Carvalho Escuro
+AcaciaShelf.name=§7Prateleira de Acácia
+OldOakShelf.name=§7Prateleira de Carvalho Escuro
+AcaciaWeaponRack.name=§7Suporte de Ferramentas de Acácia
+OldOakWeaponRack.name=§7Suporte de Ferramentas de Carvalho Escuro
+AcaciaLabel.name=§7Mostrador de Acácia
+OldOakLabel.name=§7Mostrador de Carvalho Escuro
+AcaciaTable.name=§7Mesa de Acácia
+OldOakTable.name=§7Mesa de Carvalho Escuro
+AcaciaMapFrame.name=§7Moldura para Mapa de Acácia
+OldOakMapFrame.name=§7Moldura para Mapa de Carvalho Escuro
+AcaciaSeat.name=§7Banco de Acácia
+OldOakSeat.name=§7Banco de Carvalho Escuro
+OakCase.name=§7Vitrine de Carvalho
+SpruceCase.name=§7Vitrine de Abeto
+BirchCase.name=§7Vitrine de Abétula
+JungleCase.name=§7Vitrine de Madeira da Selva
+AcaciaCase.name=§7Vitrine de Acácia
+OldOakCase.name=§7Vitrine de Carvalho Escuro
+item.seatBack.AcaciaSeatBack.name=§7Encosto de Acácia
+item.seatBack.OldOakSeatBack.name=§7Encosto de Carvalho Escuro
+lighting.metalIron=§7Feito em Ferro
+lighting.metalGold=§7Feito em Ouro
+gui.typesetting.guiTitle=§7Mesa Tipográfica: Gestão do Livro
+gui.typesetting.pageOfpages=§7de
+gui.typesetting.public=§7Público
+gui.typesetting.private=§7Privado
+gui.typesetting.delete=§7apagar
+gui.typesetting.select=§7Selecionar
+gui.typesetting.nextPage=§7Próxima Página
+gui.typesetting.prevPage=§7Página Anterior
+gui.typesetting.exit=§7Sair
+gui.typesetting.enableDiscard=§7Descartar
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=§7Suporte de Armadura
+gui.bookcase=§7Estante de Livros
+gui.cookiejar=§7Frasco de Bolachas
+gui.shelf=§7Prateleira
+gui.label=§7Mostrador
+gui.potionshelf=§7Estante de Poções
+gui.table=§7Mesa
+gui.case=§7Vitrine
+gui.toolrack=§7Suporte de Ferramentas
+gui.desk=§7Escrivaninha
+gui.mapWaypoint.accept=§7Aceitar
+gui.mapWaypoint.remove=§7Remover
+gui.mapWaypoint.cancel=§7Cancelar
+gui.mapWaypoint.waypoint=§7Waypoint
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Prato
+gui.discRack=§7Suporte de Discos
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=§7Leitura
+redbook.by=§7por
+plate.notValid=§7Inválido
+typesetting.requires=§7Requer
+typesetting.levels=§7Níveis
+typesetting.chase=§7Placa(s)
+typesetting.bookSelect=§7Seleciona um Livro.
+print.ink=§7Tinta
+print.book=§7Livros
+screwgun.firstSeat=§7Primeiro Banco Selecionado.
+screwgun.secondSeat=§7Associar/Desassociar Bancos.
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Medida Norte/Sul =
+tape.measureeastwest=§7Medida Este/Oeste =
+tape.measureheight=§7Medida Altura =
+tape.nomeasure=§7Sem Medida.
+tape.measure=§7Medição =
+tape.startmeasure=§7A Iniciar Medição.
+tape.mode0=§7Alterar modo para Norte/Sul, Este/Oeste e altura.
+tape.mode1=§7Alterar modo para medida rigorosa.
+lock.creativeonly=§7Apenas Modo Criativo
+lock.notowner=§7Não és o dono deste bloco.
+lock.locked=§7Este bloco foi bloqueado.
+lock.unlocked=§7Este bloco foi desbloqueado.
+
+// Blocks
+CookieJar.name=§7Frasco de Bolachas
+MarkerPole.name=§7Marcador
+tile.BiblioType.name=§7Mesa Tipográfica
+tile.BiblioPress.name=§7Prensa de Impressão
+tile.BiblioArmorStand.name=§7Suporte de Armadura
+OakBookcase.name=§7Estante de Livros de Carvalho
+SpruceBookcase.name=§7Estante de Livros de Abeto
+BirchBookcase.name=§7Estante de Livros de Bétua
+JungleBookcase.name=§7Estante de Livros de Madeira da Selva
+OakPotionShelf.name=§7Estante de Poções de Carvalho
+SprucePotionShelf.name=§7Estante de Poções de Abeto
+BirchPotionShelf.name=§7Estante de Poções de Bétula
+JunglePotionShelf.name=§7Estante de Poções de Madeira da Selva
+OakShelf.name=§7Prateleira de Carvalho
+SpruceShelf.name=§7Prateleira de Abeto
+BirchShelf.name=§7Prateleira de Bétula
+JungleShelf.name=§7Prateleira de Madeira da Selva
+OakWeaponRack.name=§7Suporte de Ferramentas de Carvalho
+SpruceWeaponRack.name=§7Suporte de Ferramentas de Abeto
+BirchWeaponRack.name=§7Suporte de Ferramentas de Bétula
+JungleWeaponRack.name=§7Suporte de Ferramentas de Madeira da Selva
+OakLabel.name=§7Mostrador de Carvalho
+SpruceLabel.name=§7Mostrador de Abeto
+BirchLabel.name=§7Mostrador de Bétula
+JungleLabel.name=§7Mostrador de Madeira da Selva
+OakWritingDesk.name=§7Escrivaninha de Carvalho
+SpruceWritingDesk.name=§7Escrivaninha de Abeto
+BirchWritingDesk.name=§7Escrivaninha de Bétula
+JungleWritingDesk.name=§7Escrivaninha de Madeira da Selva
+OakTable.name=§7Mesa de Carvalho
+SpruceTable.name=§7Mesa de Abeto
+BirchTable.name=§7Mesa de Bétula
+JungleTable.name=§7Mesa de Madeira da Selva
+DiscRack.name=§7Suporte de Discos
+DinnerPlate.name=§7Prato
+OakMapFrame.name=§7Moldura para Mapa de Carvalho
+SpruceMapFrame.name=§7Moldura para Mapa de Abeto
+BirchMapFrame.name=§7Moldura para Mapa de Bétula
+JungleMapFrame.name=§7Moldura para Mapa de Madeira da Selva
+OakSeat.name=§7Banco de Carvalho
+SpruceSeat.name=§7Banco de Abeto
+BirchSeat.name=§7Banco de Bétula
+JungleSeat.name=§7Banco de Madeira da Selva
+
+//lights
+whiteLantern.name=§7Lanterna Dourada
+lightGrayLantern.name=§7Lanterna Dourada
+grayLantern.name=§7Lanterna Dourada
+blackLantern.name=§7Lanterna Dourada
+redLantern.name=§7Lanterna Dourada
+orangeLantern.name=§7Lanterna Dourada
+yellowLantern.name=§7Lanterna Dourada
+limeLantern.name=§7Lanterna Dourada
+greenLantern.name=§7Lanterna Dourada
+cyanLantern.name=§7Lanterna Dourada
+lightBlueLantern.name=§7Lanterna Dourada
+blueLantern.name=§7Lanterna Dourada
+purpleLantern.name=§7Lanterna Dourada
+magentaLantern.name=§7Lanterna Dourada
+pinkLantern.name=§7Lanterna Dourada
+brownLantern.name=§7Lanterna Dourada
+
+whiteLamp.name=§7Candeeiro Dourado
+lightGrayLamp.name=§7Candeeiro Dourado
+grayLamp.name=§7Candeeiro Dourado
+blackLamp.name=§7Candeeiro Dourado
+redLamp.name=§7Candeeiro Dourado
+orangeLamp.name=§7Candeeiro Dourado
+yellowLamp.name=§7Candeeiro Dourado
+limeLamp.name=§7Candeeiro Dourado
+greenLamp.name=§7Candeeiro Dourado
+cyanLamp.name=§7Candeeiro Dourado
+lightBlueLamp.name=§7Candeeiro Dourado
+blueLamp.name=§7Candeeiro Dourado
+purpleLamp.name=§7Candeeiro Dourado
+magentaLamp.name=§7Candeeiro Dourado
+pinkLamp.name=§7Candeeiro Dourado
+brownLamp.name=§7Candeeiro Dourado
+
+lamp.hood0=§7Capa de Lâmpada Branca
+lamp.hood1=§7Capa de Lâmpada Cinzenta Clara
+lamp.hood2=§7Capa de Lâmpada Cinzenta
+lamp.hood3=§7Capa de Lâmpada Preta
+lamp.hood4=§7Capa de Lâmpada Vermelha
+lamp.hood5=§7Capa de Lâmpada Laranja
+lamp.hood6=§7Capa de Lâmpada Amarela
+lamp.hood7=§7Capa de Lâmpada Verde Lima
+lamp.hood8=§7Capa de Lâmpada Verde
+lamp.hood9=§7Capa de Lâmpada Azul Ciana
+lamp.hood10=§7Capa de Lâmpada Azul Clara
+lamp.hood11=§7Capa de Lâmpada Azul
+lamp.hood12=§7Capa de Lâmpada Roxa
+lamp.hood13=§7Capa de Lâmpada Magenta
+lamp.hood14=§7Capa de Lâmpada Cor-de-rosa
+lamp.hood15=§7Capa de Lâmpada Castanha
+
+lantern.candle0=§7Vela Branca
+lantern.candle1=§7Vela Cinzenta Clara
+lantern.candle2=§7Vela Cinzenta
+lantern.candle3=§7Vela Preta
+lantern.candle4=§7Vela Vermelha
+lantern.candle5=§7Vela Laranja
+lantern.candle6=§7Vela Amarela
+lantern.candle7=§7Vela Verde Lima
+lantern.candle8=§7Vela Verde
+lantern.candle9=§7Vela Azul Ciana
+lantern.candle10=§7Vela Azul Clara
+lantern.candle11=§7Vela Azul
+lantern.candle12=§7Vela Roxa
+lantern.candle13=§7Vela Magenta
+lantern.candle14=§7Vela Rosa
+lantern.candle15=§7Vela Castanha
+
+// Items
+item.tapeMeasure.name=§7Fita Métrica
+item.tape.name=§7Rolo de Fita Métrica
+item.BiblioChase.name=§7Chapa de Prensa de Impressão
+item.PrintPlate.name=§7Placa de Prensa de Impressão
+item.EnchantedPlate.name=§7Placa Encantada
+item.BiblioRedBook.name=§7Redstone: Volume I
+item.BiblioGlasses.readingglasses.name=§7Óculos de Leitura
+item.BiblioGlasses.tintedglasses.name=§7Óculos escuros
+item.BiblioGlasses.monocle.name=§7Monóculo
+item.BiblioDrill.name=§7Aparafusadora
+item.BiblioCreativeLock.name=§7Cadeado e Chave
+item.BiblioClipboard.name=§7Prancheta
+item.seatBack.OakSeatBack.name=§7Encosto de Carvalho
+item.seatBack.SpruceSeatBack.name=§7Encosto de Abeto
+item.seatBack.BirchSeatBack.name=§7Encosto de Bétula
+item.seatBack.JungleSeatBack.name=§7Encosto de Madeira da Selva
+item.BiblioWayPointCompass.name=§7Bússola de Waypoint
+item.BiblioMapTool.name=§7Ponteiros de Bússola

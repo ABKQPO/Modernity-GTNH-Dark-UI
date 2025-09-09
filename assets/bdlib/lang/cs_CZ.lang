@@ -1,0 +1,19 @@
+bdlib.multiblock.face.north=§7Sever
+bdlib.multiblock.face.south=§7Jih
+bdlib.multiblock.face.east=§7Západ
+bdlib.multiblock.face.west=§7Východ
+bdlib.multiblock.face.up=§7Vršek
+bdlib.multiblock.face.down=§7Spodek
+
+bdlib.multiblock.disabled=§7Zakázáno
+bdlib.multiblock.incomplete=§7Tento stroj není kompletní, ještě potřebuje alespoň:
+bdlib.multiblock.notconnected=§7Nepřipojeno ke správnému stroji
+bdlib.multiblock.toomanyoutputs=§7Připojeno příliš mnoho výstupů, nemohu získat nové připojení
+
+bdlib.rsmode.always=§7Vždy ZAPNUTO
+bdlib.rsmode.never=§7Zakázáno
+bdlib.rsmode.rs_on=§7Povoleno při ruditovém signálu
+bdlib.rsmode.rs_off=§7Zakázáno při ruditovém signálu
+
+bdlib.label.empty=§7Prázdný
+

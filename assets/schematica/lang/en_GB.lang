@@ -1,0 +1,92 @@
+# gui - general
+schematica.gui.openFolder=§7Open schematic folder
+schematica.gui.done=§7Done
+schematica.gui.title=§7Select schematic file
+schematica.gui.folderInfo=§7(Place schematic files here)
+schematica.gui.noschematic=§7-- No schematic --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Hide
+schematica.gui.all=§7ALL
+schematica.gui.show=§7Show
+schematica.gui.movehere=§7Move here
+schematica.gui.flip=§7Flip
+schematica.gui.rotate=§7Rotate
+schematica.gui.save=§7Save
+schematica.gui.moveschematic=§7Move schematic
+schematica.gui.layers=§7Layers
+schematica.gui.operations=§7Operations
+schematica.gui.point.red=§7Red point
+schematica.gui.point.blue=§7Blue point
+schematica.gui.saveselection=§7Save the selection as a schematic
+schematica.gui.on=§7ON
+schematica.gui.off=§7OFF
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Materials
+schematica.gui.materialname=§7Material
+schematica.gui.materialamount=§7Amount
+schematica.gui.printer=§7Printer
+
+# gui - config - categories
+schematica.config.category.render=§7Rendering
+schematica.config.category.render.tooltip=§7Render related settings.
+schematica.config.category.printer=§7Printer
+schematica.config.category.printer.tooltip=§7Printer related settings.
+schematica.config.category.general=§7General
+schematica.config.category.general.tooltip=§7General settings.
+
+# gui - config - debug
+
+# gui - config - render
+schematica.config.alphaEnabled=§7Alpha Enabled
+schematica.config.alphaEnabled.tooltip=§7Enable transparent textures.
+schematica.config.alpha=§7Alpha
+schematica.config.alpha.tooltip=§7Alpha value used when rendering the schematic (1.0 = opaque, 0.5 = half transparent, 0.0 = transparent).
+schematica.config.highlight=§7Highlight Blocks
+schematica.config.highlight.tooltip=§7Highlight invalid placed blocks and to be placed blocks.
+schematica.config.highlightAir=§7Highlight Air
+schematica.config.highlightAir.tooltip=§7Highlight blocks that should be air.
+schematica.config.blockDelta=§7Block Delta
+schematica.config.blockDelta.tooltip=§7Delta value used for highlighting (if you experience z-fighting increase this).
+schematica.config.drawQuads=§7Draw Quads
+schematica.config.drawQuads.tooltip=§7Draw surface areas.
+schematica.config.drawLines=§7Draw Lines
+schematica.config.drawLines.tooltip=§7Draw outlines.
+
+# gui - config - printer
+schematica.config.placeDelay=§7Placement Delay
+schematica.config.placeDelay.tooltip=§7Delay between placement attempts (in ticks).
+schematica.config.timeout=§7Timeout
+schematica.config.timeout.tooltip=§7Timeout before re-trying failed blocks.
+schematica.config.placeInstantly=§7Place Instantly
+schematica.config.placeInstantly.tooltip=§7Place all blocks that can be placed in one tick.
+schematica.config.destroyBlocks=§7Destroy Blocks
+schematica.config.destroyBlocks.tooltip=§7The printer will destroy blocks (creative mode only).
+schematica.config.destroyInstantly=§7Destroy Instantly
+schematica.config.destroyInstantly.tooltip=§7Destroy all blocks that can be destroyed in one tick.
+schematica.config.placeAdjacent=§7Place Only Adjacent
+schematica.config.placeAdjacent.tooltip=§7Place blocks only if there is an adjacent block next to them.
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+schematica.config.schematicDirectory=§7Schematic Directory
+schematica.config.schematicDirectory.tooltip=§7Schematic directory.
+
+# gui - config - server
+
+# keys
+schematica.key.category=§7Schematica
+schematica.key.load=§7Load schematic
+schematica.key.save=§7Save schematic
+schematica.key.control=§7Manipulate schematic
+
+# commands - save
+
+# commands - list
+
+# commands - remove
+
+# commands - download

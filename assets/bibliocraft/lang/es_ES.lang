@@ -1,0 +1,559 @@
+# Traducción por mojares / Translated by mojares
+language.name=§7Spanish
+language.region=§7ES
+language.code=§7es_ES
+
+// Tab Names
+itemGroup.BiblioCraft=§7BiblioCraft
+itemGroup.BiblioCraftLights=§7Iluminación BiblioCraft
+item.paneler.panels=§7Paneles:
+
+gui.clock.pulse=§7Pulso
+gui.clock.solid=§7Sólido
+
+jds.tileentityarmorstand=§7Soporte de armaduras
+jds.tileentitybookcase=§7Librería
+jds.teclipboard=§7Portapapeles
+jds.tileentitycookiejar=§7Tarro de galletas
+jds.tileentitywoodlabel=§7Letrero
+jds.tileentitygenericshelf=§7Estantería
+jds.tileentitymapframe=§7Marco para mapas
+jds.tefurnituretile=§7Paneladora de muebles
+jds.tileentityfancyworkbench=§7Mesa de trabajo elegante
+jds.tileentityfancysign=§7Signo elegante
+jds.tileentitydiscrack=§7Guarda-discos
+jds.tileentitydinnerplate=§7Plato
+jds.tileentitypotionshelf=§7Estantería de pociones
+jds.tileentitywritingdesk=§7Escritorio
+jds.tileentityweaponcase=§7Caja-vitrina
+jds.tileentitytoolrack=§7Estante de herramientas
+jds.tileentitytypewriter=§7Máquina de escribir
+jds.tileentitytypemachine=§7Mesa tipográfica
+jds.tileentitytable=§7Mesa
+jds.tileentityswordpedestal=§7Soporte de espadas
+jds.tileentityseat=§7Asiento
+jds.tileentityprintpress=§7Prensa tipográfica
+jds.tileentitypaintpress=§7Prensa estampadora
+jds.tileentitypainting=§7Pintura
+
+// BiblioCraft 1.10 additions
+item.plumbline.depth=§7profundidad
+item.PlumbLine.name=§7Plomada
+item.FramingSaw.name=§7Sierra de marcos
+item.FramingBoard.name=§7Tablero para enmarcar
+item.FramingSheet.name=§7Panel para enmarcar
+
+OakPaneler.name=§7Paneladora de muebles de roble
+SprucePaneler.name=§7Paneladora de muebles de abeto
+BirchPaneler.name=§7Paneladora de muebles de abedul
+JunglePaneler.name=§7Paneladora de muebles de jungla
+AcaciaPaneler.name=§7Paneladora de muebles de acacia
+OldOakPaneler.name=§7Paneladora de muebles de roble oscuro
+FramedPaneler.name=§7Paneladora de muebles enmarcada
+
+FramedClock.name=§7Reloj enmarcado
+FrameBookcase.name=§7Librería enmarcada
+FramedWorkbench.name=§7Mesa de trabajo elegante enmarcada
+FramedSign.name=§7Signo elegante enmarcado
+FramedShelf.name=§7Estantería enmarcada
+FramedPotionShelf.name=§7Estantería de pociones enmarcada
+FramedLabel.name=§7Letrero enmarcado
+FramedMapFrame.name=§7Marco de mapas enmarcado
+FramedPaintingFrame.name=§7Marco enmarcado
+FramedDesk.name=§7Escritorio enmarcado
+FramedWeaponRack.name=§7Estante de herramientas enmarcado
+FramedCase.name=§7Caja-vitrina enmarcada
+FramedTable.name=§7Mesa enmarcada
+FramedSeat.name=§7Asiento enmarcado
+item.seatBack.FramedSeatBack.name=§7Respaldo enmarcado
+
+gui.painting.showFrame=§7Mostrar marco
+gui.painting.hideFrame=§7Esconder marco
+
+screwgun.selected.desk1=§7Primer escritorio seleccionado.
+screwgun.selected.desk2=§7Intentando unir/desunir escritorio.
+
+// BiblioCraft 1.9 additions
+item.AtlasBook.name=§7Atlas
+item.AtlasPlate.name=§7Plancha de Atlas
+item.DeathCompass.name=§7Brújula eterna
+enchant.deathcompass=§7Brújula eterna
+gui.atlas.zoom=§7Nivel de zoom
+gui.atlas.center=§7Autocentrado
+gui.atlas.create=§7Autocrear
+gui.atlas.mapXcenter=§7Centro X del mapa:
+gui.atlas.mapZcenter=§7Centro Z del mapa:
+gui.atlas.mapZoom=§7nivel de zoom del mapa:
+gui.atlas.yes=§7Si
+gui.atlas.no=§7No
+gui.atlas.atlas=§7El Atlas
+
+gui.atlas.select.tt1=§7Modo de selección de marcadores
+gui.atlas.select.tt2=§7Mueve el ratón sobre un marcador
+gui.atlas.select.tt3=§7y haz clic izquierdo sobre
+gui.atlas.select.tt4=§7ese marcador.
+gui.atlas.select.tt5=§7Pesiona Ctrl y mueve el ratón sobre el mapa
+gui.atlas.select.tt6=§7para ver las coordenadas del mundo real.
+gui.atlas.select.tt7=§7Haz clic izquierdo mientras presionas Ctrl
+gui.atlas.select.tt8=§7para seleccionar cualquier punto del mapa.
+
+gui.atlas.edit.tt1=§7Modo de editar marcadores
+gui.atlas.edit.tt2=§7Haz clic en un marcador para editar
+gui.atlas.edit.tt3=§7el nombre y el color de la marca
+gui.atlas.edit.tt4=§7o borrar la marca seleccionada.
+gui.atlas.edit.tt5=§7Para borrar rápido un marcador,
+gui.atlas.edit.tt6=§7presiona shift y haz clic en el marcador.
+
+gui.atlas.add.tt1=§7Modo de adición de marcadores
+gui.atlas.add.tt2=§7Haz clic en cualquier sitio del mapa
+gui.atlas.add.tt3=§7para añadir un marcador.
+gui.atlas.add.tt4=§7Un cuadro de dialogo aparecerá
+gui.atlas.add.tt5=§7pidiendo el nombre y el color.
+gui.atlas.add.tt6=§7Presiona shift y haz clic en el mapa
+gui.atlas.add.tt7=§7para colocar una nueva marca con un
+gui.atlas.add.tt8=§7color y nombre aleatorio.
+
+gui.atlas.switchtoinv=§7Cambia a la vista de inventario.
+gui.atlas.switchtoatlas=§7Cambia a la vista de mapa.
+
+gui.atlas.autocenter.tt1=§7Si está activado,el atlas
+gui.atlas.autocenter.tt2=§7buscará en el inventario un
+gui.atlas.autocenter.tt3=§7mapa válido que muestre tu
+gui.atlas.autocenter.tt4=§7posición usando el nivel
+gui.atlas.autocenter.tt5=§7de zoom seleccionado.
+
+gui.atlas.autocreate.tt1=§7Si está activado, crea un
+gui.atlas.autocreate.tt2=§7mapa usando un mapa en blanco
+gui.atlas.autocreate.tt3=§7de tu inventario. Si el autocentrado
+gui.atlas.autocreate.tt4=§7falla en encontrar un mapa apropiado,
+gui.atlas.autocreate.tt5=§7un nuevo mapa se crea en base al
+gui.atlas.autocreate.tt6=§7último mapa cargado en al
+gui.atlas.autocreate.tt7=§7nivel de zoom seleccionado.
+
+gui.atlas.autocreate.tt8=§7El autocentrado debe estar
+gui.atlas.autocreate.tt9=§7activo para que funcione.
+
+gui.atlas.transfer=§7Transferir marcadores
+gui.atlas.transfer.cancel=§7Cancelar
+gui.atlas.transfer.from=§7Desde el atlas al marco de mapa
+gui.atlas.transfer.to=§7Desde el marco de mapa al atlas
+
+gui.compass.currentlocation=§7Pos. actual
+
+gui.paintpress.page=§7Página
+gui.paintpress.of=§7de
+
+item.TesterItem.name=§7UtensilioPila Nombre Probador
+gui.testeritem.name=§7UtensilioPila Nombre Probador
+gui.testeritem.display=§7Mostrar nombre:
+gui.testeritem.unlocal=§7Nombre no localizado:
+// end of 1.9 additions
+
+// All BiblioCraft 1.8 additions and changes //
+gui.clock.chimesound=§7Sonido de carrillón
+gui.clock.ticksound=§7Tic-Tac
+gui.clock.redstone=§7Redstone
+gui.clock.chime=§7Carrilón
+gui.clock.presets=§7Predefindos
+
+screwgun.selected.painting1=§7Primera pintura seleccionada
+screwgun.selected.painting2=§7Segunda pintura seleccionada
+screwgun.selected.clock1=§7Primer reloj seleccionado
+screwgun.selected.clock2=§7Segundo reloj seleccionado
+drill.failed=§7Ha fallado la conexión
+
+item.PaintingCanvas.name=§7Lienzo
+tile.BiblioPaintPress.name=§7Prensa estampadora
+
+gui.paintpress.transfer=§7Transferencia
+gui.paintpress.vanilla=§7Vanilla
+gui.paintpress.custom=§7A medida
+
+gui.painting.scale=§7Escala
+gui.painting.resolution=§7Resolución
+gui.painting.aspectRatio=§7Relación de aspecto
+gui.painting.size=§7Tamaño de pintura
+gui.painting.rotation=§7Rotación
+gui.painting.corner=§7Esquina maestra
+
+OakPaintingFrame.name=§7Marco de roble
+SprucePaintingFrame.name=§7Marco de abeto
+BirchPaintingFrame.name=§7Marco de abedul
+JunglePaintingFrame.name=§7Marco de jungla
+AcaciaPaintingFrame.name=§7Marco de acacia
+OldOakPaintingFrame.name=§7Marco de roble oscuro
+
+paintingFrame.0tier=§7Sin borde
+paintingFrame.1tier=§7Borde sencillo
+paintingFrame.2tier=§7Borde doble
+paintingFrame.3tier=§7Borde triple
+paintingFrame.4tier=§7Borde cuádruple
+
+OakClock.name=§7Reloj de roble
+SpruceClock.name=§7Reloj de abeto
+BirchClock.name=§7Reloj de abedul
+JungleClock.name=§7Reloj de jungla
+AcaciaClock.name=§7Reloj de acacia
+OldOakClock.name=§7Reloj de roble oscuro
+
+WhiteTypewriter.name=§7Máquina de escribir blanca
+LightGrayTypewriter.name=§7Máquina de escribir gris claro
+GrayTypewriter.name=§7Máquina de escribir gris
+BlackTypewriter.name=§7Máquina de escribir negra
+RedTypewriter.name=§7Máquina de escribir roja
+OrangeTypewriter.name=§7Máquina de escribir naranja
+YellowTypewriter.name=§7Máquina de escribir amarilla
+LimeTypewriter.name=§7Máquina de escribir lima
+GreenTypewriter.name=§7Máquina de escribir verde
+CyanTypewriter.name=§7Máquina de escribir cian
+LightBlueTypewriter.name=§7Máquina de escribir azul claro
+BlueTypewriter.name=§7Máquina de escribir azul
+PurpleTypewriter.name=§7Máquina de escribir púrpura
+MagentaTypewriter.name=§7Máquina de escribir magenta
+PinkTypewriter.name=§7Máquina de escribir rosa
+BrownTypewriter.name=§7Máquina de escribir marrón
+
+// End of 1.8 additions and changes // 
+
+
+// All BiblioCraft 1.7 additions and changes///
+gui.recipe.areyousure=§7¿Estás seguro?
+gui.recipe.finalize=§7Haciendo clic en "si", impedirá volver a editar este libro.
+gui.recipe.description=§7Añade una descripción.
+
+swordpedestal.name=§7Soporte de espadas
+swordpedestal.white=§7Ribete blanco
+swordpedestal.orange=§7Ribete naranja
+swordpedestal.magenta=§7Ribete magenta
+swordpedestal.lightblue=§7Ribete azul claro
+swordpedestal.yellow=§7Ribete amarillo
+swordpedestal.lime=§7Ribete lima
+swordpedestal.pink=§7Ribete rosa
+swordpedestal.gray=§7Ribete gris
+swordpedestal.lightgray=§7Ribete gris claro
+swordpedestal.cyan=§7Ribete cian
+swordpedestal.purple=§7Ribete púrpura
+swordpedestal.blue=§7Ribete azul
+swordpedestal.brown=§7Ribete marrón
+swordpedestal.green=§7Ribete verde
+swordpedestal.red=§7Ribete rojo
+swordpedestal.black=§7Ribete negro
+
+OakSign.name=§7Señal elegante de roble
+SpruceSign.name=§7Señal elegante de abeto
+BirchSign.name=§7Señal elegante de abedul
+JungleSign.name=§7Señal elegante de jungla
+AcaciaSign.name=§7Señal elegante de acacia
+OldOakSign.name=§7Señal elegante de roble oscuro
+
+OakWorkbench.name=§7Banco de trabajo elegante de roble
+SpruceWorkbench.name=§7Banco de trabajo elegante de abeto
+BirchWorkbench.name=§7Banco de trabajo elegante de abedul
+JungleWorkbench.name=§7Banco de trabajo elegante de jungla
+AcaciaWorkbench.name=§7Banco de trabajo elegante de acacia
+OldOakWorkbench.name=§7Banco de trabajo elegante de roble oscuro
+
+tile.BiblioBell.name=§7Campanilla de mesa
+
+item.RecipeBook.name=§7Libro de recetas vacío
+item.SlottedBook.name=§7Libro clasificador
+item.BigBook.name=§7Gran libro de escritura
+item.HandDrill.name=§7Taladro de mano
+
+book.bold=§7B
+book.italic=§7I
+book.underline=§7U
+book.strike=§7Tachado
+book.obfuscated=§7O
+book.reset=§7Reestablecer
+book.save=§7Guardar
+book.sign=§7Firma
+book.entertitle=§7Introduzca título de libro:
+book.by=§7por
+book.signnotice=§7¡Nota importante! Cuando firmes el libro, ya no se podrá editar. Incluyendo edicción de texto, cambiar formato, capítulo o añadir más páginas.
+book.textscale=§7Tamaño de letra
+book.lineselected=§7Linea seleccionada
+book.cancel=§7Cancelar
+book.linenum=§7Linea# =
+book.title=§7Título
+book.description=§7Descripción
+book.ingredients=§7Ingredientes requeridos:
+book.overwriterecipe=§7Sobreescribir el actual
+book.overwriterecipe2=§7Libro de recetas.
+book.saverecipe=§7Guardar receta
+book.saverecipe2=§7Libro en blanco.
+book.loadrecipe=§7Cargar componentes
+book.loadrecipe2=§7del inventario.
+book.areyousure=§7¿Estas seguro?
+book.areyousure2=§7Haciendo clic en "si" impedirá que este libro vuelva a ser editado.
+book.setrecipename=§7Receta:
+gui.fancyworkbench=§7Banco de trabajo elegante
+
+gui.sign.left=§7Izquierda
+gui.sign.center=§7Centro
+gui.sign.right=§7Derecha
+
+gui.sign.black=§7Negro
+gui.sign.darkblue=§7Azul oscuro
+gui.sign.darkgreen=§7Verde oscuro
+gui.sign.darkaqua=§7Agua oscuro
+gui.sign.darkred=§7Rojo oscuro
+gui.sign.darkpurple=§7Púrpura oscuro
+gui.sign.gold=§7Oro
+gui.sign.gray=§7Gris
+gui.sign.darkgray=§7Gris oscuro
+gui.sign.blue=§7Azul
+gui.sign.green=§7Verde
+gui.sign.aqua=§7Agua
+gui.sign.red=§7Rojo
+gui.sign.lightpurple=§7Púrpura claro
+gui.sign.yellow=§7Amarillo
+gui.sign.white=§7Blanco
+
+gui.sign.tooltip1=§7Haz clic en una caja o presiona tabulador para selecciona un panel de edición. Con el tabulador cambiarás entre paneles.
+gui.sign.tooltip2=§7Haz clic en la caja superior para seleccionar la ranura 1 del panel de las opciones de edición. Modifica tamaño, posición y rotación.
+gui.sign.tooltip3=§7Haz clic en la caja superior para seleccionar las opciones de edición de texto. Edita tamaño y añade estilo de formato de la versión vanilla
+gui.sign.tooltip4=§7Haz clic en la caja superior para seleccionar la ranura 2 del panel de las opciones de edición. Modifica tamaño, posición y rotación.
+gui.sign.tooltip5=§7Ajusta el tamaño del bloque.
+gui.sign.tooltip6=§7Ajusta la rotación del bloque. Los bloques pueden mirar hacia la izquierda, centro o derecha. Los utensilios pueden solo mirar hacia izquierda o derecha.
+gui.sign.tooltip7=§7Ajusta la posición del bloque. La posición puede ser también ajustada con las flechas del teclado o las teclas WASD.
+gui.sign.tooltip8=§7Inserta uno de los siguientes números/ letras después de el símbolo de formato:
+gui.sign.tooltip9=§7Haz clic en el botón o presiona Alt para añadir un símbolo de formato en la línea seleccionada.
+
+gui.sign.bold=§7Negrita
+gui.sign.strikethrough=§7Tachado
+gui.sign.underline=§7Subrayado
+gui.sign.italic=§7Itálica
+
+gui.sign.scale=§7Tamaño de texto
+gui.sign.format=§7Format
+gui.sign.linenum=§7Linea#
+
+
+// All BiblioCraft 1.6 additions and changes/////////////////////
+gui.redbook.title=§7Título del libro:
+gui.redbook.description.p1=§7El libro de redstone es usado en combinación con la librería para emitir una señal de redstone. Cuando se coloque en la librería una señal de redstone se emitirá por todos los lados excepto el frontal. La fuerza de la señal depende de en cual de las ranuras se ha colocado el libro.
+gui.redbook.description.p2=§7La librería tiene 16 ranuras, la ranura 1 es la de arriba a la izquierda y la 16 es la de bajo a la derecha. Si el libro de redstone se coloca en la ranura 1, la librería no emitirá señal de redstone. Si el libro de redstone se coloca en la ranura 2, la librería emitirá una señal de fuerza 1. Cada ranura tras esta incrementará la señal en 1, hasta la ranura 16 que emitirá una señal de fuerza 15.
+
+AcaciaDesk.name=§7Escritorio de acacia
+OldOakDesk.name=§7Escritorio de roble oscuro
+AcaciaBookcase.name=§7Librería de acacia
+OldOakBookcase.name=§7Librería de roble oscuro
+AcaciaPotionShelf.name=§7Estantería de pociones de acacia
+OldOakPotionShelf.name=§7Estantería de pociones de roble oscuro
+AcaciaShelf.name=§7Estantería de acacia
+OldOakShelf.name=§7Estantería de roble oscuro
+AcaciaWeaponRack.name=§7Estante de herramientas de acacia
+OldOakWeaponRack.name=§7Estante de herramientas de roble oscuro
+AcaciaLabel.name=§7Letrero de acacia
+OldOakLabel.name=§7Letrero de roble oscuro
+AcaciaTable.name=§7Mesa de acacia
+OldOakTable.name=§7Mesa de roble oscuro
+AcaciaMapFrame.name=§7Marco de mapa de acacia
+OldOakMapFrame.name=§7Marco de mapa de roble oscuro
+AcaciaSeat.name=§7Asiento de acacia
+OldOakSeat.name=§7Asiento de roble oscuro
+OakCase.name=§7Caja de roble
+SpruceCase.name=§7Caja de abeto
+BirchCase.name=§7Caja de abedul
+JungleCase.name=§7Caja de jungla
+AcaciaCase.name=§7Caja de acacia
+OldOakCase.name=§7Caja de roble oscuro
+item.seatBack.AcaciaSeatBack.name=§7Respaldo de acacia
+item.seatBack.OldOakSeatBack.name=§7Respaldo de roble oscuro
+lighting.metalIron=§7Hecho de hierro
+lighting.metalGold=§7Hecho de oro
+gui.typesetting.guiTitle=§7Mesa tipográfica: Administración de libros
+gui.typesetting.pageOfpages=§7de
+gui.typesetting.public=§7Público
+gui.typesetting.private=§7Privado
+gui.typesetting.delete=§7Borrar
+gui.typesetting.select=§7Seleccionar
+gui.typesetting.nextPage=§7Página siguiente
+gui.typesetting.prevPage=§7Página anterior
+gui.typesetting.exit=§7Salida
+gui.typesetting.enableDiscard=§7Descartar
+// End of 1.6 additions ////////////////////////////
+
+
+
+// Gui stuff
+gui.armorstand=§7Soporte de armaduras
+gui.bookcase=§7Librería
+gui.cookiejar=§7Tarro de galletas
+gui.shelf=§7Estantería de madera
+gui.label=§7Letrero de madera
+gui.potionshelf=§7Estantería de pociones
+gui.table=§7Mesa de madera
+gui.case=§7Caja-vitrina
+gui.toolrack=§7Estante de herramientas
+gui.desk=§7Escritorio de madera
+gui.mapWaypoint.accept=§7Aceptar
+gui.mapWaypoint.remove=§7Borrar
+gui.mapWaypoint.cancel=§7Cancelar
+gui.mapWaypoint.waypoint=§7Marcador
+gui.compass.x=§7X:
+gui.compass.z=§7Z:
+gui.dinnerPlate=§7Plato
+gui.discRack=§7Guarda-discos
+
+// In game messages, reading glasses stuff and other stuff
+enchant.reading=§7Leyendo
+redbook.by=§7por
+plate.notValid=§7Inválido
+typesetting.requires=§7Necesita
+typesetting.levels=§7Niveles
+typesetting.chase=§7Marcos
+typesetting.bookSelect=§7Selecciona un libro.
+print.ink=§7Tinta
+print.book=§7Libros
+screwgun.firstSeat=§7Primer asiento seleccionado.
+screwgun.secondSeat=§7Intentando unir/desunir asientos.
+
+//Tape Measure Texts
+tape.measurenorthsouth=§7Medida Note/Sur =
+tape.measureeastwest=§7Medida Este/Oeste =
+tape.measureheight=§7Medida de la altura =
+tape.nomeasure=§7Sin medida.
+tape.measure=§7Medida =
+tape.startmeasure=§7Empezando medida:
+tape.mode0=§7Cambiando modo a Norte/Sur, Este/Oeste, y altura.
+tape.mode1=§7Cambiando modo a medidas absolutas.
+lock.creativeonly=§7Solo modo creativo.
+lock.notowner=§7No eres el dueño de este bloque.
+lock.locked=§7Este bloque ha sido bloqueado.
+lock.unlocked=§7Este bloque ha sido desbloqueado.
+
+// Blocks
+CookieJar.name=§7Tarro de galletas
+MarkerPole.name=§7Marcador
+tile.BiblioType.name=§7Mesa tipográfica
+tile.BiblioPress.name=§7Prensa tipográfica
+tile.BiblioArmorStand.name=§7Soporte para armaduras
+OakBookcase.name=§7Librería de roble
+SpruceBookcase.name=§7Librería de abeto
+BirchBookcase.name=§7Librería de abedul
+JungleBookcase.name=§7Librería de jungla
+OakPotionShelf.name=§7Estantería de pociones de roble
+SprucePotionShelf.name=§7Estantería de pociones de abeto
+BirchPotionShelf.name=§7Estantería de pociones de abedul
+JunglePotionShelf.name=§7Estantería de pociones de jungla
+OakShelf.name=§7Estantería de roble
+SpruceShelf.name=§7Estantería de abeto
+BirchShelf.name=§7Estantería de abedul
+JungleShelf.name=§7Estantería de jungla
+OakWeaponRack.name=§7Estante de herramientas de roble
+SpruceWeaponRack.name=§7Estante de herramientas de abeto
+BirchWeaponRack.name=§7Estante de herramientas de abedul
+JungleWeaponRack.name=§7Estante de herramientas de jungla
+OakLabel.name=§7Letrero de madera de roble
+SpruceLabel.name=§7Letrero de madera de abeto
+BirchLabel.name=§7Letrero de madera de abedul
+JungleLabel.name=§7Letrero de madera de jungla
+OakWritingDesk.name=§7Escritorio de roble
+SpruceWritingDesk.name=§7Escritorio de abeto
+BirchWritingDesk.name=§7Escritorio de abedul
+JungleWritingDesk.name=§7Escritorio de jungla
+OakTable.name=§7Mesa de roble
+SpruceTable.name=§7Mesa de abeto
+BirchTable.name=§7Mesa de abedul
+JungleTable.name=§7Mesa de jungla
+DiscRack.name=§7Guarda-discos
+DinnerPlate.name=§7Plato
+OakMapFrame.name=§7Marco de mapas de roble
+SpruceMapFrame.name=§7Marco de mapas de abeto
+BirchMapFrame.name=§7Marco de mapas de abedul
+JungleMapFrame.name=§7Marco de mapas de jungla
+OakSeat.name=§7Asiento de roble
+SpruceSeat.name=§7Asiento de abeto
+BirchSeat.name=§7Asiento de abedul
+JungleSeat.name=§7Asiento de jungla
+
+//lights
+whiteLantern.name=§7Farolillo elegante blanco
+lightGrayLantern.name=§7Farolillo elegante gris claro
+grayLantern.name=§7Farolillo elegante gris
+blackLantern.name=§7Farolillo elegante negro
+redLantern.name=§7Farolillo elegante rojo
+orangeLantern.name=§7Farolillo elegante naranja
+yellowLantern.name=§7Farolillo elegante amarillo
+limeLantern.name=§7Farolillo elegante lima
+greenLantern.name=§7Farolillo elegante verde
+cyanLantern.name=§7Farolillo elegante cian
+lightBlueLantern.name=§7Farolillo elegante azul claro
+blueLantern.name=§7Farolillo elegante azul
+purpleLantern.name=§7Farolillo elegante púrpura
+magentaLantern.name=§7Farolillo elegante magenta
+pinkLantern.name=§7Farolillo elegante rosa
+brownLantern.name=§7Farolillo elegante marrón
+
+whiteLamp.name=§7Lámpara elegante blanca
+lightGrayLamp.name=§7Lámpara elegante gris claro
+grayLamp.name=§7Lámpara elegante gris
+blackLamp.name=§7Lámpara elegante negra
+redLamp.name=§7Lámpara elegante roja
+orangeLamp.name=§7Lámpara elegante naranja
+yellowLamp.name=§7Lámpara elegante amarilla
+limeLamp.name=§7Lámpara elegante lima
+greenLamp.name=§7Lámpara elegante verde
+cyanLamp.name=§7Lámpara elegante cian
+lightBlueLamp.name=§7Lámpara elegante azul claro
+blueLamp.name=§7Lámpara elegante azul
+purpleLamp.name=§7Lámpara elegante púrpura
+magentaLamp.name=§7Lámpara elegante magenta
+pinkLamp.name=§7Lámpara elegante rosa
+brownLamp.name=§7Lámpara elegante marrón
+
+lamp.hood0=§7Tulipa blanca
+lamp.hood1=§7Tulipa gris claro
+lamp.hood2=§7Tulipa gris
+lamp.hood3=§7Tulipa negra
+lamp.hood4=§7Tulipa roja
+lamp.hood5=§7Tulipa naranja
+lamp.hood6=§7Tulipa amarilla
+lamp.hood7=§7Tulipa lima
+lamp.hood8=§7Tulipa verde
+lamp.hood9=§7Tulipa cian
+lamp.hood10=§7Tulipa azul claro
+lamp.hood11=§7Tulipa azul
+lamp.hood12=§7Tulipa púrpura
+lamp.hood13=§7Tulipa magenta
+lamp.hood14=§7Tulipa rosa
+lamp.hood15=§7Tulipa marrón
+
+lantern.candle0=§7Vela blanca
+lantern.candle1=§7Vela gris claro
+lantern.candle2=§7Vela gris
+lantern.candle3=§7Vela negra
+lantern.candle4=§7Vela roja
+lantern.candle5=§7Vela naranja
+lantern.candle6=§7Vela amarilla
+lantern.candle7=§7Vela lima
+lantern.candle8=§7Vela verde
+lantern.candle9=§7Vela cián
+lantern.candle10=§7Vela azul claro
+lantern.candle11=§7Vela azul
+lantern.candle12=§7Vela púrpura
+lantern.candle13=§7Vela magenta
+lantern.candle14=§7Vela rosa
+lantern.candle15=§7Vela marrón
+
+// Items
+item.tapeMeasure.name=§7Cínta métrica
+item.tape.name=§7Carrete de cinta métrica
+item.BiblioChase.name=§7Marco de impresión
+item.PrintPlate.name=§7Placa de impresión
+item.EnchantedPlate.name=§7Placa encantada
+item.BiblioRedBook.name=§7Redstone: Volumen I
+item.BiblioGlasses.readingglasses.name=§7Gafas de lectura
+item.BiblioGlasses.tintedglasses.name=§7Gafas oscuras
+item.BiblioGlasses.monocle.name=§7Monóculo
+item.BiblioDrill.name=§7Taladro atornillador
+item.BiblioCreativeLock.name=§7Llave y cerradura
+item.BiblioClipboard.name=§7Portapapeles
+item.seatBack.OakSeatBack.name=§7Respaldo de roble
+item.seatBack.SpruceSeatBack.name=§7Respaldo de abeto
+item.seatBack.BirchSeatBack.name=§7Respaldo de abedul
+item.seatBack.JungleSeatBack.name=§7Respaldo de Jungla
+item.BiblioWayPointCompass.name=§7Brújula de marcadores
+item.BiblioMapTool.name=§7Compás de mapas

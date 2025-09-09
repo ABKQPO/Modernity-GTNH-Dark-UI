@@ -1,0 +1,54 @@
+# gui - general
+schematica.gui.openFolder=§7Atidaryti schemø aplankà
+schematica.gui.done=§7Baigta
+schematica.gui.title=§7Pasirinkite schemos failà
+schematica.gui.folderInfo=§7(Dëkite schemø failus èia\!)
+schematica.gui.noschematic=§7-- Nëra schemos --
+schematica.gui.increase=§7+
+schematica.gui.decrease=§7-
+schematica.gui.hide=§7Slëpti
+schematica.gui.all=§7VISI
+schematica.gui.show=§7Rodyti
+schematica.gui.movehere=§7Perkelti èia
+schematica.gui.flip=§7Veidrodinis vaizdas
+schematica.gui.rotate=§7Pasukti
+schematica.gui.save=§7Iðsaugoti
+schematica.gui.moveschematic=§7Patraukti schemà
+schematica.gui.layers=§7Sluoksnis
+schematica.gui.operations=§7Veiksmas
+schematica.gui.point.red=§7Raudonasis taðkas
+schematica.gui.point.blue=§7Mëlynasis taðkas
+schematica.gui.saveselection=§7Iðsaugoti paþymëta plotà kaip schemà?
+schematica.gui.x=§7X:
+schematica.gui.y=§7Y:
+schematica.gui.z=§7Z:
+schematica.gui.materials=§7Medþiagos
+schematica.gui.materialname=§7Medþiaga
+schematica.gui.materialamount=§7Kiekis
+
+# gui - config - categories
+
+# gui - config - debug
+
+# gui - config - render
+
+# gui - config - printer
+
+# gui - config - printer - swap slots
+
+# gui - config - general
+
+# gui - config - server
+
+# keys
+schematica.key.load=§7Atidaryti schemà
+schematica.key.save=§7Iðsaugoti schemà
+schematica.key.control=§7Manipuliuoti schemà
+
+# commands - save
+
+# commands - list
+
+# commands - remove
+
+# commands - download

@@ -1,0 +1,18 @@
+bdlib.multiblock.face.north=§7Север
+bdlib.multiblock.face.south=§7Юг
+bdlib.multiblock.face.east=§7Восток
+bdlib.multiblock.face.west=§7Запад
+bdlib.multiblock.face.up=§7Верх
+bdlib.multiblock.face.down=§7Низ
+
+bdlib.multiblock.disabled=§7Отключено
+bdlib.multiblock.incomplete=§7Этот механизм не завершён, ему требуется как минимум:
+bdlib.multiblock.notconnected=§7Не подключено к верному механизму
+bdlib.multiblock.toomanyoutputs=§7Слишком много выходов подсоединено, нельзя установить новое соединение
+
+bdlib.rsmode.always=§7Всегда ВКЛ.
+bdlib.rsmode.never=§7Отключен
+bdlib.rsmode.rs_on=§7Включение по сигналу красного камня
+bdlib.rsmode.rs_off=§7Отключение по сигналу красного камня
+
+bdlib.label.empty=§7Пусто

@@ -1,0 +1,34 @@
+itemGroup.TMechworks=§7TMechworks
+
+tile.signalbus.name=§7Сигнальная шина
+tile.signalterminal.name=§7Сигнальный терминал
+tile.tmechworks.dynamo.name=§7Двигатель
+tile.tmechworks.meshFilter.empty.name=§7Пустая фильтровальная сетка
+tile.tmechworks.meshFilter.wide.name=§7Широкая фильтровальная сетка
+tile.tmechworks.meshFilter.slat.name=§7Slat Mesh Filter
+tile.tmechworks.meshFilter.mesh.name=§7фильтровальная сетка
+tile.tmechworks.meshFilter.fine.name=§7Тонкая фильтровальная сетка
+
+item.spoolwire.name=§7Проводная катушка
+item.lengthwire.name=§7Провод
+
+block.drawbridge.name=§7Разводной мост
+block.firestarter.name=§7Воспламенитель
+block.advdrawbridge.name=§7Продвинутый разводной мост
+block.extdrawbridge.name=§7Расширенный разводной мост
+
+tooltip.spoolofwire=§7Wirey!
+tooltip.drawbridge.inventory=§7Инвентарь:
+tooltip.drawbridge.amount=§7Количество:
+tooltip.drawbridge.slot=§7Слот
+tooltip.drawbridge.camoflauge=§7Камуфляж:
+tooltip.drawbridge.direction=§7Направление размещения:
+tooltip.drawbridge.default=§7Сохраняет свой инвентарь, когда собирает
+tooltip.drawbridge.direction.up=§7Вверх
+tooltip.drawbridge.direction.down=§7Вниз
+tooltip.drawbridge.direction.left=§7Влево
+tooltip.drawbridge.direction.right=§7Вправо
+
+container.advdrawbridge=§7Продвинутый разводной мост
+container.inv=§7Inv
+container.drawbridge=§7Разводной мост

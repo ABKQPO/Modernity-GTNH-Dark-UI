@@ -1,0 +1,46 @@
+gui.cofh.accessMode=§7Zugriffsmodus
+gui.cofh.accessPublic=§7Öffentlicher Zurgriff
+gui.cofh.accessRestricted=§7Eingeschränkt
+gui.cofh.accessPrivate=§7Nur Besitzer
+gui.cofh.all=§7Alles
+gui.cofh.blank=§7Leer
+gui.cofh.configuration=§7Konfiguration
+gui.cofh.controlStatus=§7Kontrollstatus
+gui.cofh.empty=§7Leer
+gui.cofh.energy=§7Energie
+gui.cofh.energyConsume=§7Energieverbrauch
+gui.cofh.energyProduce=§7Energie-Output
+gui.cofh.energyStored=§7Energie gespeichert
+gui.cofh.fluid=§7Flüssigkeit
+gui.cofh.friendsList=§7Freundesliste
+gui.cofh.information=§7Information
+gui.cofh.items=§7Items
+gui.cofh.maxEnergyPerTick=§7Energiemaximum
+gui.cofh.none=§7Nichts
+gui.cofh.owner=§7Besitzer
+gui.cofh.receiving=§7Empfangend
+gui.cofh.redstoneControl=§7Redstone-Kontrolle
+gui.cofh.redstoneControlOff=§7Deaktiviert
+gui.cofh.redstoneControlOn=§7Aktiviert
+gui.cofh.redstoneStateHigh=§7High
+gui.cofh.redstoneStateIgnored=§7Ignorieren
+gui.cofh.redstoneStateLow=§7Low
+gui.cofh.restoreConfig=§7Client-Konfiguration wiederherstellen...
+gui.cofh.security=§7Sicherheit
+gui.cofh.sending=§7Sendend
+gui.cofh.signalRequired=§7Signal benötigt
+gui.cofh.tutorial=§7Tutorial
+
+gui.cofh.tutorial.fluxRequired=§7Benötigt Redstone-Flux zum Arbeiten.;
+gui.cofh.tutorial.tabConfiguration=§7Der Konfigurations-Tab bestimmt, wie Items dieses Gerät erreichen und verlassen.
+gui.cofh.tutorial.tabConfiguration2=§7Der Konfigurations-Tab bestimmt die Operations-Modi dieses Gerätes.
+gui.cofh.tutorial.tabRedstone=§7Der Redstone-Kontroll-Tab konfiguriert, wie dieses Gerät auf Redstone-Signale reagiert.
+
+item.invalid.name=§7Ungültiges Item (Zerstören)
+
+message.cofh.holdShift1=§7Halte
+message.cofh.holdShift2=§7Shift
+message.cofh.holdShift3=§7für Details
+
+message.cofh.secure1=§7Dies ist privat und gehört
+message.cofh.secure2=§7Du hättest deine Hand verlieren können!

@@ -1,0 +1,28 @@
+tile.ironchest:IRON.name=§7Demir Sandık
+tile.ironchest:GOLD.name=§7Altın Sandık
+tile.ironchest:DIAMOND.name=§7Elmas Sandık
+tile.ironchest:COPPER.name=§7Bakır Sandık
+tile.ironchest:STEEL.name=§7Gümüş Sandık
+tile.ironchest:SILVER.name=§7Gümüş Sandık
+tile.ironchest:CRYSTAL.name=§7Kristal Sandık
+tile.ironchest:OBSIDIAN.name=§7Obsidyen Sandık
+tile.ironchest:DIRTCHEST9000.name=§7Toprak Sandık-9000!
+
+item.ironchest:IRONGOLD.name=§7Demir Sandığı Altın Sandığa Yükselt
+item.ironchest:GOLDDIAMOND.name=§7Altın Sandığı Elmas Sandığa Yükselt
+item.ironchest:COPPERSTEEL.name=§7Bakır Sandığı Gümüş Sandığa Yükselt
+item.ironchest:STEELGOLD.name=§7Gümüş Sandığı Altın Sandığa Yükselt
+item.ironchest:COPPERSILVER.name=§7Bakır Sandığı Gümüş Sandığa Yükselt
+item.ironchest:SILVERGOLD.name=§7Gümüş Sandığı Altın Sandığa Yükselt
+item.ironchest:COPPERIRON.name=§7Bakır Sandığı Demir Sandığa Yükselt
+item.ironchest:DIAMONDCRYSTAL.name=§7Elmas Sandığı Kristal Sandığa Yükselt
+item.ironchest:WOODIRON.name=§7Tahta Sandığı Demir Sandığa Yükselt
+item.ironchest:WOODCOPPER.name=§7Tahta Sandığı Bakır Sandığa Yükselt
+item.ironchest:DIAMONDOBSIDIAN.name=§7Elmas Sandığı Obsidyen Sandığa Yükselt
+
+book.ironchest:dirtchest9000.title=§7Toprak Sandık-9000 Kullanım Kılavuzu
+book.ironchest:dirtchest9000.page1=§7Yeni sandık olan Toprak Sandık-9000 yaptığınız için teşekkürler.Bu sandık ile topraklarınızı depolayabilirsiniz.
+book.ironchest:dirtchest9000.page2=§7Kullanımı: 64 adet toprak alarak içine koyunuz. Böylece sadece toprak depolanır.
+book.ironchest:dirtchest9000.page3=§7Biz bu kılavuzu gözden keyif aldık umuyoruz, ve gelecekte ürünlerimizi kullanmayı düşünün umuyoruz! Saygılarımızla, dahil DirtChest 9000 manuel yazar.
+book.ironchest:dirtchest9000.page4=§7Garanti: Bu ürün herhangi bir garanti vardır. Sizin kir depolanabilir değil, yavaş yavaş çevreye sülük olabilir, ya da alternatif olarak, hiç bir şey yapamazsınız.
+book.ironchest:dirtchest9000.page5=§7Toprak Sandık-9000 çevreye türüdür. Sorumlu bu rehber kitap imha edin ve ne olursa olsun sadece bazı lav içine ayna yok yok. Bizim için çok üzücü olacaktır.

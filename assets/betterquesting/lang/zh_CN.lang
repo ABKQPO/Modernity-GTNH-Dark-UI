@@ -1,0 +1,238 @@
+betterquesting.title.quest_lines=§7任务章节
+betterquesting.title.edit_line1=§7编辑章节
+betterquesting.title.edit_line2=§7编辑章节 - %s
+betterquesting.title.edit_quest=§7编辑任务
+betterquesting.title.edit_tasks=§7编辑任务目标
+betterquesting.title.edit_rewards=§7编辑任务奖励
+betterquesting.title.edit_text=§7编辑文本
+betterquesting.title.pre_requisites=§7编辑前置任务
+betterquesting.title.json_object=§7数据
+betterquesting.title.json_array=§7列表
+betterquesting.title.json_add=§7新类型
+betterquesting.title.select_item=§7选择物品
+betterquesting.title.select_fluid=§7选择流体
+betterquesting.title.select_entity=§7选择实体
+betterquesting.title.party_none=§7组队
+betterquesting.title.party=§7队伍管理 - %s
+betterquesting.title.party_invite=§7邀请玩家
+betterquesting.title.select_theme=§7选择主题
+betterquesting.title.importers=§7导入数据
+betterquesting.title.submit_station=§7提交站
+betterquesting.title.completion=§7完成度: %d/%d
+
+betterquesting.btn.rewards=§7任务奖励
+betterquesting.btn.tasks=§7任务目标
+betterquesting.btn.advanced=§7全局设置
+betterquesting.btn.is_main=§7主要任务
+betterquesting.btn.requirements=§7前置任务
+betterquesting.btn.edit=§7编辑
+betterquesting.btn.new=§7新建
+betterquesting.btn.import=§7导入
+betterquesting.btn.logic=§7解锁类型
+betterquesting.btn.show=§7图标显示
+betterquesting.btn.claim=§7领取
+betterquesting.btn.detect_submit=§7检测/交付
+betterquesting.btn.add_remove_quests=§7新建/删除 任务
+betterquesting.btn.designer=§7编辑任务网
+betterquesting.btn.item=§7物品
+betterquesting.btn.list=§7列表
+betterquesting.btn.fluid=§7流体
+betterquesting.btn.entity=§7实体
+betterquesting.btn.text=§7文本
+betterquesting.btn.number=§7数字
+betterquesting.btn.object=§7对象
+betterquesting.btn.raw_nbt=§7原NBT
+betterquesting.btn.party_new=§7创建队伍
+betterquesting.btn.party_leave=§7离开
+betterquesting.btn.party_invite=§7邀请
+betterquesting.btn.party_kick=§7踢出
+betterquesting.btn.party_join=§7加入
+betterquesting.btn.party_share_lives=§7分享生命
+betterquesting.btn.party_share_loot=§7单独奖励
+betterquesting.btn.icon=§7图标
+betterquesting.btn.claim_all=§7领取所有奖励
+betterquesting.btn.zoom_fit=§7缩放至适应屏幕
+betterquesting.btn.lock_tray=§7锁定弹出栏
+betterquesting.btn.view_mode=§7浏览模式
+betterquesting.btn.view_mode_btn=§7浏览模式按钮
+betterquesting.btn.always_draw_implicit=§7始终显示隐藏前置任务
+betterquesting.btn.prereq_visbility.normal=§7默认
+betterquesting.btn.prereq_visbility.implicit=§7除悬停或按住Shift时，其余隐藏
+betterquesting.btn.prereq_visbility.hidden=§7始终隐藏
+betterquesting.btn.bookmark_quest=§7Bookmark
+betterquesting.btn.unbookmark_quest=§7Unbookmark
+
+betterquesting.home.exit=§7退出
+betterquesting.home.quests=§7任务
+betterquesting.home.party=§7组队
+betterquesting.home.theme=§7主题
+
+betterquesting.gui.name=§7名称
+betterquesting.gui.description=§7简介
+betterquesting.gui.quest_line=§7章节列表
+betterquesting.gui.database=§7任务数据
+betterquesting.gui.selection=§7选择
+betterquesting.gui.search=§7查找
+betterquesting.gui.bookmarks=§7Bookmarks
+betterquesting.gui.folder=§7文件夹
+betterquesting.gui.party_invites=§7邀请列表
+betterquesting.gui.party_members=§7成员列表
+betterquesting.gui.remaining_lives=§7剩余生命: %s
+betterquesting.gui.full_lives=§7生命已满
+betterquesting.gui.closing_warning=§7你确定要关闭任务编辑菜单？
+betterquesting.gui.closing_confirm=§7本次修改的数据可能会丢失！
+betterquesting.gui.claim_all_warning=§7你确定要领取所有奖励吗？
+betterquesting.gui.claim_all_confirm=§7如果你的物品栏已满，可能会有很多物品掉到地上!
+betterquesting.gui.key=§7键位名称
+betterquesting.gui.no_key=§7无效键位
+betterquesting.gui.duplicate_key=§7键位冲突
+betterquesting.gui.yes_always=§7总是
+betterquesting.gui.logic.or=§7OR
+
+betterquesting.tooltip.tasks_complete=§7%s/%s 已达成
+betterquesting.tooltip.complete=§7已达成
+betterquesting.tooltip.incomplete=§7未达成
+betterquesting.tooltip.rewards_pending=§7未领取奖励
+betterquesting.tooltip.repeatable=§7可重复
+betterquesting.tooltip.requires=§7前置任务:
+betterquesting.tooltip.shift_advanced=§7按住shift显示信息
+betterquesting.tooltip.reset_time=§7重置冷却: %s
+betterquesting.tooltip.main_quest=§7主要任务: %s
+betterquesting.tooltip.global_quest=§7全球任务: %s
+betterquesting.tooltip.global_share=§7全球共享: %s
+betterquesting.tooltip.task_logic=§7解锁类型: %s
+betterquesting.tooltip.quest_logic=§7任务逻辑: %s
+betterquesting.tooltip.simultaneous=§7同步任务: %s
+betterquesting.tooltip.auto_claim=§7自动领取: %s
+betterquesting.tooltip.repeat=§7重置任务: %s
+betterquesting.tooltip.repeat_with_edit_mode=§7编辑模式已启用，可重复任务不会重置
+betterquesting.tooltip.update_quests=§7更新可用!%n§7新任务线版本可用.%n单击此处可安装并迁移进度.
+betterquesting.tooltip.cycle.true=§7点击禁用
+betterquesting.tooltip.cycle.false=§7点击启用
+
+betterquesting.notice.complete=§7任务完成
+betterquesting.notice.update=§7任务更新
+betterquesting.notice.unlock=§7任务解锁
+
+betterquesting.msg.heart_disabled=§7极限模式未启用，使用 "/bq_admin hardcore" 来启用它。
+
+key.betterquesting.quests=§7打开任务书
+key.betterquesting.party=§7队长
+key.betterquesting.themes=§7改变主题
+
+itemGroup.betterquesting=§7冒险任务定制
+
+fluid.betterquesting.placeholder=§7占位符
+
+item.betterquesting.placeholder.name=§7物品 占位符
+item.betterquesting.extra_life.full.name=§71颗心
+item.betterquesting.extra_life.half.name=§71/2颗心
+item.betterquesting.extra_life.quarter.name=§71/4颗心
+item.betterquesting.guide.name=§7入门指南
+
+tile.betterquesting.submit_station.name=§7提交站(OSS)
+tile.betterquesting.observation_station.name=§7观测站(OOS)
+
+betterquesting.btn.help1=§7导航
+betterquesting.btn.help2=§7OSS方块
+betterquesting.btn.help3=§7制作任务
+betterquesting.btn.help4=§7指令
+betterquesting.btn.help5=§7拓展包
+betterquesting.btn.help6=§7主题
+betterquesting.btn.help7=§7全球定位
+betterquesting.btn.help8=§7资源目录
+
+betterquesting.help.page1=§7§l§n§l§n导航%n§r%n更好的任务mod中的任务菜单GUI(界面)不用物品打开，你可以通过一个按键来打开。%n%n在任务选项中的任务章节中，你可以选择任何章节，在任务网状图中你可以随意拖动，以便你可以拖动到你想要开始完成的任务。%n%n组队选项中你可以创建或加入一个队伍，你也可以设置独享奖励或者全队奖励。%n%n如果你想改变菜单的主题样式，你可以通过主题选项来选择你想要的样式。
+betterquesting.help.page2=§7§l§n§l§n提交站%n§r%n虽然许多任务可以通过检查你的数据(包括液体)来直接提交，但有时候你需要更加自动化的方法，这里就是OSS方块的用处。支持OSS方块的任务可以通过内置接口来选择，用来实现它的使用，设置好任务后，液体和物品可以通过漏斗进入OSS方块，它不会让不需要的液和物品体进入，如果没有选择任务，或者任务已经完成，它会不会让液体或物品进入。
+betterquesting.help.page3=§7§l§n§l§n制作任务%n§r%n如果你想要开始制作和编辑章节和任务，你首先必须使用编辑模式的指令来启用编辑模式（你可以前往指令板块了解更多）。然后你就可以开始添加或删除章节，并且你不一定要给这些章节设置一个开始任务。 因为如果你想要通过完成其他章节的任务来解锁这个章节的隐藏任务时，就很方便了%n%n在编辑过程中，你需要熟悉几个菜单。和其他MOD相比，它可能让人难以理解，但是它将会随着时间的推移而让你更加熟练。在全局设置中的修改会改变默认的数据，所以你必须非常小心的修改，因为它可能有不好的效果，但它永远不会使游戏崩溃。如果出现了崩溃或错误，你必须立刻反应给开发人员！
+betterquesting.help.page4=§7§l§n§l§n指令%n§r%n你在设置这个MOD的任务时，只需要知道少量的指令。分别为玩家指令和管理指令，即所有人都可以使用的指令和仅服务器管理员执行的指令。%n%n§o/bq_user refresh%n§r%n在可能发生错误的情况下，将本地任务数据与服务器任务数据同步。%n%n§o/bq_user help%n§r%n给予玩家一本入门指南。%n%n§o/bq_admin edit%n§r%n开启或关闭编辑模式，在开启时，任务菜单中可以对章节和任务进行编辑。记得在发布任务或整合包时关闭编辑模式。%n%n§o/bq_admin hardcore%n§r%n对极限模式的开启和关闭。当玩家的生命耗尽时，服务器中他们会被封禁，单人游戏中他们的存档会被删除。%n%n§o/bq_admin reset [all|<quest_id>] [username|uuid]%n§r%n给服务器开启或发布整合包时将它打开。%n%n§o/bq_admin default [save|load]%n§r%n把当前的设置储存到全局设置中。设置默认将代表任何创建的世界都从这组特定的任务开始。保存数据时还会保存任务数据，极限模式，编辑模式，所以在使用这个指令之前，先用其它指令进行一些设置。%n%n§o/bq_admin complete <quest_id> [username|uuid]%n§r%n给某个玩家直接完成某个任务。%n%n§o/bq_admin delete [all|<quest_id>]%n§r%n删除某个任务的进程和数据，但是它不会删除全局设置中这个任务的数据。%n%n§o/bq_admin lives [add|set|max|default] <value> [username]%n§r%n这个指令用于改变玩家的生命数量，初始生命和最大生命。
+betterquesting.help.page5=§7§l§n§l§n拓展包%n§r%n可能你会有一些拓展包，它包含了额外的MOD或者在线下载的任务，要使用这些拓展包，你需要点击任务编辑菜单中的“导入”按钮，默认没有任何拓展包，所以如果你需要拓展包，你需要自己去寻找。
+betterquesting.help.page6=§7§l§n§l§n主题%n§r%n如果你偏爱某一种颜色或者一种类型或感觉，那么你可以通过改变菜单主题来满足你的需求，主题可以改变菜单的样式，主要颜色，图标的样式等等，各种主题都可以通过资源包，资源目录和拓展包来添加。
+betterquesting.help.page7=§7§l§n§l§n全球定位%n§r%n如果你想把你的任务包给全其他人使用，请看这里。开始制作你的任务，你得使用一些独特的按键，比如“ §omypack.quest1.name§r” ，而不是纯文本。然后创建一个只包含在这个任务里的资源包。并提供lang.yml语言文件。这些文件也可以存储在更好的任务MOD的目录中，方便更好的打包。
+betterquesting.help.page8=§7§l§n§l§n资源目录%n§r%n如果你想自定义主界面或添加定位文件，你可以通过%n%n"§o/config/betterquesting/resources/<pack_name>/§r"%n%n所有文件夹在这里都可以被视为未列出的个性化包所需。
+
+betterquesting.design.tree=§7树形图设计
+
+betterquesting.toolbox.tab.main=§7编辑菜单
+
+betterquesting.toolbox.tool.open.name=§7打开任务
+betterquesting.toolbox.tool.open.desc=§7打开一个任务来进行编辑
+betterquesting.toolbox.tool.grab.name=§7选定任务
+betterquesting.toolbox.tool.grab.desc=§7选定并在任务面板中移动任务
+betterquesting.toolbox.tool.link.name=§7连接任务
+betterquesting.toolbox.tool.link.desc=§7连接两个任务，使其中一个为另一个的前置任务，如果已经连接，将会删除连接
+betterquesting.toolbox.tool.snap.name=§7更改分辨率
+betterquesting.toolbox.tool.snap.desc=§7更改网状任务图中的分辨率大小，使你更好的移动图标到你想要的位置
+betterquesting.toolbox.tool.copy.name=§7复制任务
+betterquesting.toolbox.tool.copy.desc=§7复制选定的任务，包括前置条件，目标和奖励，但不会和原任务同步数据
+betterquesting.toolbox.tool.new.name=§7新建任务
+betterquesting.toolbox.tool.new.desc=§7新建一个新的任务
+betterquesting.toolbox.tool.delete.name=§7完全删除
+betterquesting.toolbox.tool.delete.desc=§7完全删除一个任务
+betterquesting.toolbox.tool.remove.name=§7图标删除
+betterquesting.toolbox.tool.remove.desc=§7仅删除这个任务在任务网状图中，不会从数据文件中删除
+betterquesting.toolbox.tool.complete.name=§7直接完成
+betterquesting.toolbox.tool.complete.desc=§7直接完成一个任务
+betterquesting.toolbox.tool.reset.name=§7重置任务
+betterquesting.toolbox.tool.reset.desc=§7把一个任务还原到初始的进度
+betterquesting.toolbox.tool.icon.name=§7设置图标
+betterquesting.toolbox.tool.icon.desc=§7选择一个物品作为这个任务的图标
+betterquesting.toolbox.tool.scale.name=§7图标大小
+betterquesting.toolbox.tool.scale.desc=§7缩放任务图标
+betterquesting.toolbox.tool.raw.name=§7原文件编辑
+betterquesting.toolbox.tool.raw.desc=§7打开任务书原文件JSON进行编辑.包括其他隐藏设置,如更改背景
+betterquesting.toolbox.tool.frame.name=§7编辑任务图标框
+betterquesting.toolbox.tool.frame.desc=§7更改任务图标框样式
+
+betterquesting.cmd.check_all=§7由 %s 完成的所有任务:
+betterquesting.cmd.check_all.line=§7%s %s
+betterquesting.cmd.check.true=§7%s 已完成 %s
+betterquesting.cmd.check.false=§7%s 未完成 %s
+betterquesting.cmd.complete=§7完成任务 %s 给 %s
+betterquesting.cmd.default.save=§7任务数据保存为默认
+betterquesting.cmd.default.save2=§7任务数据保存到 %s
+betterquesting.cmd.default.load=§7重载默认的任务数据
+betterquesting.cmd.default.load2=§7从 %s 载入任务数据
+betterquesting.cmd.default.set=§7将 %s 设置为默认任务数据库
+betterquesting.cmd.default.none=§7没有找到任务数据
+betterquesting.cmd.delete.single=§7删除任务 %s
+betterquesting.cmd.delete.all=§7删除所有任务
+betterquesting.cmd.edit=§7编辑模式 %s
+betterquesting.cmd.view=§7浏览模式 %s
+betterquesting.cmd.hardcore=§7极限模式 %s
+betterquesting.cmd.purge_hidden=§7删除 %s 隐藏任务
+
+betterquesting.cmd.lives.add_player=§7增加 %s 点生命 给 %s (总生命: %s)
+betterquesting.cmd.lives.add_all=§7增加 %s 点生命给所有玩家
+betterquesting.cmd.lives.remove_player=§7删除 %s 生命 给 %s (总生命: %s)
+betterquesting.cmd.lives.remove_all=§7删除 %s 点生命给所有玩家
+betterquesting.cmd.lives.set_player=§7设置 %s的 生命为 %s
+betterquesting.cmd.lives.set_all=§7设置所有玩家的生命为 %s
+betterquesting.cmd.lives.max=§7设置最大生命为 %s
+betterquesting.cmd.lives.default=§7设置默认生命为 %s
+
+betterquesting.cmd.reset.player_single=§7重置任务 '%s' 对 %s
+betterquesting.cmd.reset.player_all=§7重置所有任务对 %s
+betterquesting.cmd.reset.all_single=§7重置任务 '%s' 对所有玩家
+betterquesting.cmd.reset.all_all=§7重置所有任务对所有玩家
+betterquesting.cmd.refresh=§7刷新本地数据...
+
+betterquesting.cmd.cleanup_questline.confirm=§7这是一个危险的操作.在此之前请确认备份.再次输入此指令以开始清理.
+betterquesting.cmd.cleanup_questline.completed=§7已移除 %d 条目
+
+json.betterquesting.quest.name=§7任务数据
+jdoc.betterquesting.quest.rewards.name=§7任务奖励
+jdoc.betterquesting.quest.rewards.desc=§7可选的任务奖励类型列表
+jdoc.betterquesting.quest.tasks.name=§7任务目标
+jdoc.betterquesting.quest.tasks.desc=§7可选的任务目标类型列表
+jdoc.betterquesting.quest.preRequisites.name=§7前置任务
+jdoc.betterquesting.quest.preRequisites.desc=§7用于解锁此任务的前置任务ID列表
+jdoc.betterquesting.quest.properties.name=§7属性
+jdoc.betterquesting.quest.properties.desc=§7定义任务外观和功能的属性
+
+jdoc.betterquesting.quest.properties.betterquesting.name=§7更好的任务(BetterQuesting)
+jdoc.betterquesting.quest.properties.betterquesting.desc=§7属性
+
+betterquesting.notification.enabled=§7任务提示: 开启
+betterquesting.notification.disabled=§7任务提示: 关闭
+betterquesting.notification.tooltip=§7切换任务提示

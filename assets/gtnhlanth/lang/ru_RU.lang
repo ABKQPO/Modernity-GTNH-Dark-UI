@@ -1,0 +1,173 @@
+# RecipeMaps
+gtnhlanth.recipe.digester=§7Дигестер
+gtnhlanth.recipe.disstank=§7Реактор-разбавитель
+gtnhlanth.recipe.tc=§7Приёмник элементарных частиц
+gtnhlanth.recipe.sc=§7Источник элементарных частиц
+
+gtnhlanth.tt.beaminfo=§7Используйте §bпортативный сканер §7для получения информации о входе/выходе этого мультиблока.
+gtnhlanth.tt.blueprint=§7Чтобы увидеть структуру, используйте §9 Structure§1Lib §r§fголограммный проектор на контроллере!
+gtnhlanth.tt.pc=§7§6Частично расходуется: §7Получает урон в процессе работы
+
+gtnhlanth.tt.hintdot=§7Блок подсказка с точкой %s
+
+GT5U.gui.text.gtnhlanth.nocoolant=§7В механизме отсутствует хладагент!
+GT5U.gui.text.gtnhlanth.inscoolant=§7Недостаточно хладагента в механизме!
+GT5U.gui.text.gtnhlanth.noaccel=§7Тип частиц не может быть ускорен!
+GT5U.gui.text.gtnhlanth.low_input_eut=§7Входной EU/t слишком мал для создания фотонов!
+GT5U.gui.text.gtnhlanth.scerror=§7Математическая ошибка, неверный рецепт?
+
+# NEI
+value.disstank=§7Соотношение: %s:1
+
+DissolutionTank.hint.0=§7Точка 1: Чистый корпус из нержавеющей стали
+DissolutionTank.hint.1=§724x Укрепленное боросиликатное стекло из титана
+DissolutionTank.hint.2=§79х Жаропрочный корпус
+DissolutionTank.hint.3=§7Входной люк, Выходной люк, Входной шлюз, Выходной шлюз
+DissolutionTank.hint.4=§7Энерговвод, Люк техобслуживания
+
+Digester.hint.0=§7Точка 1: Прочный корпус из вольфрамовой стали
+Digester.hint.1=§79x Чистый корпус из нержавеющей стали
+Digester.hint.2=§716х Жаропрочных корпусов
+Digester.hint.3=§716x Блок катушек
+Digester.hint.4=§7Входной люк, Выходной люк, Входной шлюз, Выходной шлюз
+Digester.hint.5=§7Энерговвод, Люк техобслуживания
+
+SourceChamber.hint.0=§756x Экранированный корпус ускорителя
+SourceChamber.hint.1=§752x Экранированное стекло ускорителя
+SourceChamber.hint.2=§716x Электродный корпус
+SourceChamber.hint.3=§7Точка 1: Входной люк
+SourceChamber.hint.4=§7Точка 2: Выходной люк
+SourceChamber.hint.5=§7Точка 3: Люк техобслуживания, Энерговвод
+SourceChamber.hint.6=§7Точка 4: Выходной шлюз установки для литографии
+
+LINAC.hint.0=§7325-1285x Экранированный корпус ускорителя
+LINAC.hint.1=§7148-852x Корпус подачи хладагента
+LINAC.hint.2=§7127-703x Экранированное стекло ускорителя
+LINAC.hint.3=§756-312x Блок сверхпроводящей катушки
+LINAC.hint.4=§7156-732x Электродный корпус
+LINAC.hint.5=§747x Вентиляционный корпус
+LINAC.hint.6=§748x Любое тировое стекло (LuV+)
+LINAC.hint.7=§7Точка 1: Энерговвод, Люк техобслуживания
+LINAC.hint.8=§7Точка 2: Входной шлюз, Выходной шлюз
+LINAC.hint.9=§7Точка 3: Входной шлюз установки для литографии
+LINAC.hint.10=§7Точка 4: Выходной шлюз установки для литографии
+
+Synchrotron.hint.0=§7676x Экранированный корпус ускорителя
+Synchrotron.hint.1=§790x Блок сверхпроводящей катушки
+Synchrotron.hint.2=§764x Ниобиевый полый корпус
+Synchrotron.hint.3=§728x Корпус подачи хладагента
+Synchrotron.hint.4=§716x Любое тировое стекло (LuV+)
+Synchrotron.hint.5=§74x Корпус антенны
+Synchrotron.hint.6=§7Точка 1: Входной шлюз установки для литографии
+Synchrotron.hint.7=§7Точка 2: Выходной шлюз установки для литографии
+Synchrotron.hint.8=§7Точка 3: Люк техобслуживания
+Synchrotron.hint.9=§7Точка 4: Входной шлюз
+Synchrotron.hint.10=§7Точка 5: Выходной шлюз
+Synchrotron.hint.11=§7Точка 6: Энерговвод
+
+TargetChamber.hint.0=§728x Экранированный корпус ускорителя
+TargetChamber.hint.1=§734x Экранированное стекло ускорителя
+TargetChamber.hint.2=§716x Любое тировое стекло
+TargetChamber.hint.3=§729x Вентиляционный корпус
+TargetChamber.hint.4=§74x Корпус фокуса манипулятора
+TargetChamber.hint.5=§74x Корпус целевого приёмника
+TargetChamber.hint.6=§71x Держатель фокуса
+TargetChamber.hint.7=§71x Приёмник образцов
+TargetChamber.hint.8=§7Точка 1: Входной люк фокусировки
+TargetChamber.hint.9=§7Точка 2: Энерговвод, Люк техобслуживания
+TargetChamber.hint.10=§7Точка 1: Входной люк
+TargetChamber.hint.11=§7Точка 4: Выходной люк
+TargetChamber.hint.12=§7Точка 5: Входной шлюз установки для литографии
+
+
+fluid.Antimony Pentafluoride Solution=§7Раствор пентафторида сурьмы
+fluid.Hafnium Tetrachloride Solution=§7Раствор тетрахлорида гафния
+fluid.Zirconium Tetrachloride Solution=§7Раствор тетрахлорида циркония
+fluid.Iodine=§7Йод
+fluid.Muddy Monazite Rare Earth Solution=§7Монацитовый редкоземельный мутный раствор
+fluid.Diluted Monazite Rare Earth Mud=§7Разбавленная монацитовая редкоземельная взвесь
+fluid.Diluted Monazite Sulfate=§7Раствор сернокислого монацита
+fluid.Nitrogenated Monazite Rare Earth Concentrate=§7Нитрованный монацитовый редкоземельный концентрат
+fluid.Nitric Monazite Leached Concentrate=§7Выщелоченный нитрованный монацитовый концентрат
+fluid.Ammonium Nitrate Solution=§7Раствор нитрата аммония
+fluid.Seaweed Concentrate=§7Экстракт морских водорослей
+fluid.Potassium Permanganate Solution=§7Раствор перманганата калия
+fluid.Seaweed Byproducts=§7Побочные продукты переработки водорослей
+fluid.Nitric-Leached Monazite Mixture=§7Разбавленная нитрованная монацитовая смесь
+fluid.Muddy Bastnasite Rare Earth Solution=§7Бастнезитовый редкоземельный мутный раствор
+fluid.Sodiumfluorosilicate=§7Фторосиликат натрия
+fluid.Steam-Cracked Bastnasite Mud=§7Бастнезитовая взвесь расщепленная паром
+fluid.Conditioned Bastnasite Mud=§7Подготовленная бастнезитовая взвесь
+fluid.Diluted Bastnasite Mud=§7Разбавленная бастнезитовая взвесь
+fluid.Filtered Bastnasite Mud=§7Фильтрованная бастнезитовая взвесь
+fluid.Nitrogenated Bastnasite Rarer Earth Oxides=§7Нитрованные обогащённые бастназитовые редкие земли
+fluid.Bastnasite Rarer Earth Oxide Suspension=§7Суспензия обогащённых бастнезитовых редких земель
+fluid.Calcium Fluoride=§7Фторид кальция
+fluid.Tetrahydrofuran=§7Тетрагидрофуран
+"fluid.1,4-Butanediol"=§71,4-Бутандиол
+"fluid.Acidicised 1,4-Butanediol"=§7"подкисленный 1,4-бутандиол"
+fluid.Polytetrahydrofuran=§7Политетрагидрофуран
+fluid.Tungstophosphoric Acid=§7Фосфорновольфрамовая кислота
+fluid.Toluene Diisocyanate=§7Толуолдиизоцианат
+fluid.Dinitrotoluene=§7Динитротолуол
+fluid.Diaminotoluene=§7Диаминотолуол
+fluid.Toluene Tetramethyl Diisocyanate=§7Тетраметилтолуолдиизоцианат
+fluid.Diluted Acetone=§7Разбавленный ацетон
+
+tile.casing.shielded_accelerator_glass.name=§7Экранированное стекло ускорителя
+casing.electrode.name=§7Электродный корпус
+casing.coolant_delivery.name=§7Корпус подачи хладагента
+casing.antenna_t1.name=§7Корпус антенны (T1)
+casing.antenna_t2.name=§7Корпус антенны (T2)
+casing.niobium_cavity.name=§7Ниобиевый полый корпус
+casing.focus_manipulator.name=§7Манипулятор фокусировки
+casing.focus_holder.name=§7Держатель фокуса
+casing.target_receptacle.name=§7Целевой приёмник
+casing.target_holder.name=§7Приёмник образцов
+casing.shielded_accelerator.name=§7Экранированный корпус ускорителя
+
+item.capillary_exchange.name=§7Capillary Exchange
+item.mm_lattice.name=§7Решётка из мю-металла
+item.iron_quartz_plate.name=§7Железо-кварцевая пластина
+item.mask_substrate.name=§7Маска-субстрат
+item.etched_mask1.name=§7Гравированная маска
+item.substrate_precursor.name=§7Substrate Precursor
+item.masked_mask_substrate.name=§7Обработанная маска-субстрат
+
+
+
+
+beamline.info=§7Информация о механизме
+
+beamline.in_pre=§7Мультиблоковый вход установки для литографии
+beamline.particle=§7Частица
+beamline.energy=§7Энергия
+beamline.focus=§7Фокус
+beamline.amount=§7Количество
+beamline.rate=§7Скорость
+
+beamline.temperature=§7Температура
+beamline.coolusage=§7Потребляется хладогента
+
+beamline.out_pre=§7Мультиблоковый выход установки для литографии
+
+beamline.particleinput=§7Входная информация о частицах:
+
+beamline.pipe.desc.0=§7Транспорт для частиц
+beamline.pipe.desc.1=§7Сигнал не пересекается и не изгибается
+
+tile.recipe.tc=§7Приёмник элементарных частиц
+tile.recipe.sc=§7Источник элементарных частиц
+
+item.particle.name=§7Частица
+particle.electron=§7Электрон
+particle.photon=§7Фотон
+particle.alpha=§7Альфа частица
+particle.neutron=§7Нейтрон
+particle.proton=§7Протон
+GT5U.gui.text.dissolution_ratio=§7Неверное соотношение исходных жидкостей
+
+tooltip.gtnhlanth.particle.rest_mass=§7Масса покоя: %f MeV
+tooltip.gtnhlanth.particle.charge=§7Заряд: %s e
+tooltip.gtnhlanth.photomask.desc_spectrum=§7Подходит для %s-го сегмента электромагнитного спектра и ниже
+tooltip.gtnhlanth.photomask.max_uses=§7Макс. использований: %d

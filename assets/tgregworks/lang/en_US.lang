@@ -1,0 +1,38 @@
+# English lang file
+itemGroup.tabTGregworks=§7Tinkers' Gregworks
+
+item.tgregworks.shardcast.name=§7Shard Cast
+item.tgregworks.shardcast.cast_shard.name=§7Shard Cast
+
+tgregworks.toolpart.pickaxe_head=§7%%material Pickaxe Head
+tgregworks.toolpart.shovel_head=§7%%material Shovel Head
+tgregworks.toolpart.axe_head=§7%%material Axe Head
+tgregworks.toolpart.tool_binding=§7%%material Tool Binding
+tgregworks.toolpart.tough_binding=§7%%material Tough Binding
+tgregworks.toolpart.tool_rod=§7%%material Tool Rod
+tgregworks.toolpart.tough_tool_rod=§7%%material Tough Tool Rod
+tgregworks.toolpart.large_plate=§7%%material Large Plate
+tgregworks.toolpart.sword_blade=§7%%material Sword Blade
+tgregworks.toolpart.wide_guard=§7%%material Wide Guard
+tgregworks.toolpart.hand_guard=§7%%material Hand Guard
+tgregworks.toolpart.crossbar=§7%%material Crossbar
+tgregworks.toolpart.knife_blade=§7%%material Knife Blade
+tgregworks.toolpart.full_guard=§7%%material Full Guard
+tgregworks.toolpart.pan=§7%%material Pan
+tgregworks.toolpart.sign_head=§7%%material Sign Head
+tgregworks.toolpart.chisel_head=§7%%material Chisel Head
+tgregworks.toolpart.scythe_head=§7%%material Scythe Head
+tgregworks.toolpart.broad_axe_head=§7%%material Broad Axe Head
+tgregworks.toolpart.excavator_head=§7%%material Excavator Head
+tgregworks.toolpart.large_sword_blade=§7%%material Large Sword Blade
+tgregworks.toolpart.hammer_head=§7%%material Hammer Head
+tgregworks.toolpart.shard=§7%%material Shard
+tgregworks.toolpart.arrow_head=§7%%material Arrow Head
+tgregworks.toolpart.shuriken=§7%%material Shuriken
+tgregworks.toolpart.crossbow_limb=§7%%material Crossbow Limb
+tgregworks.toolpart.crossbow_body=§7%%material Crossbow Body
+tgregworks.toolpart.bow_limb=§7%%material Bow Limb
+
+tgregworks.tool.deprecated=§7(Deprecated)
+
+tgregworks.materials.unknown=§7Unknown

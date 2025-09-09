@@ -1,0 +1,20 @@
+####################
+# APIARIST'S PIPE
+####################
+
+item.buildcraftPipe.pipeitemspropolis.name=§7Труба пчеловода
+
+for.gui.pipe.filter.anything=§7Всё
+for.gui.pipe.filter.bee=§7Любые пчелы
+for.gui.pipe.filter.cave=§7Пещерные
+for.gui.pipe.filter.closed=§7Закрыт
+for.gui.pipe.filter.drone=§7Трутни
+for.gui.pipe.filter.flyer=§7Летуны
+for.gui.pipe.filter.item=§7Предметы
+for.gui.pipe.filter.nocturnal=§7Ночные
+for.gui.pipe.filter.princess=§7Принцессы
+for.gui.pipe.filter.pure_breed=§7Чистопородные
+for.gui.pipe.filter.pure_cave=§7Породистые пещерные
+for.gui.pipe.filter.pure_flyer=§7Породистые летуны
+for.gui.pipe.filter.pure_nocturnal=§7Породистые ночные
+for.gui.pipe.filter.queen=§7Королевы

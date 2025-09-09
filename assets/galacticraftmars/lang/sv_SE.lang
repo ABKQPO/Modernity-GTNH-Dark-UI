@@ -1,0 +1,193 @@
+# Galacticraft Mars Language File =§7SWEDEN SWEDISH
+
+# GENERAL ITEMS
+item.rawDesh.name=§7Deshflis
+item.deshStick.name=§7Deshpinne
+item.ingotDesh.name=§7Deshtacka
+item.spaceshipTier2.t2Rocket.name=§7N2-raket
+item.reinforcedPlateT2.name=§7Förstärkt plåt
+item.tier2.desc=§7Nivå 2
+item.slimelingCargo.name=§7Last
+item.key.T2.name=§7Marsiansk skattkistnyckel
+item.compressedDesh.name=§7Deshplåt
+item.spaceshipTier2.cargoRocket.name=§7Fraktraket
+item.fluidManip.name=§7Flödeshanterare
+item.bucketSludge.name=§7Bakteriell sörjhink
+fluid.bacterialsludge=§7Bakteriell sörja
+
+# TOOLS
+item.deshPick.name=§7Deshhacka
+item.deshPickSlime.name=§7Klibbig deshhacka
+item.deshAxe.name=§7Deshyxa
+item.deshHoe.name=§7Deshflohacka
+item.deshSpade.name=§7Deshspade
+item.deshSword.name=§7Deshsvärd
+
+# ARMOR
+item.deshHelmet.name=§7Deshhjälm
+item.deshChestplate.name=§7Deshharnesk
+item.deshLeggings.name=§7Deshbyxor
+item.deshBoots.name=§7Deshstövlar
+
+# BLOCKS
+tile.mars.deshmars.name=§7Deshmalm
+tile.mars.coppermars.name=§7Kopparmalm
+tile.mars.tinmars.name=§7Tennmalm
+tile.mars.ironmars.name=§7Järnmalm
+tile.mars.marscobblestone.name=§7Marsiansk kullersten
+tile.mars.marsstone.name=§7Marsianskt djupberg
+tile.mars.marsdirt.name=§7Marianskt ytberg
+tile.mars.marsgrass.name=§7Marsianskt sedimentberg
+tile.mars.marsdeco.name=§7Deshblock
+tile.mars.marsdungeon.name=§7Marsianskt håletegel
+tile.treasureT2.name=§7Marsiansk skattkista
+tile.slimelingEgg.redEgg.name=§7Rött slemvarelseägg
+tile.slimelingEgg.blueEgg.name=§7Blått slemvarelseägg
+tile.slimelingEgg.yellowEgg.name=§7Gult slemvarelseägg
+tile.marsMachine.0.name=§7Terraformare
+tile.marsMachine.1.name=§7Kryogenisk kammare
+tile.marsMachine.2.name=§7Raketfjärrstyrare
+tile.marsMachine.4.name=§7Gaskyl
+tile.marsMachine.5.name=§7Metanframställare
+tile.marsMachine.6.name=§7Vattenelektrolys
+tile.hydrogenPipe.name=§7Väteledning
+tile.sludge.name=§7Bakteriell sörja
+tile.creeperEgg.name=§7Smygarägg
+tile.cavernVines.name=§7Grottnässlor
+
+# DECOBLOCKS
+tile.marsCobblestoneStairs.name=§7Marsstentrappa
+tile.wallGC.mars.name=§7Marsstenvägg
+tile.slabGCHalf.marsSlab.name=§7Marsstenplatta
+tile.marsDungeonBricksStairs.name=§7Marsiansk hålestentrappa
+tile.wallGC.marsBricks.name=§7Marsiansk hålevägg
+tile.slabGCHalf.marsBricksSlab.name=§7Marsiansk hålestenplatta
+
+# GUI
+gui.choosePlanet.desc.mars=§7Habitable#No Oxygen#Gravity: 38%
+item.deshPickSlime.description.name=§7Kan skörda smygarägg
+gui.message.noEnergy.name=§7Strömbrist
+gui.message.noWater.name=§7Vattenbrist
+gui.message.noBonemeal.name=§7Benmjöl saknas
+gui.message.noSeeds.name=§7Frön saknas
+gui.message.noSaplings.name=§7Träplantor saknas
+gui.message.bubbleExp.name=§7Bubbelexpansion
+gui.message.noValidBlocks.name=§7Saknar block att terraforma
+gui.message.terraforming.name=§7Terraformar
+gui.message.enableTrees.name=§7Träd: på
+gui.message.enableGrass.name=§7Gräs: på
+gui.message.trees.name=§7Träd
+gui.message.grass.name=§7Gräs
+gui.message.invalidFreq.name=§7Ogiltig frekvens
+gui.message.frequency.name=§7Frekvens
+gui.message.destFrequency.name=§7Målfrekvens
+gui.message.removePad.name=§7Ta bort ramp
+gui.message.launchWhen.name=§7Avfyra när
+gui.message.cargoUnloaded.name=§7Urlastad
+gui.message.cargoFull.name=§7Fullastad
+gui.message.fullyFueled.name=§7Fulltankad
+gui.message.instant.name=§7Omedelbart
+gui.message.tenSec.name=§710 sekunder
+gui.message.thirtySec.name=§730 sekunder
+gui.message.oneMin.name=§71 minut
+gui.message.redstoneSig.name=§7Rödstensignal
+gui.message.notSet.name=§7Ej inställd
+gui.message.notEnough.name=§7Saknar
+gui.message.success.name=§7Success
+gui.message.zeroWater.name=§7Vattenbrist!
+
+# Dollar sign ($) will split text onto a new line
+gui.launchController.desc.0=§7Fjärrstyrarens inställda frekvens
+gui.launchController.desc.1=§7Koordinatfrekvens raketen ska$avfyras till
+gui.launchController.desc.2=§7Om raketrampen ska tas$bortvid uppskjutning
+gui.launchController.desc.3=§7När detta vilkor uppnås$avfyras raketen
+gui.launchController.desc.4=§7Hide destination frequency$from other players ##NEEDS TRANSLATE##
+gui.terraformer.desc.0=§7Vattenkärl
+
+gui.gasTank.desc.0=§7Gaskärl
+gui.gasTankCompressed.desc.0=§7Gaskärl
+gui.liquidTank.desc.0=§7Liquid Tank
+gui.status.nogas.name=§7Ingen gas
+gui.status.liquefying.name=§7Kondenserar
+gui.status.processing.name=§7Framställer
+gui.status.needsCarbon.name=§7Kol saknas
+gui.status.tankfull.name=§7Tank full
+gui.status.tanksfull.name=§7Tankar fulla
+gui.message.lowEnergy.name=§7Strömbrist
+gui.button.liquefy.name=§7Starta
+gui.button.liquefyStop.name=§7Stäng av
+gui.gasInput.desc.0=§7Fack för gastank
+gui.gasInput.desc.1=§7eller atmosfärsventil
+gui.hydrogenInput.desc.0=§7Fack för vätgastank
+gui.hydrogenInput.desc.1=§7eller atmosfärsventil
+gui.liquidOutput.desc.2=§7kondenskärl
+gui.methaneOutput.desc.2=§7metankärl
+gui.message.withAtmosphere0.name=§7
+gui.message.withAtmosphere1.name=§7
+item.carbonFragments.name=§7Kolflis
+gui.carbonSlot.desc.0=§7Fack för kolflis
+gui.waterBucketSlot.desc=§7Fack för vattenhinkning
+
+gui.cargorocket.status.waiting.0=§7Inväntar
+gui.cargorocket.status.waiting.1=§7avfyrning
+gui.cargorocket.status.launched.0=§7Redan
+gui.cargorocket.status.launched.1=§7avfyrad
+
+gas.carbondioxide.name=§7Koldioxid
+gas.oxygen.name=§7Syre
+gas.nitrogen.name=§7Kväve
+
+gui.desc.reinforcedPlateT2.name=§7Nivå 2
+dimension.Mars.name=§7Mars
+planet.mars=§7Mars
+
+tile.treasureT2.description=§7Marsianska skattkistor förekommer i slutet på marshålor. Den tillhörande nyckeln vaktas av marshålans härskare.
+tile.cavernVines.description=§7Grottnässlor skjuter ut ett kraftfullt gift vid beröring. Offer som blivit insnärjda hängs uppochner.
+tile.slimelingEgg.description=§7När slemvarelseägg knäcks med spelarens bara händer kläcks det snart till ett husdjur.
+tile.cryoChamber.description=§7Den kryogeniska kammaren tillåter spelaren att sova närsomhelst på dygnet med något läkande effekt. Kräver återhämtningstid efter användning.
+tile.launchController.description=§7Raketfjärrstyraren kan ställas in med automatiska avfyrningsinstruktioner. T.ex. vilkor för avfyrning och målkoordinater.
+tile.terraformer.description=§7Terraformaren sprider grönska på avlägsna himlakroppar. Matas in med vatten, benmjöl, träplantor och frön.
+tile.creeperEgg.description=§7Smygarägg förekommer i marsianska hålor. Kläckningen sker explosionsartat.
+tile.gasLiquefier.description=§7Kondenserar gas utvunnen från atmosfären (kräver atmosfärsventil) eller en gasledning. Flytande metan är ett utmärkt raketbränsle!
+tile.methaneSynthesizer.description=§7Med en tillförsel på vätgas och kol tillverkar denna metangas för vidare bearbetning med gaskylen.
+tile.electrolyzer.description=§7Delar vattenmolekyler till vätgas (används för metanframställning) och syrgas.
+tile.hydrogenPipe.description=§7Vätgasledningar överför vätgas från en maskins lagringskärl till en annans.
+
+gui.slimeling.chat.wrongPlayer=§7Detta är inte min slemvarelse!
+gui.cryogenic.chat.cantUse=§7Kan inte användas förrän %d sekunder har gått!
+gui.slimeling.name=§7Namn
+gui.slimeling.owner=§7Ägare
+gui.slimeling.kills=§7Dräpta
+gui.slimeling.scale=§7Storlek
+gui.slimeling.button.sit=§7Sitt
+gui.slimeling.button.follow=§7Följ
+gui.slimeling.sitting=§7Sitter
+gui.slimeling.following=§7Följer
+gui.slimeling.damage=§7Attackskada
+gui.slimeling.food=§7Favoritmat
+
+# SCHEMATICS
+schematic.rocketT3.name=§7N3-raket
+schematic.cargoRocket.name=§7Automatisk fraktraket
+
+# ENTITIES
+entity.GalacticraftMars.CargoRocket.name=§7Fraktraket
+entity.GalacticraftMars.CreeperBoss.name=§7Marshålehärskare
+entity.GalacticraftMars.LandingBalloons.name=§7Landningskudde
+entity.GalacticraftMars.Slimeling.name=§7Slemvarelse
+entity.GalacticraftMars.Sludgeling.name=§7Sörjigel
+entity.GalacticraftMars.SpaceshipT2.name=§7N2-raket
+
+# CONTAINERS
+container.launchcontroller.name=§7Raketfjärrstyrare
+container.tileTerraformer.name=§7Terraformare
+container.marsLander.name=§7Landningskudde
+
+# CONFIG GUI
+gc.configgui.dimensionIDMars=§7Mars Dimension ID
+gc.configgui.idSchematicRocketT2=§7Tier 2 Rocket Schematic ID
+gc.configgui.idSchematicCargoRocket=§7Cargo Rocket Schematic ID
+gc.configgui.launchControllerChunkLoad=§7Launch Controller Chunkloading
+gc.configgui.launchControllerAllDims=§7Launch Controller All Dimensions
+
+gc.configgui.planets.title=§7Galacticraft Planets Config

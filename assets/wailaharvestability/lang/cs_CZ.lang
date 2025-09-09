@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7Krumpáč
+wailaharvestability.toolclass.shovel=§7Lopata
+wailaharvestability.toolclass.axe=§7Sekera
+wailaharvestability.toolclass.chisel=§7Dláto
+wailaharvestability.toolclass.scoop=§7Síťka
+wailaharvestability.toolclass.crowbar=§7Páčidlo
+wailaharvestability.toolclass.sword=§7Meč
+
+# tooltips
+wailaharvestability.effectivetool=§7Efektivní nástroj :
+wailaharvestability.harvestlevel=§7Úroveň získatelnosti :
+wailaharvestability.currentlyharvestable=§7Momentálně získatelné
+wailaharvestability.harvestable=§7Získatelné
+
+# options
+option.harvestability.harvestlevel=§7Úroveň získatelnosti
+option.harvestability.effectivetool=§7Efektivní nástroj
+option.harvestability.currentlyharvestable=§7Momentálně získatelné
+option.harvestability.oresonly=§7Pouze rudy
+option.harvestability.harvestlevel.sneakingonly=§7Pouze plížení: Úroveň získatelnosti
+option.harvestability.effectivetool.sneakingonly=§7Pouze plížení: Efektivní nástroj
+option.harvestability.currentlyharvestable.sneakingonly=§7Pouze plížení: Získatelné
+option.harvestability.minimal=§7Minimální mód
+option.harvestability.unharvestableonly=§7Pouze nezískatelné
+option.harvestability.toolrequiredonly=§7Pouze při potřebném nástroji
+option.harvestability.shearability=§7Ostříhatelnost
+option.harvestability.shearability.sneakingonly=§7Pouze plížení: Ostříhatelnost
+option.harvestability.silktouchability=§7Něžně dotknutelnost
+option.harvestability.silktouchability.sneakingonly=§7Pouze plížení: Něžně dotknutelnost

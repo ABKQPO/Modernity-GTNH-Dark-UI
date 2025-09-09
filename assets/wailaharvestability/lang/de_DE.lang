@@ -1,0 +1,30 @@
+# tools
+wailaharvestability.toolclass.pickaxe=§7Spitzhacke
+wailaharvestability.toolclass.shovel=§7Schaufel
+wailaharvestability.toolclass.axe=§7Axt
+wailaharvestability.toolclass.chisel=§7Meißel
+wailaharvestability.toolclass.scoop=§7Kescher
+wailaharvestability.toolclass.crowbar=§7Brecheisen
+wailaharvestability.toolclass.sword=§7Schwert
+
+# tooltips
+wailaharvestability.effectivetool=§7Effektives Werkzeug :
+wailaharvestability.harvestlevel=§7Abbau-Level :
+wailaharvestability.currentlyharvestable=§7Aktuell abbaubar
+wailaharvestability.harvestable=§7Abbaubar
+
+# options
+option.harvestability.harvestlevel=§7Abbau-Level
+option.harvestability.effectivetool=§7Effektives Werkzeug
+option.harvestability.currentlyharvestable=§7Aktuell abbaubar
+option.harvestability.oresonly=§7Nur Erze
+option.harvestability.harvestlevel.sneakingonly=§7Nur schleichend: Abbau-Level
+option.harvestability.effectivetool.sneakingonly=§7Nur schleichend: Effektives Werkzeug
+option.harvestability.currentlyharvestable.sneakingonly=§7Nur schleichend: Abbaubarkeit
+option.harvestability.minimal=§7Minimalmodus
+option.harvestability.unharvestableonly=§7Nur nicht erntbares
+option.harvestability.toolrequiredonly=§7Nur, wenn Werkzeug benötigt
+option.harvestability.shearability=§7Scherbarkeit
+option.harvestability.shearability.sneakingonly=§7Nur schleichend: Scherbarkeit
+option.harvestability.silktouchability=§7Behutsambarkeit
+option.harvestability.silktouchability.sneakingonly=§7Nur schleichend: Behutsambarkeit

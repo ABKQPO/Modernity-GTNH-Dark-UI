@@ -1,0 +1,25 @@
+betterloadingscreen.state.minecraft_init=§7Inicjalizacja Minecrafta
+betterloadingscreen.state.construction=§7Konstrukcja
+betterloadingscreen.state.pre_initialization=§7Wstępna Inicjalizacja
+betterloadingscreen.state.initialization=§7Inicjalizacja
+betterloadingscreen.state.post_initialization=§7Po Inicjalizacji
+betterloadingscreen.state.completed=§7Zakończono
+betterloadingscreen.state.reloading_resource_packs=§7Przeładowywanie Pakietów Zasobów
+betterloadingscreen.memory_usage=§7Użycie pamięci: %5d/%5d MB
+betterloadingscreen.loading=§7wczytywanie
+
+alexiillib.gui.contributors=§7Współtwórcy
+alexiillib.gui.commits=§7Historia zmian
+alexiillib.gui.connectExternallyDisabled=§7Połączenie zewnętrzne zostało wyłączone, aby lista współtwórców i dziennik zmian nie mogły zostać pobrane.
+
+alexiillib.config.title=§7Główny Plik Konfiguracyjny
+alexiillib.config.button=§7Edycja głównej konfiguracji
+alexiillib.config.tech.title=§7Drzewo technologiczne
+alexiillib.config.tech.button=§7Edycja drzewa technologicznego
+alexiillib.config.help=§7Pomocy, dlaczego to nie jest konfiguracja? I co oznaczają te wszystkie kolory?
+alexiillib.config.closeHelp=§7Zamknij Pomoc
+
+#This is a list, so adding "civcraft.gui.config.help3=§7..." is fine (and etc)
+alexiillib.gui.config.help.0=§7Dostęp do konfiguracji można uzyskać za pomocą przycisków w lewym górnym rogu (nie martw się, konfiguracje nadal tam są)
+alexiillib.gui.config.help.1=§7Po lewej stronie znajduje się lista wszystkich osób, które włożyły trochę czasu i wysiłku w ten mod
+alexiillib.gui.config.help.2=§7Po prawej stronie znajduje się lista zmian zmian tego moda, gdzie kolor złoty reprezentuje aktualnie używaną wersję, niebieski to początek nowego dziennika zmian, a zielony to czas, w którym zbudowany plik jar jest dostępny na CurseForge.

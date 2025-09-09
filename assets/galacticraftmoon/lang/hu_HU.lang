@@ -1,0 +1,30 @@
+# Galacticraft Moon Language File =§7MAGYAR
+
+# GENERAL ITEMS
+item.meteoricIronRaw.name=§7Meteori Vas
+item.compressedMeteoricIron.name=§7Préselt Meteori Vas
+item.meteoricIronIngot.name=§7Meteori Vasrúd
+
+# FOOD
+item.cheeseCurd.name=§7Sajtdarab
+item.cheeseBlock.name=§7Sajtkorong
+
+# TOOLS
+
+# ARMOR
+
+# BLOCKS
+tile.moonBlock.moonstone.name=§7Holdkő
+tile.moonBlock.moondirt.name=§7Holdsár
+tile.moonBlock.moongrass.name=§7Holdpor
+tile.moonBlock.tinmoon.name=§7Holdi Ónérc
+tile.moonBlock.coppermoon.name=§7Holdi Rézérc
+tile.moonBlock.cheesestone.name=§7Holdi Sajtérc
+tile.moonBlock.bricks.name=§7Holdi Dungeon-fal
+tile.cheeseBlock.name=§7Sajtkorong
+
+# GUI
+gui.choosePlanet.desc.moon=§7Lakható#Nincs légkör#Gravitáció: 18%
+container.lander.name=§7Lander ##NEEDS TRANSLATE##
+
+dimension.Moon.name=§7Hold

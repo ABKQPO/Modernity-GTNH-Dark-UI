@@ -1,0 +1,9 @@
+tile.enderchest|0.name=§7Truhlica z Konca
+tile.enderchest|1.name=§7Nádrž z Konca
+item.enderpouch.name=§7Vak z Konca
+enderstorage.serverop=§7Operátor
+
+enderstorage.command.usage=§7enderstorage <frekvencia>|(<farba> <farba> <farba>) [majiteľ]
+enderstorage.command.no_arguments=§7Nesprávny počet parametrov
+enderstorage.command.no_freq=§7Neplatná frekvencia
+enderstorage.command.no_colour=§7Neplatná farba: %s

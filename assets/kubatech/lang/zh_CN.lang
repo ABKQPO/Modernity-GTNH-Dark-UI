@@ -1,0 +1,92 @@
+#This file is a translation file for KubaTech
+
+#Commands
+kubatech.commandhandler.invalid=§7§c无效使用 ! 该指令的正确使用是 /%s
+kubatech.commandhandler.cant_find=§7§c找不到指令选项 %s
+kubatech.commandhandler.generic_help=§7§c你还可以用 "/kubatech help" 获取可能的指令
+kubatech.commandhandler.usage=§7<选项>
+kubatech.command.help.possible_commands=§7可能的指令：
+kubatech.command.help.usage=§7- 显示所有可能的指令
+kubatech.command.config.invalid_option=§7§c无效选项 ! 可能的选项：reload
+kubatech.command.config.success=§7§a配置(Config)重新加载成功 !
+kubatech.command.config.usage=§7<选项>
+
+#Items
+kubaitem.fromcollection=§7此物品来自
+kubaitem.notyours=§7那东西好像不是你的
+kubaitem.defc_schematic_t1.name=§7龙芯图纸
+kubaitem.defc_schematic_t1.tip=§7可在冥王星地牢找到相关图纸
+kubaitem.defc_schematic_t2.name=§7双足飞龙核心图纸
+kubaitem.defc_schematic_t3.name=§7觉醒核心图纸
+kubaitem.defc_schematic_t4.name=§7混沌核心图纸
+
+#Tea
+kubaitem.tea.black_tea.name=§7红茶
+kubaitem.tea.earl_gray_tea.name=§7格雷伯爵茶
+kubaitem.tea.green_tea.name=§7绿茶
+kubaitem.tea.lemon_tea.name=§7柠檬茶
+kubaitem.tea.milk_tea.name=§7奶茶
+kubaitem.tea.oolong_tea.name=§7乌龙茶
+kubaitem.tea.peppermint_tea.name=§7薄荷茶
+kubaitem.tea.pu-erh_tea.name=§7普洱茶
+kubaitem.tea.white_tea.name=§7白茶
+kubaitem.tea.yellow_tea.name=§7黄茶
+kubaitem.teaingredient.black_tea_leaf.name=§7红茶叶
+kubaitem.teaingredient.green_tea_leaf.name=§7绿茶叶
+kubaitem.teaingredient.oolong_tea_leaf.name=§7乌龙茶叶
+kubaitem.teaingredient.pu-erh_tea_leaf.name=§7普洱茶叶
+kubaitem.teaingredient.white_tea_leaf.name=§7白茶叶
+kubaitem.teaingredient.yellow_tea_leaf.name=§7黄茶叶
+kubaitem.teaingredient.tea_leaf_dehydrated.name=§7脱水茶叶
+kubaitem.teaingredient.steamed_tea_leaf.name=§7蒸制茶叶
+kubaitem.teaingredient.rolled_tea_leaf.name=§7揉制茶叶
+kubaitem.teaingredient.oxidized_tea_leaf.name=§7氧化茶叶
+kubaitem.teaingredient.fermented_tea_leaf.name=§7发酵茶叶
+kubaitem.teaingredient.bruised_tea_leaf.name=§7揉伤茶叶
+kubaitem.teaingredient.partially_oxidized_tea_leaf.name=§7部分氧化茶叶
+
+#Legendary Tea collection
+kubaitem.teacollection=§7传奇秘制茶系列
+kubaitem.teacollection.mmm=§7Mmmm茶
+kubaitem.teacollection.black_tea.name=§7§6§lKuba红茶
+kubaitem.teacollection.butterfly_tea.name=§7§1§lKuba蝶豆花茶
+kubaitem.teacollection.earl_gray_tea.name=§7§6§lKuba格雷伯爵茶
+kubaitem.teacollection.green_tea.name=§7§2§lKuba绿茶
+kubaitem.teacollection.lemon_tea.name=§7§e§lKuba柠檬茶
+kubaitem.teacollection.milk_tea.name=§7§f§lKuba奶茶
+kubaitem.teacollection.oolong_tea.name=§7§e§lKuba乌龙茶
+kubaitem.teacollection.peppermint_tea.name=§7§a§lKuba薄荷茶
+kubaitem.teacollection.pu-erh_tea.name=§7§4§lKuba普洱茶
+kubaitem.teacollection.red_tea.name=§7§c§lKuba洛神花茶
+kubaitem.teacollection.white_tea.name=§7§e§lKuba白茶
+kubaitem.teacollection.yellow_tea.name=§7§6§lKuba黄茶
+kubaitem.teacollection.ultimate_tea.name=§7§6§lKuba%s §6§l茶
+
+#Achievements
+achievement.teacollection.black_tea=§7§6§lKuba红茶
+achievement.teacollection.butterfly_tea=§7§1§lKuba蝶豆花茶
+achievement.teacollection.earl_gray_tea=§7§6§lKuba格雷伯爵茶
+achievement.teacollection.green_tea=§7§2§lKuba绿茶
+achievement.teacollection.lemon_tea=§7§e§lKuba柠檬茶
+achievement.teacollection.milk_tea=§7§f§lKuba奶茶
+achievement.teacollection.oolong_tea=§7§e§lKuba乌龙茶
+achievement.teacollection.peppermint_tea=§7§a§lKuba薄荷茶
+achievement.teacollection.pu-erh_tea=§7§4§lKuba普洱茶
+achievement.teacollection.red_tea=§7§c§lKuba洛神花茶
+achievement.teacollection.white_tea=§7§e§lKuba白茶
+achievement.teacollection.yellow_tea=§7§6§lKuba黄茶
+achievement.teacollection.ultimate_tea=§7§4§l§k??????
+
+achievement.teacollection.black_tea.desc=§7§6最常见也最受欢迎的茶
+achievement.teacollection.butterfly_tea.desc=§7§1甚至不是茶
+achievement.teacollection.earl_gray_tea.desc=§7§6为真正的英国人准备
+achievement.teacollection.green_tea.desc=§7§2万茶之源
+achievement.teacollection.lemon_tea.desc=§7§e带柠檬的红茶，你在期待什么？
+achievement.teacollection.milk_tea.desc=§7§f奶与红茶的结合，我的最爱
+achievement.teacollection.oolong_tea.desc=§7§e對於真正的鑑賞家
+achievement.teacollection.peppermint_tea.desc=§7§a可以养胃
+achievement.teacollection.pu-erh_tea.desc=§7§4助消化，味道也像泥土
+achievement.teacollection.red_tea.desc=§7§c为什么会有人喝这个？
+achievement.teacollection.white_tea.desc=§7§e最健康的一款
+achievement.teacollection.yellow_tea.desc=§7§6青草味更浓的绿茶
+achievement.teacollection.ultimate_tea.desc=§7§4§l一茶饮尽

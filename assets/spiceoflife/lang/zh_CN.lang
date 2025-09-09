@@ -1,0 +1,49 @@
+# Tooltip strings
+spiceoflife.tooltip.nutritional.value=§7营养价值:
+spiceoflife.tooltip.eaten.recently=§7之前食用的%2$d次食物中,它占了%1$s
+spiceoflife.tooltip.eaten.recently.hunger=§7之前补充的%2$d点饥饿度中,它占了%1$s
+spiceoflife.tooltip.eaten.recently.time=§7之前%2$d天内,它占了%1$s
+spiceoflife.tooltip.not.eaten.recently=§7最近未曾食用
+
+spiceoflife.tooltip.not.eaten.ever=§7从未食用! 味道如何?
+spiceoflife.tooltip.eaten.ever=§7食用过: 帮助提高生命上限
+spiceoflife.tooltip.eaten.cheap=§7食用过: 无明显效果
+
+spiceoflife.tooltip.food.until.enabled.1=§7食物恢复的饥饿值递减开始在
+spiceoflife.tooltip.food.until.enabled.2=§7食用任何食物超过 %d%s 之后
+spiceoflife.tooltip.times.singular=§7次
+spiceoflife.tooltip.times.plural=§7次
+spiceoflife.tooltip.hunger=§7饥饿度
+spiceoflife.tooltip.food.group=§7食物组:
+spiceoflife.tooltip.food.groups=§7食物组:
+spiceoflife.tooltip.to.close.food.container=§7潜行时使用以关闭
+spiceoflife.tooltip.to.open.food.container=§7潜行时使用以开启
+spiceoflife.tooltip.can.spill.food=§7打开时食物会从中涌出
+spiceoflife.tooltip.hold.key.for.details=§7按住%s获取详细信息
+
+# Quantity descriptors
+spiceoflife.quantity.one.time=§71次
+spiceoflife.quantity.two.times=§72次
+spiceoflife.quantity.x.times=§7%d次
+
+# Gui
+spiceoflife.gui.alltime.food.eaten=§7进食总次数
+spiceoflife.gui.no.food.history.yet=§7直到食物恢复的饥饿值开始递减时才能记录进食历史
+spiceoflife.gui.no.recent.food.eaten=§7最近没有进食
+spiceoflife.gui.time.elapsed.since.food.eaten=§7%s前食用过
+spiceoflife.gui.x.day=§7%s 天
+spiceoflife.gui.x.days=§7%s 天
+spiceoflife.gui.expires.in.time=§7%s 后递减效应将消失
+spiceoflife.gui.expires.in.food=§7食用任何食物超过 %s%s 后递减效应将消失
+spiceoflife.gui.expires.in.hunger=§7食用任何超过%s饥饿度的食物后递减效应将消失
+spiceoflife.gui.food.num=§7食物 #%d
+spiceoflife.gui.items.on.page=§7%d-%d 共计%d次食用
+spiceoflife.gui.food_history.title=§7关于我的食物
+spiceoflife.gui.food_history.worth_eaten=§7值得吃:
+spiceoflife.gui.food_history.bonus_hearts=§7奖励生命上限:
+spiceoflife.gui.food_history.next_heart=§7下一次奖励:
+
+# Items
+item.spiceoflife.bookfoodjournal.name=§7膳食记录
+item.spiceoflife.lunchbox.name=§7午餐盒
+item.spiceoflife.lunchbag.name=§7午餐袋

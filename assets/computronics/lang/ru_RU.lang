@@ -1,0 +1,149 @@
+tile.computronics.ironNoteBlock.name=§7Железный нотный блок
+tile.computronics.tapeDrive.name=§7Стример
+tile.computronics.camera.name=§7Камера
+tile.computronics.chatBox.name=§7Чатбокс
+tile.computronics.chatBox.creative.name=§7Творческий чатбокс
+tile.computronics.sorter.name=§7Сортировщик
+tile.computronics.cipher.name=§7Блок шифрования
+tile.computronics.cipher_advanced.name=§7Продвинутый блок шифрования
+tile.computronics.radar.name=§7Радар
+tile.computronics.colorfulLamp.name=§7Цветная лампа
+tile.computronics.locomotiveRelay.name=§7Цифровое локомотивное реле
+tile.computronics.digitalControllerBox.name=§7Цифровой контроллер сигнала
+tile.computronics.digitalReceiverBox.name=§7Цифровой приёмник сигнала
+tile.computronics.detector.name=§7Детектор - Цифровой
+tile.computronics.ticketMachine.name=§7Автомат для печати билетов
+tile.computronics.audiocable.name=§7Звуковой кабель
+tile.computronics.speaker.name=§7Громкоговоритель
+
+tooltip.computronics.chatBox.creative=§7АНБ в коробке!
+tooltip.computronics.cipher.advanced=§7Для Starchasers!
+tooltip.computronics.sensor.bound=§7Связан с [%1$s,%2$s,%3$s]
+tooltip.computronics.sensor.desc1=§7Shift-ПКМ по локомотивному реле,\nчтобы привязать к нему.
+tooltip.computronics.sensor.desc2=§7Shift-ЛКМ по электровозу,\nчтобы прикрепить к нему.
+tooltip.computronics.tape.length=§7Длина: %s минут
+tooltip.computronics.tape.balanced=§7Сбалансирована!
+tooltip.computronics.tape.unnamed=§7Безымянная лента
+tooltip.computronics.tape.none=§7Нет ленты
+tooltip.computronics.tape.ig=§7Обычный CDVR для\nмежгалактических кораблей GregTech.
+tooltip.computronics.ticket.print=§7Распечатать билет
+tooltip.computronics.ticket.printLocked=§7§cРучная печать отключена
+tooltip.computronics.ticket.locked=§7Данное устройство заблокировано\n {owner}.\n Только владелец или оператор\n может его разблокировать.
+tooltip.computronics.ticket.notmaintenance=§7Shift-ПКМ\n по устройству \nпустой рукой,\n чтобы разблокировать.
+tooltip.computronics.ticket.notowner=§7Вы не владелец\n этого устройства.\n Владелец:\n {owner}.
+tooltip.computronics.ticket.unlocked=§7Кликните для блокировки устройства.\n После блокировки, только вы\n и Op\n сможете разблокировать его.
+
+tooltip.computronics.gate.action.computer_start=§7Запустить компьютер
+tooltip.computronics.gate.action.computer_stop=§7Выключить компьютер
+tooltip.computronics.gate.action.tape_drive_start=§7Запустить стример
+tooltip.computronics.gate.action.tape_drive_stop=§7Выключить стример
+tooltip.computronics.gate.action.tape_drive_rewind=§7Перемотать стример назад
+tooltip.computronics.gate.action.tape_drive_forward=§7Перемотать стример вперёд
+tooltip.computronics.gate.action.lamp_color_set=§7Установить цвет светильника
+tooltip.computronics.gate.action.lamp_color_reset=§7Сбросить цвет светильника
+tooltip.computronics.gate.action.lamp_color.red=§7Красный: %s
+tooltip.computronics.gate.action.lamp_color.green=§7Зелёный: %s
+tooltip.computronics.gate.action.lamp_color.blue=§7Синий: %s
+
+tooltip.computronics.gate.trigger.computer_running=§7Компьютер работает
+tooltip.computronics.gate.trigger.computer_stopped=§7Компьютер выключен
+tooltip.computronics.gate.trigger.tape_drive_playing=§7Стример проигрывается
+tooltip.computronics.gate.trigger.tape_drive_stopped=§7Стример остановлен
+tooltip.computronics.gate.trigger.tape_drive_rewinding=§7Стример перематывается назад
+tooltip.computronics.gate.trigger.tape_drive_forwarding=§7Стример перематывается вперёд
+
+tooltip.computronics.waila.base.bus=§7§aID шины§f: %s
+tooltip.computronics.waila.relay.bound=§7Привязано
+tooltip.computronics.waila.relay.notbound=§7Не привязано
+tooltip.computronics.waila.lamp.red=§7Красный: %s
+tooltip.computronics.waila.lamp.green=§7Зелёный: %s
+tooltip.computronics.waila.lamp.blue=§7Синий: %s
+
+tooltip.computronics.tape.tapeinserted=§7Лента вставлена
+tooltip.computronics.tape.labeltapeinserted=§7Лента "%s" вставлена
+tooltip.computronics.tape.notapeinserted=§7Лента не вставлена
+tooltip.computronics.tape.state=§7Состояние: %s
+tooltip.computronics.tape.state.stopped=§7Остановлено
+tooltip.computronics.tape.state.playing=§7Проигрывается
+tooltip.computronics.tape.state.rewinding=§7Перематывается назад
+tooltip.computronics.tape.state.forwarding=§7Перематывается вперёд
+
+tooltip.computronics.manual.oc.tab.blocks=§7Computronics: Блоки
+tooltip.computronics.manual.oc.tab.items=§7Computronics: Предметы
+
+tooltip.computronics.manual.tis3d.tab.items=§7Computronics: Предметы
+tooltip.computronics.manual.tis3d.port.flamingo=§7Розовый фламинго
+
+option.computronics.enableOCAddress=§7Адрес компонента
+option.computronics.enableTape=§7Вставленная лента
+option.computronics.enableTapeName=§7Название ленты
+option.computronics.enableDriveState=§7Состояние стримера
+option.computronics.enableRelayBound=§7Привязка реле
+option.computronics.enableLampColor=§7Цвет лампы
+
+item.computronics.reelChromoxide.name=§7Катушечная лента из диоксида хрома
+item.computronics.drone_upgrade_docking.name=§7Улучшение: стыковка
+item.computronics.dockingStation.name=§7Стыковочная станция дронов
+item.computronics.robot_upgrade_camera.name=§7Улучшение: камера
+item.computronics.robot_upgrade_chatbox.name=§7Улучшение: чат
+item.computronics.robot_upgrade_radar.name=§7Улучшение: радар
+item.computronics.card_beep.name=§7Гудящая карта
+item.computronics.card_noise.name=§7Шумящая карта
+item.computronics.card_fx.name=§7Карта эффектов частиц
+item.computronics.card_spoof.name=§7Имитирующая карта
+item.computronics.card_spoof.tip=§7Работает как сетевая карта, но позволяет указать адрес отправителя.
+item.computronics.card_boom.name=§7Карта самоуничтожения
+item.computronics.card_boom.tip=§7Эта штука нужна любому нормальному жителю.
+item.computronics.robot_upgrade_colorful.name=§7Разноцветное улучшение
+item.computronics.robot_upgrade_colorful.tip=§7Сделайте своих роботов разноцветнее!
+item.computronics.for.combAcid.name=§7Каустическая сота
+item.computronics.for.dropAcid.name=§7Каустическая капля
+item.computronics.relaySensor.name=§7Цифровой датчик реле
+item.computronics.part_tape_track.name=§7Направляющая лента
+item.computronics.tape.ig.name=§7Межгалактический CDVR
+item.computronics.tape.name=§7Ленточная кассета
+item.computronics.module_colorful.name=§7Разноцветный модуль
+item.computronics.module_tape_reader.name=§7Модуль считывания кассет
+item.computronics.module_boom.name=§7Модуль самоуничтожения
+
+itemGroup.tabComputronics=§7Computronics
+
+entity.computronics.itemTape.name=§7Межгалактический CDVR
+entity.computronics.swarm.name=§7Пчелиный рой
+
+death.attack.computronics.sting.1=§7%1$s понял, почему некоторые люди боятся пчёл.
+death.attack.computronics.sting.2=§7<%1$s> §oНет! Только не пчёлы! ТОЛЬКО НЕ ПЧЁЛЫ! ААААААААА!
+death.attack.computronics.sting.3=§7%1$s не смог выдержать жалящих игр слов пчелиного роя.
+death.attack.computronics.sting.4=§7%1$s забыл свой epipen.
+death.attack.computronics.sting.5=§7%1$s стал жертвой заговора. С пчёлами.
+death.attack.computronics.sting.self=§7%1$s пал жертвой пчедательства.
+
+computronics.flowers.sea=§7Морские
+computronics.bees.species.scummy=§7Пенистая
+computronics.bees.species.scummy.description=§7Керосин, пропиленгликоль, искусственные подсластители, серная кислота, ром, ацетон, красный краситель #2, накипь, лубрикант, аккумуляторная кислота и/или пепперони|Странные люди в баре
+
+chat.computronics.cipher.locked=§7Этот блок шифрования заблокирован! Вы не можете получить доступ к нему.
+chat.computronics.colorful_upgrade.color=§7§6Цвет:§f: %s
+chat.computronics.lamp.binary.on=§7Режим RedNet: двоичный
+chat.computronics.lamp.binary.off=§7Режим RedNet: обычный
+chat.computronics.relay.notBound=§7Реле не привязано ни к одному локомотиву!
+chat.computronics.relay.unbound=§7Реле успешно отвязано от локомотива!
+chat.computronics.sensor.bound=§7Реле успешно привязано к локомотиву!
+chat.computronics.sensor.noRelay=§7Реле, по указанным координатам, не обнаружено!
+chat.computronics.sensor.noRelayDetected=§7Не удалось найти реле по заданным координатам!
+chat.computronics.sensor.tooFarAway=§7Реле и локомотив слишком далеко друг от друга!
+chat.computronics.sensor.wrongLoco=§7Датчик может быть прикреплён только к электровозам!
+chat.computronics.sensor.wrongDim=§7Реле и локомотив в разных измерениях!
+
+achievement.computronics.gotTape=§7Музыка для каждого
+achievement.computronics.gotTape.desc=§7Конечно же лучше, чем клейкая лента
+achievement.computronics.gotStarTape=§7По радуге
+achievement.computronics.gotStarTape.desc=§7Где живёт Nyan Cat
+achievement.computronics.gotIGTape=§7Первая часть вашего корабля
+achievement.computronics.gotIGTape.desc=§7Не того, который вы можете построить
+achievement.computronics.droppedIGTape=§7MH370
+achievement.computronics.droppedIGTape.desc=§7Оно исчезло!?
+achievement.computronics.gotLoco=§7Электрическая революция
+achievement.computronics.gotLoco.desc=§7Итак, начинается.
+achievement.computronics.gotRelay=§7Цифровая революция
+achievement.computronics.gotRelay.desc=§70100100001000101010011000101000000100001
