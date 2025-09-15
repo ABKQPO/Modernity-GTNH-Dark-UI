@@ -1,4 +1,0 @@
-malisiscore.commands.usage=§7Используйте /malisis <config|version> [id мода] для отображения текущей версии или интерфейса конфигурации модификации.
-malisiscore.commands.modversion=§7Текущая версия для %s : %s.
-malisiscore.commands.modnotfound=§7Модификация с id %s не найден.
-malisiscore.commands.noconfiguration=§7Конфигурация для %s не доступна.

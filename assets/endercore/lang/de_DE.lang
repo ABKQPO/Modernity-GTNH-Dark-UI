@@ -1,7 +1,0 @@
-endercore.tooltip.oreDictNames=§7OreDictionary-Namen:
-endercore.tooltip.showDetails=§7<Halte Shift>
-endercore.tooltip.durability=§7Haltbarkeit:
-
-endercore.command.config.result.success=§7Config-Reload für %s war erfolgreich
-endercore.command.config.result.fail=§7Config-Reload für %s fehlgeschlagen
-endercore.command.config.result.invalid=§7ModID %s ist ungültig

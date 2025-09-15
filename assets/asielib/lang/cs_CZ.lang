@@ -1,8 +1,0 @@
-commands.realname.usage=§7/realname <uživatelské jméno>
-commands.realname.is=§7Pravé jméno tohoto člověka je %s
-commands.realname.isNot=§7Tento člověk nemá pravé jméno!
-commands.me.usage=§7/me <...>
-commands.nick.usage=§7/nick <uživatelské jméno>
-commands.nick.usage.op=§7/nick [cíl] <uživatelské jméno>
-commands.nick.done=§7Uživatelské jméno změněno!
-item.asielib.unknown.name=§7Neznámá část

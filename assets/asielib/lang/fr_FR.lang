@@ -1,8 +1,0 @@
-commands.realname.usage=§7/realname <surnom>
-commands.realname.is=§7Le vrai nom de cette personne est %s
-commands.realname.isNot=§7Cette personne n'a pas de vrai nom!
-commands.me.usage=§7/me <...>
-commands.nick.usage=§7/nick <surnom>
-commands.nick.usage.op=§7/nick [cible] <surnom>
-commands.nick.done=§7Surnom Changé!
-item.asielib.unknown.name=§7Morceau Inconnu

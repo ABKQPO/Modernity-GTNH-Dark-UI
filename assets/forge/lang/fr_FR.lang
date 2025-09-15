@@ -1,5 +1,0 @@
-﻿commands.forge.usage=§7Utilisez /forge <sous-commande>. Les sous-commandes sont tps, track
-commands.forge.usage.tracking=§7Utilisez /forge track <type> <durée>. Les types valides sont te (Tile Entities). La durée doit être inférieur à 60.
-commands.forge.tps.summary=§7%s : Duré de tick : %d ms. TPS moyen : %d
-
-commands.forge.tracking.te.enabled=§7Trackage des Tile Entity activé pour %d secondes.

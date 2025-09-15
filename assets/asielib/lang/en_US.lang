@@ -1,8 +1,0 @@
-commands.realname.usage=§7/realname <nickname>
-commands.realname.is=§7The real name of this person is %s
-commands.realname.isNot=§7This person has no real name!
-commands.me.usage=§7/me <...>
-commands.nick.usage=§7/nick <nickname> ('-' to remove a nickname)
-commands.nick.usage.op=§7/nick [target] <nickname> ('-' to remove a nickname)
-commands.nick.done=§7Nickname changed to %s
-item.asielib.unknown.name=§7Unknown Part

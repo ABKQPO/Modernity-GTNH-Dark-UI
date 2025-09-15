@@ -1,9 +1,0 @@
-tile.enderchest|0.name=§7終界箱子
-tile.enderchest|1.name=§7終界蓄水槽
-item.enderpouch.name=§7終界袋
-enderstorage.serverop=§7管理員
-
-enderstorage.command.usage=§7enderstorage <freq>|(<colour> <colour> <colour>) [owner]
-enderstorage.command.no_arguments=§7參數數量不正確
-enderstorage.command.no_freq=§7freq參數不正確
-enderstorage.command.no_colour=§7color參數不正確：%s

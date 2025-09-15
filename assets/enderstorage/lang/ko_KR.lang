@@ -1,9 +1,0 @@
-tile.enderchest|0.name=§7엔더 체스트
-tile.enderchest|1.name=§7엔더 탱크
-item.enderpouch.name=§7엔더 파우치
-enderstorage.serverop=§7오퍼레이터
-
-enderstorage.command.usage=§7enderstorage <freq>|(<colour> <colour> <colour>) [owner]
-enderstorage.command.no_arguments=§7잘못된 개수의 인수
-enderstorage.command.no_freq=§7잘못된 주파수
-enderstorage.command.no_colour=§7잘못된 색깔: %s

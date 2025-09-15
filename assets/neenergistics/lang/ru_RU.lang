@@ -1,8 +1,0 @@
-neenergistics.gui.tooltip.crafting.preview=§7Запоросить отсутсвующие предметы
-neenergistics.gui.tooltip.crafting.nopreview=§7Запоросить отсутсвующие предметы (без превью)
-
-nei.options.keys.nee=§7NotEnoughEnergistics
-nei.options.keys.nee.count=§7Изменить кол-во
-nei.options.keys.nee.ingredient=§7Выбрать ингредиент
-nei.options.keys.nee.preview=§7Помощь по крафту
-nei.options.keys.nee.nopreview=§7Помощь по крафту(без превью)

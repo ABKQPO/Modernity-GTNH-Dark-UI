@@ -1,9 +1,0 @@
-tile.translocator|0.name=§7아이템 전위장치
-tile.translocator|1.name=§7액체 전위장치
-tile.craftingGrid.name=§7크래프팅 그리드
-item.translocator:diamondNugget.name=§7다이아몬드 조각
-
-translocator.regulate=§7제한
-translocator.filter=§7필터
-
-key.craftingGrid=§7크래프팅 그리드

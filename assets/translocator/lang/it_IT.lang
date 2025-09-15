@@ -1,9 +1,0 @@
-tile.translocator|0.name=§7Translocatore di oggetti
-tile.translocator|1.name=§7Translocatore di liquidi
-tile.craftingGrid.name=§7Griglia di fabbricazione
-item.translocator:diamondNugget.name=§7Pepita di diamante
-
-translocator.regulate=§7Regolatore
-translocator.filter=§7Filtro
-
-key.craftingGrid=§7Griglia di fabbricazione

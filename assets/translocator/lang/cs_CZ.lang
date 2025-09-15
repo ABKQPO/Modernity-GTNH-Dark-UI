@@ -1,9 +1,0 @@
-tile.translocator|0.name=§7Přemisťovač předmětů
-tile.translocator|1.name=§7Přemisťovač tekutin
-tile.craftingGrid.name=§7Výrobní rámeček
-item.translocator:diamondNugget.name=§7Diamantová hrudka
-
-translocator.regulate=§7Relugovat
-translocator.filter=§7Filtr
-
-key.craftingGrid=§7Výrobní rámeček

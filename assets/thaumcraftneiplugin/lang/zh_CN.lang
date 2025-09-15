@@ -1,6 +1,0 @@
-recipe.type.arcaneworkbenchshaped=§7有序奥术合成
-recipe.type.arcaneworkbenchshapeless=§7无序奥术合成
-item.itemaspect.aspectprefix=§7要素
-recipe.aspects.containing=§7包含要素的物品
-recipe.aspects.component=§7构成
-recipe.aspects.usedin=§7用于

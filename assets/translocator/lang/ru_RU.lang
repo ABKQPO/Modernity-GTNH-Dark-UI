@@ -1,9 +1,0 @@
-tile.translocator|0.name=§7Предметный транслокатор
-tile.translocator|1.name=§7Жидкостный транслокатор
-tile.craftingGrid.name=§7Сетка создания
-item.translocator:diamondNugget.name=§7Алмазный самородок
-
-translocator.regulate=§7Регулирование
-translocator.filter=§7Фильтр
-
-key.craftingGrid=§7Сетка создания
