@@ -1,0 +1,68 @@
+name: Auto Weekly Build UI
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    env:
+      INCLUDE_PATHS: |
+        assets/
+        pack.mcmeta
+        pack.png
+        README.md
+
+      TARGET_BRANCHES: "main"
+      ZIP_NAME_main: "Modernity-GTNH-Dark-UI-{DATE}.zip"
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get build date
+        run: |
+          echo "BUILD_DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Build all branches
+        run: |
+          for BRANCH in $TARGET_BRANCHES; do
+            git checkout $BRANCH
+            VAR_NAME="ZIP_NAME_${BRANCH//-/_}"
+            ZIP_TEMPLATE="${!VAR_NAME}"
+
+            ZIP_NAME="${ZIP_TEMPLATE//\{DATE\}/$BUILD_DATE}"
+
+            rm -rf zip-root
+            mkdir zip-root
+            for path in $INCLUDE_PATHS; do
+              if [ -e "$path" ]; then
+                cp -r --parents "$path" zip-root/
+              fi
+            done
+            cd zip-root
+            zip -r "../$ZIP_NAME" ./
+            cd ..
+          done
+        shell: bash
+        env:
+          INCLUDE_PATHS: ${{ env.INCLUDE_PATHS }}
+          BUILD_DATE: ${{ env.BUILD_DATE }}
+          ZIP_NAME_main: ${{ env.ZIP_NAME_main }}
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Weekly Build ${{ env.BUILD_DATE }}
+          tag_name: weekly-${{ env.BUILD_DATE }}
+          prerelease: false
+          make_latest: true
+          files: |
+            *.zip
